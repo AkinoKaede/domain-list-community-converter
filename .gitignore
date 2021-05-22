@@ -1,0 +1,14 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Data and generated rule sets
+data
+domain-list-community
+generated
+
+*.DS_Store
+dlc2surge
