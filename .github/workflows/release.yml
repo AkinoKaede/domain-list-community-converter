@@ -46,11 +46,11 @@ jobs:
             return `update: generate at ${time}`;
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: release
-          publish_dir: ./generated
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          full_commit_message: ${{ steps.message.outputs.result }}
+          branch: release
+          clean: true
+          commit-message: ${{ steps.message.outputs.result }}
+          folder: generated
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
