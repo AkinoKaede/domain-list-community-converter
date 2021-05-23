@@ -46,7 +46,7 @@ func (l *ParsedList) toSurge() (SurgeRuleSets, error) {
 		case "domain":
 			rule = "DOMAIN-SUFFIX," + entry.Value
 		case "regexp":
-			log.Printf("Surge is not support regexp now: %s in %s\n", entry.Value, l.Name)
+			log.Printf("Surge is not support regexp: %s in %s\n", entry.Value, l.Name)
 			continue
 		case "keyword":
 			rule = "DOMAIN-KEYWORD," + entry.Value
