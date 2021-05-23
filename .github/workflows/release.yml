@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout codebase
         uses: actions/checkout@v2
 
-      - name: Checkout domain-list-community
+      - name: Checkout v2fly/domain-list-community
         uses: actions/checkout@v2
         with: 
           repository: v2fly/domain-list-community
