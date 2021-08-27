@@ -33,12 +33,6 @@ jobs:
       - name: Generate
         run: go run main.go -datapath domain-list-community/data/ -outputdir generated
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: surge-rule-sets
-          path: generated/*
-
       - name: Get Commit Message
         id: message
         uses: actions/github-script@v4.1
