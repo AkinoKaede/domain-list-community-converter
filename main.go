@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/v2fly/v2ray-core/v4/app/router"
+	"github.com/v2fly/v2ray-core/v5/app/router/routercommon"
 )
 
 var (
@@ -22,7 +22,7 @@ var (
 type Entry struct {
 	Type  string
 	Value string
-	Attrs []*router.Domain_Attribute
+	Attrs []*routercommon.Domain_Attribute
 }
 
 type List struct {
@@ -60,7 +60,7 @@ func (l *ParsedList) toSurge() (SurgeRuleSets, error) {
 	return ruleSets, nil
 }
 
-func (r *SurgeRuleSets) Add(code, rule string, attrs []*router.Domain_Attribute) {
+func (r *SurgeRuleSets) Add(code, rule string, attrs []*routercommon.Domain_Attribute) {
 	(*r)[code] = append((*r)[code], rule)
 	for _, attr := range attrs {
 		(*r)[code+"@"+attr.Key] = append((*r)[code+"@"+attr.Key], rule)
@@ -92,8 +92,8 @@ func parseDomain(domain string, entry *Entry) error {
 	return errors.New("Invalid format: " + domain)
 }
 
-func parseAttribute(attr string) (*router.Domain_Attribute, error) {
-	var attribute router.Domain_Attribute
+func parseAttribute(attr string) (*routercommon.Domain_Attribute, error) {
+	var attribute routercommon.Domain_Attribute
 	if len(attr) == 0 || attr[0] != '@' {
 		return &attribute, errors.New("invalid attribute: " + attr)
 	}
@@ -103,14 +103,14 @@ func parseAttribute(attr string) (*router.Domain_Attribute, error) {
 	parts := strings.Split(attr, "=")
 	if len(parts) == 1 {
 		attribute.Key = strings.ToLower(parts[0])
-		attribute.TypedValue = &router.Domain_Attribute_BoolValue{BoolValue: true}
+		attribute.TypedValue = &routercommon.Domain_Attribute_BoolValue{BoolValue: true}
 	} else {
 		attribute.Key = strings.ToLower(parts[0])
 		intv, err := strconv.Atoi(parts[1])
 		if err != nil {
 			return &attribute, errors.New("invalid attribute: " + attr + ": " + err.Error())
 		}
-		attribute.TypedValue = &router.Domain_Attribute_IntValue{IntValue: int64(intv)}
+		attribute.TypedValue = &routercommon.Domain_Attribute_IntValue{IntValue: int64(intv)}
 	}
 	return &attribute, nil
 }
@@ -166,7 +166,7 @@ func Load(path string) (*List, error) {
 	return list, nil
 }
 
-func isMatchAttr(Attrs []*router.Domain_Attribute, includeKey string) bool {
+func isMatchAttr(Attrs []*routercommon.Domain_Attribute, includeKey string) bool {
 	isMatch := false
 	mustMatch := true
 	matchName := includeKey
@@ -193,7 +193,7 @@ func isMatchAttr(Attrs []*router.Domain_Attribute, includeKey string) bool {
 	return isMatch
 }
 
-func createIncludeAttrEntrys(list *List, matchAttr *router.Domain_Attribute) []Entry {
+func createIncludeAttrEntrys(list *List, matchAttr *routercommon.Domain_Attribute) []Entry {
 	newEntryList := make([]Entry, 0, len(list.Entry))
 	matchName := matchAttr.Key
 	for _, entry := range list.Entry {
