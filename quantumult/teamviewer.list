@@ -1,0 +1,5 @@
+HOST-SUFFIX,teamviewer.cn,teamviewer
+HOST-SUFFIX,teamviewer.com,teamviewer
+HOST-SUFFIX,teamviewer.us,teamviewer
+HOST,client-teamviewer-com.trafficmanager.net,teamviewer
+HOST,teamviewer.com.cdn.cloudflare.net,teamviewer

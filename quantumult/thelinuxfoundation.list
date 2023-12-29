@@ -1,0 +1,17 @@
+HOST-SUFFIX,kernel.org,thelinuxfoundation
+HOST-SUFFIX,linux.org,thelinuxfoundation
+HOST-SUFFIX,amp.dev,thelinuxfoundation
+HOST-SUFFIX,ampproject.com,thelinuxfoundation
+HOST-SUFFIX,ampproject.net,thelinuxfoundation
+HOST-SUFFIX,ampproject.org,thelinuxfoundation
+HOST,cdn.ampproject.org,thelinuxfoundation
+HOST,amp.akamaized.net,thelinuxfoundation
+HOST-SUFFIX,electronjs.org,thelinuxfoundation
+HOST-SUFFIX,jquery.com,thelinuxfoundation
+HOST-SUFFIX,jquerymobile.com,thelinuxfoundation
+HOST-SUFFIX,jqueryui.com,thelinuxfoundation
+HOST-SUFFIX,mochajs.org,thelinuxfoundation
+HOST-SUFFIX,nodejs.org,thelinuxfoundation
+HOST-SUFFIX,openjsf.org,thelinuxfoundation
+HOST-SUFFIX,lfai.foundation,thelinuxfoundation
+HOST-SUFFIX,linuxfoundation.org,thelinuxfoundation

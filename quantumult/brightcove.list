@@ -1,0 +1,14 @@
+HOST-SUFFIX,bcove.video,brightcove
+HOST-SUFFIX,bcovlive.io,brightcove
+HOST-SUFFIX,bcvp0rtal.com,brightcove
+HOST-SUFFIX,boltdns.net,brightcove
+HOST-SUFFIX,brightcove.com,brightcove
+HOST-SUFFIX,brightcove.net,brightcove
+HOST-SUFFIX,brightcove.services,brightcove
+HOST-SUFFIX,brightcovecdn.com,brightcove
+HOST-SUFFIX,videojs.com,brightcove
+HOST-SUFFIX,zencdn.net,brightcove
+HOST-SUFFIX,zencoder.com,brightcove
+HOST,bcovlive-a.akamaihd.net,brightcove
+HOST,bcsecure01-a.akamaihd.net,brightcove
+HOST,brightcove.imgix.net,brightcove

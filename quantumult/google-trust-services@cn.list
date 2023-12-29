@@ -1,0 +1,3 @@
+HOST,crl.pki.goog,google-trust-services@cn
+HOST,ocsp.pki.goog,google-trust-services@cn
+HOST,pki-goog.l.google.com,google-trust-services@cn
