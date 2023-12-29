@@ -1,7 +1,7 @@
-HOST-SUFFIX,libgen.life,libgen
-HOST-SUFFIX,libgen.fun,libgen
-HOST-SUFFIX,gen.lib.rus.ec,libgen
-HOST-SUFFIX,libgen.is,libgen
-HOST-SUFFIX,libgen.me,libgen
-HOST-SUFFIX,libgen.rs,libgen
-HOST-SUFFIX,libgen.st,libgen
+HOST-SUFFIX,libgen.life,LIBGEN
+HOST-SUFFIX,libgen.fun,LIBGEN
+HOST-SUFFIX,gen.lib.rus.ec,LIBGEN
+HOST-SUFFIX,libgen.is,LIBGEN
+HOST-SUFFIX,libgen.me,LIBGEN
+HOST-SUFFIX,libgen.rs,LIBGEN
+HOST-SUFFIX,libgen.st,LIBGEN

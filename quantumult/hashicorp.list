@@ -1,8 +1,8 @@
-HOST-SUFFIX,consul.io,hashicorp
-HOST-SUFFIX,hashicorp.com,hashicorp
-HOST-SUFFIX,nomadproject.io,hashicorp
-HOST-SUFFIX,packer.io,hashicorp
-HOST-SUFFIX,terraform.io,hashicorp
-HOST-SUFFIX,vagrantcloud.com,hashicorp
-HOST-SUFFIX,vagrantup.com,hashicorp
-HOST-SUFFIX,vaultproject.io,hashicorp
+HOST-SUFFIX,consul.io,HASHICORP
+HOST-SUFFIX,hashicorp.com,HASHICORP
+HOST-SUFFIX,nomadproject.io,HASHICORP
+HOST-SUFFIX,packer.io,HASHICORP
+HOST-SUFFIX,terraform.io,HASHICORP
+HOST-SUFFIX,vagrantcloud.com,HASHICORP
+HOST-SUFFIX,vagrantup.com,HASHICORP
+HOST-SUFFIX,vaultproject.io,HASHICORP

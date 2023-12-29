@@ -1,4 +1,4 @@
-HOST-SUFFIX,jfrog.com,jfrog
-HOST-SUFFIX,jfrog.org,jfrog
-HOST-SUFFIX,bintray.com,jfrog
-HOST,d29vzk4ow07wi7.cloudfront.net,jfrog
+HOST-SUFFIX,jfrog.com,JFROG
+HOST-SUFFIX,jfrog.org,JFROG
+HOST-SUFFIX,bintray.com,JFROG
+HOST,d29vzk4ow07wi7.cloudfront.net,JFROG

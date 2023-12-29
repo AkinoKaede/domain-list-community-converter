@@ -1,6 +1,6 @@
-HOST-SUFFIX,oreil.ly,oreilly
-HOST-SUFFIX,oreilly.com,oreilly
-HOST-SUFFIX,oreilly.com.cn,oreilly
-HOST-SUFFIX,oreilly.review,oreilly
-HOST-SUFFIX,oreillystatic.com,oreilly
-HOST-SUFFIX,orl.ly,oreilly
+HOST-SUFFIX,oreil.ly,OREILLY
+HOST-SUFFIX,oreilly.com,OREILLY
+HOST-SUFFIX,oreilly.com.cn,OREILLY
+HOST-SUFFIX,oreilly.review,OREILLY
+HOST-SUFFIX,oreillystatic.com,OREILLY
+HOST-SUFFIX,orl.ly,OREILLY

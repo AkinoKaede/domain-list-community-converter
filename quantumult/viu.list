@@ -1,6 +1,6 @@
-HOST-SUFFIX,viu.tv,viu
-HOST,api.viu.now.com,viu
-HOST-SUFFIX,viu.com,viu
-HOST,dfp6rglgjqszk.cloudfront.net,viu
-HOST,d1k2us671qcoau.cloudfront.net,viu
-HOST,d2anahhhmp1ffz.cloudfront.net,viu
+HOST-SUFFIX,viu.tv,VIU
+HOST,api.viu.now.com,VIU
+HOST-SUFFIX,viu.com,VIU
+HOST,dfp6rglgjqszk.cloudfront.net,VIU
+HOST,d1k2us671qcoau.cloudfront.net,VIU
+HOST,d2anahhhmp1ffz.cloudfront.net,VIU

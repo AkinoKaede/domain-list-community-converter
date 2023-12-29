@@ -1,7 +1,7 @@
-HOST-SUFFIX,blogjava.net,cnblogs
-HOST-SUFFIX,cnblogs.com,cnblogs
-HOST-SUFFIX,cnitblog.com,cnblogs
-HOST-SUFFIX,cnweblog.com,cnblogs
-HOST-SUFFIX,cppblog.com,cnblogs
-HOST-SUFFIX,phpweblog.net,cnblogs
-HOST-SUFFIX,teachblog.net,cnblogs
+HOST-SUFFIX,blogjava.net,CNBLOGS
+HOST-SUFFIX,cnblogs.com,CNBLOGS
+HOST-SUFFIX,cnitblog.com,CNBLOGS
+HOST-SUFFIX,cnweblog.com,CNBLOGS
+HOST-SUFFIX,cppblog.com,CNBLOGS
+HOST-SUFFIX,phpweblog.net,CNBLOGS
+HOST-SUFFIX,teachblog.net,CNBLOGS

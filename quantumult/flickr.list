@@ -1,5 +1,5 @@
-HOST-SUFFIX,flickr,flickr
-HOST-SUFFIX,flic.kr,flickr
-HOST-SUFFIX,flickr.com,flickr
-HOST-SUFFIX,flickr.net,flickr
-HOST-SUFFIX,staticflickr.com,flickr
+HOST-SUFFIX,flickr,FLICKR
+HOST-SUFFIX,flic.kr,FLICKR
+HOST-SUFFIX,flickr.com,FLICKR
+HOST-SUFFIX,flickr.net,FLICKR
+HOST-SUFFIX,staticflickr.com,FLICKR

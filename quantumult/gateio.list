@@ -1,5 +1,5 @@
-HOST-SUFFIX,gate.io,gateio
-HOST-SUFFIX,gatedata.org,gateio
-HOST-SUFFIX,gateimg.com,gateio
-HOST-SUFFIX,gateio.live,gateio
-HOST-SUFFIX,gateio.services,gateio
+HOST-SUFFIX,gate.io,GATEIO
+HOST-SUFFIX,gatedata.org,GATEIO
+HOST-SUFFIX,gateimg.com,GATEIO
+HOST-SUFFIX,gateio.live,GATEIO
+HOST-SUFFIX,gateio.services,GATEIO

@@ -1,8 +1,8 @@
-HOST-SUFFIX,farfetch-apps.com,farfetch
-HOST-SUFFIX,farfetch-contents.com,farfetch
-HOST-SUFFIX,farfetch.cn,farfetch
-HOST-SUFFIX,farfetch.com,farfetch
-HOST-SUFFIX,farfetch.com.cn,farfetch
-HOST-SUFFIX,farfetch.net,farfetch
-HOST-SUFFIX,farfetch.net.cn,farfetch
-HOST-SUFFIX,fflnk.net,farfetch
+HOST-SUFFIX,farfetch-apps.com,FARFETCH
+HOST-SUFFIX,farfetch-contents.com,FARFETCH
+HOST-SUFFIX,farfetch.cn,FARFETCH
+HOST-SUFFIX,farfetch.com,FARFETCH
+HOST-SUFFIX,farfetch.com.cn,FARFETCH
+HOST-SUFFIX,farfetch.net,FARFETCH
+HOST-SUFFIX,farfetch.net.cn,FARFETCH
+HOST-SUFFIX,fflnk.net,FARFETCH

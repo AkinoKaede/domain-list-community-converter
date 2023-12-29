@@ -1,5 +1,5 @@
-HOST-SUFFIX,gitlab.com,gitlab
-HOST-SUFFIX,gitlab.io,gitlab
-HOST-SUFFIX,gitlab.net,gitlab
-HOST-SUFFIX,gitlab-static.net,gitlab
-HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,gitlab
+HOST-SUFFIX,gitlab.com,GITLAB
+HOST-SUFFIX,gitlab.io,GITLAB
+HOST-SUFFIX,gitlab.net,GITLAB
+HOST-SUFFIX,gitlab-static.net,GITLAB
+HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,GITLAB

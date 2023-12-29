@@ -1,2 +1,2 @@
-HOST-SUFFIX,csis.org,csis
-HOST,csis-prod.s3.amazonaws.com,csis
+HOST-SUFFIX,csis.org,CSIS
+HOST,csis-prod.s3.amazonaws.com,CSIS

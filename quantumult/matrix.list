@@ -1,7 +1,7 @@
-HOST-SUFFIX,arewereadyyet.com,matrix
-HOST-SUFFIX,element.io,matrix
-HOST-SUFFIX,matrix.org,matrix
-HOST-SUFFIX,matrix.to,matrix
-HOST-SUFFIX,modular.im,matrix
-HOST-SUFFIX,riot.im,matrix
-HOST-SUFFIX,vector.im,matrix
+HOST-SUFFIX,arewereadyyet.com,MATRIX
+HOST-SUFFIX,element.io,MATRIX
+HOST-SUFFIX,matrix.org,MATRIX
+HOST-SUFFIX,matrix.to,MATRIX
+HOST-SUFFIX,modular.im,MATRIX
+HOST-SUFFIX,riot.im,MATRIX
+HOST-SUFFIX,vector.im,MATRIX

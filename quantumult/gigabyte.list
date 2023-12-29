@@ -1,7 +1,7 @@
-HOST-SUFFIX,aorus.com,gigabyte
-HOST-SUFFIX,aoruszone.cn,gigabyte
-HOST-SUFFIX,gigabyte.cn,gigabyte
-HOST-SUFFIX,gigabyte.com,gigabyte
-HOST,gigabyte2.azureedge.net,gigabyte
-HOST,sa78gs.wpc.edgecastcdn.net,gigabyte
-HOST,sni1dcb6gl.wpc.edgecastcdn.net,gigabyte
+HOST-SUFFIX,aorus.com,GIGABYTE
+HOST-SUFFIX,aoruszone.cn,GIGABYTE
+HOST-SUFFIX,gigabyte.cn,GIGABYTE
+HOST-SUFFIX,gigabyte.com,GIGABYTE
+HOST,gigabyte2.azureedge.net,GIGABYTE
+HOST,sa78gs.wpc.edgecastcdn.net,GIGABYTE
+HOST,sni1dcb6gl.wpc.edgecastcdn.net,GIGABYTE

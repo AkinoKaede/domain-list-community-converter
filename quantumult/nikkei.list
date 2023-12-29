@@ -1,6 +1,6 @@
-HOST-SUFFIX,nikkei-cnbc.co.jp,nikkei
-HOST-SUFFIX,nikkei.co.jp,nikkei
-HOST-SUFFIX,nikkei.com,nikkei
-HOST-SUFFIX,nikkei.jp,nikkei
-HOST-SUFFIX,nikkei4946.com,nikkei
-HOST-SUFFIX,nikkeibp.co.jp,nikkei
+HOST-SUFFIX,nikkei-cnbc.co.jp,NIKKEI
+HOST-SUFFIX,nikkei.co.jp,NIKKEI
+HOST-SUFFIX,nikkei.com,NIKKEI
+HOST-SUFFIX,nikkei.jp,NIKKEI
+HOST-SUFFIX,nikkei4946.com,NIKKEI
+HOST-SUFFIX,nikkeibp.co.jp,NIKKEI

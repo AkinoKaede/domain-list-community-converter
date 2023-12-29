@@ -1,4 +1,4 @@
-HOST-SUFFIX,managedpki.com,symantec
-HOST-SUFFIX,symantec.com,symantec
-HOST-SUFFIX,symcb.com,symantec
-HOST-SUFFIX,symcd.com,symantec
+HOST-SUFFIX,managedpki.com,SYMANTEC
+HOST-SUFFIX,symantec.com,SYMANTEC
+HOST-SUFFIX,symcb.com,SYMANTEC
+HOST-SUFFIX,symcd.com,SYMANTEC

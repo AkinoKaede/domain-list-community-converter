@@ -1,5 +1,5 @@
-HOST-SUFFIX,buypass-ssl.com,buypass
-HOST-SUFFIX,buypass.com,buypass
-HOST-SUFFIX,buypass.no,buypass
-HOST-SUFFIX,buypass.se,buypass
-HOST-SUFFIX,minid.no,buypass
+HOST-SUFFIX,buypass-ssl.com,BUYPASS
+HOST-SUFFIX,buypass.com,BUYPASS
+HOST-SUFFIX,buypass.no,BUYPASS
+HOST-SUFFIX,buypass.se,BUYPASS
+HOST-SUFFIX,minid.no,BUYPASS

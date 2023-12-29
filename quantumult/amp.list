@@ -1,6 +1,6 @@
-HOST-SUFFIX,amp.dev,amp
-HOST-SUFFIX,ampproject.com,amp
-HOST-SUFFIX,ampproject.net,amp
-HOST-SUFFIX,ampproject.org,amp
-HOST,cdn.ampproject.org,amp
-HOST,amp.akamaized.net,amp
+HOST-SUFFIX,amp.dev,AMP
+HOST-SUFFIX,ampproject.com,AMP
+HOST-SUFFIX,ampproject.net,AMP
+HOST-SUFFIX,ampproject.org,AMP
+HOST,cdn.ampproject.org,AMP
+HOST,amp.akamaized.net,AMP

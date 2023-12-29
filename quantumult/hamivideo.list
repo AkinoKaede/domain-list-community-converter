@@ -1,8 +1,8 @@
-HOST,apl-hamivideo.cdn.hinet.net,hamivideo
-HOST,hamivideo.hinet.net,hamivideo
-HOST,mobilelive-hamivideo.cdn.hinet.net,hamivideo
-HOST,pvr-hamivideo.cdn.hinet.net,hamivideo
-HOST,scc.ott.hinet.net,hamivideo
-HOST,static-hamivideo.cdn.hinet.net,hamivideo
-HOST,tvcastlive-hamivideo.cdn.hinet.net,hamivideo
-HOST,weblive-hamivideo.cdn.hinet.net,hamivideo
+HOST,apl-hamivideo.cdn.hinet.net,HAMIVIDEO
+HOST,hamivideo.hinet.net,HAMIVIDEO
+HOST,mobilelive-hamivideo.cdn.hinet.net,HAMIVIDEO
+HOST,pvr-hamivideo.cdn.hinet.net,HAMIVIDEO
+HOST,scc.ott.hinet.net,HAMIVIDEO
+HOST,static-hamivideo.cdn.hinet.net,HAMIVIDEO
+HOST,tvcastlive-hamivideo.cdn.hinet.net,HAMIVIDEO
+HOST,weblive-hamivideo.cdn.hinet.net,HAMIVIDEO

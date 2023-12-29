@@ -1,5 +1,5 @@
-HOST-SUFFIX,secom.co.jp,secom
-HOST-SUFFIX,secomtrust.net,secom
-HOST-SUFFIX,cybertrust.co.jp,secom
-HOST-SUFFIX,cybertrust.ne.jp,secom
-HOST-SUFFIX,managedpki.ne.jp,secom
+HOST-SUFFIX,secom.co.jp,SECOM
+HOST-SUFFIX,secomtrust.net,SECOM
+HOST-SUFFIX,cybertrust.co.jp,SECOM
+HOST-SUFFIX,cybertrust.ne.jp,SECOM
+HOST-SUFFIX,managedpki.ne.jp,SECOM

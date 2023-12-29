@@ -1,8 +1,8 @@
-HOST-SUFFIX,1234567.com.cn,eastmoney
-HOST-SUFFIX,18.cn,eastmoney
-HOST-SUFFIX,18.com.cn,eastmoney
-HOST-SUFFIX,dfcfw.com,eastmoney
-HOST-SUFFIX,eastmoney.com,eastmoney
-HOST-SUFFIX,eastmoneyfutures.com,eastmoney
-HOST-SUFFIX,emsec.hk,eastmoney
-HOST-SUFFIX,guba.com.cn,eastmoney
+HOST-SUFFIX,1234567.com.cn,EASTMONEY
+HOST-SUFFIX,18.cn,EASTMONEY
+HOST-SUFFIX,18.com.cn,EASTMONEY
+HOST-SUFFIX,dfcfw.com,EASTMONEY
+HOST-SUFFIX,eastmoney.com,EASTMONEY
+HOST-SUFFIX,eastmoneyfutures.com,EASTMONEY
+HOST-SUFFIX,emsec.hk,EASTMONEY
+HOST-SUFFIX,guba.com.cn,EASTMONEY

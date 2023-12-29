@@ -1,8 +1,8 @@
-HOST-SUFFIX,myshopify.com,shopify
-HOST-SUFFIX,shop.app,shopify
-HOST-SUFFIX,shopify.com,shopify
-HOST-SUFFIX,shopify.dev,shopify
-HOST-SUFFIX,shopifycdn.com,shopify
-HOST-SUFFIX,shopifycloud.com,shopify
-HOST-SUFFIX,shopifystatus.com,shopify
-HOST-SUFFIX,shopifysvc.com,shopify
+HOST-SUFFIX,myshopify.com,SHOPIFY
+HOST-SUFFIX,shop.app,SHOPIFY
+HOST-SUFFIX,shopify.com,SHOPIFY
+HOST-SUFFIX,shopify.dev,SHOPIFY
+HOST-SUFFIX,shopifycdn.com,SHOPIFY
+HOST-SUFFIX,shopifycloud.com,SHOPIFY
+HOST-SUFFIX,shopifystatus.com,SHOPIFY
+HOST-SUFFIX,shopifysvc.com,SHOPIFY

@@ -1,8 +1,8 @@
-HOST-SUFFIX,openmidas.com,tencent-dev
-HOST-SUFFIX,qq.design,tencent-dev
-HOST-SUFFIX,qqgamedesign.com,tencent-dev
-HOST-SUFFIX,tencent.design,tencent-dev
-HOST-SUFFIX,tjstats.com,tencent-dev
-HOST-SUFFIX,wegamedeveloper.com,tencent-dev
-HOST-SUFFIX,weixinbridge.com,tencent-dev
-HOST-SUFFIX,weui.io,tencent-dev
+HOST-SUFFIX,openmidas.com,TENCENT-DEV
+HOST-SUFFIX,qq.design,TENCENT-DEV
+HOST-SUFFIX,qqgamedesign.com,TENCENT-DEV
+HOST-SUFFIX,tencent.design,TENCENT-DEV
+HOST-SUFFIX,tjstats.com,TENCENT-DEV
+HOST-SUFFIX,wegamedeveloper.com,TENCENT-DEV
+HOST-SUFFIX,weixinbridge.com,TENCENT-DEV
+HOST-SUFFIX,weui.io,TENCENT-DEV

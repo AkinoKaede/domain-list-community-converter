@@ -1,8 +1,8 @@
-HOST-SUFFIX,go-lang.com,golang
-HOST-SUFFIX,go-lang.net,golang
-HOST-SUFFIX,go-lang.org,golang
-HOST-SUFFIX,go.dev,golang
-HOST-SUFFIX,godoc.org,golang
-HOST-SUFFIX,golang.com,golang
-HOST-SUFFIX,golang.net,golang
-HOST-SUFFIX,golang.org,golang
+HOST-SUFFIX,go-lang.com,GOLANG
+HOST-SUFFIX,go-lang.net,GOLANG
+HOST-SUFFIX,go-lang.org,GOLANG
+HOST-SUFFIX,go.dev,GOLANG
+HOST-SUFFIX,godoc.org,GOLANG
+HOST-SUFFIX,golang.com,GOLANG
+HOST-SUFFIX,golang.net,GOLANG
+HOST-SUFFIX,golang.org,GOLANG

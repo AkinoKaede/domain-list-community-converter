@@ -1,8 +1,8 @@
-HOST-SUFFIX,delvenetworks.com,limelight
-HOST-SUFFIX,limelight.com,limelight
-HOST-SUFFIX,lldns.net,limelight
-HOST-SUFFIX,llnw-trials.com,limelight
-HOST-SUFFIX,llnw.com,limelight
-HOST-SUFFIX,llnw.net,limelight
-HOST-SUFFIX,llnwd.net,limelight
-HOST-SUFFIX,llnwi.net,limelight
+HOST-SUFFIX,delvenetworks.com,LIMELIGHT
+HOST-SUFFIX,limelight.com,LIMELIGHT
+HOST-SUFFIX,lldns.net,LIMELIGHT
+HOST-SUFFIX,llnw-trials.com,LIMELIGHT
+HOST-SUFFIX,llnw.com,LIMELIGHT
+HOST-SUFFIX,llnw.net,LIMELIGHT
+HOST-SUFFIX,llnwd.net,LIMELIGHT
+HOST-SUFFIX,llnwi.net,LIMELIGHT

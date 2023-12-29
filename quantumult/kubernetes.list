@@ -1,2 +1,2 @@
-HOST-SUFFIX,kubernetes.io,kubernetes
-HOST-SUFFIX,k8s.io,kubernetes
+HOST-SUFFIX,kubernetes.io,KUBERNETES
+HOST-SUFFIX,k8s.io,KUBERNETES

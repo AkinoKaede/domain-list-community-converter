@@ -1,6 +1,6 @@
-HOST-SUFFIX,pycon.org,python
-HOST-SUFFIX,pypa.io,python
-HOST-SUFFIX,pypi.io,python
-HOST-SUFFIX,pypi.org,python
-HOST-SUFFIX,python.org,python
-HOST-SUFFIX,pythonhosted.org,python
+HOST-SUFFIX,pycon.org,PYTHON
+HOST-SUFFIX,pypa.io,PYTHON
+HOST-SUFFIX,pypi.io,PYTHON
+HOST-SUFFIX,pypi.org,PYTHON
+HOST-SUFFIX,python.org,PYTHON
+HOST-SUFFIX,pythonhosted.org,PYTHON

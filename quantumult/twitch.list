@@ -1,6 +1,6 @@
-HOST-SUFFIX,ext-twitch.tv,twitch
-HOST-SUFFIX,jtvnw.net,twitch
-HOST-SUFFIX,ttvnw.net,twitch
-HOST-SUFFIX,twitch.tv,twitch
-HOST-SUFFIX,twitchcdn.net,twitch
-HOST-SUFFIX,twitchsvc.net,twitch
+HOST-SUFFIX,ext-twitch.tv,TWITCH
+HOST-SUFFIX,jtvnw.net,TWITCH
+HOST-SUFFIX,ttvnw.net,TWITCH
+HOST-SUFFIX,twitch.tv,TWITCH
+HOST-SUFFIX,twitchcdn.net,TWITCH
+HOST-SUFFIX,twitchsvc.net,TWITCH

@@ -1,6 +1,6 @@
-HOST-SUFFIX,hellofont.cn,hanyi
-HOST-SUFFIX,hellowebfont.com,hanyi
-HOST,hellofontpreview.oss-cn-beijing.aliyuncs.com,hanyi
-HOST,hellowebfonts.oss-cn-beijing.aliyuncs.com,hanyi
-HOST-SUFFIX,hanyi.com.cn,hanyi
-HOST-SUFFIX,fontstar.com.cn,hanyi
+HOST-SUFFIX,hellofont.cn,HANYI
+HOST-SUFFIX,hellowebfont.com,HANYI
+HOST,hellofontpreview.oss-cn-beijing.aliyuncs.com,HANYI
+HOST,hellowebfonts.oss-cn-beijing.aliyuncs.com,HANYI
+HOST-SUFFIX,hanyi.com.cn,HANYI
+HOST-SUFFIX,fontstar.com.cn,HANYI

@@ -1,4 +1,4 @@
-HOST-SUFFIX,patreon.com,patreon
-HOST-SUFFIX,patreoncommunity.com,patreon
-HOST-SUFFIX,patreonusercontent.com,patreon
-HOST,live-patreon-marketing.pantheonsite.io,patreon
+HOST-SUFFIX,patreon.com,PATREON
+HOST-SUFFIX,patreoncommunity.com,PATREON
+HOST-SUFFIX,patreonusercontent.com,PATREON
+HOST,live-patreon-marketing.pantheonsite.io,PATREON

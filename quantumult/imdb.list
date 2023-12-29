@@ -1,5 +1,5 @@
-HOST-SUFFIX,imdb,imdb
-HOST-SUFFIX,boxofficemojo.com,imdb
-HOST-SUFFIX,imdb.com,imdb
-HOST-SUFFIX,imdb.to,imdb
-HOST-SUFFIX,media-imdb.com,imdb
+HOST-SUFFIX,imdb,IMDB
+HOST-SUFFIX,boxofficemojo.com,IMDB
+HOST-SUFFIX,imdb.com,IMDB
+HOST-SUFFIX,imdb.to,IMDB
+HOST-SUFFIX,media-imdb.com,IMDB

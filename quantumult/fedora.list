@@ -1,5 +1,5 @@
-HOST-SUFFIX,getfedora.org,fedora
-HOST-SUFFIX,fedoraforum.org,fedora
-HOST-SUFFIX,fedorapeople.org,fedora
-HOST-SUFFIX,fedoraproject.org,fedora
-HOST-SUFFIX,fedoramagazine.org,fedora
+HOST-SUFFIX,getfedora.org,FEDORA
+HOST-SUFFIX,fedoraforum.org,FEDORA
+HOST-SUFFIX,fedorapeople.org,FEDORA
+HOST-SUFFIX,fedoraproject.org,FEDORA
+HOST-SUFFIX,fedoramagazine.org,FEDORA

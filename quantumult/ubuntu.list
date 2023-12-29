@@ -1,4 +1,4 @@
-HOST-SUFFIX,ubuntu.com,ubuntu
-HOST-SUFFIX,ubuntu.net,ubuntu
-HOST-SUFFIX,ubuntuforums.org,ubuntu
-HOST-SUFFIX,ubuntu-touch.io,ubuntu
+HOST-SUFFIX,ubuntu.com,UBUNTU
+HOST-SUFFIX,ubuntu.net,UBUNTU
+HOST-SUFFIX,ubuntuforums.org,UBUNTU
+HOST-SUFFIX,ubuntu-touch.io,UBUNTU

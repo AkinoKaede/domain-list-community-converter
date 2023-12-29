@@ -1,8 +1,8 @@
-HOST-SUFFIX,gog.com,gog
-HOST-SUFFIX,gog-statics.com,gog
-HOST,gog.qtlglb.com,gog
-HOST,gogalaxy.gog-statics.com,gog
-HOST,menu-static.gog-statics.com,gog
-HOST,productcard.gog-statics.com,gog
-HOST,static-login.gog-statics.com,gog
-HOST,www4-static.gog-statics.com,gog
+HOST-SUFFIX,gog.com,GOG
+HOST-SUFFIX,gog-statics.com,GOG
+HOST,gog.qtlglb.com,GOG
+HOST,gogalaxy.gog-statics.com,GOG
+HOST,menu-static.gog-statics.com,GOG
+HOST,productcard.gog-statics.com,GOG
+HOST,static-login.gog-statics.com,GOG
+HOST,www4-static.gog-statics.com,GOG

@@ -1,4 +1,4 @@
-HOST-SUFFIX,kaggle.com,kaggle
-HOST-SUFFIX,kaggle.io,kaggle
-HOST-SUFFIX,kaggle.net,kaggle
-HOST-SUFFIX,kaggleusercontent.com,kaggle
+HOST-SUFFIX,kaggle.com,KAGGLE
+HOST-SUFFIX,kaggle.io,KAGGLE
+HOST-SUFFIX,kaggle.net,KAGGLE
+HOST-SUFFIX,kaggleusercontent.com,KAGGLE

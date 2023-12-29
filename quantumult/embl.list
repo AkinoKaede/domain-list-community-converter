@@ -1,7 +1,7 @@
-HOST-SUFFIX,ebi.ac.uk,embl
-HOST-SUFFIX,embl-hamburg.de,embl
-HOST-SUFFIX,embl.de,embl
-HOST-SUFFIX,embl.fr,embl
-HOST-SUFFIX,embl.it,embl
-HOST-SUFFIX,embl.org,embl
-HOST-SUFFIX,emblstatic.net,embl
+HOST-SUFFIX,ebi.ac.uk,EMBL
+HOST-SUFFIX,embl-hamburg.de,EMBL
+HOST-SUFFIX,embl.de,EMBL
+HOST-SUFFIX,embl.fr,EMBL
+HOST-SUFFIX,embl.it,EMBL
+HOST-SUFFIX,embl.org,EMBL
+HOST-SUFFIX,emblstatic.net,EMBL

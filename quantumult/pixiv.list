@@ -1,8 +1,8 @@
-HOST-SUFFIX,ads-pixiv.net,pixiv
-HOST-SUFFIX,booth.pm,pixiv
-HOST-SUFFIX,fanbox.cc,pixiv
-HOST-SUFFIX,pixiv.net,pixiv
-HOST-SUFFIX,pixiv.org,pixiv
-HOST-SUFFIX,pixiv.co.jp,pixiv
-HOST-SUFFIX,pixiv.me,pixiv
-HOST-SUFFIX,pximg.net,pixiv
+HOST-SUFFIX,ads-pixiv.net,PIXIV
+HOST-SUFFIX,booth.pm,PIXIV
+HOST-SUFFIX,fanbox.cc,PIXIV
+HOST-SUFFIX,pixiv.net,PIXIV
+HOST-SUFFIX,pixiv.org,PIXIV
+HOST-SUFFIX,pixiv.co.jp,PIXIV
+HOST-SUFFIX,pixiv.me,PIXIV
+HOST-SUFFIX,pximg.net,PIXIV

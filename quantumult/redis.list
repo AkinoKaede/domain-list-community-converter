@@ -1,2 +1,2 @@
-HOST-SUFFIX,redis.io,redis
-HOST-SUFFIX,redislabs.com,redis
+HOST-SUFFIX,redis.io,REDIS
+HOST-SUFFIX,redislabs.com,REDIS

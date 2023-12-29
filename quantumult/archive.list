@@ -1,5 +1,5 @@
-HOST-SUFFIX,archive-it.org,archive
-HOST-SUFFIX,archive.org,archive
-HOST-SUFFIX,archive.ph,archive
-HOST-SUFFIX,archive.today,archive
-HOST-SUFFIX,openlibrary.org,archive
+HOST-SUFFIX,archive-it.org,ARCHIVE
+HOST-SUFFIX,archive.org,ARCHIVE
+HOST-SUFFIX,archive.ph,ARCHIVE
+HOST-SUFFIX,archive.today,ARCHIVE
+HOST-SUFFIX,openlibrary.org,ARCHIVE

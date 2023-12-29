@@ -1,5 +1,5 @@
-HOST-SUFFIX,link.com,stripe
-HOST-SUFFIX,stripe-terminal-local-reader.net,stripe
-HOST-SUFFIX,stripe.com,stripe
-HOST-SUFFIX,stripe.network,stripe
-HOST-SUFFIX,stripecdn.com,stripe
+HOST-SUFFIX,link.com,STRIPE
+HOST-SUFFIX,stripe-terminal-local-reader.net,STRIPE
+HOST-SUFFIX,stripe.com,STRIPE
+HOST-SUFFIX,stripe.network,STRIPE
+HOST-SUFFIX,stripecdn.com,STRIPE

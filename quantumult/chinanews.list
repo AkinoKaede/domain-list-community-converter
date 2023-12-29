@@ -1,4 +1,4 @@
-HOST-SUFFIX,chinanews.com,chinanews
-HOST-SUFFIX,chinanews.com.cn,chinanews
-HOST-SUFFIX,cns.com.cn,chinanews
-HOST-SUFFIX,ecns.cn,chinanews
+HOST-SUFFIX,chinanews.com,CHINANEWS
+HOST-SUFFIX,chinanews.com.cn,CHINANEWS
+HOST-SUFFIX,cns.com.cn,CHINANEWS
+HOST-SUFFIX,ecns.cn,CHINANEWS

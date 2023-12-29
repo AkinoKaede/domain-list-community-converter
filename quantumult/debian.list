@@ -1,2 +1,2 @@
-HOST-SUFFIX,debian.org,debian
-HOST-SUFFIX,dotdeb.org,debian
+HOST-SUFFIX,debian.org,DEBIAN
+HOST-SUFFIX,dotdeb.org,DEBIAN

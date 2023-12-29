@@ -1,3 +1,3 @@
-HOST-SUFFIX,compose-spec.io,docker
-HOST-SUFFIX,docker.com,docker
-HOST-SUFFIX,docker.io,docker
+HOST-SUFFIX,compose-spec.io,DOCKER
+HOST-SUFFIX,docker.com,DOCKER
+HOST-SUFFIX,docker.io,DOCKER

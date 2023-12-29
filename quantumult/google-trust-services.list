@@ -1,6 +1,6 @@
-HOST-SUFFIX,pki.goog,google-trust-services
-HOST,clients1.google.com,google-trust-services
-HOST,pki.google.com,google-trust-services
-HOST,crl.pki.goog,google-trust-services
-HOST,ocsp.pki.goog,google-trust-services
-HOST,pki-goog.l.google.com,google-trust-services
+HOST-SUFFIX,pki.goog,GOOGLE-TRUST-SERVICES
+HOST,clients1.google.com,GOOGLE-TRUST-SERVICES
+HOST,pki.google.com,GOOGLE-TRUST-SERVICES
+HOST,crl.pki.goog,GOOGLE-TRUST-SERVICES
+HOST,ocsp.pki.goog,GOOGLE-TRUST-SERVICES
+HOST,pki-goog.l.google.com,GOOGLE-TRUST-SERVICES

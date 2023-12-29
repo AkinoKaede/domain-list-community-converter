@@ -1,4 +1,4 @@
-HOST-SUFFIX,readthedocs-hosted.com,readthedocs
-HOST-SUFFIX,readthedocs.com,readthedocs
-HOST-SUFFIX,readthedocs.io,readthedocs
-HOST-SUFFIX,readthedocs.org,readthedocs
+HOST-SUFFIX,readthedocs-hosted.com,READTHEDOCS
+HOST-SUFFIX,readthedocs.com,READTHEDOCS
+HOST-SUFFIX,readthedocs.io,READTHEDOCS
+HOST-SUFFIX,readthedocs.org,READTHEDOCS

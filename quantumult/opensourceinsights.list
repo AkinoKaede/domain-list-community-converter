@@ -1,4 +1,4 @@
-HOST-SUFFIX,deps.dev,opensourceinsights
-HOST-SUFFIX,deps.info,opensourceinsights
-HOST-SUFFIX,opensourceinsight.dev,opensourceinsights
-HOST-SUFFIX,opensourceinsights.dev,opensourceinsights
+HOST-SUFFIX,deps.dev,OPENSOURCEINSIGHTS
+HOST-SUFFIX,deps.info,OPENSOURCEINSIGHTS
+HOST-SUFFIX,opensourceinsight.dev,OPENSOURCEINSIGHTS
+HOST-SUFFIX,opensourceinsights.dev,OPENSOURCEINSIGHTS

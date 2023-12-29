@@ -1,7 +1,7 @@
-HOST-SUFFIX,kfs.io,kkbox
-HOST-SUFFIX,kk.stream,kkbox
-HOST-SUFFIX,kkbox.com,kkbox
-HOST-SUFFIX,kkbox.com.tw,kkbox
-HOST-SUFFIX,kktix.com,kkbox
-HOST-SUFFIX,kktv.com.tw,kkbox
-HOST-SUFFIX,kktv.me,kkbox
+HOST-SUFFIX,kfs.io,KKBOX
+HOST-SUFFIX,kk.stream,KKBOX
+HOST-SUFFIX,kkbox.com,KKBOX
+HOST-SUFFIX,kkbox.com.tw,KKBOX
+HOST-SUFFIX,kktix.com,KKBOX
+HOST-SUFFIX,kktv.com.tw,KKBOX
+HOST-SUFFIX,kktv.me,KKBOX

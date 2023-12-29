@@ -1,4 +1,4 @@
-HOST-SUFFIX,ctan.org,tex
-HOST-SUFFIX,latex-project.org,tex
-HOST-SUFFIX,miktex.org,tex
-HOST-SUFFIX,tug.org,tex
+HOST-SUFFIX,ctan.org,TEX
+HOST-SUFFIX,latex-project.org,TEX
+HOST-SUFFIX,miktex.org,TEX
+HOST-SUFFIX,tug.org,TEX

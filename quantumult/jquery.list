@@ -1,3 +1,3 @@
-HOST-SUFFIX,jquery.com,jquery
-HOST-SUFFIX,jquerymobile.com,jquery
-HOST-SUFFIX,jqueryui.com,jquery
+HOST-SUFFIX,jquery.com,JQUERY
+HOST-SUFFIX,jquerymobile.com,JQUERY
+HOST-SUFFIX,jqueryui.com,JQUERY

@@ -1,8 +1,8 @@
-HOST-SUFFIX,nico,niconico
-HOST-SUFFIX,nicodic.jp,niconico
-HOST-SUFFIX,nicomanga.jp,niconico
-HOST-SUFFIX,niconico.com,niconico
-HOST-SUFFIX,nicoseiga.jp,niconico
-HOST-SUFFIX,nicovideo.jp,niconico
-HOST-SUFFIX,nimg.jp,niconico
-HOST-SUFFIX,simg.jp,niconico
+HOST-SUFFIX,nico,NICONICO
+HOST-SUFFIX,nicodic.jp,NICONICO
+HOST-SUFFIX,nicomanga.jp,NICONICO
+HOST-SUFFIX,niconico.com,NICONICO
+HOST-SUFFIX,nicoseiga.jp,NICONICO
+HOST-SUFFIX,nicovideo.jp,NICONICO
+HOST-SUFFIX,nimg.jp,NICONICO
+HOST-SUFFIX,simg.jp,NICONICO

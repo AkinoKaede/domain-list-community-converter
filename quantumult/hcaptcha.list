@@ -1,3 +1,3 @@
-HOST-SUFFIX,botstop.com,hcaptcha
-HOST-SUFFIX,hcaptcha.com,hcaptcha
-HOST-SUFFIX,hcaptchastatus.com,hcaptcha
+HOST-SUFFIX,botstop.com,HCAPTCHA
+HOST-SUFFIX,hcaptcha.com,HCAPTCHA
+HOST-SUFFIX,hcaptchastatus.com,HCAPTCHA

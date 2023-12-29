@@ -1,5 +1,5 @@
-HOST-SUFFIX,panasonic,panasonic
-HOST-SUFFIX,panasonic.cn,panasonic
-HOST-SUFFIX,panasonic.com,panasonic
-HOST-SUFFIX,panasonic.jp,panasonic
-HOST-SUFFIX,technics.com,panasonic
+HOST-SUFFIX,panasonic,PANASONIC
+HOST-SUFFIX,panasonic.cn,PANASONIC
+HOST-SUFFIX,panasonic.com,PANASONIC
+HOST-SUFFIX,panasonic.jp,PANASONIC
+HOST-SUFFIX,technics.com,PANASONIC

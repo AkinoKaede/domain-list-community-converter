@@ -1,4 +1,4 @@
-HOST-SUFFIX,devcon.org,ethereum
-HOST-SUFFIX,ethereum.foundation,ethereum
-HOST-SUFFIX,ethereum.org,ethereum
-HOST-SUFFIX,etherscan.io,ethereum
+HOST-SUFFIX,devcon.org,ETHEREUM
+HOST-SUFFIX,ethereum.foundation,ETHEREUM
+HOST-SUFFIX,ethereum.org,ETHEREUM
+HOST-SUFFIX,etherscan.io,ETHEREUM
