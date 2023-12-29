@@ -1,0 +1,9 @@
+HOST-SUFFIX,azurecr.io,category-container
+HOST-SUFFIX,docker.io,category-container
+HOST-SUFFIX,ecr.aws,category-container
+HOST-SUFFIX,gcr.io,category-container
+HOST-SUFFIX,ghcr.io,category-container
+HOST-SUFFIX,mcr.microsoft.com,category-container
+HOST-SUFFIX,quay.io,category-container
+HOST-SUFFIX,registry.gitlab.com,category-container
+HOST-SUFFIX,registry.k8s.io,category-container

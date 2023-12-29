@@ -1,0 +1,8 @@
+HOST,certs-lb.apple.com.akadns.net,APPLE-PKI@CN
+HOST,certs.apple.com,APPLE-PKI@CN
+HOST,crl-lb.apple.com.akadns.net,APPLE-PKI@CN
+HOST,crl.apple.com,APPLE-PKI@CN
+HOST,ocsp-lb.apple.com.akadns.net,APPLE-PKI@CN
+HOST,ocsp.apple.com,APPLE-PKI@CN
+HOST,ocsp2-lb.apple.com.akadns.net,APPLE-PKI@CN
+HOST,ocsp2.apple.com,APPLE-PKI@CN

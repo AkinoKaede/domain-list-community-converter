@@ -1,0 +1,3 @@
+HOST-SUFFIX,exit,tor
+HOST-SUFFIX,onion,tor
+HOST-SUFFIX,tor,tor
