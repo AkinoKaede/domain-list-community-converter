@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"errors"
 	"flag"
-	"io/ioutil"
 	"log"
 	"os"
 	"path/filepath"
@@ -15,8 +14,9 @@ import (
 )
 
 var (
-	dataPath  = flag.String("datapath", "./data", "Path to your custom 'data' directory")
-	outputDir = flag.String("outputdir", "./generated", "Directory to place all generated files")
+	dataPath     = flag.String("datapath", "./data", "Path to your custom 'data' directory")
+	outputDir    = flag.String("outputdir", "./generated", "Directory to place all generated files")
+	outputFormat = flag.String("outputformat", "surge", "Output type, support surge and quantumult")
 )
 
 type Entry struct {
@@ -64,6 +64,37 @@ func (r *SurgeRuleSets) Add(code, rule string, attrs []*routercommon.Domain_Attr
 	(*r)[code] = append((*r)[code], rule)
 	for _, attr := range attrs {
 		(*r)[code+"@"+attr.Key] = append((*r)[code+"@"+attr.Key], rule)
+	}
+}
+
+type QuantumultFilters map[string][]string
+
+func (l *ParsedList) toQuantumult() (QuantumultFilters, error) {
+	ruleSets := make(QuantumultFilters)
+	for _, entry := range l.Entry {
+		var rule string
+		switch entry.Type {
+		case "domain":
+			rule = "HOST-SUFFIX," + entry.Value
+		case "regexp":
+			log.Printf("Quantumult is not support regexp: %s in %s\n", entry.Value, l.Name)
+			continue
+		case "keyword":
+			rule = "HOST-KEYWORD," + entry.Value
+		case "full":
+			rule = "HOST," + entry.Value
+		default:
+			return nil, errors.New("unknown domain type: " + entry.Type)
+		}
+		ruleSets.Add(l.Name, rule, entry.Attrs)
+	}
+	return ruleSets, nil
+}
+
+func (r *QuantumultFilters) Add(code, rule string, attrs []*routercommon.Domain_Attribute) {
+	(*r)[code] = append((*r)[code], rule+","+code)
+	for _, attr := range attrs {
+		(*r)[code+"@"+attr.Key] = append((*r)[code+"@"+attr.Key], rule+","+code+"@"+attr.Key)
 	}
 }
 
@@ -301,7 +332,19 @@ func main() {
 			log.Println("Failed: ", err)
 			os.Exit(1)
 		}
-		ruleSets, err := pl.toSurge()
+
+		var ruleSets map[string][]string
+
+		switch strings.ToLower(*outputFormat) {
+		case "surge":
+			ruleSets, err = pl.toSurge()
+		case "quantumult", "quantumultx":
+			ruleSets, err = pl.toQuantumult()
+		default:
+			log.Println("Unknown output type: ", *outputFormat)
+			os.Exit(1)
+		}
+
 		if err != nil {
 			log.Println("Failed: ", err)
 			os.Exit(1)
@@ -309,7 +352,7 @@ func main() {
 
 		for code, rules := range ruleSets {
 			rulesContent := strings.Join(rules, "\n")
-			if err := ioutil.WriteFile(filepath.Join(*outputDir, code+".list"), []byte(rulesContent), 0644); err != nil {
+			if err := os.WriteFile(filepath.Join(*outputDir, code+".list"), []byte(rulesContent), 0644); err != nil {
 				log.Println("Failed: ", err)
 				os.Exit(1)
 			}

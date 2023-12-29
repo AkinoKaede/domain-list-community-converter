@@ -1,6 +1,6 @@
 module github.com/AkinoKaede/dlc2surge
 
-go 1.18
+go 1.20
 
 require github.com/v2fly/v2ray-core/v5 v5.13.0
 
