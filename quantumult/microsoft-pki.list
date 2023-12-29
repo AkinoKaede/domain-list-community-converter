@@ -1,6 +1,0 @@
-HOST-SUFFIX,msocsp.com,microsoft-pki
-HOST,crl.microsoft.com,microsoft-pki
-HOST,mscrl.microsoft.com,microsoft-pki
-HOST,ocsp.microsoft.com,microsoft-pki
-HOST,oneocsp.microsoft.com,microsoft-pki
-HOST,www.microsoft.com,microsoft-pki

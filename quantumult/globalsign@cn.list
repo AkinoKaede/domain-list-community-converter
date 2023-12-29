@@ -1,7 +1,0 @@
-HOST,crl.alphassl.com,globalsign@cn
-HOST,crl2.alphassl.com,globalsign@cn
-HOST,global.prd.cdn.globalsign.com,globalsign@cn
-HOST,ocsp.globalsign.com,globalsign@cn
-HOST,ocsp2.globalsign.com,globalsign@cn
-HOST,secure.globalsign.com,globalsign@cn
-HOST,secure2.alphassl.com,globalsign@cn

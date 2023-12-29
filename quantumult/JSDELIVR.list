@@ -1,0 +1,4 @@
+HOST-SUFFIX,jsdelivr.com,JSDELIVR
+HOST-SUFFIX,jsdelivr.net,JSDELIVR
+HOST-SUFFIX,esm.run,JSDELIVR
+HOST,cdn.jsdelivr.net,JSDELIVR

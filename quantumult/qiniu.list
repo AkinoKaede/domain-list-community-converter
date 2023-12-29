@@ -1,9 +1,0 @@
-HOST-SUFFIX,staticfile.org,qiniu
-HOST-SUFFIX,qbox.me,qiniu
-HOST-SUFFIX,qiniu.com,qiniu
-HOST-SUFFIX,qiniucdn.com,qiniu
-HOST-SUFFIX,qiniudn.com,qiniu
-HOST-SUFFIX,qiniudns.com,qiniu
-HOST-SUFFIX,qiniup.com,qiniu
-HOST-SUFFIX,qnsdk.com,qiniu
-HOST-SUFFIX,qnssl.com,qiniu

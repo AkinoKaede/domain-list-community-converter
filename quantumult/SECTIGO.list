@@ -1,0 +1,16 @@
+HOST-SUFFIX,enterprisessl.com,SECTIGO
+HOST-SUFFIX,hackerguardian.com,SECTIGO
+HOST-SUFFIX,instantssl.com,SECTIGO
+HOST-SUFFIX,oemssl.cn,SECTIGO
+HOST-SUFFIX,oemssl.cn.cdn.cloudflare.net,SECTIGO
+HOST-SUFFIX,optimumssl.com,SECTIGO
+HOST-SUFFIX,positivessl.com,SECTIGO
+HOST-SUFFIX,sectigo.com,SECTIGO
+HOST-SUFFIX,sectigochina.com,SECTIGO
+HOST-SUFFIX,trust-provider.cn,SECTIGO
+HOST-SUFFIX,trust-provider.com,SECTIGO
+HOST-SUFFIX,usertrust.com,SECTIGO
+HOST-SUFFIX,aoc.cat,SECTIGO
+HOST-SUFFIX,catcert.cat,SECTIGO
+HOST-SUFFIX,incommon-rsa.org,SECTIGO
+HOST-SUFFIX,netsolssl.com,SECTIGO
