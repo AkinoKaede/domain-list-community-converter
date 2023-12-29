@@ -92,9 +92,9 @@ func (l *ParsedList) toQuantumult() (QuantumultFilters, error) {
 }
 
 func (r *QuantumultFilters) Add(code, rule string, attrs []*routercommon.Domain_Attribute) {
-	(*r)[code] = append((*r)[code], rule+","+code)
+	(*r)[code] = append((*r)[code], rule+","+strings.ToUpper(code))
 	for _, attr := range attrs {
-		(*r)[code+"@"+attr.Key] = append((*r)[code+"@"+attr.Key], rule+","+code+"@"+attr.Key)
+		(*r)[code+"@"+attr.Key] = append((*r)[code+"@"+attr.Key], rule+","+strings.ToUpper(code)+"@"+strings.ToUpper(attr.Key))
 	}
 }
 
