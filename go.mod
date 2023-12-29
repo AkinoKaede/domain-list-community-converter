@@ -1,4 +1,4 @@
-module github.com/AkinoKaede/dlc2surge
+module github.com/AkinoKaede/domain-list-community-converter
 
 go 1.20
 
