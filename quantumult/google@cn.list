@@ -6,7 +6,6 @@ HOST-SUFFIX,google.cn,GOOGLE@CN
 HOST,firebase-settings.crashlytics.com,GOOGLE@CN
 HOST-SUFFIX,g.cn,GOOGLE@CN
 HOST-SUFFIX,gkecnapps.cn,GOOGLE@CN
-HOST-SUFFIX,googleapis.cn,GOOGLE@CN
 HOST-SUFFIX,googlecnapps.cn,GOOGLE@CN
 HOST-SUFFIX,gstatic.cn,GOOGLE@CN
 HOST-SUFFIX,gstaticcnapps.cn,GOOGLE@CN
