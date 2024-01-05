@@ -7,4 +7,4 @@ HOST-SUFFIX,jetbrains.space,JETBRAINS
 HOST-SUFFIX,jetbrains.team,JETBRAINS
 HOST-SUFFIX,datalore.io,JETBRAINS
 HOST-SUFFIX,kotlinlang.org,JETBRAINS
-HOST,download.jetbrains.com,JETBRAINS
+HOST-SUFFIX,cdn.jetbrains.com,JETBRAINS

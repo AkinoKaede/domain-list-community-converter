@@ -25,7 +25,7 @@ HOST-SUFFIX,mindspore.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,owsgo.com,CATEGORY-DEV@CN
 HOST-SUFFIX,teleows.com,CATEGORY-DEV@CN
 HOST-SUFFIX,saasops.tech,CATEGORY-DEV@CN
-HOST,download.jetbrains.com,CATEGORY-DEV@CN
+HOST-SUFFIX,cdn.jetbrains.com,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,reactorms.com.cn,CATEGORY-DEV@CN

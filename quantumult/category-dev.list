@@ -241,7 +241,7 @@ HOST-SUFFIX,jetbrains.space,CATEGORY-DEV
 HOST-SUFFIX,jetbrains.team,CATEGORY-DEV
 HOST-SUFFIX,datalore.io,CATEGORY-DEV
 HOST-SUFFIX,kotlinlang.org,CATEGORY-DEV
-HOST,download.jetbrains.com,CATEGORY-DEV
+HOST-SUFFIX,cdn.jetbrains.com,CATEGORY-DEV
 HOST-SUFFIX,grazie.ai,CATEGORY-DEV
 HOST-SUFFIX,grazie.aws.intellij.net,CATEGORY-DEV
 HOST-SUFFIX,jfrog.com,CATEGORY-DEV

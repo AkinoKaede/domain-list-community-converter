@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
-DOMAIN,download.jetbrains.com
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
