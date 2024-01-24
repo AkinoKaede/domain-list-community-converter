@@ -52,9 +52,11 @@ HOST-SUFFIX,certificat2.com,CATEGORY-CAS
 HOST-SUFFIX,trendmicro.com,CATEGORY-CAS
 HOST-SUFFIX,gandi.net,CATEGORY-CAS
 HOST-SUFFIX,alphassl.com,CATEGORY-CAS
+HOST-SUFFIX,easy-signing.com,CATEGORY-CAS
 HOST-SUFFIX,globalsign-media.com,CATEGORY-CAS
 HOST-SUFFIX,globalsign.be,CATEGORY-CAS
 HOST-SUFFIX,globalsign.ch,CATEGORY-CAS
+HOST-SUFFIX,globalsign.cn,CATEGORY-CAS
 HOST-SUFFIX,globalsign.co.uk,CATEGORY-CAS
 HOST-SUFFIX,globalsign.com,CATEGORY-CAS
 HOST-SUFFIX,globalsign.com.au,CATEGORY-CAS
@@ -66,13 +68,8 @@ HOST-SUFFIX,globalsign.eu,CATEGORY-CAS
 HOST-SUFFIX,globalsign.fr,CATEGORY-CAS
 HOST-SUFFIX,globalsign.net,CATEGORY-CAS
 HOST-SUFFIX,globalsign.nl,CATEGORY-CAS
-HOST,crl.alphassl.com,CATEGORY-CAS
-HOST,crl2.alphassl.com,CATEGORY-CAS
-HOST,global.prd.cdn.globalsign.com,CATEGORY-CAS
-HOST,ocsp.globalsign.com,CATEGORY-CAS
-HOST,ocsp2.globalsign.com,CATEGORY-CAS
-HOST,secure.globalsign.com,CATEGORY-CAS
-HOST,secure2.alphassl.com,CATEGORY-CAS
+HOST-SUFFIX,globalsigncdn.com,CATEGORY-CAS
+HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,CATEGORY-CAS
 HOST-SUFFIX,godaddy.com,CATEGORY-CAS
 HOST-SUFFIX,x.co,CATEGORY-CAS
 HOST-SUFFIX,godaddy,CATEGORY-CAS
@@ -112,6 +109,7 @@ HOST-SUFFIX,optimumssl.com,CATEGORY-CAS
 HOST-SUFFIX,positivessl.com,CATEGORY-CAS
 HOST-SUFFIX,sectigo.com,CATEGORY-CAS
 HOST-SUFFIX,sectigochina.com,CATEGORY-CAS
+HOST-SUFFIX,sectigochina.com.cdn.cloudflare.net,CATEGORY-CAS
 HOST-SUFFIX,trust-provider.cn,CATEGORY-CAS
 HOST-SUFFIX,trust-provider.com,CATEGORY-CAS
 HOST-SUFFIX,usertrust.com,CATEGORY-CAS

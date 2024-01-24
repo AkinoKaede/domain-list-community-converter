@@ -39,6 +39,7 @@ HOST-SUFFIX,bilibiligame.net,CN@CN
 HOST-SUFFIX,biligame.co,CN@CN
 HOST-SUFFIX,biligame.com,CN@CN
 HOST-SUFFIX,biligame.net,CN@CN
+HOST-SUFFIX,mhystatic.com,CN@CN
 HOST-SUFFIX,mhyurl.cn,CN@CN
 HOST-SUFFIX,mihayo.com,CN@CN
 HOST-SUFFIX,mihayou.com,CN@CN
@@ -53,6 +54,10 @@ HOST-SUFFIX,bhsr.com,CN@CN
 HOST-SUFFIX,themisweeps.com,CN@CN
 HOST-SUFFIX,yuanshen.com,CN@CN
 HOST,kc.kexinshe.com,CN@CN
+HOST-SUFFIX,cn.pool.ntp.org,CN@CN
+HOST-SUFFIX,ntp.neu.edu.cn,CN@CN
+HOST-SUFFIX,ntp.ntsc.ac.cn,CN@CN
+HOST-SUFFIX,ntp.org.cn,CN@CN
 HOST-SUFFIX,sl916.com,CN@CN
 HOST-SUFFIX,bluepoch.com,CN@CN
 HOST-SUFFIX,bisheng.cn,CN@CN

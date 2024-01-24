@@ -66,13 +66,12 @@ DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,digicert.cn
-DOMAIN,crl.alphassl.com
-DOMAIN,crl2.alphassl.com
-DOMAIN,global.prd.cdn.globalsign.com
-DOMAIN,ocsp.globalsign.com
-DOMAIN,ocsp2.globalsign.com
-DOMAIN,secure.globalsign.com
-DOMAIN,secure2.alphassl.com
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,pki-goog.l.google.com
@@ -80,6 +79,7 @@ DOMAIN,www.microsoft.com
 DOMAIN-SUFFIX,oemssl.cn
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,trust-provider.cn
 DOMAIN-SUFFIX,sslcom.cn
 DOMAIN-SUFFIX,oklink.com
@@ -291,6 +291,7 @@ DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihayou.com
@@ -318,6 +319,10 @@ DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,reabble.cn
 DOMAIN-SUFFIX,swiftui.cn
@@ -640,6 +645,7 @@ DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
 DOMAIN,xp.apple.com
+DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,attcorp.cn
@@ -966,6 +972,7 @@ DOMAIN-SUFFIX,qceventscenter.com.cn
 DOMAIN-SUFFIX,qualcomm.cn
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,stmicroelectronics.com.cn
 DOMAIN-SUFFIX,sandisk.cn
 DOMAIN-SUFFIX,yahoo.cn
 DOMAIN-SUFFIX,yahoo.com.cn

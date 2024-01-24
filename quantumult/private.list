@@ -131,6 +131,6 @@ HOST,tplogin.cn,PRIVATE
 HOST-SUFFIX,msftconnecttest.com,PRIVATE
 HOST-SUFFIX,msftncsi.com,PRIVATE
 HOST,miwifi.com,PRIVATE
-HOST,www.mifiwi.com,PRIVATE
+HOST,www.miwifi.com,PRIVATE
 HOST-SUFFIX,zte.home,PRIVATE
 HOST-SUFFIX,ts.net,PRIVATE

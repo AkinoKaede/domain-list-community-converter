@@ -1,7 +1,6 @@
-HOST,crl.alphassl.com,GLOBALSIGN@CN
-HOST,crl2.alphassl.com,GLOBALSIGN@CN
-HOST,global.prd.cdn.globalsign.com,GLOBALSIGN@CN
-HOST,ocsp.globalsign.com,GLOBALSIGN@CN
-HOST,ocsp2.globalsign.com,GLOBALSIGN@CN
-HOST,secure.globalsign.com,GLOBALSIGN@CN
-HOST,secure2.alphassl.com,GLOBALSIGN@CN
+HOST-SUFFIX,alphassl.com,GLOBALSIGN@CN
+HOST-SUFFIX,easy-signing.com,GLOBALSIGN@CN
+HOST-SUFFIX,globalsign.cn,GLOBALSIGN@CN
+HOST-SUFFIX,globalsign.com,GLOBALSIGN@CN
+HOST-SUFFIX,globalsigncdn.com,GLOBALSIGN@CN
+HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GLOBALSIGN@CN

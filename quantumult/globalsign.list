@@ -1,7 +1,9 @@
 HOST-SUFFIX,alphassl.com,GLOBALSIGN
+HOST-SUFFIX,easy-signing.com,GLOBALSIGN
 HOST-SUFFIX,globalsign-media.com,GLOBALSIGN
 HOST-SUFFIX,globalsign.be,GLOBALSIGN
 HOST-SUFFIX,globalsign.ch,GLOBALSIGN
+HOST-SUFFIX,globalsign.cn,GLOBALSIGN
 HOST-SUFFIX,globalsign.co.uk,GLOBALSIGN
 HOST-SUFFIX,globalsign.com,GLOBALSIGN
 HOST-SUFFIX,globalsign.com.au,GLOBALSIGN
@@ -13,10 +15,5 @@ HOST-SUFFIX,globalsign.eu,GLOBALSIGN
 HOST-SUFFIX,globalsign.fr,GLOBALSIGN
 HOST-SUFFIX,globalsign.net,GLOBALSIGN
 HOST-SUFFIX,globalsign.nl,GLOBALSIGN
-HOST,crl.alphassl.com,GLOBALSIGN
-HOST,crl2.alphassl.com,GLOBALSIGN
-HOST,global.prd.cdn.globalsign.com,GLOBALSIGN
-HOST,ocsp.globalsign.com,GLOBALSIGN
-HOST,ocsp2.globalsign.com,GLOBALSIGN
-HOST,secure.globalsign.com,GLOBALSIGN
-HOST,secure2.alphassl.com,GLOBALSIGN
+HOST-SUFFIX,globalsigncdn.com,GLOBALSIGN
+HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GLOBALSIGN

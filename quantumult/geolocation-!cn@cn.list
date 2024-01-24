@@ -66,13 +66,12 @@ HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp2.apple.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dcocsp.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,digicert.cn,GEOLOCATION-!CN@CN
-HOST,crl.alphassl.com,GEOLOCATION-!CN@CN
-HOST,crl2.alphassl.com,GEOLOCATION-!CN@CN
-HOST,global.prd.cdn.globalsign.com,GEOLOCATION-!CN@CN
-HOST,ocsp.globalsign.com,GEOLOCATION-!CN@CN
-HOST,ocsp2.globalsign.com,GEOLOCATION-!CN@CN
-HOST,secure.globalsign.com,GEOLOCATION-!CN@CN
-HOST,secure2.alphassl.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,alphassl.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,easy-signing.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,globalsign.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,globalsign.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,globalsigncdn.com,GEOLOCATION-!CN@CN
+HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GEOLOCATION-!CN@CN
 HOST,crl.pki.goog,GEOLOCATION-!CN@CN
 HOST,ocsp.pki.goog,GEOLOCATION-!CN@CN
 HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
@@ -80,6 +79,7 @@ HOST,www.microsoft.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,oemssl.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,oemssl.cn.cdn.cloudflare.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,sectigochina.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,sectigochina.com.cdn.cloudflare.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,trust-provider.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,sslcom.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,oklink.com,GEOLOCATION-!CN@CN
@@ -291,6 +291,7 @@ HOST-SUFFIX,17roco.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,roco.qq.com,GEOLOCATION-!CN@CN
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xboxlive.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,mhystatic.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mhyurl.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mihayo.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mihayou.com,GEOLOCATION-!CN@CN
@@ -318,6 +319,10 @@ HOST-SUFFIX,lsplayer.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,yeshen.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,heavenlywind.cc,GEOLOCATION-!CN@CN
 HOST-SUFFIX,steampp.net,GEOLOCATION-!CN@CN
+HOST-SUFFIX,cn.pool.ntp.org,GEOLOCATION-!CN@CN
+HOST-SUFFIX,ntp.neu.edu.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,ntp.ntsc.ac.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,ntp.org.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mapbox.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reabble.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,swiftui.cn,GEOLOCATION-!CN@CN
@@ -640,6 +645,7 @@ HOST,www.apple.com.edgekey.net.globalredir.akadns.net,GEOLOCATION-!CN@CN
 HOST,www.apple.com.edgekey.net,GEOLOCATION-!CN@CN
 HOST,www.apple.com,GEOLOCATION-!CN@CN
 HOST,xp.apple.com,GEOLOCATION-!CN@CN
+HOST,testflight.apple.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,asus.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,att.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,attcorp.cn,GEOLOCATION-!CN@CN
@@ -966,6 +972,7 @@ HOST-SUFFIX,qceventscenter.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,qualcomm.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xtracloud.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,samsungeshop.com.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,stmicroelectronics.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,sandisk.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,yahoo.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,yahoo.com.cn,GEOLOCATION-!CN@CN

@@ -299,6 +299,7 @@ DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
 DOMAIN,xp.apple.com
+DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,attcorp.cn
@@ -634,6 +635,7 @@ DOMAIN-SUFFIX,qceventscenter.com.cn
 DOMAIN-SUFFIX,qualcomm.cn
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,stmicroelectronics.com.cn
 DOMAIN-SUFFIX,sandisk.cn
 DOMAIN-SUFFIX,yahoo.cn
 DOMAIN-SUFFIX,yahoo.com.cn

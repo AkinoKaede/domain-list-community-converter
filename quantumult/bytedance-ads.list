@@ -5,7 +5,16 @@ HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,i.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,is.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE-ADS
-HOST-SUFFIX,pangolin.snssdk.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-sdk-toutiao-b.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-sdk-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-sdk-toutiao1.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin.snssdk.com,BYTEDANCE-ADS
+HOST-SUFFIX,panplayable-toutiao-b.com,BYTEDANCE-ADS
+HOST-SUFFIX,panplayable-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pglstatp-sdk-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pglstatp-snssdk-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pglstatp-toutiao-b.com,BYTEDANCE-ADS
 HOST-SUFFIX,pglstatp-toutiao.com,BYTEDANCE-ADS
 HOST-SUFFIX,sf3-ttcdn-tos.pstatp.com,BYTEDANCE-ADS
