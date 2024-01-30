@@ -5108,6 +5108,11 @@ HOST,ds-linear-abematv.akamaized.net,GEOLOCATION-!CN
 HOST,ds-vod-abematv.akamaized.net,GEOLOCATION-!CN
 HOST,linear-abematv.akamaized.net,GEOLOCATION-!CN
 HOST,vod-abematv.akamaized.net,GEOLOCATION-!CN
+HOST-SUFFIX,amc.com,GEOLOCATION-!CN
+HOST-SUFFIX,amcn.com,GEOLOCATION-!CN
+HOST-SUFFIX,amcnetworks.com,GEOLOCATION-!CN
+HOST-SUFFIX,amcplus.com,GEOLOCATION-!CN
+HOST-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com,GEOLOCATION-!CN
 HOST-SUFFIX,9anime.cz,GEOLOCATION-!CN
 HOST-SUFFIX,9anime.id,GEOLOCATION-!CN
 HOST-SUFFIX,9anime.to,GEOLOCATION-!CN
@@ -20326,6 +20331,7 @@ HOST-SUFFIX,pccw.com,GEOLOCATION-!CN
 HOST-SUFFIX,pccwglobal.com,GEOLOCATION-!CN
 HOST-SUFFIX,pccwsolutions.com,GEOLOCATION-!CN
 HOST-SUFFIX,moov.hk,GEOLOCATION-!CN
+HOST-SUFFIX,perplexity.ai,GEOLOCATION-!CN
 HOST-SUFFIX,myqnapcloud.com,GEOLOCATION-!CN
 HOST-SUFFIX,qlink.to,GEOLOCATION-!CN
 HOST-SUFFIX,qnap.com,GEOLOCATION-!CN
