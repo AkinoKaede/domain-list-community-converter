@@ -9,6 +9,7 @@ HOST-SUFFIX,binance.net,BINANCE
 HOST-SUFFIX,binance.org,BINANCE
 HOST-SUFFIX,binance.us,BINANCE
 HOST-SUFFIX,binance.vision,BINANCE
+HOST-SUFFIX,binancecnt.com,BINANCE
 HOST-SUFFIX,binancezh.be,BINANCE
 HOST-SUFFIX,binancezh.biz,BINANCE
 HOST-SUFFIX,binancezh.cc,BINANCE
@@ -27,4 +28,5 @@ HOST-SUFFIX,binancezh.top,BINANCE
 HOST-SUFFIX,binanceapi.com,BINANCE
 HOST-SUFFIX,bnbstatic.com,BINANCE
 HOST-SUFFIX,saasexch.com,BINANCE
+HOST-SUFFIX,saasexch.io,BINANCE
 HOST-SUFFIX,appsflayer.com,BINANCE

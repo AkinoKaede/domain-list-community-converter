@@ -1,3 +1,4 @@
+HOST-SUFFIX,accdn.com.cn,AKAMAI
 HOST-SUFFIX,ak1.net,AKAMAI
 HOST-SUFFIX,aka-ai.com,AKAMAI
 HOST-SUFFIX,aka-ai.net,AKAMAI
@@ -6,6 +7,7 @@ HOST-SUFFIX,akadeem.net,AKAMAI
 HOST-SUFFIX,akadns.com,AKAMAI
 HOST-SUFFIX,akadns.net,AKAMAI
 HOST-SUFFIX,akadns6.net,AKAMAI
+HOST-SUFFIX,akadns88.net,AKAMAI
 HOST-SUFFIX,akaeai.com,AKAMAI
 HOST-SUFFIX,akafms.net,AKAMAI
 HOST-SUFFIX,akagtm.org,AKAMAI
@@ -62,8 +64,15 @@ HOST-SUFFIX,akamqi.com,AKAMAI
 HOST-SUFFIX,akastream.com,AKAMAI
 HOST-SUFFIX,akastream.net,AKAMAI
 HOST-SUFFIX,akatns.net,AKAMAI
+HOST-SUFFIX,akcdn.com.cn,AKAMAI
+HOST-SUFFIX,aptdn.net,AKAMAI
 HOST-SUFFIX,edgekey.net,AKAMAI
+HOST-SUFFIX,edgekey88.net,AKAMAI
+HOST-SUFFIX,edgesuite.net,AKAMAI
 HOST-SUFFIX,iamakamai.com,AKAMAI
 HOST-SUFFIX,iamakamai.net,AKAMAI
+HOST-SUFFIX,janrain.biz,AKAMAI
+HOST-SUFFIX,janrainservices.com,AKAMAI
+HOST-SUFFIX,skycdn.com.cn,AKAMAI
 HOST-SUFFIX,soasta-dswb.com,AKAMAI
 HOST-SUFFIX,srtcdn.net,AKAMAI

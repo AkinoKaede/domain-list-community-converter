@@ -113,6 +113,7 @@ HOST,www.asusrouter.com,PRIVATE
 HOST,cp.cloudflare.com,PRIVATE
 HOST,detectportal.firefox.com,PRIVATE
 HOST-SUFFIX,networkcheck.kde.org,PRIVATE
+HOST-SUFFIX,location.services.mozilla.com,PRIVATE
 HOST,routerlogin.com,PRIVATE
 HOST,www.routerlogin.com,PRIVATE
 HOST-SUFFIX,hiwifi.com,PRIVATE
