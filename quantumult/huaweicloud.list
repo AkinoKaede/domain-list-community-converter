@@ -1,4 +1,5 @@
 HOST-SUFFIX,ami-alliance.org.cn,HUAWEICLOUD
+HOST-SUFFIX,b2bgo.com,HUAWEICLOUD
 HOST-SUFFIX,eduapaashwc.com,HUAWEICLOUD
 HOST-SUFFIX,hc-cdn.cn,HUAWEICLOUD
 HOST-SUFFIX,hc-cdn.com,HUAWEICLOUD
@@ -68,13 +69,17 @@ HOST-SUFFIX,myhwclouds.net,HUAWEICLOUD
 HOST-SUFFIX,pagescube.cn,HUAWEICLOUD
 HOST-SUFFIX,pagescube.com,HUAWEICLOUD
 HOST-SUFFIX,powerapp.io,HUAWEICLOUD
+HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-east-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-east-3.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,cn-east-5.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-1.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,cn-north-11.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-3.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-4.myhuaweicloud.com,HUAWEICLOUD
@@ -87,11 +92,14 @@ HOST-SUFFIX,cn-south-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-south-4.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-southwest-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,eu-west-0.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,eu-west-101.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,me-east-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,tr-west-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cdnhwchcg02.com,HUAWEICLOUD
 HOST-SUFFIX,cdnhwcurq03.com,HUAWEICLOUD
 HOST-SUFFIX,cdnhwczba04.com,HUAWEICLOUD
@@ -225,4 +233,3 @@ HOST-SUFFIX,cza84.cn,HUAWEICLOUD
 HOST-SUFFIX,8gcdp.cn,HUAWEICLOUD
 HOST-SUFFIX,kma1g.cn,HUAWEICLOUD
 HOST-SUFFIX,576nt.cn,HUAWEICLOUD
-HOST-SUFFIX,b2bgo.com,HUAWEICLOUD

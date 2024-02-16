@@ -1,0 +1,17 @@
+HOST-SUFFIX,firebase.com,FIREBASE
+HOST-SUFFIX,firebase.io,FIREBASE
+HOST-SUFFIX,firebaseapp.com,FIREBASE
+HOST-SUFFIX,firebaseio.com,FIREBASE
+HOST,firebase-settings.crashlytics.com,FIREBASE
+HOST,firebase.google.com,FIREBASE
+HOST,firebase.googleapis.com,FIREBASE
+HOST,firebaseappcheck.googleapis.com,FIREBASE
+HOST,firebasedynamiclinks-ipv4.googleapis.com,FIREBASE
+HOST,firebasedynamiclinks-ipv6.googleapis.com,FIREBASE
+HOST,firebasedynamiclinks.googleapis.com,FIREBASE
+HOST,firebaseinappmessaging.googleapis.com,FIREBASE
+HOST,firebaseinstallations.googleapis.com,FIREBASE
+HOST,firebaselogging-pa.googleapis.com,FIREBASE
+HOST,firebaselogging.googleapis.com,FIREBASE
+HOST,firebaseperusertopics-pa.googleapis.com,FIREBASE
+HOST,firebaseremoteconfig.googleapis.com,FIREBASE

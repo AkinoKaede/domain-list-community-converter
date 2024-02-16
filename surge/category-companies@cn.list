@@ -313,12 +313,13 @@ DOMAIN-SUFFIX,heptio.cn
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,pki-goog.l.google.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,google.cn
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,googlecnapps.cn

@@ -2,6 +2,7 @@ HOST-SUFFIX,swiftui.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,swiftui.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,researchkit.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,researchkit.com.cn,CATEGORY-DEV@CN
+HOST,firebase-settings.crashlytics.com,CATEGORY-DEV@CN
 HOST-SUFFIX,bisheng.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,bishengcompiler.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,devui.design,CATEGORY-DEV@CN

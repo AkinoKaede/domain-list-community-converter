@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,pki-goog.l.google.com
 DOMAIN,www.microsoft.com

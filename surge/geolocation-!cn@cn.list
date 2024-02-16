@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,pki-goog.l.google.com
 DOMAIN,www.microsoft.com
@@ -336,6 +337,7 @@ DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
@@ -667,7 +669,6 @@ DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
 DOMAIN-SUFFIX,google.cn
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,googlecnapps.cn

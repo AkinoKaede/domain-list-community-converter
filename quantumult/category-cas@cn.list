@@ -15,6 +15,7 @@ HOST-SUFFIX,globalsign.com,CATEGORY-CAS@CN
 HOST-SUFFIX,globalsigncdn.com,CATEGORY-CAS@CN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,CATEGORY-CAS@CN
 HOST,crl.pki.goog,CATEGORY-CAS@CN
+HOST,crls.pki.goog,CATEGORY-CAS@CN
 HOST,ocsp.pki.goog,CATEGORY-CAS@CN
 HOST,pki-goog.l.google.com,CATEGORY-CAS@CN
 HOST,www.microsoft.com,CATEGORY-CAS@CN

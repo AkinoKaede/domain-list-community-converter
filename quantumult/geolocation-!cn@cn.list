@@ -80,6 +80,7 @@ HOST-SUFFIX,globalsign.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsigncdn.com,GEOLOCATION-!CN@CN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GEOLOCATION-!CN@CN
 HOST,crl.pki.goog,GEOLOCATION-!CN@CN
+HOST,crls.pki.goog,GEOLOCATION-!CN@CN
 HOST,ocsp.pki.goog,GEOLOCATION-!CN@CN
 HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
 HOST,www.microsoft.com,GEOLOCATION-!CN@CN
@@ -336,6 +337,7 @@ HOST-SUFFIX,swiftui.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,swiftui.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,researchkit.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,researchkit.com.cn,GEOLOCATION-!CN@CN
+HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,bisheng.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,bishengcompiler.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,devui.design,GEOLOCATION-!CN@CN
@@ -667,7 +669,6 @@ HOST-SUFFIX,duolingo.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,aoruszone.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gigabyte.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,google.cn,GEOLOCATION-!CN@CN
-HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,g.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gkecnapps.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,googlecnapps.cn,GEOLOCATION-!CN@CN
