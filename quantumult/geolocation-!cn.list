@@ -3051,8 +3051,12 @@ HOST-SUFFIX,cftest6.cn,GEOLOCATION-!CN
 HOST-SUFFIX,cftest7.com,GEOLOCATION-!CN
 HOST-SUFFIX,cftest8.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflare-cn.com,GEOLOCATION-!CN
+HOST-SUFFIX,cloudflareanycast.net,GEOLOCATION-!CN
+HOST-SUFFIX,cloudflarechina.cn,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflarecn.net,GEOLOCATION-!CN
+HOST-SUFFIX,cloudflareglobal.net,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflareinsights-cn.com,GEOLOCATION-!CN
+HOST-SUFFIX,cloudflareperf.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflareprod.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflarestaging.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflarestoragegw.com,GEOLOCATION-!CN
@@ -3174,6 +3178,7 @@ HOST-SUFFIX,easy-signing.com,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign-media.com,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign.be,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign.ch,GEOLOCATION-!CN
+HOST-SUFFIX,globalsign.cloud,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign.cn,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign.co.uk,GEOLOCATION-!CN
 HOST-SUFFIX,globalsign.com,GEOLOCATION-!CN
@@ -3455,6 +3460,8 @@ HOST-SUFFIX,telesco.pe,GEOLOCATION-!CN
 HOST-SUFFIX,tg.dev,GEOLOCATION-!CN
 HOST-SUFFIX,tx.me,GEOLOCATION-!CN
 HOST-SUFFIX,usercontent.dev,GEOLOCATION-!CN
+HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN
+HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN
 HOST-SUFFIX,wa.me,GEOLOCATION-!CN
 HOST-SUFFIX,whatsapp-plus.info,GEOLOCATION-!CN
 HOST-SUFFIX,whatsapp-plus.me,GEOLOCATION-!CN
@@ -6647,6 +6654,17 @@ HOST-SUFFIX,pincong.rocks,GEOLOCATION-!CN
 HOST-SUFFIX,safechat.com,GEOLOCATION-!CN
 HOST-SUFFIX,sis001.com,GEOLOCATION-!CN
 HOST-SUFFIX,v2ex.com,GEOLOCATION-!CN
+HOST-SUFFIX,b-graph.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,b-graph-fallback.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,star.fallback.c10r.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,star.c10r.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,connect.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,connect.facebook.net,GEOLOCATION-!CN
+HOST-SUFFIX,graph.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,graph-fallback.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,z-m-graph.facebook.com,GEOLOCATION-!CN
+HOST-SUFFIX,graph.fbpigeon.com,GEOLOCATION-!CN
+HOST-SUFFIX,mqtt-mini.facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,aboutfacebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,accessfacebookfromschool.com,GEOLOCATION-!CN
 HOST-SUFFIX,acebooik.com,GEOLOCATION-!CN
@@ -7042,6 +7060,8 @@ HOST-SUFFIX,redkix.com,GEOLOCATION-!CN
 HOST-SUFFIX,workplace.com,GEOLOCATION-!CN
 HOST-SUFFIX,workplaceusecases.com,GEOLOCATION-!CN
 HOST,fbcdn-a.akamaihd.net,GEOLOCATION-!CN
+HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN
+HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN
 HOST-SUFFIX,achat-followers-instagram.com,GEOLOCATION-!CN
 HOST-SUFFIX,acheter-followers-instagram.com,GEOLOCATION-!CN
 HOST-SUFFIX,acheterdesfollowersinstagram.com,GEOLOCATION-!CN
@@ -19863,6 +19883,7 @@ HOST-SUFFIX,bingads.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingagencyawards.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingapistatistics.com,GEOLOCATION-!CN
+HOST-SUFFIX,bingparachute.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingsandbox.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingvisualsearch.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingworld.com,GEOLOCATION-!CN

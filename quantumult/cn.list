@@ -496,8 +496,12 @@ HOST-SUFFIX,cftest6.cn,CN
 HOST-SUFFIX,cftest7.com,CN
 HOST-SUFFIX,cftest8.com,CN
 HOST-SUFFIX,cloudflare-cn.com,CN
+HOST-SUFFIX,cloudflareanycast.net,CN
+HOST-SUFFIX,cloudflarechina.cn,CN
 HOST-SUFFIX,cloudflarecn.net,CN
+HOST-SUFFIX,cloudflareglobal.net,CN
 HOST-SUFFIX,cloudflareinsights-cn.com,CN
+HOST-SUFFIX,cloudflareperf.com,CN
 HOST-SUFFIX,cloudflareprod.com,CN
 HOST-SUFFIX,cloudflarestaging.com,CN
 HOST-SUFFIX,cloudflarestoragegw.com,CN
@@ -3946,6 +3950,9 @@ HOST-SUFFIX,tfogc.com,CN
 HOST-SUFFIX,wechat.com,CN
 HOST-SUFFIX,wechatpay.cn,CN
 HOST-SUFFIX,weiyun.com,CN
+HOST-SUFFIX,wetv.vip,CN
+HOST-SUFFIX,wetvinfo.com,CN
+HOST,wetv.qq.com,CN
 HOST-SUFFIX,alloyteam.com,CN
 HOST-SUFFIX,imweb.io,CN
 HOST-SUFFIX,ivweb.io,CN

@@ -1,3 +1,14 @@
+HOST-SUFFIX,b-graph.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,b-graph-fallback.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,star.fallback.c10r.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,star.c10r.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,connect.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,connect.facebook.net,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,graph.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,graph-fallback.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,z-m-graph.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,graph.fbpigeon.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,mqtt-mini.facebook.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,aboutfacebook.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,accessfacebookfromschool.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,acebooik.com,CATEGORY-SOCIAL-MEDIA-!CN
@@ -393,6 +404,8 @@ HOST-SUFFIX,redkix.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,workplace.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,workplaceusecases.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST,fbcdn-a.akamaihd.net,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,graph.instagram.com,CATEGORY-SOCIAL-MEDIA-!CN
+HOST-SUFFIX,graph-fallback.instagram.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,achat-followers-instagram.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,acheter-followers-instagram.com,CATEGORY-SOCIAL-MEDIA-!CN
 HOST-SUFFIX,acheterdesfollowersinstagram.com,CATEGORY-SOCIAL-MEDIA-!CN

@@ -22,3 +22,6 @@ HOST-SUFFIX,ca.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,ger.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,supercell.com,TENCENT@!CN
 HOST-SUFFIX,tencent.co.id,TENCENT@!CN
+HOST-SUFFIX,wetv.vip,TENCENT@!CN
+HOST-SUFFIX,wetvinfo.com,TENCENT@!CN
+HOST,wetv.qq.com,TENCENT@!CN

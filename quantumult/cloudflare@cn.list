@@ -7,8 +7,12 @@ HOST-SUFFIX,cftest6.cn,CLOUDFLARE@CN
 HOST-SUFFIX,cftest7.com,CLOUDFLARE@CN
 HOST-SUFFIX,cftest8.com,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflare-cn.com,CLOUDFLARE@CN
+HOST-SUFFIX,cloudflareanycast.net,CLOUDFLARE@CN
+HOST-SUFFIX,cloudflarechina.cn,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflarecn.net,CLOUDFLARE@CN
+HOST-SUFFIX,cloudflareglobal.net,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflareinsights-cn.com,CLOUDFLARE@CN
+HOST-SUFFIX,cloudflareperf.com,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflareprod.com,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflarestaging.com,CLOUDFLARE@CN
 HOST-SUFFIX,cloudflarestoragegw.com,CLOUDFLARE@CN

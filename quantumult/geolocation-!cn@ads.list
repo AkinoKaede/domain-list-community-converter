@@ -1,4 +1,6 @@
 HOST-SUFFIX,ads.pubmatic.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ad.games.dmm.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,bluekai.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,fout.jp,GEOLOCATION-!CN@ADS
@@ -12,6 +14,19 @@ HOST-SUFFIX,microad.jp,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,socdm.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads-pixiv.net,GEOLOCATION-!CN@ADS
 HOST,o4504926511693824.ingest.sentry.io,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,b-graph.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,b-graph-fallback.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,star.fallback.c10r.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,star.c10r.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,connect.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,connect.facebook.net,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph-fallback.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,z-m-graph.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph.fbpigeon.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,mqtt-mini.facebook.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,openaicom.imgix.net,GEOLOCATION-!CN@ADS

@@ -4303,6 +4303,17 @@ DOMAIN-SUFFIX,worldsfastestgamer.net
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,b-graph.facebook.com
+DOMAIN-SUFFIX,b-graph-fallback.facebook.com
+DOMAIN-SUFFIX,star.fallback.c10r.facebook.com
+DOMAIN-SUFFIX,star.c10r.facebook.com
+DOMAIN-SUFFIX,connect.facebook.com
+DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,graph-fallback.facebook.com
+DOMAIN-SUFFIX,z-m-graph.facebook.com
+DOMAIN-SUFFIX,graph.fbpigeon.com
+DOMAIN-SUFFIX,mqtt-mini.facebook.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -4742,6 +4753,8 @@ DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN,developers.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -4836,6 +4849,8 @@ DOMAIN-SUFFIX,oculusrift.com
 DOMAIN-SUFFIX,oculusvr.com
 DOMAIN-SUFFIX,powersunitedvr.com
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me
@@ -4967,6 +4982,7 @@ DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingparachute.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
