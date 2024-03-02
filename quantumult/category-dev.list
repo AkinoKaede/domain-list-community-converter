@@ -260,6 +260,7 @@ HOST-SUFFIX,jetbrains.team,CATEGORY-DEV
 HOST-SUFFIX,datalore.io,CATEGORY-DEV
 HOST-SUFFIX,kotlinlang.org,CATEGORY-DEV
 HOST-SUFFIX,cdn.jetbrains.com,CATEGORY-DEV
+HOST-SUFFIX,download-cdn.jetbrains.com.cn,CATEGORY-DEV
 HOST-SUFFIX,grazie.ai,CATEGORY-DEV
 HOST-SUFFIX,grazie.aws.intellij.net,CATEGORY-DEV
 HOST-SUFFIX,jfrog.com,CATEGORY-DEV
@@ -448,6 +449,10 @@ HOST-SUFFIX,linuxfoundation.org,CATEGORY-DEV
 HOST-SUFFIX,topcoder.com,CATEGORY-DEV
 HOST-SUFFIX,unity.com,CATEGORY-DEV
 HOST-SUFFIX,unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,ads.unitychina.cn,CATEGORY-DEV
+HOST-SUFFIX,splash-ads.cdn.unity.cn,CATEGORY-DEV
+HOST-SUFFIX,splash-ads.unitychina.cn,CATEGORY-DEV
+HOST-SUFFIX,unityads.unity.cn,CATEGORY-DEV
 HOST-SUFFIX,unityads.unity3d.com,CATEGORY-DEV
 HOST-SUFFIX,unityads.unitychina.cn,CATEGORY-DEV
 HOST-SUFFIX,v8.dev,CATEGORY-DEV

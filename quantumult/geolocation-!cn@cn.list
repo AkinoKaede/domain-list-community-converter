@@ -366,6 +366,7 @@ HOST-SUFFIX,owsgo.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,teleows.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,saasops.tech,GEOLOCATION-!CN@CN
 HOST-SUFFIX,cdn.jetbrains.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,download-cdn.jetbrains.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reactorms.com.cn,GEOLOCATION-!CN@CN
@@ -982,6 +983,7 @@ HOST-SUFFIX,gpsonextra.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,izatcloud.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,qceventscenter.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,qualcomm.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,qualcomm.cn.cdn.cloudflare.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xtracloud.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,samsungeshop.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,stmicroelectronics.com.cn,GEOLOCATION-!CN@CN

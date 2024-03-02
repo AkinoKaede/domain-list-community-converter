@@ -64,6 +64,8 @@ HOST-SUFFIX,ntp.ntsc.ac.cn,CN@CN
 HOST-SUFFIX,ntp.org.cn,CN@CN
 HOST-SUFFIX,sl916.com,CN@CN
 HOST-SUFFIX,bluepoch.com,CN@CN
+HOST-SUFFIX,doubao.com,CN@CN
+HOST-SUFFIX,coze.cn,CN@CN
 HOST-SUFFIX,bisheng.cn,CN@CN
 HOST-SUFFIX,bishengcompiler.cn,CN@CN
 HOST-SUFFIX,devui.design,CN@CN

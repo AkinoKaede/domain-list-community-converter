@@ -34,6 +34,7 @@ HOST,p16-tiktokcdn-com.akamaized.net,GEOLOCATION-CN@!CN
 HOST-SUFFIX,byteoversea.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,ibytedtos.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,ibyteimg.com,GEOLOCATION-CN@!CN
+HOST-SUFFIX,coze.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,huaweicloud-dns.net,GEOLOCATION-CN@!CN
 HOST-SUFFIX,huaweicloud-dns.org,GEOLOCATION-CN@!CN
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,GEOLOCATION-CN@!CN

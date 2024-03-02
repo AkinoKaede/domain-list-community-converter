@@ -582,6 +582,10 @@ HOST-SUFFIX,alog.umeng.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,alog.umengcloud.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,w.cnzz.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,z.gds.cnzz.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,ads.unitychina.cn,CATEGORY-ADS-ALL
+HOST-SUFFIX,splash-ads.cdn.unity.cn,CATEGORY-ADS-ALL
+HOST-SUFFIX,splash-ads.unitychina.cn,CATEGORY-ADS-ALL
+HOST-SUFFIX,unityads.unity.cn,CATEGORY-ADS-ALL
 HOST-SUFFIX,unityads.unity3d.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,unityads.unitychina.cn,CATEGORY-ADS-ALL
 HOST-SUFFIX,ads.wteam.xyz,CATEGORY-ADS-ALL

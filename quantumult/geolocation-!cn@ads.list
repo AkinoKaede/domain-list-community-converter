@@ -30,6 +30,10 @@ HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,openaicom.imgix.net,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,ads.unitychina.cn,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,splash-ads.cdn.unity.cn,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,splash-ads.unitychina.cn,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,unityads.unity.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,unityads.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,unityads.unitychina.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertising.adobe.com,GEOLOCATION-!CN@ADS
