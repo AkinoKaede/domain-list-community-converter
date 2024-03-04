@@ -2,7 +2,7 @@ module github.com/AkinoKaede/domain-list-community-converter
 
 go 1.20
 
-require github.com/v2fly/v2ray-core/v5 v5.13.0
+require github.com/v2fly/v2ray-core/v5 v5.14.1
 
 require (
 	github.com/adrg/xdg v0.4.0 // indirect
