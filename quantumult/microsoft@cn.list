@@ -101,7 +101,7 @@ HOST-SUFFIX,powerbi.cn,MICROSOFT@CN
 HOST-SUFFIX,sharepoint.cn,MICROSOFT@CN
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,MICROSOFT@CN
 HOST-SUFFIX,download.windowsupdate.com,MICROSOFT@CN
-HOST,res.cdn.office.net,MICROSOFT@CN
+HOST,b.c2r.ts.cdn.office.net,MICROSOFT@CN
 HOST,bg.v4.a.dl.ws.microsoft.com,MICROSOFT@CN
 HOST,bg4.v4.a.dl.ws.microsoft.com,MICROSOFT@CN
 HOST,build.microsoft.com,MICROSOFT@CN
@@ -113,6 +113,7 @@ HOST,developer.microsoft.com,MICROSOFT@CN
 HOST,docs.microsoft.com,MICROSOFT@CN
 HOST,download.microsoft.com,MICROSOFT@CN
 HOST,download.visualstudio.microsoft.com,MICROSOFT@CN
+HOST,f.c2r.ts.cdn.office.net,MICROSOFT@CN
 HOST,fs.microsoft.com,MICROSOFT@CN
 HOST,learn.microsoft.com,MICROSOFT@CN
 HOST,msgr.dlservice.microsoft.com,MICROSOFT@CN
@@ -121,10 +122,14 @@ HOST,myvs.download.prss.microsoft.com,MICROSOFT@CN
 HOST,oemsoc.download.prss.microsoft.com,MICROSOFT@CN
 HOST,officecdn.microsoft.com,MICROSOFT@CN
 HOST,qh.dlservice.microsoft.com,MICROSOFT@CN
+HOST,res-1.cdn.office.net,MICROSOFT@CN
+HOST,res.cdn.office.net,MICROSOFT@CN
 HOST,sdx.microsoft.com,MICROSOFT@CN
+HOST,shell.cdn.office.net,MICROSOFT@CN
 HOST,silverlight.dlservice.microsoft.com,MICROSOFT@CN
 HOST,slupdate.dlservice.microsoft.com,MICROSOFT@CN
 HOST,software.download.prss.microsoft.com,MICROSOFT@CN
+HOST,statics.teams.cdn.office.net,MICROSOFT@CN
 HOST,storeedgefd.dsx.mp.microsoft.com,MICROSOFT@CN
 HOST,surface.downloads.prss.microsoft.com,MICROSOFT@CN
 HOST,vscode.download.prss.microsoft.com,MICROSOFT@CN

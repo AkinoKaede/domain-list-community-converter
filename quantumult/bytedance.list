@@ -71,7 +71,6 @@ HOST-SUFFIX,ctobsnssdk.com,BYTEDANCE
 HOST-SUFFIX,dig.bdurl.net,BYTEDANCE
 HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE
 HOST-SUFFIX,i.snssdk.com,BYTEDANCE
-HOST-SUFFIX,is.snssdk.com,BYTEDANCE
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE
@@ -220,6 +219,7 @@ HOST-SUFFIX,volctrack.com,BYTEDANCE
 HOST-SUFFIX,volctraffic.com,BYTEDANCE
 HOST-SUFFIX,volctranscdn.com,BYTEDANCE
 HOST-SUFFIX,volcvideo.com,BYTEDANCE
+HOST-SUFFIX,volcvideos.com,BYTEDANCE
 HOST-SUFFIX,volcvms.com,BYTEDANCE
 HOST-SUFFIX,volcvod.com,BYTEDANCE
 HOST-SUFFIX,volcwaf001.com,BYTEDANCE

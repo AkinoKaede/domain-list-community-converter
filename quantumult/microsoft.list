@@ -583,7 +583,7 @@ HOST-SUFFIX,skype-edf.akadns.net,MICROSOFT
 HOST-SUFFIX,skypedata.akadns.net,MICROSOFT
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,MICROSOFT
 HOST-SUFFIX,download.windowsupdate.com,MICROSOFT
-HOST,res.cdn.office.net,MICROSOFT
+HOST,b.c2r.ts.cdn.office.net,MICROSOFT
 HOST,bg.v4.a.dl.ws.microsoft.com,MICROSOFT
 HOST,bg4.v4.a.dl.ws.microsoft.com,MICROSOFT
 HOST,build.microsoft.com,MICROSOFT
@@ -595,6 +595,7 @@ HOST,developer.microsoft.com,MICROSOFT
 HOST,docs.microsoft.com,MICROSOFT
 HOST,download.microsoft.com,MICROSOFT
 HOST,download.visualstudio.microsoft.com,MICROSOFT
+HOST,f.c2r.ts.cdn.office.net,MICROSOFT
 HOST,fs.microsoft.com,MICROSOFT
 HOST,learn.microsoft.com,MICROSOFT
 HOST,msgr.dlservice.microsoft.com,MICROSOFT
@@ -603,10 +604,14 @@ HOST,myvs.download.prss.microsoft.com,MICROSOFT
 HOST,oemsoc.download.prss.microsoft.com,MICROSOFT
 HOST,officecdn.microsoft.com,MICROSOFT
 HOST,qh.dlservice.microsoft.com,MICROSOFT
+HOST,res-1.cdn.office.net,MICROSOFT
+HOST,res.cdn.office.net,MICROSOFT
 HOST,sdx.microsoft.com,MICROSOFT
+HOST,shell.cdn.office.net,MICROSOFT
 HOST,silverlight.dlservice.microsoft.com,MICROSOFT
 HOST,slupdate.dlservice.microsoft.com,MICROSOFT
 HOST,software.download.prss.microsoft.com,MICROSOFT
+HOST,statics.teams.cdn.office.net,MICROSOFT
 HOST,storeedgefd.dsx.mp.microsoft.com,MICROSOFT
 HOST,surface.downloads.prss.microsoft.com,MICROSOFT
 HOST,vscode.download.prss.microsoft.com,MICROSOFT

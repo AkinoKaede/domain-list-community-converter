@@ -940,7 +940,7 @@ HOST-SUFFIX,powerbi.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,sharepoint.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,download.windowsupdate.com,GEOLOCATION-!CN@CN
-HOST,res.cdn.office.net,GEOLOCATION-!CN@CN
+HOST,b.c2r.ts.cdn.office.net,GEOLOCATION-!CN@CN
 HOST,bg.v4.a.dl.ws.microsoft.com,GEOLOCATION-!CN@CN
 HOST,bg4.v4.a.dl.ws.microsoft.com,GEOLOCATION-!CN@CN
 HOST,build.microsoft.com,GEOLOCATION-!CN@CN
@@ -952,6 +952,7 @@ HOST,developer.microsoft.com,GEOLOCATION-!CN@CN
 HOST,docs.microsoft.com,GEOLOCATION-!CN@CN
 HOST,download.microsoft.com,GEOLOCATION-!CN@CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN@CN
+HOST,f.c2r.ts.cdn.office.net,GEOLOCATION-!CN@CN
 HOST,fs.microsoft.com,GEOLOCATION-!CN@CN
 HOST,learn.microsoft.com,GEOLOCATION-!CN@CN
 HOST,msgr.dlservice.microsoft.com,GEOLOCATION-!CN@CN
@@ -960,10 +961,14 @@ HOST,myvs.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,oemsoc.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,officecdn.microsoft.com,GEOLOCATION-!CN@CN
 HOST,qh.dlservice.microsoft.com,GEOLOCATION-!CN@CN
+HOST,res-1.cdn.office.net,GEOLOCATION-!CN@CN
+HOST,res.cdn.office.net,GEOLOCATION-!CN@CN
 HOST,sdx.microsoft.com,GEOLOCATION-!CN@CN
+HOST,shell.cdn.office.net,GEOLOCATION-!CN@CN
 HOST,silverlight.dlservice.microsoft.com,GEOLOCATION-!CN@CN
 HOST,slupdate.dlservice.microsoft.com,GEOLOCATION-!CN@CN
 HOST,software.download.prss.microsoft.com,GEOLOCATION-!CN@CN
+HOST,statics.teams.cdn.office.net,GEOLOCATION-!CN@CN
 HOST,storeedgefd.dsx.mp.microsoft.com,GEOLOCATION-!CN@CN
 HOST,surface.downloads.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN@CN

@@ -19,6 +19,7 @@ HOST-SUFFIX,cloudflarestoragegw.com,CLOUDFLARE
 HOST-SUFFIX,cf-ipfs.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-ipfs.com,CLOUDFLARE
 HOST-SUFFIX,argotunnel.com,CLOUDFLARE
+HOST-SUFFIX,cfl.re,CLOUDFLARE
 HOST-SUFFIX,cloudflare-dns.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-ech.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-esni.com,CLOUDFLARE

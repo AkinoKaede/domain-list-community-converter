@@ -13,11 +13,8 @@ HOST-SUFFIX,appsupdate.sinaapp.com,SINA@ADS
 HOST-SUFFIX,atm.sina.com,SINA@ADS
 HOST-SUFFIX,beacon.sina.com.cn,SINA@ADS
 HOST-SUFFIX,biz.weibo.com,SINA@ADS
-HOST-SUFFIX,c.biz.weibo.com,SINA@ADS
-HOST-SUFFIX,c.wcpt.biz.weibo.com,SINA@ADS
 HOST-SUFFIX,click.uve.mobile.sina.cn,SINA@ADS
 HOST-SUFFIX,click.uve.weibo.com,SINA@ADS
-HOST-SUFFIX,cm.dmp.sina.cn,SINA@ADS
 HOST-SUFFIX,contentrecommend-out.mobile.sina.cn,SINA@ADS
 HOST-SUFFIX,count.video.sina.com.cn,SINA@ADS
 HOST-SUFFIX,counter.sina.com.cn,SINA@ADS
@@ -32,17 +29,11 @@ HOST-SUFFIX,game.weibo.cn,SINA@ADS
 HOST-SUFFIX,game.weibo.com,SINA@ADS
 HOST-SUFFIX,gw5.push.mcp.weibo.cn,SINA@ADS
 HOST-SUFFIX,gw6.push.mcp.weibo.cn,SINA@ADS
-HOST-SUFFIX,img.adbox.sina.com.cn,SINA@ADS
-HOST-SUFFIX,img.amp.ad.sina.com.cn,SINA@ADS
 HOST-SUFFIX,int.dpool.sina.com.cn,SINA@ADS
 HOST-SUFFIX,interest.mix.sina.com.cn,SINA@ADS
-HOST-SUFFIX,log.interest.mix.sina.com.cn,SINA@ADS
 HOST-SUFFIX,log.mix.sina.com.cn,SINA@ADS
 HOST-SUFFIX,log.sina.cn,SINA@ADS
-HOST-SUFFIX,m.beacon.sina.com.cn,SINA@ADS
-HOST-SUFFIX,m.game.weibo.cn,SINA@ADS
 HOST-SUFFIX,mg.games.sina.com.cn,SINA@ADS
-HOST-SUFFIX,motu.p4p.sina.com.cn,SINA@ADS
 HOST-SUFFIX,newspush.sinajs.cn,SINA@ADS
 HOST-SUFFIX,oascentral.sina.com,SINA@ADS
 HOST-SUFFIX,oascentral.sina.com.hk,SINA@ADS
@@ -52,10 +43,8 @@ HOST-SUFFIX,pay.mobile.sina.cn,SINA@ADS
 HOST-SUFFIX,pfp.sina.com.cn,SINA@ADS
 HOST-SUFFIX,pfpip.sina.com,SINA@ADS
 HOST-SUFFIX,promote.biz.weibo.cn,SINA@ADS
-HOST-SUFFIX,r.dmp.sina.cn,SINA@ADS
 HOST-SUFFIX,rm.sina.com.cn,SINA@ADS
 HOST-SUFFIX,rs.sinajs.cn,SINA@ADS
-HOST-SUFFIX,s.alitui.weibo.com,SINA@ADS
 HOST-SUFFIX,s.img.mix.sina.com.cn,SINA@ADS
 HOST-SUFFIX,sapi.sina.cn,SINA@ADS
 HOST-SUFFIX,sax.sina.cn,SINA@ADS
@@ -79,5 +68,4 @@ HOST-SUFFIX,wbclick.mobile.sina.cn,SINA@ADS
 HOST-SUFFIX,wbpctips.mobile.sina.cn,SINA@ADS
 HOST-SUFFIX,widget.weibo.com,SINA@ADS
 HOST-SUFFIX,woocall.sina.com.cn,SINA@ADS
-HOST-SUFFIX,zc.biz.weibo.com,SINA@ADS
 HOST-SUFFIX,zymo.mps.weibo.com,SINA@ADS

@@ -1,7 +1,5 @@
 HOST-SUFFIX,b-graph.facebook.com,FACEBOOK-ADS
 HOST-SUFFIX,b-graph-fallback.facebook.com,FACEBOOK-ADS
-HOST-SUFFIX,star.fallback.c10r.facebook.com,FACEBOOK-ADS
-HOST-SUFFIX,star.c10r.facebook.com,FACEBOOK-ADS
 HOST-SUFFIX,connect.facebook.com,FACEBOOK-ADS
 HOST-SUFFIX,connect.facebook.net,FACEBOOK-ADS
 HOST-SUFFIX,graph.facebook.com,FACEBOOK-ADS

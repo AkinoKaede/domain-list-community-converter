@@ -16,7 +16,6 @@ HOST-SUFFIX,baidustatic.com,BAIDU@ADS
 HOST-SUFFIX,baidutv.baidu.com,BAIDU@ADS
 HOST-SUFFIX,banlv.baidu.com,BAIDU@ADS
 HOST-SUFFIX,bar.baidu.com,BAIDU@ADS
-HOST-SUFFIX,bdimg.share.baidu.com,BAIDU@ADS
 HOST-SUFFIX,bdplus.baidu.com,BAIDU@ADS
 HOST-SUFFIX,btlaunch.baidu.com,BAIDU@ADS
 HOST-SUFFIX,c.baidu.com,BAIDU@ADS
@@ -25,11 +24,8 @@ HOST-SUFFIX,cbjs.baidu.com,BAIDU@ADS
 HOST-SUFFIX,cjhq.baidu.com,BAIDU@ADS
 HOST-SUFFIX,cleaner.baidu.com,BAIDU@ADS
 HOST-SUFFIX,click.bes.baidu.com,BAIDU@ADS
-HOST-SUFFIX,click.hm.baidu.com,BAIDU@ADS
 HOST-SUFFIX,click.qianqian.com,BAIDU@ADS
-HOST-SUFFIX,cm.baichuan.baidu.com,BAIDU@ADS
 HOST-SUFFIX,cm.baidu.com,BAIDU@ADS
-HOST-SUFFIX,cm.pos.baidu.com,BAIDU@ADS
 HOST-SUFFIX,cpro.baidu.cn,BAIDU@ADS
 HOST-SUFFIX,cpro.baidu.com,BAIDU@ADS
 HOST-SUFFIX,cpro.baidustatic.com,BAIDU@ADS
@@ -67,7 +63,6 @@ HOST-SUFFIX,f10.baidu.com,BAIDU@ADS
 HOST-SUFFIX,fc-feed.cdn.bcebos.com,BAIDU@ADS
 HOST-SUFFIX,fclick.baidu.com,BAIDU@ADS
 HOST-SUFFIX,feed.baidu.com,BAIDU@ADS
-HOST-SUFFIX,fexclick.baidu.com,BAIDU@ADS
 HOST-SUFFIX,g.baidu.com,BAIDU@ADS
 HOST-SUFFIX,gimg.baidu.com,BAIDU@ADS
 HOST-SUFFIX,guanjia.baidu.com,BAIDU@ADS
@@ -106,13 +101,11 @@ HOST-SUFFIX,river.zhidao.baidu.com,BAIDU@ADS
 HOST-SUFFIX,rj.baidu.com,BAIDU@ADS
 HOST-SUFFIX,rplog.baidu.com,BAIDU@ADS
 HOST-SUFFIX,s.baidu.com,BAIDU@ADS
-HOST-SUFFIX,s.cpro.baidu.com,BAIDU@ADS
 HOST-SUFFIX,sa.tuisong.baidu.com,BAIDU@ADS
 HOST-SUFFIX,sclick.baidu.com,BAIDU@ADS
 HOST-SUFFIX,sestat.baidu.com,BAIDU@ADS
 HOST-SUFFIX,shadu.baidu.com,BAIDU@ADS
 HOST-SUFFIX,share.baidu.com,BAIDU@ADS
-HOST-SUFFIX,snippet.pos.baidu.com,BAIDU@ADS
 HOST-SUFFIX,sobar.baidu.com,BAIDU@ADS
 HOST-SUFFIX,sobartop.baidu.com,BAIDU@ADS
 HOST-SUFFIX,spcode.baidu.com,BAIDU@ADS
@@ -144,7 +137,6 @@ HOST-SUFFIX,weishi.baidu.com,BAIDU@ADS
 HOST-SUFFIX,wenku-cms.bj.bcebos.com,BAIDU@ADS
 HOST-SUFFIX,wisepush.video.baidu.com,BAIDU@ADS
 HOST-SUFFIX,wm.baidu.com,BAIDU@ADS
-HOST-SUFFIX,wn.pos.baidu.com,BAIDU@ADS
 HOST-SUFFIX,znsv.baidu.com,BAIDU@ADS
 HOST-SUFFIX,zz.bdstatic.com,BAIDU@ADS
 HOST-SUFFIX,zzy1.quyaoya.com,BAIDU@ADS

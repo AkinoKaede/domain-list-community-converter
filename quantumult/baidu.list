@@ -16,7 +16,6 @@ HOST-SUFFIX,baidustatic.com,BAIDU
 HOST-SUFFIX,baidutv.baidu.com,BAIDU
 HOST-SUFFIX,banlv.baidu.com,BAIDU
 HOST-SUFFIX,bar.baidu.com,BAIDU
-HOST-SUFFIX,bdimg.share.baidu.com,BAIDU
 HOST-SUFFIX,bdplus.baidu.com,BAIDU
 HOST-SUFFIX,btlaunch.baidu.com,BAIDU
 HOST-SUFFIX,c.baidu.com,BAIDU
@@ -25,11 +24,8 @@ HOST-SUFFIX,cbjs.baidu.com,BAIDU
 HOST-SUFFIX,cjhq.baidu.com,BAIDU
 HOST-SUFFIX,cleaner.baidu.com,BAIDU
 HOST-SUFFIX,click.bes.baidu.com,BAIDU
-HOST-SUFFIX,click.hm.baidu.com,BAIDU
 HOST-SUFFIX,click.qianqian.com,BAIDU
-HOST-SUFFIX,cm.baichuan.baidu.com,BAIDU
 HOST-SUFFIX,cm.baidu.com,BAIDU
-HOST-SUFFIX,cm.pos.baidu.com,BAIDU
 HOST-SUFFIX,cpro.baidu.cn,BAIDU
 HOST-SUFFIX,cpro.baidu.com,BAIDU
 HOST-SUFFIX,cpro.baidustatic.com,BAIDU
@@ -67,7 +63,6 @@ HOST-SUFFIX,f10.baidu.com,BAIDU
 HOST-SUFFIX,fc-feed.cdn.bcebos.com,BAIDU
 HOST-SUFFIX,fclick.baidu.com,BAIDU
 HOST-SUFFIX,feed.baidu.com,BAIDU
-HOST-SUFFIX,fexclick.baidu.com,BAIDU
 HOST-SUFFIX,g.baidu.com,BAIDU
 HOST-SUFFIX,gimg.baidu.com,BAIDU
 HOST-SUFFIX,guanjia.baidu.com,BAIDU
@@ -106,13 +101,11 @@ HOST-SUFFIX,river.zhidao.baidu.com,BAIDU
 HOST-SUFFIX,rj.baidu.com,BAIDU
 HOST-SUFFIX,rplog.baidu.com,BAIDU
 HOST-SUFFIX,s.baidu.com,BAIDU
-HOST-SUFFIX,s.cpro.baidu.com,BAIDU
 HOST-SUFFIX,sa.tuisong.baidu.com,BAIDU
 HOST-SUFFIX,sclick.baidu.com,BAIDU
 HOST-SUFFIX,sestat.baidu.com,BAIDU
 HOST-SUFFIX,shadu.baidu.com,BAIDU
 HOST-SUFFIX,share.baidu.com,BAIDU
-HOST-SUFFIX,snippet.pos.baidu.com,BAIDU
 HOST-SUFFIX,sobar.baidu.com,BAIDU
 HOST-SUFFIX,sobartop.baidu.com,BAIDU
 HOST-SUFFIX,spcode.baidu.com,BAIDU
@@ -144,7 +137,6 @@ HOST-SUFFIX,weishi.baidu.com,BAIDU
 HOST-SUFFIX,wenku-cms.bj.bcebos.com,BAIDU
 HOST-SUFFIX,wisepush.video.baidu.com,BAIDU
 HOST-SUFFIX,wm.baidu.com,BAIDU
-HOST-SUFFIX,wn.pos.baidu.com,BAIDU
 HOST-SUFFIX,znsv.baidu.com,BAIDU
 HOST-SUFFIX,zz.bdstatic.com,BAIDU
 HOST-SUFFIX,zzy1.quyaoya.com,BAIDU

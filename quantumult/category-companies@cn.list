@@ -591,7 +591,7 @@ HOST-SUFFIX,powerbi.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,sharepoint.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,download.windowsupdate.com,CATEGORY-COMPANIES@CN
-HOST,res.cdn.office.net,CATEGORY-COMPANIES@CN
+HOST,b.c2r.ts.cdn.office.net,CATEGORY-COMPANIES@CN
 HOST,bg.v4.a.dl.ws.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,bg4.v4.a.dl.ws.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,build.microsoft.com,CATEGORY-COMPANIES@CN
@@ -603,6 +603,7 @@ HOST,developer.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,docs.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,download.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES@CN
+HOST,f.c2r.ts.cdn.office.net,CATEGORY-COMPANIES@CN
 HOST,fs.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,learn.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,msgr.dlservice.microsoft.com,CATEGORY-COMPANIES@CN
@@ -611,10 +612,14 @@ HOST,myvs.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,oemsoc.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,officecdn.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,qh.dlservice.microsoft.com,CATEGORY-COMPANIES@CN
+HOST,res-1.cdn.office.net,CATEGORY-COMPANIES@CN
+HOST,res.cdn.office.net,CATEGORY-COMPANIES@CN
 HOST,sdx.microsoft.com,CATEGORY-COMPANIES@CN
+HOST,shell.cdn.office.net,CATEGORY-COMPANIES@CN
 HOST,silverlight.dlservice.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,slupdate.dlservice.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,software.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
+HOST,statics.teams.cdn.office.net,CATEGORY-COMPANIES@CN
 HOST,storeedgefd.dsx.mp.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,surface.downloads.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES@CN

@@ -2697,7 +2697,6 @@ HOST-SUFFIX,digitaloceanspaces.com,CATEGORY-COMPANIES
 HOST-SUFFIX,do.co,CATEGORY-COMPANIES
 HOST-SUFFIX,nginxconfig.io,CATEGORY-COMPANIES
 HOST-SUFFIX,ads-api.duolingo.com,CATEGORY-COMPANIES
-HOST-SUFFIX,excess.duolingo.com,CATEGORY-COMPANIES
 HOST-SUFFIX,metrics.duolingo.com,CATEGORY-COMPANIES
 HOST-SUFFIX,analytics.vpc.duolingo.com,CATEGORY-COMPANIES
 HOST-SUFFIX,duolingo.com,CATEGORY-COMPANIES
@@ -2857,7 +2856,6 @@ HOST-SUFFIX,adwords.com,CATEGORY-COMPANIES
 HOST-SUFFIX,adwordsexpress.com,CATEGORY-COMPANIES
 HOST-SUFFIX,app-measurement-cn.com,CATEGORY-COMPANIES
 HOST-SUFFIX,app-measurement.com,CATEGORY-COMPANIES
-HOST-SUFFIX,clickserver.googleads.com,CATEGORY-COMPANIES
 HOST-SUFFIX,doubleclick-cn.net,CATEGORY-COMPANIES
 HOST-SUFFIX,doubleclick.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,doubleclick.com,CATEGORY-COMPANIES
@@ -4305,8 +4303,6 @@ HOST-SUFFIX,mail.ru,CATEGORY-COMPANIES
 HOST-SUFFIX,mycdn.me,CATEGORY-COMPANIES
 HOST-SUFFIX,b-graph.facebook.com,CATEGORY-COMPANIES
 HOST-SUFFIX,b-graph-fallback.facebook.com,CATEGORY-COMPANIES
-HOST-SUFFIX,star.fallback.c10r.facebook.com,CATEGORY-COMPANIES
-HOST-SUFFIX,star.c10r.facebook.com,CATEGORY-COMPANIES
 HOST-SUFFIX,connect.facebook.com,CATEGORY-COMPANIES
 HOST-SUFFIX,connect.facebook.net,CATEGORY-COMPANIES
 HOST-SUFFIX,graph.facebook.com,CATEGORY-COMPANIES
@@ -5448,7 +5444,7 @@ HOST-SUFFIX,skype-edf.akadns.net,CATEGORY-COMPANIES
 HOST-SUFFIX,skypedata.akadns.net,CATEGORY-COMPANIES
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,CATEGORY-COMPANIES
 HOST-SUFFIX,download.windowsupdate.com,CATEGORY-COMPANIES
-HOST,res.cdn.office.net,CATEGORY-COMPANIES
+HOST,b.c2r.ts.cdn.office.net,CATEGORY-COMPANIES
 HOST,bg.v4.a.dl.ws.microsoft.com,CATEGORY-COMPANIES
 HOST,bg4.v4.a.dl.ws.microsoft.com,CATEGORY-COMPANIES
 HOST,build.microsoft.com,CATEGORY-COMPANIES
@@ -5460,6 +5456,7 @@ HOST,developer.microsoft.com,CATEGORY-COMPANIES
 HOST,docs.microsoft.com,CATEGORY-COMPANIES
 HOST,download.microsoft.com,CATEGORY-COMPANIES
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES
+HOST,f.c2r.ts.cdn.office.net,CATEGORY-COMPANIES
 HOST,fs.microsoft.com,CATEGORY-COMPANIES
 HOST,learn.microsoft.com,CATEGORY-COMPANIES
 HOST,msgr.dlservice.microsoft.com,CATEGORY-COMPANIES
@@ -5468,10 +5465,14 @@ HOST,myvs.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,oemsoc.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,officecdn.microsoft.com,CATEGORY-COMPANIES
 HOST,qh.dlservice.microsoft.com,CATEGORY-COMPANIES
+HOST,res-1.cdn.office.net,CATEGORY-COMPANIES
+HOST,res.cdn.office.net,CATEGORY-COMPANIES
 HOST,sdx.microsoft.com,CATEGORY-COMPANIES
+HOST,shell.cdn.office.net,CATEGORY-COMPANIES
 HOST,silverlight.dlservice.microsoft.com,CATEGORY-COMPANIES
 HOST,slupdate.dlservice.microsoft.com,CATEGORY-COMPANIES
 HOST,software.download.prss.microsoft.com,CATEGORY-COMPANIES
+HOST,statics.teams.cdn.office.net,CATEGORY-COMPANIES
 HOST,storeedgefd.dsx.mp.microsoft.com,CATEGORY-COMPANIES
 HOST,surface.downloads.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES
@@ -5968,6 +5969,9 @@ HOST-SUFFIX,sovec.net,CATEGORY-COMPANIES
 HOST-SUFFIX,spacex.com,CATEGORY-COMPANIES
 HOST-SUFFIX,st.com,CATEGORY-COMPANIES
 HOST-SUFFIX,stmicroelectronics.com.cn,CATEGORY-COMPANIES
+HOST-SUFFIX,tailscale.com,CATEGORY-COMPANIES
+HOST-SUFFIX,tailscale.io,CATEGORY-COMPANIES
+HOST-SUFFIX,ts.net,CATEGORY-COMPANIES
 HOST-SUFFIX,boringcompany.com,CATEGORY-COMPANIES
 HOST-SUFFIX,internetdownloadmanager.com,CATEGORY-COMPANIES
 HOST-SUFFIX,registeridm.com,CATEGORY-COMPANIES

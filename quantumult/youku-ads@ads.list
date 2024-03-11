@@ -14,8 +14,6 @@ HOST-SUFFIX,dmapp.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,e.stat.ykimg.com,YOUKU-ADS@ADS
 HOST-SUFFIX,gamex.mobile.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,guanggaoad.youku.com,YOUKU-ADS@ADS
-HOST-SUFFIX,hudong.pl.youku.com,YOUKU-ADS@ADS
-HOST-SUFFIX,huodong.pl.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,huodong.vip.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,hz.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,iyes.youku.com,YOUKU-ADS@ADS
@@ -38,7 +36,6 @@ HOST-SUFFIX,store.tv.api.3g.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,store.xl.api.3g.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,tdrec.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,test.ott.youku.com,YOUKU-ADS@ADS
-HOST-SUFFIX,test.sdk.m.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,v.l.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,val.api.youku.com,YOUKU-ADS@ADS
 HOST-SUFFIX,wan.youku.com,YOUKU-ADS@ADS

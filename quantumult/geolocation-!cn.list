@@ -1970,6 +1970,7 @@ HOST-SUFFIX,cloudflarestoragegw.com,GEOLOCATION-!CN
 HOST-SUFFIX,cf-ipfs.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflare-ipfs.com,GEOLOCATION-!CN
 HOST-SUFFIX,argotunnel.com,GEOLOCATION-!CN
+HOST-SUFFIX,cfl.re,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflare-dns.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflare-ech.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflare-esni.com,GEOLOCATION-!CN
@@ -2454,6 +2455,9 @@ HOST-SUFFIX,localbitcoins.com,GEOLOCATION-!CN
 HOST-SUFFIX,localbitcoinschain.com,GEOLOCATION-!CN
 HOST-SUFFIX,okex.com,GEOLOCATION-!CN
 HOST-SUFFIX,okx.com,GEOLOCATION-!CN
+HOST-SUFFIX,okx-dns.com,GEOLOCATION-!CN
+HOST-SUFFIX,okx-dns1.com,GEOLOCATION-!CN
+HOST-SUFFIX,okx-dns2.com,GEOLOCATION-!CN
 HOST-SUFFIX,oklink.com,GEOLOCATION-!CN
 HOST-SUFFIX,onekey-asset.com,GEOLOCATION-!CN
 HOST-SUFFIX,onekey.so,GEOLOCATION-!CN
@@ -5543,6 +5547,7 @@ HOST-SUFFIX,poecdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,qr.ae,GEOLOCATION-!CN
 HOST-SUFFIX,quora.com,GEOLOCATION-!CN
 HOST-SUFFIX,quoracdn.net,GEOLOCATION-!CN
+HOST-SUFFIX,reddit.app.link,GEOLOCATION-!CN
 HOST-SUFFIX,reddit.com,GEOLOCATION-!CN
 HOST-SUFFIX,redditstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,redditmail.com,GEOLOCATION-!CN
@@ -5563,8 +5568,6 @@ HOST-SUFFIX,sis001.com,GEOLOCATION-!CN
 HOST-SUFFIX,v2ex.com,GEOLOCATION-!CN
 HOST-SUFFIX,b-graph.facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,b-graph-fallback.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,star.fallback.c10r.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,star.c10r.facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,connect.facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,connect.facebook.net,GEOLOCATION-!CN
 HOST-SUFFIX,graph.facebook.com,GEOLOCATION-!CN
@@ -6192,6 +6195,7 @@ HOST-SUFFIX,bbc-reporting-api.app,GEOLOCATION-!CN
 HOST-SUFFIX,bbc.co.uk,GEOLOCATION-!CN
 HOST-SUFFIX,bbc.com,GEOLOCATION-!CN
 HOST-SUFFIX,bbc.in,GEOLOCATION-!CN
+HOST-SUFFIX,bbc.mp-pxcdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,bbc.net.uk,GEOLOCATION-!CN
 HOST-SUFFIX,bbcfmt.s.llnwi.net,GEOLOCATION-!CN
 HOST-SUFFIX,bbci.co.uk,GEOLOCATION-!CN
@@ -14564,9 +14568,11 @@ HOST,openaicom.imgix.net,GEOLOCATION-!CN
 HOST-SUFFIX,openwrt.org,GEOLOCATION-!CN
 HOST-SUFFIX,lede-project.org,GEOLOCATION-!CN
 HOST-SUFFIX,osdn.net,GEOLOCATION-!CN
+HOST-SUFFIX,perl.apache.org,GEOLOCATION-!CN
 HOST-SUFFIX,perl.org,GEOLOCATION-!CN
 HOST-SUFFIX,cpan.org,GEOLOCATION-!CN
 HOST-SUFFIX,metacpan.org,GEOLOCATION-!CN
+HOST-SUFFIX,modperl.pl,GEOLOCATION-!CN
 HOST-SUFFIX,polymer-project.org,GEOLOCATION-!CN
 HOST-SUFFIX,polymerproject.org,GEOLOCATION-!CN
 HOST-SUFFIX,pycon.org,GEOLOCATION-!CN
@@ -17373,7 +17379,6 @@ HOST-SUFFIX,dell-brand.com,GEOLOCATION-!CN
 HOST-SUFFIX,dell.com,GEOLOCATION-!CN
 HOST-SUFFIX,dellcdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,ads-api.duolingo.com,GEOLOCATION-!CN
-HOST-SUFFIX,excess.duolingo.com,GEOLOCATION-!CN
 HOST-SUFFIX,metrics.duolingo.com,GEOLOCATION-!CN
 HOST-SUFFIX,analytics.vpc.duolingo.com,GEOLOCATION-!CN
 HOST-SUFFIX,duolingo.com,GEOLOCATION-!CN
@@ -17496,7 +17501,6 @@ HOST-SUFFIX,adwords.com,GEOLOCATION-!CN
 HOST-SUFFIX,adwordsexpress.com,GEOLOCATION-!CN
 HOST-SUFFIX,app-measurement-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,app-measurement.com,GEOLOCATION-!CN
-HOST-SUFFIX,clickserver.googleads.com,GEOLOCATION-!CN
 HOST-SUFFIX,doubleclick-cn.net,GEOLOCATION-!CN
 HOST-SUFFIX,doubleclick.cn,GEOLOCATION-!CN
 HOST-SUFFIX,doubleclick.com,GEOLOCATION-!CN
@@ -19125,7 +19129,7 @@ HOST-SUFFIX,skype-edf.akadns.net,GEOLOCATION-!CN
 HOST-SUFFIX,skypedata.akadns.net,GEOLOCATION-!CN
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,download.windowsupdate.com,GEOLOCATION-!CN
-HOST,res.cdn.office.net,GEOLOCATION-!CN
+HOST,b.c2r.ts.cdn.office.net,GEOLOCATION-!CN
 HOST,bg.v4.a.dl.ws.microsoft.com,GEOLOCATION-!CN
 HOST,bg4.v4.a.dl.ws.microsoft.com,GEOLOCATION-!CN
 HOST,build.microsoft.com,GEOLOCATION-!CN
@@ -19137,6 +19141,7 @@ HOST,developer.microsoft.com,GEOLOCATION-!CN
 HOST,docs.microsoft.com,GEOLOCATION-!CN
 HOST,download.microsoft.com,GEOLOCATION-!CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN
+HOST,f.c2r.ts.cdn.office.net,GEOLOCATION-!CN
 HOST,fs.microsoft.com,GEOLOCATION-!CN
 HOST,learn.microsoft.com,GEOLOCATION-!CN
 HOST,msgr.dlservice.microsoft.com,GEOLOCATION-!CN
@@ -19145,10 +19150,14 @@ HOST,myvs.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,oemsoc.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,officecdn.microsoft.com,GEOLOCATION-!CN
 HOST,qh.dlservice.microsoft.com,GEOLOCATION-!CN
+HOST,res-1.cdn.office.net,GEOLOCATION-!CN
+HOST,res.cdn.office.net,GEOLOCATION-!CN
 HOST,sdx.microsoft.com,GEOLOCATION-!CN
+HOST,shell.cdn.office.net,GEOLOCATION-!CN
 HOST,silverlight.dlservice.microsoft.com,GEOLOCATION-!CN
 HOST,slupdate.dlservice.microsoft.com,GEOLOCATION-!CN
 HOST,software.download.prss.microsoft.com,GEOLOCATION-!CN
+HOST,statics.teams.cdn.office.net,GEOLOCATION-!CN
 HOST,storeedgefd.dsx.mp.microsoft.com,GEOLOCATION-!CN
 HOST,surface.downloads.prss.microsoft.com,GEOLOCATION-!CN
 HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN
@@ -19526,6 +19535,9 @@ HOST-SUFFIX,sovec.net,GEOLOCATION-!CN
 HOST-SUFFIX,spacex.com,GEOLOCATION-!CN
 HOST-SUFFIX,st.com,GEOLOCATION-!CN
 HOST-SUFFIX,stmicroelectronics.com.cn,GEOLOCATION-!CN
+HOST-SUFFIX,tailscale.com,GEOLOCATION-!CN
+HOST-SUFFIX,tailscale.io,GEOLOCATION-!CN
+HOST-SUFFIX,ts.net,GEOLOCATION-!CN
 HOST-SUFFIX,boringcompany.com,GEOLOCATION-!CN
 HOST-SUFFIX,internetdownloadmanager.com,GEOLOCATION-!CN
 HOST-SUFFIX,registeridm.com,GEOLOCATION-!CN

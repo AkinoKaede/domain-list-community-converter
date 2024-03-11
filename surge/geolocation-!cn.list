@@ -1970,6 +1970,7 @@ DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cfl.re
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflare-esni.com
@@ -2454,6 +2455,9 @@ DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
@@ -5543,6 +5547,7 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmail.com
@@ -5563,8 +5568,6 @@ DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,b-graph.facebook.com
 DOMAIN-SUFFIX,b-graph-fallback.facebook.com
-DOMAIN-SUFFIX,star.fallback.c10r.facebook.com
-DOMAIN-SUFFIX,star.c10r.facebook.com
 DOMAIN-SUFFIX,connect.facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,graph.facebook.com
@@ -6192,6 +6195,7 @@ DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbc.mp-pxcdn.com
 DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
 DOMAIN-SUFFIX,bbci.co.uk
@@ -14564,9 +14568,11 @@ DOMAIN,openaicom.imgix.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,lede-project.org
 DOMAIN-SUFFIX,osdn.net
+DOMAIN-SUFFIX,perl.apache.org
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,pycon.org
@@ -17373,7 +17379,6 @@ DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
-DOMAIN-SUFFIX,excess.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,duolingo.com
@@ -17496,7 +17501,6 @@ DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,clickserver.googleads.com
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
 DOMAIN-SUFFIX,doubleclick.com
@@ -19125,7 +19129,7 @@ DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
-DOMAIN,res.cdn.office.net
+DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN,build.microsoft.com
@@ -19137,6 +19141,7 @@ DOMAIN,developer.microsoft.com
 DOMAIN,docs.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,fs.microsoft.com
 DOMAIN,learn.microsoft.com
 DOMAIN,msgr.dlservice.microsoft.com
@@ -19145,10 +19150,14 @@ DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,qh.dlservice.microsoft.com
+DOMAIN,res-1.cdn.office.net
+DOMAIN,res.cdn.office.net
 DOMAIN,sdx.microsoft.com
+DOMAIN,shell.cdn.office.net
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
+DOMAIN,statics.teams.cdn.office.net
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
@@ -19526,6 +19535,9 @@ DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,st.com
 DOMAIN-SUFFIX,stmicroelectronics.com.cn
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,boringcompany.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
 DOMAIN-SUFFIX,registeridm.com
