@@ -5192,6 +5192,8 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,themoviedb.org
@@ -5553,6 +5555,7 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmail.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,yamibo.com
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,avsforum.com
 DOMAIN-SUFFIX,disp.cc
@@ -14063,6 +14066,8 @@ DOMAIN-SUFFIX,pise.pw
 DOMAIN-SUFFIX,pros.ee
 DOMAIN-SUFFIX,pse.is
 DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,ping.sx
+DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playcover.workers.dev
 DOMAIN-SUFFIX,pm.me

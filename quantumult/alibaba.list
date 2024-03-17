@@ -4,11 +4,17 @@ HOST-SUFFIX,taobao,ALIBABA
 HOST-SUFFIX,tmall,ALIBABA
 HOST-SUFFIX,a.alimama.cn,ALIBABA
 HOST-SUFFIX,acjs.aliyun.com,ALIBABA
+HOST-SUFFIX,adash-c.m.taobao.com,ALIBABA
+HOST-SUFFIX,adash-c.ut.taobao.com,ALIBABA
+HOST-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com,ALIBABA
 HOST-SUFFIX,adash.m.taobao.com,ALIBABA
+HOST-SUFFIX,adash.man.aliyuncs.com,ALIBABA
 HOST-SUFFIX,adashbc.m.taobao.com,ALIBABA
 HOST-SUFFIX,adashbc.ut.taobao.com,ALIBABA
-HOST-SUFFIX,adash-c.ut.taobao.com,ALIBABA
 HOST-SUFFIX,adashx.m.taobao.com,ALIBABA
+HOST-SUFFIX,adashx.ut.amap.com,ALIBABA
+HOST-SUFFIX,adashx.ut.ele.me,ALIBABA
+HOST-SUFFIX,adashx.ut.youku.com,ALIBABA
 HOST-SUFFIX,adashx4ae.ut.taobao.com,ALIBABA
 HOST-SUFFIX,adashx4yt.m.taobao.com,ALIBABA
 HOST-SUFFIX,adashxgc.ut.taobao.com,ALIBABA
@@ -24,6 +30,7 @@ HOST-SUFFIX,api.waptest.taobao.com,ALIBABA
 HOST-SUFFIX,apoll.m.taobao.com,ALIBABA
 HOST-SUFFIX,atanx.alicdn.com,ALIBABA
 HOST-SUFFIX,atanx2.alicdn.com,ALIBABA
+HOST-SUFFIX,c-adash.m.taobao.com,ALIBABA
 HOST-SUFFIX,cdn0.mobmore.com,ALIBABA
 HOST-SUFFIX,click.aliyun.com,ALIBABA
 HOST-SUFFIX,click.mz.simba.taobao.com,ALIBABA
@@ -42,6 +49,10 @@ HOST-SUFFIX,gtms01.alicdn.com,ALIBABA
 HOST-SUFFIX,gtms02.alicdn.com,ALIBABA
 HOST-SUFFIX,gtms03.alicdn.com,ALIBABA
 HOST-SUFFIX,gtms04.alicdn.com,ALIBABA
+HOST-SUFFIX,h-adashx.ut.ele.me,ALIBABA
+HOST-SUFFIX,h-adashx.ut.taobao.com,ALIBABA
+HOST-SUFFIX,h-adashx.ut.youku.com,ALIBABA
+HOST-SUFFIX,h-adashx4yt.ut.taobao.com,ALIBABA
 HOST-SUFFIX,hydra.alibaba.com,ALIBABA
 HOST-SUFFIX,hz.pre.tbusergw.taobao.net,ALIBABA
 HOST-SUFFIX,hz.tbusergw.taobao.net,ALIBABA
@@ -51,6 +62,7 @@ HOST-SUFFIX,intl.wapa.taobao.com,ALIBABA
 HOST-SUFFIX,intl.waptest.taobao.com,ALIBABA
 HOST-SUFFIX,jxlog.istreamsche.com,ALIBABA
 HOST-SUFFIX,log.umtrack.com,ALIBABA
+HOST-SUFFIX,m-adash.m.taobao.com,ALIBABA
 HOST-SUFFIX,m.intl.taobao.com,ALIBABA
 HOST-SUFFIX,m.simba.taobao.com,ALIBABA
 HOST-SUFFIX,match.p4p.1688.com,ALIBABA
@@ -82,6 +94,10 @@ HOST-SUFFIX,tongji.linezing.com,ALIBABA
 HOST-SUFFIX,tvupgrade.yunos.com,ALIBABA
 HOST-SUFFIX,tyh.taobao.com,ALIBABA
 HOST-SUFFIX,userimg.qunar.com,ALIBABA
+HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA
+HOST-SUFFIX,v6-adashx.ut.cainiao.com,ALIBABA
+HOST-SUFFIX,v6-adashx.ut.ele.me,ALIBABA
+HOST-SUFFIX,v6-adashx.ut.taobao.com,ALIBABA
 HOST-SUFFIX,w.m.taobao.com,ALIBABA
 HOST-SUFFIX,yiliao.hupan.com,ALIBABA
 HOST-SUFFIX,alibabacloud.co.in,ALIBABA

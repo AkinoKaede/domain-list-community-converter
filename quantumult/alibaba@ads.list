@@ -1,10 +1,16 @@
 HOST-SUFFIX,a.alimama.cn,ALIBABA@ADS
 HOST-SUFFIX,acjs.aliyun.com,ALIBABA@ADS
+HOST-SUFFIX,adash-c.m.taobao.com,ALIBABA@ADS
+HOST-SUFFIX,adash-c.ut.taobao.com,ALIBABA@ADS
+HOST-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com,ALIBABA@ADS
 HOST-SUFFIX,adash.m.taobao.com,ALIBABA@ADS
+HOST-SUFFIX,adash.man.aliyuncs.com,ALIBABA@ADS
 HOST-SUFFIX,adashbc.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,adashbc.ut.taobao.com,ALIBABA@ADS
-HOST-SUFFIX,adash-c.ut.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,adashx.m.taobao.com,ALIBABA@ADS
+HOST-SUFFIX,adashx.ut.amap.com,ALIBABA@ADS
+HOST-SUFFIX,adashx.ut.ele.me,ALIBABA@ADS
+HOST-SUFFIX,adashx.ut.youku.com,ALIBABA@ADS
 HOST-SUFFIX,adashx4ae.ut.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,adashx4yt.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,adashxgc.ut.taobao.com,ALIBABA@ADS
@@ -20,6 +26,7 @@ HOST-SUFFIX,api.waptest.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,apoll.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,atanx.alicdn.com,ALIBABA@ADS
 HOST-SUFFIX,atanx2.alicdn.com,ALIBABA@ADS
+HOST-SUFFIX,c-adash.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,cdn0.mobmore.com,ALIBABA@ADS
 HOST-SUFFIX,click.aliyun.com,ALIBABA@ADS
 HOST-SUFFIX,click.mz.simba.taobao.com,ALIBABA@ADS
@@ -38,6 +45,10 @@ HOST-SUFFIX,gtms01.alicdn.com,ALIBABA@ADS
 HOST-SUFFIX,gtms02.alicdn.com,ALIBABA@ADS
 HOST-SUFFIX,gtms03.alicdn.com,ALIBABA@ADS
 HOST-SUFFIX,gtms04.alicdn.com,ALIBABA@ADS
+HOST-SUFFIX,h-adashx.ut.ele.me,ALIBABA@ADS
+HOST-SUFFIX,h-adashx.ut.taobao.com,ALIBABA@ADS
+HOST-SUFFIX,h-adashx.ut.youku.com,ALIBABA@ADS
+HOST-SUFFIX,h-adashx4yt.ut.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,hydra.alibaba.com,ALIBABA@ADS
 HOST-SUFFIX,hz.pre.tbusergw.taobao.net,ALIBABA@ADS
 HOST-SUFFIX,hz.tbusergw.taobao.net,ALIBABA@ADS
@@ -47,6 +58,7 @@ HOST-SUFFIX,intl.wapa.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,intl.waptest.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,jxlog.istreamsche.com,ALIBABA@ADS
 HOST-SUFFIX,log.umtrack.com,ALIBABA@ADS
+HOST-SUFFIX,m-adash.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,m.intl.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,m.simba.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,match.p4p.1688.com,ALIBABA@ADS
@@ -78,6 +90,10 @@ HOST-SUFFIX,tongji.linezing.com,ALIBABA@ADS
 HOST-SUFFIX,tvupgrade.yunos.com,ALIBABA@ADS
 HOST-SUFFIX,tyh.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,userimg.qunar.com,ALIBABA@ADS
+HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA@ADS
+HOST-SUFFIX,v6-adashx.ut.cainiao.com,ALIBABA@ADS
+HOST-SUFFIX,v6-adashx.ut.ele.me,ALIBABA@ADS
+HOST-SUFFIX,v6-adashx.ut.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,w.m.taobao.com,ALIBABA@ADS
 HOST-SUFFIX,yiliao.hupan.com,ALIBABA@ADS
 HOST-SUFFIX,alog.umeng.com,ALIBABA@ADS
