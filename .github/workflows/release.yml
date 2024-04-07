@@ -26,7 +26,7 @@ jobs:
           path: domain-list-community
 
       - name: Setup Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v5
         with:
           go-version: ^1.21
 
