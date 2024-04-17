@@ -14,15 +14,6 @@ DOMAIN-SUFFIX,microad.jp
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN,o4504926511693824.ingest.sentry.io
-DOMAIN-SUFFIX,b-graph.facebook.com
-DOMAIN-SUFFIX,b-graph-fallback.facebook.com
-DOMAIN-SUFFIX,connect.facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,graph-fallback.facebook.com
-DOMAIN-SUFFIX,z-m-graph.facebook.com
-DOMAIN-SUFFIX,graph.fbpigeon.com
-DOMAIN-SUFFIX,mqtt-mini.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,collector.xhamster.com

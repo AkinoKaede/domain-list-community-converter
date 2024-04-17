@@ -5570,15 +5570,6 @@ HOST-SUFFIX,pincong.rocks,GEOLOCATION-!CN
 HOST-SUFFIX,safechat.com,GEOLOCATION-!CN
 HOST-SUFFIX,sis001.com,GEOLOCATION-!CN
 HOST-SUFFIX,v2ex.com,GEOLOCATION-!CN
-HOST-SUFFIX,b-graph.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,b-graph-fallback.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,connect.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,connect.facebook.net,GEOLOCATION-!CN
-HOST-SUFFIX,graph.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,graph-fallback.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,z-m-graph.facebook.com,GEOLOCATION-!CN
-HOST-SUFFIX,graph.fbpigeon.com,GEOLOCATION-!CN
-HOST-SUFFIX,mqtt-mini.facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,aboutfacebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,accessfacebookfromschool.com,GEOLOCATION-!CN
 HOST-SUFFIX,acebooik.com,GEOLOCATION-!CN

@@ -1,12 +1,3 @@
-HOST-SUFFIX,b-graph.facebook.com,META
-HOST-SUFFIX,b-graph-fallback.facebook.com,META
-HOST-SUFFIX,connect.facebook.com,META
-HOST-SUFFIX,connect.facebook.net,META
-HOST-SUFFIX,graph.facebook.com,META
-HOST-SUFFIX,graph-fallback.facebook.com,META
-HOST-SUFFIX,z-m-graph.facebook.com,META
-HOST-SUFFIX,graph.fbpigeon.com,META
-HOST-SUFFIX,mqtt-mini.facebook.com,META
 HOST-SUFFIX,aboutfacebook.com,META
 HOST-SUFFIX,accessfacebookfromschool.com,META
 HOST-SUFFIX,acebooik.com,META

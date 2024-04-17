@@ -14,15 +14,6 @@ HOST-SUFFIX,microad.jp,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,socdm.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads-pixiv.net,GEOLOCATION-!CN@ADS
 HOST,o4504926511693824.ingest.sentry.io,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,b-graph.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,b-graph-fallback.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,connect.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,connect.facebook.net,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,graph.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,graph-fallback.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,z-m-graph.facebook.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,graph.fbpigeon.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,mqtt-mini.facebook.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
