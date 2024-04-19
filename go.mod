@@ -4,7 +4,7 @@ go 1.21
 
 toolchain go1.22.1
 
-require github.com/v2fly/v2ray-core/v5 v5.15.1
+require github.com/v2fly/v2ray-core/v5 v5.15.3
 
 require (
 	github.com/adrg/xdg v0.4.0 // indirect
