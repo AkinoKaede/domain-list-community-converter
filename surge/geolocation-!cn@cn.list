@@ -43,9 +43,12 @@ DOMAIN-SUFFIX,visapay.cn
 DOMAIN-SUFFIX,visaplatinum.cn
 DOMAIN-SUFFIX,visaplatinum.com.cn
 DOMAIN-SUFFIX,accdn.com.cn
+DOMAIN-SUFFIX,akadns88.net
+DOMAIN-SUFFIX,akadns99.net
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,akcdn.com.cn
 DOMAIN-SUFFIX,aptdn.net
+DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,janrain.biz
 DOMAIN-SUFFIX,janrainservices.com
 DOMAIN-SUFFIX,skycdn.com.cn
@@ -958,6 +961,7 @@ DOMAIN-SUFFIX,azure-dns.cn
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com

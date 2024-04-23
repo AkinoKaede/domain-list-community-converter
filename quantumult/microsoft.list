@@ -139,6 +139,7 @@ HOST-SUFFIX,sprinklesapp.com,MICROSOFT
 HOST,location.microsoft.com,MICROSOFT
 HOST-SUFFIX,cn.bing.com,MICROSOFT
 HOST-SUFFIX,cn.bing.net,MICROSOFT
+HOST-SUFFIX,cn.mm.bing.net,MICROSOFT
 HOST-SUFFIX,ditu.live.com,MICROSOFT
 HOST,bj1.api.bing.com,MICROSOFT
 HOST,emoi-cncdn.bing.com,MICROSOFT

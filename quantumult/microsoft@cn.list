@@ -57,6 +57,7 @@ HOST-SUFFIX,azure-dns.cn,MICROSOFT@CN
 HOST-SUFFIX,bing.com.cn,MICROSOFT@CN
 HOST-SUFFIX,cn.bing.com,MICROSOFT@CN
 HOST-SUFFIX,cn.bing.net,MICROSOFT@CN
+HOST-SUFFIX,cn.mm.bing.net,MICROSOFT@CN
 HOST-SUFFIX,ditu.live.com,MICROSOFT@CN
 HOST,bj1.api.bing.com,MICROSOFT@CN
 HOST,emoi-cncdn.bing.com,MICROSOFT@CN
