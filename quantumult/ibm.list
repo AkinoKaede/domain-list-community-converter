@@ -1,3 +1,11 @@
+HOST-SUFFIX,consul.io,IBM
+HOST-SUFFIX,hashicorp.com,IBM
+HOST-SUFFIX,nomadproject.io,IBM
+HOST-SUFFIX,packer.io,IBM
+HOST-SUFFIX,terraform.io,IBM
+HOST-SUFFIX,vagrantcloud.com,IBM
+HOST-SUFFIX,vagrantup.com,IBM
+HOST-SUFFIX,vaultproject.io,IBM
 HOST-SUFFIX,ibm,IBM
 HOST-SUFFIX,weatherchannel,IBM
 HOST-SUFFIX,weather,IBM
