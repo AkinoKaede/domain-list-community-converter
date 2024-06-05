@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,privacytools.io
+DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,shadowsocks.org
@@ -5077,6 +5078,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
 DOMAIN-SUFFIX,netflixdnstest2.com
 DOMAIN-SUFFIX,netflixdnstest3.com
@@ -13805,6 +13807,7 @@ DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,fayuanbooks.com
 DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,ganjing.com
+DOMAIN-SUFFIX,ganjing.world
 DOMAIN-SUFFIX,ganjingworld.com
 DOMAIN-SUFFIX,guangming.org
 DOMAIN-SUFFIX,mhradio.org
@@ -14377,6 +14380,7 @@ DOMAIN-SUFFIX,flathub.org
 DOMAIN-SUFFIX,flatpak.org
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fury.blog

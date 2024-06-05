@@ -99,6 +99,7 @@ HOST,firebaseperusertopics-pa.googleapis.com,GOOGLE
 HOST,firebaseremoteconfig.googleapis.com,GOOGLE
 HOST-SUFFIX,flutter.dev,GOOGLE
 HOST-SUFFIX,flutterapp.com,GOOGLE
+HOST-SUFFIX,pub.dev,GOOGLE
 HOST-SUFFIX,go-lang.com,GOOGLE
 HOST-SUFFIX,go-lang.net,GOOGLE
 HOST-SUFFIX,go-lang.org,GOOGLE
