@@ -192,6 +192,8 @@ DOMAIN,menu-static.gog-statics.com
 DOMAIN,productcard.gog-statics.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -340,6 +342,7 @@ DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,reabble.cn
+DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.cn

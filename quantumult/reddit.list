@@ -1,6 +1,9 @@
+HOST-SUFFIX,redd.it,REDDIT
 HOST-SUFFIX,reddit.app.link,REDDIT
 HOST-SUFFIX,reddit.com,REDDIT
-HOST-SUFFIX,redditstatic.com,REDDIT
+HOST-SUFFIX,reddithelp.com,REDDIT
 HOST-SUFFIX,redditmail.com,REDDIT
 HOST-SUFFIX,redditmedia.com,REDDIT
+HOST-SUFFIX,redditstatic.com,REDDIT
 HOST-SUFFIX,redd.it,REDDIT
+HOST,reddit.map.fastly.net,REDDIT

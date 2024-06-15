@@ -1,12 +1,5 @@
-HOST-SUFFIX,b-graph.facebook.com,META-ADS
-HOST-SUFFIX,b-graph-fallback.facebook.com,META-ADS
-HOST-SUFFIX,connect.facebook.com,META-ADS
-HOST-SUFFIX,connect.facebook.net,META-ADS
-HOST-SUFFIX,graph.facebook.com,META-ADS
-HOST-SUFFIX,graph-fallback.facebook.com,META-ADS
-HOST-SUFFIX,z-m-graph.facebook.com,META-ADS
-HOST-SUFFIX,graph.fbpigeon.com,META-ADS
-HOST-SUFFIX,mqtt-mini.facebook.com,META-ADS
+HOST-SUFFIX,analytics.facebook.com,META-ADS
+HOST-SUFFIX,pixel.facebook.com,META-ADS
 HOST-SUFFIX,graph.instagram.com,META-ADS
 HOST-SUFFIX,graph-fallback.instagram.com,META-ADS
 HOST-SUFFIX,graph.whatsapp.com,META-ADS

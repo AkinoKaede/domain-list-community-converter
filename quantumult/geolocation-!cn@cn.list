@@ -192,6 +192,8 @@ HOST,menu-static.gog-statics.com,GEOLOCATION-!CN@CN
 HOST,productcard.gog-statics.com,GEOLOCATION-!CN@CN
 HOST,static-login.gog-statics.com,GEOLOCATION-!CN@CN
 HOST,www4-static.gog-statics.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,kurogames.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,aki-game.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,legendofzelda.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,legendofzelda.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,miitomo.com.cn,GEOLOCATION-!CN@CN
@@ -340,6 +342,7 @@ HOST-SUFFIX,ntp.ntsc.ac.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,ntp.org.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mapbox.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reabble.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,testipv6.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,swiftui.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,swiftui.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,researchkit.cn,GEOLOCATION-!CN@CN
