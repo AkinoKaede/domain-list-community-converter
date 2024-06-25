@@ -86,10 +86,13 @@ DOMAIN-SUFFIX,globalsign.cn
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN,pki-goog.l.google.com
 DOMAIN,www.microsoft.com
 DOMAIN-SUFFIX,oemssl.cn
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net

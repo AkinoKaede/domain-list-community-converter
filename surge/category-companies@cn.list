@@ -339,10 +339,13 @@ DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN,pki-goog.l.google.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,g.cn

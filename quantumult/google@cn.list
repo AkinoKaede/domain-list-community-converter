@@ -1,8 +1,11 @@
 HOST,firebase-settings.crashlytics.com,GOOGLE@CN
+HOST,pki-goog.l.google.com,GOOGLE@CN
+HOST,c.pki.goog,GOOGLE@CN
+HOST,i.pki.goog,GOOGLE@CN
+HOST,o.pki.goog,GOOGLE@CN
 HOST,crl.pki.goog,GOOGLE@CN
 HOST,crls.pki.goog,GOOGLE@CN
 HOST,ocsp.pki.goog,GOOGLE@CN
-HOST,pki-goog.l.google.com,GOOGLE@CN
 HOST-SUFFIX,ggpht.cn,GOOGLE@CN
 HOST-SUFFIX,google.cn,GOOGLE@CN
 HOST-SUFFIX,g.cn,GOOGLE@CN

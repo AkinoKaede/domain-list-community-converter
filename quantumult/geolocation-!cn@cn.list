@@ -86,10 +86,13 @@ HOST-SUFFIX,globalsign.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsign.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsigncdn.com,GEOLOCATION-!CN@CN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GEOLOCATION-!CN@CN
+HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
+HOST,c.pki.goog,GEOLOCATION-!CN@CN
+HOST,i.pki.goog,GEOLOCATION-!CN@CN
+HOST,o.pki.goog,GEOLOCATION-!CN@CN
 HOST,crl.pki.goog,GEOLOCATION-!CN@CN
 HOST,crls.pki.goog,GEOLOCATION-!CN@CN
 HOST,ocsp.pki.goog,GEOLOCATION-!CN@CN
-HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
 HOST,www.microsoft.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,oemssl.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,oemssl.cn.cdn.cloudflare.net,GEOLOCATION-!CN@CN
