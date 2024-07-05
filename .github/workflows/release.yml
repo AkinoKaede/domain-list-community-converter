@@ -48,7 +48,7 @@ jobs:
             return `update: generate at ${time}`;
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.4.2
+        uses: JamesIves/github-pages-deploy-action@v4.6.3
         with:
           branch: release
           clean: true
