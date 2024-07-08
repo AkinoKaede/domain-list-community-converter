@@ -1191,6 +1191,7 @@ HOST-SUFFIX,bh3.com,CN
 HOST-SUFFIX,bhsr.com,CN
 HOST-SUFFIX,themisweeps.com,CN
 HOST-SUFFIX,yuanshen.com,CN
+HOST-SUFFIX,juequling.com,CN
 HOST-SUFFIX,muwai.com,CN
 HOST-SUFFIX,pplive.cn,CN
 HOST-SUFFIX,pplive.com,CN
@@ -1692,6 +1693,8 @@ HOST-SUFFIX,yuque.com,CN
 HOST-SUFFIX,doc88.com,CN
 HOST-SUFFIX,docin.com,CN
 HOST-SUFFIX,douding.cn,CN
+HOST,time.izatcloud.net,CN
+HOST,time.xtracloud.net,CN
 HOST-SUFFIX,cn.pool.ntp.org,CN
 HOST-SUFFIX,ntp.neu.edu.cn,CN
 HOST-SUFFIX,ntp.ntsc.ac.cn,CN
@@ -2062,7 +2065,9 @@ HOST-SUFFIX,teambition.com,CN
 HOST-SUFFIX,teambition.net,CN
 HOST-SUFFIX,teambitionapis.com,CN
 HOST-SUFFIX,uc.cn,CN
+HOST-SUFFIX,uc123.com,CN
 HOST-SUFFIX,ucweb.com,CN
+HOST-SUFFIX,uczzd.cn,CN
 HOST-SUFFIX,25pp.com,CN
 HOST-SUFFIX,56che.com,CN
 HOST-SUFFIX,95095.com,CN
@@ -2373,6 +2378,7 @@ HOST-SUFFIX,apollo.auto,CN
 HOST-SUFFIX,baidu.cn,CN
 HOST-SUFFIX,baidu.com,CN
 HOST-SUFFIX,baidu.com.cn,CN
+HOST-SUFFIX,baiduapp.com,CN
 HOST-SUFFIX,baidubce.com,CN
 HOST-SUFFIX,baiducontent.com,CN
 HOST-SUFFIX,baidupcs.com,CN
@@ -2407,6 +2413,18 @@ HOST-SUFFIX,tieba.com,CN
 HOST-SUFFIX,tiebaimg.com,CN
 HOST-SUFFIX,xianfae.com,CN
 HOST-SUFFIX,xiaodutv.com,CN
+HOST-SUFFIX,duxiaoman-int.com,CN
+HOST-SUFFIX,duxiaoman.com,CN
+HOST-SUFFIX,duxiaomanfintech.com,CN
+HOST-SUFFIX,duxiaomantech.com,CN
+HOST-SUFFIX,dxm-cdn.com,CN
+HOST-SUFFIX,dxm-int.com,CN
+HOST-SUFFIX,dxmlcf.com,CN
+HOST-SUFFIX,dxmlcfintech.com,CN
+HOST-SUFFIX,dxmpay.com,CN
+HOST-SUFFIX,dxmstatic.com,CN
+HOST-SUFFIX,dxmyqh.com,CN
+HOST-SUFFIX,paydxm.com,CN
 HOST-SUFFIX,sl916.com,CN
 HOST-SUFFIX,bluepoch.com,CN
 HOST-SUFFIX,activity-zhendingtech.com,CN
@@ -3428,6 +3446,8 @@ HOST-SUFFIX,xoyo.com,CN
 HOST-SUFFIX,testplus.cn,CN
 HOST-SUFFIX,wps.cn,CN
 HOST-SUFFIX,wps.com,CN
+HOST-SUFFIX,wpscdn.cn,CN
+HOST-SUFFIX,wpscdn.com,CN
 HOST-SUFFIX,kscord.com,CN
 HOST-SUFFIX,51dzt.com,CN
 HOST-SUFFIX,iciba.com,CN
@@ -4020,7 +4040,10 @@ HOST-SUFFIX,ugdtimg.com,CN
 HOST-SUFFIX,openmidas.com,CN
 HOST-SUFFIX,qq.design,CN
 HOST-SUFFIX,qqgamedesign.com,CN
+HOST-SUFFIX,tencent-cloud.cn,CN
+HOST-SUFFIX,tencent-cloud.com,CN
 HOST-SUFFIX,tencent.design,CN
+HOST-SUFFIX,tencentcloud.com,CN
 HOST-SUFFIX,tjstats.com,CN
 HOST-SUFFIX,wegamedeveloper.com,CN
 HOST-SUFFIX,weixinbridge.com,CN
@@ -4124,6 +4147,7 @@ HOST-SUFFIX,xxsy.net,CN
 HOST-SUFFIX,qq.xn--fiqs8s,CN
 HOST-SUFFIX,xn--r70as2s.xn--fiqs8s,CN
 HOST-SUFFIX,apcdns.net,CN
+HOST-SUFFIX,cdn-go.cn,CN
 HOST-SUFFIX,foxmail.com,CN
 HOST-SUFFIX,foxmail.com.cn,CN
 HOST-SUFFIX,gtimg.cn,CN
@@ -4152,11 +4176,14 @@ HOST-SUFFIX,tencent.net.cn,CN
 HOST-SUFFIX,tencentmusic.com,CN
 HOST-SUFFIX,tenpay.com,CN
 HOST-SUFFIX,tfogc.com,CN
+HOST-SUFFIX,tlivepush.com,CN
+HOST-SUFFIX,txlivecdn.com,CN
 HOST-SUFFIX,wechat.com,CN
 HOST-SUFFIX,wechatpay.cn,CN
 HOST-SUFFIX,weiyun.com,CN
 HOST-SUFFIX,wetv.vip,CN
 HOST-SUFFIX,wetvinfo.com,CN
+HOST-SUFFIX,wxlivecdn.com,CN
 HOST,wetv.qq.com,CN
 HOST-SUFFIX,alloyteam.com,CN
 HOST-SUFFIX,imweb.io,CN
@@ -4207,6 +4234,7 @@ HOST-SUFFIX,tracking.miui.com,CN
 HOST-SUFFIX,mi-img.com,CN
 HOST-SUFFIX,mi.com,CN
 HOST-SUFFIX,mifile.cn,CN
+HOST-SUFFIX,mijia.tech,CN
 HOST-SUFFIX,miui.com,CN
 HOST-SUFFIX,miwifi.com,CN
 HOST-SUFFIX,xiaomi.cn,CN
@@ -4214,6 +4242,7 @@ HOST-SUFFIX,xiaomi.com,CN
 HOST-SUFFIX,xiaomi.net,CN
 HOST-SUFFIX,xiaomiev.com,CN
 HOST-SUFFIX,xiaomimobile.com,CN
+HOST-SUFFIX,xiaomixiaoai.com,CN
 HOST-SUFFIX,xiaomiyoupin.com,CN
 HOST-SUFFIX,saxyit.com,CN
 HOST-SUFFIX,sandai.net,CN
@@ -4269,6 +4298,7 @@ HOST-SUFFIX,chinatelecom-h.com,CN
 HOST-SUFFIX,chinatelecom.com.cn,CN
 HOST-SUFFIX,chinatelecomglobal.com,CN
 HOST-SUFFIX,chntel.com,CN
+HOST-SUFFIX,chinatelecomhk.com,CN
 HOST-SUFFIX,10010.com,CN
 HOST-SUFFIX,10010.com.cn,CN
 HOST-SUFFIX,114menhu.com,CN
@@ -4280,6 +4310,7 @@ HOST-SUFFIX,mychinaunicom.com,CN
 HOST-SUFFIX,wo.cn,CN
 HOST-SUFFIX,wo.com.cn,CN
 HOST-SUFFIX,wo116114.com,CN
+HOST-SUFFIX,cuniq.com,CN
 HOST-SUFFIX,jikipedia.com,CN
 HOST-SUFFIX,qiuwen.wiki,CN
 HOST-SUFFIX,shidianbaike.com,CN
@@ -5134,7 +5165,6 @@ HOST-SUFFIX,qunar.com,CN
 HOST-SUFFIX,qunarzz.com,CN
 HOST-SUFFIX,qunjielong.com,CN
 HOST-SUFFIX,qyer.com,CN
-HOST-SUFFIX,rfchost.com,CN
 HOST-SUFFIX,rockyenglish.com,CN
 HOST-SUFFIX,rong360.com,CN
 HOST-SUFFIX,rtbasia.com,CN

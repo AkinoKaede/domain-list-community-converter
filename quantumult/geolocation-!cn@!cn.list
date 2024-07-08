@@ -13,3 +13,9 @@ HOST-SUFFIX,tiktokv.us,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,tiktokw.us,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,ttwstatic.com,GEOLOCATION-!CN@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.co.in,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com.au,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com.hk,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com.my,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com.sg,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com.tw,GEOLOCATION-!CN@!CN

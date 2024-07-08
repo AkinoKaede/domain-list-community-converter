@@ -1,3 +1,9 @@
+HOST-SUFFIX,alibabacloud.co.in,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com.au,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com.hk,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com.my,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com.sg,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com.tw,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-northeast-1.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-northeast-2.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-south-1.aliyuncs.com,ALIBABA@!CN
@@ -13,5 +19,9 @@ HOST-SUFFIX,oss-eu-west-1.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-me-east-1.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-us-east-1.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-us-west-1.aliyuncs.com,ALIBABA@!CN
+HOST-SUFFIX,alihealth.hk,ALIBABA@!CN
+HOST-SUFFIX,aliexpress.ru,ALIBABA@!CN
 HOST-SUFFIX,alipay.hk,ALIBABA@!CN
 HOST-SUFFIX,alipaymo.com,ALIBABA@!CN
+HOST-SUFFIX,tmall.ru,ALIBABA@!CN
+HOST-SUFFIX,fliggy.hk,ALIBABA@!CN

@@ -57,7 +57,10 @@ HOST-SUFFIX,bh3.com,CN@CN
 HOST-SUFFIX,bhsr.com,CN@CN
 HOST-SUFFIX,themisweeps.com,CN@CN
 HOST-SUFFIX,yuanshen.com,CN@CN
+HOST-SUFFIX,juequling.com,CN@CN
 HOST,kc.kexinshe.com,CN@CN
+HOST,time.izatcloud.net,CN@CN
+HOST,time.xtracloud.net,CN@CN
 HOST-SUFFIX,cn.pool.ntp.org,CN@CN
 HOST-SUFFIX,ntp.neu.edu.cn,CN@CN
 HOST-SUFFIX,ntp.ntsc.ac.cn,CN@CN

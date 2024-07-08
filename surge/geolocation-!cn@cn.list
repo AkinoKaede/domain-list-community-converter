@@ -325,6 +325,7 @@ DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,ggpht.cn
@@ -339,6 +340,8 @@ DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,steampp.net
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn

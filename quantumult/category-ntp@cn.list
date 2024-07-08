@@ -1,3 +1,5 @@
+HOST,time.izatcloud.net,CATEGORY-NTP@CN
+HOST,time.xtracloud.net,CATEGORY-NTP@CN
 HOST-SUFFIX,cn.pool.ntp.org,CATEGORY-NTP@CN
 HOST-SUFFIX,ntp.neu.edu.cn,CATEGORY-NTP@CN
 HOST-SUFFIX,ntp.ntsc.ac.cn,CATEGORY-NTP@CN

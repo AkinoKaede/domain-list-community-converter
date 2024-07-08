@@ -10,6 +10,8 @@ HOST-SUFFIX,pool.ntp.org,CATEGORY-NTP
 HOST-SUFFIX,time.cloudflare.com,CATEGORY-NTP
 HOST-SUFFIX,time.nrc.ca,CATEGORY-NTP
 HOST-SUFFIX,time.windows.com,CATEGORY-NTP
+HOST,time.izatcloud.net,CATEGORY-NTP
+HOST,time.xtracloud.net,CATEGORY-NTP
 HOST-SUFFIX,cn.pool.ntp.org,CATEGORY-NTP
 HOST-SUFFIX,ntp.neu.edu.cn,CATEGORY-NTP
 HOST-SUFFIX,ntp.ntsc.ac.cn,CATEGORY-NTP

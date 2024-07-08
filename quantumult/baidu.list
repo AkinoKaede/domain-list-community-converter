@@ -150,6 +150,7 @@ HOST-SUFFIX,apollo.auto,BAIDU
 HOST-SUFFIX,baidu.cn,BAIDU
 HOST-SUFFIX,baidu.com,BAIDU
 HOST-SUFFIX,baidu.com.cn,BAIDU
+HOST-SUFFIX,baiduapp.com,BAIDU
 HOST-SUFFIX,baidubce.com,BAIDU
 HOST-SUFFIX,baiducontent.com,BAIDU
 HOST-SUFFIX,baidupcs.com,BAIDU
@@ -184,3 +185,15 @@ HOST-SUFFIX,tieba.com,BAIDU
 HOST-SUFFIX,tiebaimg.com,BAIDU
 HOST-SUFFIX,xianfae.com,BAIDU
 HOST-SUFFIX,xiaodutv.com,BAIDU
+HOST-SUFFIX,duxiaoman-int.com,BAIDU
+HOST-SUFFIX,duxiaoman.com,BAIDU
+HOST-SUFFIX,duxiaomanfintech.com,BAIDU
+HOST-SUFFIX,duxiaomantech.com,BAIDU
+HOST-SUFFIX,dxm-cdn.com,BAIDU
+HOST-SUFFIX,dxm-int.com,BAIDU
+HOST-SUFFIX,dxmlcf.com,BAIDU
+HOST-SUFFIX,dxmlcfintech.com,BAIDU
+HOST-SUFFIX,dxmpay.com,BAIDU
+HOST-SUFFIX,dxmstatic.com,BAIDU
+HOST-SUFFIX,dxmyqh.com,BAIDU
+HOST-SUFFIX,paydxm.com,BAIDU

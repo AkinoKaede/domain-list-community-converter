@@ -718,6 +718,7 @@ HOST-SUFFIX,deepmind.com,GOOGLE
 HOST-SUFFIX,devsitetest.how,GOOGLE
 HOST-SUFFIX,dialogflow.com,GOOGLE
 HOST-SUFFIX,digitalassetlinks.org,GOOGLE
+HOST-SUFFIX,docs.new,GOOGLE
 HOST-SUFFIX,episodic.com,GOOGLE
 HOST-SUFFIX,feedburner.com,GOOGLE
 HOST-SUFFIX,fflick.com,GOOGLE
@@ -872,6 +873,8 @@ HOST-SUFFIX,saynow.com,GOOGLE
 HOST-SUFFIX,schemer.com,GOOGLE
 HOST-SUFFIX,screenwisetrends.com,GOOGLE
 HOST-SUFFIX,screenwisetrendspanel.com,GOOGLE
+HOST-SUFFIX,sheets.new,GOOGLE
+HOST-SUFFIX,slides.new,GOOGLE
 HOST-SUFFIX,snapseed.com,GOOGLE
 HOST-SUFFIX,solveforx.com,GOOGLE
 HOST-SUFFIX,stadia.dev,GOOGLE
@@ -915,6 +918,7 @@ HOST-SUFFIX,webpkgcache.com,GOOGLE
 HOST-SUFFIX,webrtc.org,GOOGLE
 HOST-SUFFIX,weltweitwachsen.de,GOOGLE
 HOST-SUFFIX,whatbrowser.org,GOOGLE
+HOST-SUFFIX,whats.new,GOOGLE
 HOST-SUFFIX,widevine.com,GOOGLE
 HOST-SUFFIX,withgoogle.com,GOOGLE
 HOST-SUFFIX,womenwill.com,GOOGLE

@@ -277,7 +277,10 @@ HOST-SUFFIX,ugdtimg.com,TENCENT
 HOST-SUFFIX,openmidas.com,TENCENT
 HOST-SUFFIX,qq.design,TENCENT
 HOST-SUFFIX,qqgamedesign.com,TENCENT
+HOST-SUFFIX,tencent-cloud.cn,TENCENT
+HOST-SUFFIX,tencent-cloud.com,TENCENT
 HOST-SUFFIX,tencent.design,TENCENT
+HOST-SUFFIX,tencentcloud.com,TENCENT
 HOST-SUFFIX,tjstats.com,TENCENT
 HOST-SUFFIX,wegamedeveloper.com,TENCENT
 HOST-SUFFIX,weixinbridge.com,TENCENT
@@ -381,6 +384,7 @@ HOST-SUFFIX,xxsy.net,TENCENT
 HOST-SUFFIX,qq.xn--fiqs8s,TENCENT
 HOST-SUFFIX,xn--r70as2s.xn--fiqs8s,TENCENT
 HOST-SUFFIX,apcdns.net,TENCENT
+HOST-SUFFIX,cdn-go.cn,TENCENT
 HOST-SUFFIX,foxmail.com,TENCENT
 HOST-SUFFIX,foxmail.com.cn,TENCENT
 HOST-SUFFIX,gtimg.cn,TENCENT
@@ -409,11 +413,14 @@ HOST-SUFFIX,tencent.net.cn,TENCENT
 HOST-SUFFIX,tencentmusic.com,TENCENT
 HOST-SUFFIX,tenpay.com,TENCENT
 HOST-SUFFIX,tfogc.com,TENCENT
+HOST-SUFFIX,tlivepush.com,TENCENT
+HOST-SUFFIX,txlivecdn.com,TENCENT
 HOST-SUFFIX,wechat.com,TENCENT
 HOST-SUFFIX,wechatpay.cn,TENCENT
 HOST-SUFFIX,weiyun.com,TENCENT
 HOST-SUFFIX,wetv.vip,TENCENT
 HOST-SUFFIX,wetvinfo.com,TENCENT
+HOST-SUFFIX,wxlivecdn.com,TENCENT
 HOST,wetv.qq.com,TENCENT
 HOST-SUFFIX,alloyteam.com,TENCENT
 HOST-SUFFIX,imweb.io,TENCENT

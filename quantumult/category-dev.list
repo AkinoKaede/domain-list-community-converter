@@ -425,7 +425,10 @@ HOST-SUFFIX,strikinglycdn.com,CATEGORY-DEV
 HOST-SUFFIX,openmidas.com,CATEGORY-DEV
 HOST-SUFFIX,qq.design,CATEGORY-DEV
 HOST-SUFFIX,qqgamedesign.com,CATEGORY-DEV
+HOST-SUFFIX,tencent-cloud.cn,CATEGORY-DEV
+HOST-SUFFIX,tencent-cloud.com,CATEGORY-DEV
 HOST-SUFFIX,tencent.design,CATEGORY-DEV
+HOST-SUFFIX,tencentcloud.com,CATEGORY-DEV
 HOST-SUFFIX,tjstats.com,CATEGORY-DEV
 HOST-SUFFIX,wegamedeveloper.com,CATEGORY-DEV
 HOST-SUFFIX,weixinbridge.com,CATEGORY-DEV
