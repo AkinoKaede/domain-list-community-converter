@@ -65,10 +65,6 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
-DOMAIN-SUFFIX,sl916.com
-DOMAIN-SUFFIX,bluepoch.com
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
@@ -93,6 +89,10 @@ DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,weui.io
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,bluepoch.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com

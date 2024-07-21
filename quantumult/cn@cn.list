@@ -65,10 +65,6 @@ HOST-SUFFIX,cn.pool.ntp.org,CN@CN
 HOST-SUFFIX,ntp.neu.edu.cn,CN@CN
 HOST-SUFFIX,ntp.ntsc.ac.cn,CN@CN
 HOST-SUFFIX,ntp.org.cn,CN@CN
-HOST-SUFFIX,sl916.com,CN@CN
-HOST-SUFFIX,bluepoch.com,CN@CN
-HOST-SUFFIX,doubao.com,CN@CN
-HOST-SUFFIX,coze.cn,CN@CN
 HOST-SUFFIX,bisheng.cn,CN@CN
 HOST-SUFFIX,bishengcompiler.cn,CN@CN
 HOST-SUFFIX,devui.design,CN@CN
@@ -93,6 +89,10 @@ HOST-SUFFIX,owsgo.com,CN@CN
 HOST-SUFFIX,teleows.com,CN@CN
 HOST-SUFFIX,saasops.tech,CN@CN
 HOST-SUFFIX,weui.io,CN@CN
+HOST-SUFFIX,sl916.com,CN@CN
+HOST-SUFFIX,bluepoch.com,CN@CN
+HOST-SUFFIX,doubao.com,CN@CN
+HOST-SUFFIX,coze.cn,CN@CN
 HOST-SUFFIX,battlecare.net,CN@CN
 HOST-SUFFIX,gameitop.com,CN@CN
 HOST-SUFFIX,gameloop.com,CN@CN
