@@ -96,8 +96,6 @@ HOST,goto.google.com,GOOGLE@CN
 HOST,gstatic-cn.com,GOOGLE@CN
 HOST,gstaticadssl.l.google.com,GOOGLE@CN
 HOST,gtm.oasisfeng.com,GOOGLE@CN
-HOST,gvt1-cn.com,GOOGLE@CN
-HOST,gvt2-cn.com,GOOGLE@CN
 HOST,imasdk.googleapis.com,GOOGLE@CN
 HOST,monitoring.qatp1.net,GOOGLE@CN
 HOST,monitoring.qcpp1.net,GOOGLE@CN
@@ -204,3 +202,5 @@ HOST,uberproxy-with-cn.l.google.com,GOOGLE@CN
 HOST,uberproxy-with-cn4.l.google.com,GOOGLE@CN
 HOST,uberproxy-with-cn6.l.google.com,GOOGLE@CN
 HOST,qiao-cn.com,GOOGLE@CN
+HOST-SUFFIX,gvt1-cn.com,GOOGLE@CN
+HOST-SUFFIX,gvt2-cn.com,GOOGLE@CN

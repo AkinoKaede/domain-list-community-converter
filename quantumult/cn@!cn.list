@@ -138,6 +138,7 @@ HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,CN@!CN
+HOST,community.oneplus.com,CN@!CN
 HOST-SUFFIX,intltencentcos.com,CN@!CN
 HOST-SUFFIX,ap-hongkong.myqcloud.com,CN@!CN
 HOST-SUFFIX,ap-singapore.myqcloud.com,CN@!CN

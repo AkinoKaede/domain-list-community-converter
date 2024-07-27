@@ -3591,6 +3591,7 @@ HOST-SUFFIX,oneplus.net,CN
 HOST-SUFFIX,opstatics.com,CN
 HOST-SUFFIX,oneplusbbs.com,CN
 HOST-SUFFIX,h2os.com,CN
+HOST,community.oneplus.com,CN
 HOST-SUFFIX,75.team,CN
 HOST-SUFFIX,75team.com,CN
 HOST-SUFFIX,baomitu.com,CN
@@ -4361,6 +4362,10 @@ HOST-SUFFIX,qyyjt.cn,CN
 HOST-SUFFIX,jindidata.com,CN
 HOST-SUFFIX,tianyancha.com,CN
 HOST-SUFFIX,x315.com,CN
+HOST-SUFFIX,ehaier.com,CN
+HOST-SUFFIX,haier.com,CN
+HOST-SUFFIX,haier.net,CN
+HOST-SUFFIX,haiersmarthomes.com,CN
 HOST-SUFFIX,winos.me,CN
 HOST-SUFFIX,upe.net,CN
 HOST-SUFFIX,suzuki-china.com,CN
@@ -4422,6 +4427,11 @@ HOST-SUFFIX,learnywhere.cn,CN
 HOST-SUFFIX,learnywhere.com.cn,CN
 HOST-SUFFIX,qlisten.cn,CN
 HOST-SUFFIX,qtyy.cn,CN
+HOST-SUFFIX,i2oo.cn,CN
+HOST-SUFFIX,laoban100.com,CN
+HOST-SUFFIX,shengyi.ai,CN
+HOST-SUFFIX,shengyizhuanjia.com,CN
+HOST-SUFFIX,yuanbei.biz,CN
 HOST-SUFFIX,0123456789.com,CN
 HOST-SUFFIX,0379home.com,CN
 HOST-SUFFIX,055110.com,CN

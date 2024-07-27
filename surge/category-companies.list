@@ -303,8 +303,12 @@ DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
 DOMAIN-SUFFIX,amazonaws-china.com
+DOMAIN-SUFFIX,amazonaws.biz
 DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonaws.info
+DOMAIN-SUFFIX,amazonaws.net
+DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,amazonworkdocs.com
@@ -4056,6 +4060,7 @@ DOMAIN-SUFFIX,episodic.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
+DOMAIN-SUFFIX,fitbit.com
 DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,froogle.com
 DOMAIN-SUFFIX,fuchsia.dev
@@ -4353,8 +4358,6 @@ DOMAIN,goto.google.com
 DOMAIN,gstatic-cn.com
 DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
-DOMAIN,gvt1-cn.com
-DOMAIN,gvt2-cn.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,monitoring.qatp1.net
 DOMAIN,monitoring.qcpp1.net
@@ -4461,6 +4464,8 @@ DOMAIN,uberproxy-with-cn.l.google.com
 DOMAIN,uberproxy-with-cn4.l.google.com
 DOMAIN,uberproxy-with-cn6.l.google.com
 DOMAIN,qiao-cn.com
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hetzner.de
@@ -6606,6 +6611,11 @@ DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
 DOMAIN-SUFFIX,sony
+DOMAIN-SUFFIX,sonynetwork.co.jp
+DOMAIN-SUFFIX,nuro.jp
+DOMAIN-SUFFIX,so-net.ne.jp
+DOMAIN-SUFFIX,sony-semicon.co.jp
+DOMAIN-SUFFIX,sony-semicon.com
 DOMAIN-SUFFIX,ginzasonypark.jp
 DOMAIN-SUFFIX,sony-africa.com
 DOMAIN-SUFFIX,sony-asia.com
@@ -6615,11 +6625,11 @@ DOMAIN-SUFFIX,sony-latin.com
 DOMAIN-SUFFIX,sony-mea.com
 DOMAIN-SUFFIX,sony-olympus-medical.com
 DOMAIN-SUFFIX,sony-promotion.eu
-DOMAIN-SUFFIX,sony-semicon.co.jp
 DOMAIN-SUFFIX,sony.at
 DOMAIN-SUFFIX,sony.ba
 DOMAIN-SUFFIX,sony.be
 DOMAIN-SUFFIX,sony.bg
+DOMAIN-SUFFIX,sony.biz
 DOMAIN-SUFFIX,sony.ca
 DOMAIN-SUFFIX,sony.ch
 DOMAIN-SUFFIX,sony.cl
@@ -6696,6 +6706,7 @@ DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
 DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,sovec.net
+DOMAIN-SUFFIX,so-net.net.tw
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,spacemail.com
 DOMAIN-SUFFIX,spaceship.com

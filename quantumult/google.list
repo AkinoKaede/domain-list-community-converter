@@ -723,6 +723,7 @@ HOST-SUFFIX,episodic.com,GOOGLE
 HOST-SUFFIX,feedburner.com,GOOGLE
 HOST-SUFFIX,fflick.com,GOOGLE
 HOST-SUFFIX,financeleadsonline.com,GOOGLE
+HOST-SUFFIX,fitbit.com,GOOGLE
 HOST-SUFFIX,foofle.com,GOOGLE
 HOST-SUFFIX,froogle.com,GOOGLE
 HOST-SUFFIX,fuchsia.dev,GOOGLE
@@ -1020,8 +1021,6 @@ HOST,goto.google.com,GOOGLE
 HOST,gstatic-cn.com,GOOGLE
 HOST,gstaticadssl.l.google.com,GOOGLE
 HOST,gtm.oasisfeng.com,GOOGLE
-HOST,gvt1-cn.com,GOOGLE
-HOST,gvt2-cn.com,GOOGLE
 HOST,imasdk.googleapis.com,GOOGLE
 HOST,monitoring.qatp1.net,GOOGLE
 HOST,monitoring.qcpp1.net,GOOGLE
@@ -1128,3 +1127,5 @@ HOST,uberproxy-with-cn.l.google.com,GOOGLE
 HOST,uberproxy-with-cn4.l.google.com,GOOGLE
 HOST,uberproxy-with-cn6.l.google.com,GOOGLE
 HOST,qiao-cn.com,GOOGLE
+HOST-SUFFIX,gvt1-cn.com,GOOGLE
+HOST-SUFFIX,gvt2-cn.com,GOOGLE

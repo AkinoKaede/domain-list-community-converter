@@ -15,6 +15,7 @@ HOST-SUFFIX,volvo.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,volvogroup.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,volvogroup.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,volvotrucks.com.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,ifastps.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mastercard.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,mastercard.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,priceless.com.cn,GEOLOCATION-!CN@CN
@@ -775,8 +776,6 @@ HOST,goto.google.com,GEOLOCATION-!CN@CN
 HOST,gstatic-cn.com,GEOLOCATION-!CN@CN
 HOST,gstaticadssl.l.google.com,GEOLOCATION-!CN@CN
 HOST,gtm.oasisfeng.com,GEOLOCATION-!CN@CN
-HOST,gvt1-cn.com,GEOLOCATION-!CN@CN
-HOST,gvt2-cn.com,GEOLOCATION-!CN@CN
 HOST,imasdk.googleapis.com,GEOLOCATION-!CN@CN
 HOST,monitoring.qatp1.net,GEOLOCATION-!CN@CN
 HOST,monitoring.qcpp1.net,GEOLOCATION-!CN@CN
@@ -883,6 +882,8 @@ HOST,uberproxy-with-cn.l.google.com,GEOLOCATION-!CN@CN
 HOST,uberproxy-with-cn4.l.google.com,GEOLOCATION-!CN@CN
 HOST,uberproxy-with-cn6.l.google.com,GEOLOCATION-!CN@CN
 HOST,qiao-cn.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,hpstore.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,intel.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,intel.com.cn,GEOLOCATION-!CN@CN

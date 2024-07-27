@@ -29,8 +29,12 @@ HOST-SUFFIX,acmvalidations.com,AMAZON
 HOST-SUFFIX,acmvalidationsaws.com,AMAZON
 HOST-SUFFIX,aesworkshops.com,AMAZON
 HOST-SUFFIX,amazonaws-china.com,AMAZON
+HOST-SUFFIX,amazonaws.biz,AMAZON
 HOST-SUFFIX,amazonaws.co.uk,AMAZON
 HOST-SUFFIX,amazonaws.com,AMAZON
+HOST-SUFFIX,amazonaws.info,AMAZON
+HOST-SUFFIX,amazonaws.net,AMAZON
+HOST-SUFFIX,amazonaws.org,AMAZON
 HOST-SUFFIX,amazonaws.tv,AMAZON
 HOST-SUFFIX,amazonses.com,AMAZON
 HOST-SUFFIX,amazonworkdocs.com,AMAZON

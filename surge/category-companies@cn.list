@@ -436,8 +436,6 @@ DOMAIN,goto.google.com
 DOMAIN,gstatic-cn.com
 DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
-DOMAIN,gvt1-cn.com
-DOMAIN,gvt2-cn.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,monitoring.qatp1.net
 DOMAIN,monitoring.qcpp1.net
@@ -544,6 +542,8 @@ DOMAIN,uberproxy-with-cn.l.google.com
 DOMAIN,uberproxy-with-cn4.l.google.com
 DOMAIN,uberproxy-with-cn6.l.google.com
 DOMAIN,qiao-cn.com
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN-SUFFIX,hpstore.cn
 DOMAIN-SUFFIX,intel.cn
 DOMAIN-SUFFIX,intel.com.cn

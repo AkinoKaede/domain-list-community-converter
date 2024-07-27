@@ -17,6 +17,11 @@ HOST-SUFFIX,wheelpop.com,SONY
 HOST-SUFFIX,wwtbam.com,SONY
 HOST-SUFFIX,yourfantasybeginsnow.com,SONY
 HOST-SUFFIX,sony,SONY
+HOST-SUFFIX,sonynetwork.co.jp,SONY
+HOST-SUFFIX,nuro.jp,SONY
+HOST-SUFFIX,so-net.ne.jp,SONY
+HOST-SUFFIX,sony-semicon.co.jp,SONY
+HOST-SUFFIX,sony-semicon.com,SONY
 HOST-SUFFIX,ginzasonypark.jp,SONY
 HOST-SUFFIX,sony-africa.com,SONY
 HOST-SUFFIX,sony-asia.com,SONY
@@ -26,11 +31,11 @@ HOST-SUFFIX,sony-latin.com,SONY
 HOST-SUFFIX,sony-mea.com,SONY
 HOST-SUFFIX,sony-olympus-medical.com,SONY
 HOST-SUFFIX,sony-promotion.eu,SONY
-HOST-SUFFIX,sony-semicon.co.jp,SONY
 HOST-SUFFIX,sony.at,SONY
 HOST-SUFFIX,sony.ba,SONY
 HOST-SUFFIX,sony.be,SONY
 HOST-SUFFIX,sony.bg,SONY
+HOST-SUFFIX,sony.biz,SONY
 HOST-SUFFIX,sony.ca,SONY
 HOST-SUFFIX,sony.ch,SONY
 HOST-SUFFIX,sony.cl,SONY
@@ -107,3 +112,4 @@ HOST-SUFFIX,sonyprotechnosupport.co.jp,SONY
 HOST-SUFFIX,sonystoragemedia.co.jp,SONY
 HOST-SUFFIX,sonytc.co.jp,SONY
 HOST-SUFFIX,sovec.net,SONY
+HOST-SUFFIX,so-net.net.tw,SONY
