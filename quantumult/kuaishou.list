@@ -1,8 +1,10 @@
 HOST-SUFFIX,gifshow.com,KUAISHOU
+HOST-SUFFIX,inkwai.com,KUAISHOU
 HOST-SUFFIX,ksapisrv.com,KUAISHOU
 HOST-SUFFIX,kuaishou.com,KUAISHOU
-HOST-SUFFIX,yximgs.com,KUAISHOU
 HOST-SUFFIX,kwaizt.com,KUAISHOU
 HOST-SUFFIX,kuaishouzt.com,KUAISHOU
+HOST-SUFFIX,kwimgs.com,KUAISHOU
+HOST-SUFFIX,yximgs.com,KUAISHOU
 HOST,log-sdk.gifshow.com,KUAISHOU
 HOST,wlog.kuaishou.com,KUAISHOU

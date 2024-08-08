@@ -138,6 +138,9 @@ HOST-SUFFIX,cmf.ltd,CN
 HOST-SUFFIX,cmfchina.com,CN
 HOST-SUFFIX,cmfunds.cn,CN
 HOST-SUFFIX,test-cignacmb.com,CN
+HOST-SUFFIX,hsbc.com.cn,CN
+HOST-SUFFIX,hsbcqh.com.cn,CN
+HOST-SUFFIX,hsbcinsurance.com.cn,CN
 HOST-SUFFIX,icbc,CN
 HOST-SUFFIX,95588.com,CN
 HOST-SUFFIX,95588.com.cn,CN
@@ -218,7 +221,6 @@ HOST-SUFFIX,cgbchina.com.cn,CN
 HOST-SUFFIX,cib.com.cn,CN
 HOST-SUFFIX,citibank.com.cn,CN
 HOST-SUFFIX,cmbc.com.cn,CN
-HOST-SUFFIX,hsbc.com.cn,CN
 HOST-SUFFIX,hxb.com.cn,CN
 HOST-SUFFIX,njcb.com.cn,CN
 HOST-SUFFIX,psbc.com,CN
@@ -453,6 +455,11 @@ HOST-SUFFIX,taikanglife.com,CN
 HOST-SUFFIX,taikangzhijia.com,CN
 HOST-SUFFIX,tkhealthcare.com,CN
 HOST-SUFFIX,huangyuhui.net,CN
+HOST-SUFFIX,114blog.com,CN
+HOST-SUFFIX,mryys.com,CN
+HOST-SUFFIX,mryys.cn,CN
+HOST-SUFFIX,4thworkshop.com,CN
+HOST-SUFFIX,4thworkshop.cn,CN
 HOST-SUFFIX,517lppz.com,CN
 HOST-SUFFIX,lppz.com,CN
 HOST-SUFFIX,lppzimg.com,CN
@@ -958,7 +965,9 @@ HOST-SUFFIX,pinduoduo.com,CN
 HOST-SUFFIX,pinduoduo.net,CN
 HOST-SUFFIX,yangkeduo.com,CN
 HOST-SUFFIX,smzdm.com,CN
+HOST-SUFFIX,smzdmimg.com,CN
 HOST-SUFFIX,zdmimg.com,CN
+HOST-SUFFIX,zhidemai.com,CN
 HOST-SUFFIX,cnsuning.com,CN
 HOST-SUFFIX,suning.com,CN
 HOST-SUFFIX,suningcloud.com,CN
@@ -1158,11 +1167,13 @@ HOST-SUFFIX,ku6img.com,CN
 HOST-SUFFIX,kkmh.com,CN
 HOST-SUFFIX,kuaikanmanhua.com,CN
 HOST-SUFFIX,gifshow.com,CN
+HOST-SUFFIX,inkwai.com,CN
 HOST-SUFFIX,ksapisrv.com,CN
 HOST-SUFFIX,kuaishou.com,CN
-HOST-SUFFIX,yximgs.com,CN
 HOST-SUFFIX,kwaizt.com,CN
 HOST-SUFFIX,kuaishouzt.com,CN
+HOST-SUFFIX,kwimgs.com,CN
+HOST-SUFFIX,yximgs.com,CN
 HOST,log-sdk.gifshow.com,CN
 HOST,wlog.kuaishou.com,CN
 HOST-SUFFIX,kgimg.com,CN
@@ -1508,6 +1519,7 @@ HOST-SUFFIX,pkuh6.cn,CN
 HOST-SUFFIX,puh3.net.cn,CN
 HOST,hospital.pku.edu.cn,CN
 HOST,ss.bjmu.edu.cn,CN
+HOST-SUFFIX,yctdyy.com,CN
 HOST-SUFFIX,lkcoffee.com,CN
 HOST-SUFFIX,luckincoffeecdn.com,CN
 HOST-SUFFIX,yyds.co,CN
@@ -1753,6 +1765,10 @@ HOST-SUFFIX,nowcoder.com,CN
 HOST-SUFFIX,nowcoder.org,CN
 HOST-SUFFIX,polyv.net,CN
 HOST-SUFFIX,videocc.net,CN
+HOST-SUFFIX,hecdn.net,CN
+HOST-SUFFIX,heweather.net,CN
+HOST-SUFFIX,qweather.com,CN
+HOST-SUFFIX,qweather.net,CN
 HOST-SUFFIX,renren.com,CN
 HOST-SUFFIX,renren-inc.com,CN
 HOST-SUFFIX,tendcloud.com,CN
@@ -3466,6 +3482,7 @@ HOST-SUFFIX,51dzt.com,CN
 HOST-SUFFIX,iciba.com,CN
 HOST-SUFFIX,docer.com,CN
 HOST-SUFFIX,kdocs.cn,CN
+HOST-SUFFIX,wpsmail.net,CN
 HOST-SUFFIX,papocket.com,CN
 HOST-SUFFIX,wpspdf.cn,CN
 HOST-SUFFIX,kimg.cn,CN
@@ -4373,6 +4390,10 @@ HOST-SUFFIX,chugou360.com,CN
 HOST-SUFFIX,ycrx360.com,CN
 HOST-SUFFIX,jikeiot.cloud,CN
 HOST-SUFFIX,zyh365.com,CN
+HOST-SUFFIX,cma.gov.cn,CN
+HOST-SUFFIX,cma.cn,CN
+HOST-SUFFIX,nmc.cn,CN
+HOST-SUFFIX,cnr.cn,CN
 HOST-SUFFIX,cyol.com,CN
 HOST-SUFFIX,webterren.com,CN
 HOST-SUFFIX,bjyouth.gov.cn,CN
@@ -5187,6 +5208,7 @@ HOST-SUFFIX,rzrc114.com,CN
 HOST-SUFFIX,saibo.com,CN
 HOST-SUFFIX,sanguosha.com,CN
 HOST-SUFFIX,sanwen.net,CN
+HOST-SUFFIX,sast.fun,CN
 HOST-SUFFIX,scdng.com,CN
 HOST-SUFFIX,scoregg.com,CN
 HOST-SUFFIX,sczsxx.com,CN
@@ -5225,6 +5247,7 @@ HOST-SUFFIX,simei8.com,CN
 HOST-SUFFIX,simuwang.com,CN
 HOST-SUFFIX,sinesafe.com,CN
 HOST-SUFFIX,sjwyx.com,CN
+HOST-SUFFIX,skimit.net,CN
 HOST-SUFFIX,skycn.com,CN
 HOST-SUFFIX,sllssrq.com,CN
 HOST-SUFFIX,snimay.com,CN
@@ -5531,3 +5554,12 @@ HOST-SUFFIX,anmo.com,CN
 HOST-SUFFIX,djdjapp.com,CN
 HOST-SUFFIX,dongjiao.cc,CN
 HOST-SUFFIX,dongjiaoapp.com,CN
+HOST-SUFFIX,jsw118.com,CN
+HOST-SUFFIX,sxcxldjy.com,CN
+HOST-SUFFIX,shanxijianzhuzizhi.com,CN
+HOST-SUFFIX,jztvnews.com,CN
+HOST-SUFFIX,vhengdata.com,CN
+HOST-SUFFIX,nanyuenews.com,CN
+HOST-SUFFIX,educoder.net,CN
+HOST-SUFFIX,tokcoder.com,CN
+HOST-SUFFIX,trustie.net,CN
