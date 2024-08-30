@@ -151,11 +151,15 @@ HOST-SUFFIX,googlevads-cn.com,GOOGLE
 HOST-SUFFIX,marketingplatform.google.com,GOOGLE
 HOST-SUFFIX,urchin.com,GOOGLE
 HOST,analytics.google.com,GOOGLE
-HOST-SUFFIX,gemini.google.com,GOOGLE
+HOST-SUFFIX,deepmind.com,GOOGLE
+HOST-SUFFIX,deepmind.google,GOOGLE
 HOST-SUFFIX,ai.google.dev,GOOGLE
 HOST-SUFFIX,aistudio.google.com,GOOGLE
+HOST-SUFFIX,bard.google.com,GOOGLE
+HOST-SUFFIX,gemini.google.com,GOOGLE
 HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE
-HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,GOOGLE
+HOST-SUFFIX,makersuite.google.com,GOOGLE
+HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE
 HOST-SUFFIX,charlestonroadregistry.com,GOOGLE
 HOST-SUFFIX,crr.com,GOOGLE
 HOST-SUFFIX,registry.google,GOOGLE
@@ -719,7 +723,6 @@ HOST-SUFFIX,dartsearch.net,GOOGLE
 HOST-SUFFIX,dataliberation.org,GOOGLE
 HOST-SUFFIX,debug.com,GOOGLE
 HOST-SUFFIX,debugproject.com,GOOGLE
-HOST-SUFFIX,deepmind.com,GOOGLE
 HOST-SUFFIX,devsitetest.how,GOOGLE
 HOST-SUFFIX,dialogflow.com,GOOGLE
 HOST-SUFFIX,digitalassetlinks.org,GOOGLE

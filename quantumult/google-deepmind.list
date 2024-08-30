@@ -1,0 +1,9 @@
+HOST-SUFFIX,deepmind.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,deepmind.google,GOOGLE-DEEPMIND
+HOST-SUFFIX,ai.google.dev,GOOGLE-DEEPMIND
+HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,bard.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,gemini.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,makersuite.google.com,GOOGLE-DEEPMIND
+HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-DEEPMIND

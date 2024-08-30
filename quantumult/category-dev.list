@@ -329,17 +329,6 @@ HOST-SUFFIX,mongodb.org,CATEGORY-DEV
 HOST-SUFFIX,nginx.com,CATEGORY-DEV
 HOST-SUFFIX,nginx.org,CATEGORY-DEV
 HOST-SUFFIX,nixos.org,CATEGORY-DEV
-HOST-SUFFIX,chatgpt.com,CATEGORY-DEV
-HOST-SUFFIX,oaistatic.com,CATEGORY-DEV
-HOST-SUFFIX,oaiusercontent.com,CATEGORY-DEV
-HOST-SUFFIX,openai.com,CATEGORY-DEV
-HOST-SUFFIX,openai.com.cdn.cloudflare.net,CATEGORY-DEV
-HOST,openaiapi-site.azureedge.net,CATEGORY-DEV
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,CATEGORY-DEV
-HOST,openaicomproductionae4b.blob.core.windows.net,CATEGORY-DEV
-HOST,production-openaicom-storage.azureedge.net,CATEGORY-DEV
-HOST,o33249.ingest.sentry.io,CATEGORY-DEV
-HOST,openaicom.imgix.net,CATEGORY-DEV
 HOST-SUFFIX,openwrt.org,CATEGORY-DEV
 HOST-SUFFIX,lede-project.org,CATEGORY-DEV
 HOST-SUFFIX,osdn.net,CATEGORY-DEV
