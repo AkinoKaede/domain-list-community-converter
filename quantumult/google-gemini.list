@@ -1,9 +1,13 @@
 HOST-SUFFIX,deepmind.com,GOOGLE-GEMINI
 HOST-SUFFIX,deepmind.google,GOOGLE-GEMINI
-HOST-SUFFIX,ai.google.dev,GOOGLE-GEMINI
+HOST-SUFFIX,geller-pa.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,GOOGLE-GEMINI
+HOST,ai.google.dev,GOOGLE-GEMINI
+HOST,alkalicore-pa.clients6.google.com,GOOGLE-GEMINI
+HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-GEMINI
+HOST-SUFFIX,generativeai.google,GOOGLE-GEMINI
+HOST-SUFFIX,makersuite.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,aistudio.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,bard.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.google.com,GOOGLE-GEMINI
-HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE-GEMINI
-HOST-SUFFIX,makersuite.google.com,GOOGLE-GEMINI
-HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-GEMINI
