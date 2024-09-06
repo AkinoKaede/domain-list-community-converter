@@ -76,6 +76,7 @@ HOST-SUFFIX,googletagservices.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googletraveladservices-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googletraveladservices.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googlevads-cn.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,mail-ads.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,marketingplatform.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN@ADS
 HOST,analytics.google.com,GEOLOCATION-!CN@ADS

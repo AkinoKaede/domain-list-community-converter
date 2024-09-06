@@ -38,6 +38,7 @@ HOST-SUFFIX,googletagservices.com,GOOGLE-ADS
 HOST-SUFFIX,googletraveladservices-cn.com,GOOGLE-ADS
 HOST-SUFFIX,googletraveladservices.com,GOOGLE-ADS
 HOST-SUFFIX,googlevads-cn.com,GOOGLE-ADS
+HOST-SUFFIX,mail-ads.google.com,GOOGLE-ADS
 HOST-SUFFIX,marketingplatform.google.com,GOOGLE-ADS
 HOST-SUFFIX,urchin.com,GOOGLE-ADS
 HOST,analytics.google.com,GOOGLE-ADS

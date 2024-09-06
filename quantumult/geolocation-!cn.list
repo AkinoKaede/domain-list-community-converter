@@ -4847,6 +4847,7 @@ HOST-SUFFIX,doom.com,GEOLOCATION-!CN
 HOST-SUFFIX,elderscrolls.com,GEOLOCATION-!CN
 HOST-SUFFIX,callersbane.com,GEOLOCATION-!CN
 HOST-SUFFIX,minecraft.net,GEOLOCATION-!CN
+HOST-SUFFIX,minecraftservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,minecraftshop.com,GEOLOCATION-!CN
 HOST-SUFFIX,mojang.com,GEOLOCATION-!CN
 HOST-SUFFIX,xbox,GEOLOCATION-!CN
@@ -18353,6 +18354,7 @@ HOST-SUFFIX,googletagservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,googletraveladservices-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,googletraveladservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,googlevads-cn.com,GEOLOCATION-!CN
+HOST-SUFFIX,mail-ads.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,marketingplatform.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN
 HOST,analytics.google.com,GEOLOCATION-!CN
