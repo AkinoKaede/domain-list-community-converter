@@ -80,6 +80,7 @@ HOST-SUFFIX,mail-ads.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,marketingplatform.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN@ADS
 HOST,analytics.google.com,GEOLOCATION-!CN@ADS
+HOST,sentry.hetzner.company,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,snapads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.yahoo.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,gemini.yahoo.com,GEOLOCATION-!CN@ADS

@@ -1,4 +1,6 @@
 HOST-SUFFIX,hetzner.cloud,HETZNER
 HOST-SUFFIX,hetzner.com,HETZNER
+HOST-SUFFIX,hetzner.company,HETZNER
 HOST-SUFFIX,hetzner.de,HETZNER
 HOST-SUFFIX,your-server.de,HETZNER
+HOST,sentry.hetzner.company,HETZNER

@@ -66,6 +66,11 @@ HOST-SUFFIX,jd.co.th,CN@!CN
 HOST-SUFFIX,jd.hk,CN@!CN
 HOST-SUFFIX,jd.id,CN@!CN
 HOST-SUFFIX,jd.ru,CN@!CN
+HOST-SUFFIX,bilibili.tv,CN@!CN
+HOST-SUFFIX,biliintl.com,CN@!CN
+HOST-SUFFIX,dreamcast.hk,CN@!CN
+HOST,upos-hz-mirrorakam.akamaized.net,CN@!CN
+HOST-SUFFIX,iq.com,CN@!CN
 HOST-SUFFIX,myip.la,CN@!CN
 HOST-SUFFIX,alibabacloud.co.in,CN@!CN
 HOST-SUFFIX,alibabacloud.com.au,CN@!CN
