@@ -1,4 +1,5 @@
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,redirector.c.play.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -127,7 +128,6 @@ DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
 DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,redirector.c.youtubeeducation.com
 DOMAIN,redirector.gcpcdn.gvt1.com
 DOMAIN,redirector.gvt1.com

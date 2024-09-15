@@ -348,6 +348,7 @@ HOST-SUFFIX,duolingo.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,aoruszone.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gigabyte.cn,CATEGORY-COMPANIES@CN
 HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES@CN
+HOST,redirector.c.play.google.com,CATEGORY-COMPANIES@CN
 HOST,pki-goog.l.google.com,CATEGORY-COMPANIES@CN
 HOST,c.pki.goog,CATEGORY-COMPANIES@CN
 HOST,i.pki.goog,CATEGORY-COMPANIES@CN
@@ -476,7 +477,6 @@ HOST,redirector.bdn.dev,CATEGORY-COMPANIES@CN
 HOST,redirector.c.chat.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.mail.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.pack.google.com,CATEGORY-COMPANIES@CN
-HOST,redirector.c.play.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.youtubeeducation.com,CATEGORY-COMPANIES@CN
 HOST,redirector.gcpcdn.gvt1.com,CATEGORY-COMPANIES@CN
 HOST,redirector.gvt1.com,CATEGORY-COMPANIES@CN

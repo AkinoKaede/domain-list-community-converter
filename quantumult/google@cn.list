@@ -1,4 +1,5 @@
 HOST,firebase-settings.crashlytics.com,GOOGLE@CN
+HOST,redirector.c.play.google.com,GOOGLE@CN
 HOST,pki-goog.l.google.com,GOOGLE@CN
 HOST,c.pki.goog,GOOGLE@CN
 HOST,i.pki.goog,GOOGLE@CN
@@ -127,7 +128,6 @@ HOST,redirector.bdn.dev,GOOGLE@CN
 HOST,redirector.c.chat.google.com,GOOGLE@CN
 HOST,redirector.c.mail.google.com,GOOGLE@CN
 HOST,redirector.c.pack.google.com,GOOGLE@CN
-HOST,redirector.c.play.google.com,GOOGLE@CN
 HOST,redirector.c.youtubeeducation.com,GOOGLE@CN
 HOST,redirector.gcpcdn.gvt1.com,GOOGLE@CN
 HOST,redirector.gvt1.com,GOOGLE@CN

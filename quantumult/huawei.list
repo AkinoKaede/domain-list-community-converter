@@ -261,7 +261,10 @@ HOST-SUFFIX,agconnect.link,HUAWEI
 HOST-SUFFIX,dbank.com,HUAWEI
 HOST-SUFFIX,dbankcdn.cn,HUAWEI
 HOST-SUFFIX,dbankcdn.com,HUAWEI
+HOST-SUFFIX,dbankcloud.cn,HUAWEI
 HOST-SUFFIX,dbankcloud.com,HUAWEI
+HOST-SUFFIX,dbankedge.cn,HUAWEI
+HOST-SUFFIX,dbankedge.net,HUAWEI
 HOST-SUFFIX,hicloud.com,HUAWEI
 HOST-SUFFIX,hihonor.com,HUAWEI
 HOST-SUFFIX,honor.cn,HUAWEI

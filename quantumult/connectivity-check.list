@@ -1,0 +1,10 @@
+HOST-SUFFIX,ping.archlinux.org,CONNECTIVITY-CHECK
+HOST-SUFFIX,captive.apple.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,connectivitycheck.gstatic.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,cp.cloudflare.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,network-test.debian.org,CONNECTIVITY-CHECK
+HOST-SUFFIX,detectportal.firefox.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,networkcheck.kde.org,CONNECTIVITY-CHECK
+HOST,connect.rom.miui.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,msftconnecttest.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,msftncsi.com,CONNECTIVITY-CHECK

@@ -696,6 +696,7 @@ DOMAIN-SUFFIX,heptio.cn
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN,redirector.c.play.google.com
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,gkecnapps.cn
@@ -816,7 +817,6 @@ DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
 DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,redirector.c.youtubeeducation.com
 DOMAIN,redirector.gcpcdn.gvt1.com
 DOMAIN,redirector.gvt1.com

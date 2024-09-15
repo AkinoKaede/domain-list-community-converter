@@ -696,6 +696,7 @@ HOST-SUFFIX,heptio.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,duolingo.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,aoruszone.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gigabyte.cn,GEOLOCATION-!CN@CN
+HOST,redirector.c.play.google.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,google.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,g.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gkecnapps.cn,GEOLOCATION-!CN@CN
@@ -816,7 +817,6 @@ HOST,redirector.bdn.dev,GEOLOCATION-!CN@CN
 HOST,redirector.c.chat.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.mail.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.pack.google.com,GEOLOCATION-!CN@CN
-HOST,redirector.c.play.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.youtubeeducation.com,GEOLOCATION-!CN@CN
 HOST,redirector.gcpcdn.gvt1.com,GEOLOCATION-!CN@CN
 HOST,redirector.gvt1.com,GEOLOCATION-!CN@CN

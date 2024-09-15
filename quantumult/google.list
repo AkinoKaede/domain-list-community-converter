@@ -165,6 +165,14 @@ HOST-SUFFIX,makersuite.google.com,GOOGLE
 HOST-SUFFIX,aistudio.google.com,GOOGLE
 HOST-SUFFIX,bard.google.com,GOOGLE
 HOST-SUFFIX,gemini.google.com,GOOGLE
+HOST-SUFFIX,googleplay.com,GOOGLE
+HOST-SUFFIX,play-fe.googleapis.com,GOOGLE
+HOST-SUFFIX,play-games.googleusercontent.com,GOOGLE
+HOST-SUFFIX,play-lh.googleusercontent.com,GOOGLE
+HOST-SUFFIX,play.google.com,GOOGLE
+HOST-SUFFIX,play.googleapis.com,GOOGLE
+HOST-SUFFIX,xn--ngstr-lra8j.com,GOOGLE
+HOST,redirector.c.play.google.com,GOOGLE
 HOST-SUFFIX,charlestonroadregistry.com,GOOGLE
 HOST-SUFFIX,crr.com,GOOGLE
 HOST-SUFFIX,registry.google,GOOGLE
@@ -274,7 +282,10 @@ HOST,alt5-mtalk.google.com,GOOGLE
 HOST,alt6-mtalk.google.com,GOOGLE
 HOST,alt7-mtalk.google.com,GOOGLE
 HOST,alt8-mtalk.google.com,GOOGLE
+HOST,mtalk-dev.google.com,GOOGLE
+HOST,mtalk-staging.google.com,GOOGLE
 HOST,mtalk.google.com,GOOGLE
+HOST,mtalk4.google.com,GOOGLE
 HOST-SUFFIX,kaggle.com,GOOGLE
 HOST-SUFFIX,kaggle.io,GOOGLE
 HOST-SUFFIX,kaggle.net,GOOGLE
@@ -794,7 +805,6 @@ HOST-SUFFIX,googlemail.com,GOOGLE
 HOST-SUFFIX,googlemaps.com,GOOGLE
 HOST-SUFFIX,googlepagecreator.com,GOOGLE
 HOST-SUFFIX,googlephotos.com,GOOGLE
-HOST-SUFFIX,googleplay.com,GOOGLE
 HOST-SUFFIX,googleplus.com,GOOGLE
 HOST-SUFFIX,googlesource.com,GOOGLE
 HOST-SUFFIX,googlestore.com,GOOGLE
@@ -948,7 +958,6 @@ HOST-SUFFIX,xn--flw351e.com,GOOGLE
 HOST-SUFFIX,xn--ggle-55da.com,GOOGLE
 HOST-SUFFIX,xn--gogl-0nd52e.com,GOOGLE
 HOST-SUFFIX,xn--gogl-1nd42e.com,GOOGLE
-HOST-SUFFIX,xn--ngstr-lra8j.com,GOOGLE
 HOST-SUFFIX,xplr.co,GOOGLE
 HOST-SUFFIX,zukunftswerkstatt.de,GOOGLE
 HOST,www.recaptcha.net,GOOGLE
@@ -1065,7 +1074,6 @@ HOST,redirector.bdn.dev,GOOGLE
 HOST,redirector.c.chat.google.com,GOOGLE
 HOST,redirector.c.mail.google.com,GOOGLE
 HOST,redirector.c.pack.google.com,GOOGLE
-HOST,redirector.c.play.google.com,GOOGLE
 HOST,redirector.c.youtubeeducation.com,GOOGLE
 HOST,redirector.gcpcdn.gvt1.com,GOOGLE
 HOST,redirector.gvt1.com,GOOGLE

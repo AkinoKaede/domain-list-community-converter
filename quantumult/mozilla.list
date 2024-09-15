@@ -23,3 +23,5 @@ HOST-SUFFIX,bugzilla.org,MOZILLA
 HOST-SUFFIX,getpocket.com,MOZILLA
 HOST-SUFFIX,seamonkey-project.org,MOZILLA
 HOST-SUFFIX,thunderbird.net,MOZILLA
+HOST-SUFFIX,location.services.mozilla.com,MOZILLA
+HOST-SUFFIX,push.services.mozilla.com,MOZILLA
