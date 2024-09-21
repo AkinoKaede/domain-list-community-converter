@@ -1,5 +1,8 @@
+HOST-SUFFIX,api.notion.com,NOTION
+HOST-SUFFIX,img.notionusercontent.com,NOTION
 HOST-SUFFIX,notion-static.com,NOTION
 HOST-SUFFIX,notion.com,NOTION
 HOST-SUFFIX,notion.new,NOTION
 HOST-SUFFIX,notion.site,NOTION
 HOST-SUFFIX,notion.so,NOTION
+HOST-SUFFIX,notionusercontent.com,NOTION

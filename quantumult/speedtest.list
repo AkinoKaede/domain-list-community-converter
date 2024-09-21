@@ -9,3 +9,4 @@ HOST-SUFFIX,speedtest.co,SPEEDTEST
 HOST-SUFFIX,speedtest.net,SPEEDTEST
 HOST-SUFFIX,speedtestcustom.com,SPEEDTEST
 HOST-SUFFIX,webtest.net,SPEEDTEST
+HOST,www.speedtest.net.cdn.cloudflare.net,SPEEDTEST
