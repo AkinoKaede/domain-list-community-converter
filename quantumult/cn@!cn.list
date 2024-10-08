@@ -125,6 +125,7 @@ HOST-SUFFIX,didimobility.co.jp,CN@!CN
 HOST-SUFFIX,huaweicloud-dns.net,CN@!CN
 HOST-SUFFIX,huaweicloud-dns.org,CN@!CN
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,CN@!CN
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,CN@!CN
@@ -135,7 +136,9 @@ HOST-SUFFIX,eu-west-101.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,CN@!CN
+HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,CN@!CN
+HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,CN@!CN

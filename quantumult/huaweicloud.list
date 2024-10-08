@@ -1,3 +1,5 @@
+HOST-SUFFIX,aadcloud.cn,HUAWEICLOUD
+HOST-SUFFIX,aadcloud.com,HUAWEICLOUD
 HOST-SUFFIX,ami-alliance.org.cn,HUAWEICLOUD
 HOST-SUFFIX,b2bgo.com,HUAWEICLOUD
 HOST-SUFFIX,eduapaashwc.com,HUAWEICLOUD
@@ -10,6 +12,8 @@ HOST-SUFFIX,huaweicloud-dns.cn,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-dns.com,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-dns.net,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-dns.org,HUAWEICLOUD
+HOST-SUFFIX,huaweicloud-idme.cn,HUAWEICLOUD
+HOST-SUFFIX,huaweicloud-idme.com,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-smn.cn,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-smn.com,HUAWEICLOUD
 HOST-SUFFIX,huaweicloud-smn.net,HUAWEICLOUD
@@ -47,8 +51,15 @@ HOST-SUFFIX,hwcloudsite.cn,HUAWEICLOUD
 HOST-SUFFIX,hwcloudsite.com,HUAWEICLOUD
 HOST-SUFFIX,hwcloudvis.cn,HUAWEICLOUD
 HOST-SUFFIX,hwcloudvis.com,HUAWEICLOUD
+HOST-SUFFIX,hweventgrid.cn,HUAWEICLOUD
+HOST-SUFFIX,hweventgrid.com,HUAWEICLOUD
+HOST-SUFFIX,idonguapi.cn,HUAWEICLOUD
+HOST-SUFFIX,idonguapi.com,HUAWEICLOUD
 HOST-SUFFIX,imc-oneaccess.cn,HUAWEICLOUD
 HOST-SUFFIX,imcapptest.com,HUAWEICLOUD
+HOST-SUFFIX,inanguapi.cn,HUAWEICLOUD
+HOST-SUFFIX,inanguapi.com,HUAWEICLOUD
+HOST-SUFFIX,ixiguapi.com,HUAWEICLOUD
 HOST-SUFFIX,km6g.cn,HUAWEICLOUD
 HOST-SUFFIX,km7g.cn,HUAWEICLOUD
 HOST-SUFFIX,km8g.cn,HUAWEICLOUD
@@ -58,6 +69,14 @@ HOST-SUFFIX,kmcb-cn-north-4.cn,HUAWEICLOUD
 HOST-SUFFIX,kmop-cn-east-3.cn,HUAWEICLOUD
 HOST-SUFFIX,kmop-cn-north-4.cn,HUAWEICLOUD
 HOST-SUFFIX,livehwc3.cn,HUAWEICLOUD
+HOST-SUFFIX,modelarts-infer.cn,HUAWEICLOUD
+HOST-SUFFIX,modelarts-infer.com,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-custom.cn,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-custom.com,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-koodrive.cn,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-koodrive.com,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-obs.cn,HUAWEICLOUD
+HOST-SUFFIX,myhuaweicloud-obs.com,HUAWEICLOUD
 HOST-SUFFIX,myhuaweicloud.cn,HUAWEICLOUD
 HOST-SUFFIX,myhwcdn.cn,HUAWEICLOUD
 HOST-SUFFIX,myhwcdn.com,HUAWEICLOUD
@@ -70,6 +89,7 @@ HOST-SUFFIX,pagescube.cn,HUAWEICLOUD
 HOST-SUFFIX,pagescube.com,HUAWEICLOUD
 HOST-SUFFIX,powerapp.io,HUAWEICLOUD
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,HUAWEICLOUD
@@ -77,6 +97,7 @@ HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-east-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-east-3.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,cn-east-4.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-east-5.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,cn-north-11.myhuaweicloud.com,HUAWEICLOUD
@@ -96,7 +117,9 @@ HOST-SUFFIX,eu-west-101.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,HUAWEICLOUD
+HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,HUAWEICLOUD
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,HUAWEICLOUD

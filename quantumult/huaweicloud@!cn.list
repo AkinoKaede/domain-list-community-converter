@@ -1,6 +1,7 @@
 HOST-SUFFIX,huaweicloud-dns.net,HUAWEICLOUD@!CN
 HOST-SUFFIX,huaweicloud-dns.org,HUAWEICLOUD@!CN
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,HUAWEICLOUD@!CN
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,HUAWEICLOUD@!CN
@@ -11,7 +12,9 @@ HOST-SUFFIX,eu-west-101.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,HUAWEICLOUD@!CN
+HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,HUAWEICLOUD@!CN
+HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,HUAWEICLOUD@!CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,HUAWEICLOUD@!CN

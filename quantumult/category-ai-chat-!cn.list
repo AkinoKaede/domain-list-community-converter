@@ -1,5 +1,6 @@
 HOST-SUFFIX,anthropic.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,claude.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,claudeusercontent.com,CATEGORY-AI-CHAT-!CN
 HOST,servd-anthropic-website.b-cdn.net,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,deepmind.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,deepmind.google,CATEGORY-AI-CHAT-!CN

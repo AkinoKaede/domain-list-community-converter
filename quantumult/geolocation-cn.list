@@ -3176,6 +3176,8 @@ HOST-SUFFIX,djicdn.com,GEOLOCATION-CN
 HOST-SUFFIX,djiops.com,GEOLOCATION-CN
 HOST-SUFFIX,djiservice.org,GEOLOCATION-CN
 HOST-SUFFIX,skypixel.com,GEOLOCATION-CN
+HOST-SUFFIX,aadcloud.cn,GEOLOCATION-CN
+HOST-SUFFIX,aadcloud.com,GEOLOCATION-CN
 HOST-SUFFIX,ami-alliance.org.cn,GEOLOCATION-CN
 HOST-SUFFIX,b2bgo.com,GEOLOCATION-CN
 HOST-SUFFIX,eduapaashwc.com,GEOLOCATION-CN
@@ -3188,6 +3190,8 @@ HOST-SUFFIX,huaweicloud-dns.cn,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-dns.com,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-dns.net,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-dns.org,GEOLOCATION-CN
+HOST-SUFFIX,huaweicloud-idme.cn,GEOLOCATION-CN
+HOST-SUFFIX,huaweicloud-idme.com,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-smn.cn,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-smn.com,GEOLOCATION-CN
 HOST-SUFFIX,huaweicloud-smn.net,GEOLOCATION-CN
@@ -3225,8 +3229,15 @@ HOST-SUFFIX,hwcloudsite.cn,GEOLOCATION-CN
 HOST-SUFFIX,hwcloudsite.com,GEOLOCATION-CN
 HOST-SUFFIX,hwcloudvis.cn,GEOLOCATION-CN
 HOST-SUFFIX,hwcloudvis.com,GEOLOCATION-CN
+HOST-SUFFIX,hweventgrid.cn,GEOLOCATION-CN
+HOST-SUFFIX,hweventgrid.com,GEOLOCATION-CN
+HOST-SUFFIX,idonguapi.cn,GEOLOCATION-CN
+HOST-SUFFIX,idonguapi.com,GEOLOCATION-CN
 HOST-SUFFIX,imc-oneaccess.cn,GEOLOCATION-CN
 HOST-SUFFIX,imcapptest.com,GEOLOCATION-CN
+HOST-SUFFIX,inanguapi.cn,GEOLOCATION-CN
+HOST-SUFFIX,inanguapi.com,GEOLOCATION-CN
+HOST-SUFFIX,ixiguapi.com,GEOLOCATION-CN
 HOST-SUFFIX,km6g.cn,GEOLOCATION-CN
 HOST-SUFFIX,km7g.cn,GEOLOCATION-CN
 HOST-SUFFIX,km8g.cn,GEOLOCATION-CN
@@ -3236,6 +3247,14 @@ HOST-SUFFIX,kmcb-cn-north-4.cn,GEOLOCATION-CN
 HOST-SUFFIX,kmop-cn-east-3.cn,GEOLOCATION-CN
 HOST-SUFFIX,kmop-cn-north-4.cn,GEOLOCATION-CN
 HOST-SUFFIX,livehwc3.cn,GEOLOCATION-CN
+HOST-SUFFIX,modelarts-infer.cn,GEOLOCATION-CN
+HOST-SUFFIX,modelarts-infer.com,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-custom.cn,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-custom.com,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-koodrive.cn,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-koodrive.com,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-obs.cn,GEOLOCATION-CN
+HOST-SUFFIX,myhuaweicloud-obs.com,GEOLOCATION-CN
 HOST-SUFFIX,myhuaweicloud.cn,GEOLOCATION-CN
 HOST-SUFFIX,myhwcdn.cn,GEOLOCATION-CN
 HOST-SUFFIX,myhwcdn.com,GEOLOCATION-CN
@@ -3248,6 +3267,7 @@ HOST-SUFFIX,pagescube.cn,GEOLOCATION-CN
 HOST-SUFFIX,pagescube.com,GEOLOCATION-CN
 HOST-SUFFIX,powerapp.io,GEOLOCATION-CN
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,GEOLOCATION-CN
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,GEOLOCATION-CN
@@ -3255,6 +3275,7 @@ HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,cn-east-2.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,cn-east-3.myhuaweicloud.com,GEOLOCATION-CN
+HOST-SUFFIX,cn-east-4.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,cn-east-5.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,cn-north-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,cn-north-11.myhuaweicloud.com,GEOLOCATION-CN
@@ -3274,7 +3295,9 @@ HOST-SUFFIX,eu-west-101.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,GEOLOCATION-CN
+HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,GEOLOCATION-CN
+HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,GEOLOCATION-CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,GEOLOCATION-CN
