@@ -1,6 +1,11 @@
+HOST-SUFFIX,first-ns.de,HETZNER
 HOST-SUFFIX,hetzner.cloud,HETZNER
 HOST-SUFFIX,hetzner.com,HETZNER
 HOST-SUFFIX,hetzner.company,HETZNER
 HOST-SUFFIX,hetzner.de,HETZNER
+HOST-SUFFIX,htznr.li,HETZNER
+HOST-SUFFIX,second-ns.com,HETZNER
+HOST-SUFFIX,second-ns.de,HETZNER
+HOST-SUFFIX,your-objectstorage.com,HETZNER
 HOST-SUFFIX,your-server.de,HETZNER
 HOST,sentry.hetzner.company,HETZNER
