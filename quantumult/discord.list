@@ -24,4 +24,5 @@ HOST-SUFFIX,bigbeans.solutions,DISCORD
 HOST-SUFFIX,watchanimeattheoffice.com,DISCORD
 HOST-SUFFIX,discordapp.io,DISCORD
 HOST-SUFFIX,discordcdn.com,DISCORD
+HOST,discord-attachments-uploads-prd.storage.googleapis.com,DISCORD
 HOST,hammerandchisel.ssl.zendesk.com,DISCORD

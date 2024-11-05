@@ -118,6 +118,7 @@ HOST-SUFFIX,aliyun-inc.com,ALIBABA
 HOST-SUFFIX,aliyun-iot-share.com,ALIBABA
 HOST-SUFFIX,aliyun.com,ALIBABA
 HOST-SUFFIX,aliyuncdn.com,ALIBABA
+HOST-SUFFIX,aliyunfile.com,ALIBABA
 HOST-SUFFIX,cdngslb.com,ALIBABA
 HOST-SUFFIX,hichina.com,ALIBABA
 HOST-SUFFIX,ica-alliance.org,ALIBABA
@@ -212,6 +213,7 @@ HOST-SUFFIX,aliapp.org,ALIBABA
 HOST-SUFFIX,alibaba-inc.com,ALIBABA
 HOST-SUFFIX,alibaba.com,ALIBABA
 HOST-SUFFIX,alibabacapital.com,ALIBABA
+HOST-SUFFIX,alibabachengdun.com,ALIBABA
 HOST-SUFFIX,alibabacorp.com,ALIBABA
 HOST-SUFFIX,alibabadoctor.com,ALIBABA
 HOST-SUFFIX,alibabafuturehotel.com,ALIBABA
@@ -220,6 +222,7 @@ HOST-SUFFIX,alibabaplanet.com,ALIBABA
 HOST-SUFFIX,alibabaued.com,ALIBABA
 HOST-SUFFIX,alibabausercontent.com,ALIBABA
 HOST-SUFFIX,alifanyi.com,ALIBABA
+HOST-SUFFIX,aligames.com,ALIBABA
 HOST-SUFFIX,alihealth.com.cn,ALIBABA
 HOST-SUFFIX,alihealth.hk,ALIBABA
 HOST-SUFFIX,aliimg.com,ALIBABA
@@ -232,6 +235,7 @@ HOST-SUFFIX,alipay.cn,ALIBABA
 HOST-SUFFIX,alipay.com,ALIBABA
 HOST-SUFFIX,alipay.com.cn,ALIBABA
 HOST-SUFFIX,alipaydns.com,ALIBABA
+HOST-SUFFIX,alipaylog.com,ALIBABA
 HOST-SUFFIX,alipayobjects.com,ALIBABA
 HOST-SUFFIX,aliplus.com,ALIBABA
 HOST-SUFFIX,aliresearch.com,ALIBABA

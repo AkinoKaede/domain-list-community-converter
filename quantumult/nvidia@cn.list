@@ -1,3 +1,4 @@
 HOST-SUFFIX,geforce.cn,NVIDIA@CN
 HOST-SUFFIX,gputechconf.cn,NVIDIA@CN
 HOST-SUFFIX,nvidia.cn,NVIDIA@CN
+HOST,cn.download.nvidia.com,NVIDIA@CN

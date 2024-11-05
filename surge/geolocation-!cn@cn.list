@@ -1037,6 +1037,7 @@ DOMAIN,xb.dlservice.microsoft.com
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,gputechconf.cn
 DOMAIN-SUFFIX,nvidia.cn
+DOMAIN,cn.download.nvidia.com
 DOMAIN-SUFFIX,panasonic.cn
 DOMAIN-SUFFIX,myqnapcloud.cn
 DOMAIN-SUFFIX,qlinkto.cn
@@ -1052,6 +1053,8 @@ DOMAIN-SUFFIX,razersynapse.com
 DOMAIN-SUFFIX,razerzone.com
 DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,stmicroelectronics.com.cn
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,amplifi.com.cn
 DOMAIN-SUFFIX,frontrow.com.cn
 DOMAIN-SUFFIX,ubnt.com

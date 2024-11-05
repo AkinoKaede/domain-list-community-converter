@@ -498,6 +498,7 @@ HOST,media-rockstargames-com.akamaized.net,CATEGORY-GAMES
 HOST,videos-rockstargames-com.akamaized.net,CATEGORY-GAMES
 HOST-SUFFIX,playartifact.com,CATEGORY-GAMES
 HOST-SUFFIX,s.team,CATEGORY-GAMES
+HOST-SUFFIX,steam.tv,CATEGORY-GAMES
 HOST-SUFFIX,steam-api.com,CATEGORY-GAMES
 HOST-SUFFIX,steam-chat.com,CATEGORY-GAMES
 HOST-SUFFIX,steamcommunity.com,CATEGORY-GAMES
