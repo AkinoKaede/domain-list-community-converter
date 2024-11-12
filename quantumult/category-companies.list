@@ -498,6 +498,10 @@ HOST-SUFFIX,cups.org,CATEGORY-COMPANIES
 HOST-SUFFIX,developer.apple.com,CATEGORY-COMPANIES
 HOST-SUFFIX,devimages-cdn.apple.com,CATEGORY-COMPANIES
 HOST-SUFFIX,devstreaming-cdn.apple.com,CATEGORY-COMPANIES
+HOST-SUFFIX,developerservices2.apple.com,CATEGORY-COMPANIES
+HOST-SUFFIX,timestamp.apple.com,CATEGORY-COMPANIES
+HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,CATEGORY-COMPANIES
+HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,CATEGORY-COMPANIES
 HOST-SUFFIX,foundationdb.org,CATEGORY-COMPANIES
 HOST-SUFFIX,macosforge.org,CATEGORY-COMPANIES
 HOST-SUFFIX,macruby.com,CATEGORY-COMPANIES

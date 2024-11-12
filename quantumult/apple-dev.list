@@ -8,6 +8,10 @@ HOST-SUFFIX,cups.org,APPLE-DEV
 HOST-SUFFIX,developer.apple.com,APPLE-DEV
 HOST-SUFFIX,devimages-cdn.apple.com,APPLE-DEV
 HOST-SUFFIX,devstreaming-cdn.apple.com,APPLE-DEV
+HOST-SUFFIX,developerservices2.apple.com,APPLE-DEV
+HOST-SUFFIX,timestamp.apple.com,APPLE-DEV
+HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,APPLE-DEV
+HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,APPLE-DEV
 HOST-SUFFIX,foundationdb.org,APPLE-DEV
 HOST-SUFFIX,macosforge.org,APPLE-DEV
 HOST-SUFFIX,macruby.com,APPLE-DEV

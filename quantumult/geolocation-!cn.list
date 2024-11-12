@@ -20153,6 +20153,10 @@ HOST-SUFFIX,cups.org,GEOLOCATION-!CN
 HOST-SUFFIX,developer.apple.com,GEOLOCATION-!CN
 HOST-SUFFIX,devimages-cdn.apple.com,GEOLOCATION-!CN
 HOST-SUFFIX,devstreaming-cdn.apple.com,GEOLOCATION-!CN
+HOST-SUFFIX,developerservices2.apple.com,GEOLOCATION-!CN
+HOST-SUFFIX,timestamp.apple.com,GEOLOCATION-!CN
+HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,GEOLOCATION-!CN
+HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,GEOLOCATION-!CN
 HOST-SUFFIX,foundationdb.org,GEOLOCATION-!CN
 HOST-SUFFIX,macosforge.org,GEOLOCATION-!CN
 HOST-SUFFIX,macruby.com,GEOLOCATION-!CN
