@@ -21,6 +21,7 @@ HOST-SUFFIX,chat.com,GEOLOCATION-!CN
 HOST-SUFFIX,oaistatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,oaiusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,openai.com,GEOLOCATION-!CN
+HOST-SUFFIX,sora.com,GEOLOCATION-!CN
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,GEOLOCATION-!CN
 HOST,openaiapi-site.azureedge.net,GEOLOCATION-!CN
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,GEOLOCATION-!CN

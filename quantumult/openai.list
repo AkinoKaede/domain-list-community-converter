@@ -4,6 +4,7 @@ HOST-SUFFIX,chat.com,OPENAI
 HOST-SUFFIX,oaistatic.com,OPENAI
 HOST-SUFFIX,oaiusercontent.com,OPENAI
 HOST-SUFFIX,openai.com,OPENAI
+HOST-SUFFIX,sora.com,OPENAI
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,OPENAI
 HOST,openaiapi-site.azureedge.net,OPENAI
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OPENAI

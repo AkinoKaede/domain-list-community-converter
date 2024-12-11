@@ -21,6 +21,7 @@ HOST-SUFFIX,chat.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,oaistatic.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,oaiusercontent.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,openai.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,sora.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,CATEGORY-AI-CHAT-!CN
 HOST,openaiapi-site.azureedge.net,CATEGORY-AI-CHAT-!CN
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,CATEGORY-AI-CHAT-!CN
