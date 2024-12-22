@@ -70,7 +70,11 @@ HOST-SUFFIX,widget.weibo.com,SINA
 HOST-SUFFIX,woocall.sina.com.cn,SINA
 HOST-SUFFIX,zymo.mps.weibo.com,SINA
 HOST-SUFFIX,97973.com,SINA
+HOST-SUFFIX,hk.weibo.com,SINA
+HOST-SUFFIX,my.weibo.com,SINA
+HOST-SUFFIX,overseas.weibo.com,SINA
 HOST-SUFFIX,picself.cn,SINA
+HOST-SUFFIX,sg.weibo.com,SINA
 HOST-SUFFIX,sina.cn,SINA
 HOST-SUFFIX,sina.com,SINA
 HOST-SUFFIX,sina.com.cn,SINA
@@ -82,6 +86,9 @@ HOST-SUFFIX,sinaimg.com,SINA
 HOST-SUFFIX,sinajs.cn,SINA
 HOST-SUFFIX,sinajs.com,SINA
 HOST-SUFFIX,t.cn,SINA
+HOST-SUFFIX,th.weibo.com,SINA
+HOST-SUFFIX,tw.weibo.com,SINA
+HOST-SUFFIX,us.weibo.com,SINA
 HOST-SUFFIX,videoself.cn,SINA
 HOST-SUFFIX,wbimg.com,SINA
 HOST-SUFFIX,wbimg.cn,SINA

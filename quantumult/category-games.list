@@ -219,6 +219,7 @@ HOST-SUFFIX,easy.ac,CATEGORY-GAMES
 HOST-SUFFIX,easyanticheat.net,CATEGORY-GAMES
 HOST-SUFFIX,epicgames.com,CATEGORY-GAMES
 HOST-SUFFIX,epicgames.dev,CATEGORY-GAMES
+HOST-SUFFIX,epicgamescdn.com,CATEGORY-GAMES
 HOST-SUFFIX,fortnite.com,CATEGORY-GAMES
 HOST-SUFFIX,paragon.com,CATEGORY-GAMES
 HOST-SUFFIX,playparagon.com,CATEGORY-GAMES
@@ -496,6 +497,8 @@ HOST-SUFFIX,rsg.sc,CATEGORY-GAMES
 HOST,gamedownloads-rockstargames-com.akamaized.net,CATEGORY-GAMES
 HOST,media-rockstargames-com.akamaized.net,CATEGORY-GAMES
 HOST,videos-rockstargames-com.akamaized.net,CATEGORY-GAMES
+HOST-SUFFIX,snk-corp.co.jp,CATEGORY-GAMES
+HOST-SUFFIX,snkplaymore.info,CATEGORY-GAMES
 HOST-SUFFIX,playartifact.com,CATEGORY-GAMES
 HOST-SUFFIX,s.team,CATEGORY-GAMES
 HOST-SUFFIX,steam.tv,CATEGORY-GAMES
@@ -546,6 +549,9 @@ HOST-SUFFIX,steamstatic.com.8686c.com,CATEGORY-GAMES
 HOST,xz.pphimalayanrt.com,CATEGORY-GAMES
 HOST-SUFFIX,steamchina.com,CATEGORY-GAMES
 HOST-SUFFIX,steamunlocked.net,CATEGORY-GAMES
+HOST-SUFFIX,supercell.com,CATEGORY-GAMES
+HOST-SUFFIX,supercell.net,CATEGORY-GAMES
+HOST-SUFFIX,supercell.helpshift.com,CATEGORY-GAMES
 HOST-SUFFIX,battlecare.net,CATEGORY-GAMES
 HOST-SUFFIX,gameitop.com,CATEGORY-GAMES
 HOST-SUFFIX,gameloop.com,CATEGORY-GAMES

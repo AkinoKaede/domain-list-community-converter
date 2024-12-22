@@ -105,13 +105,17 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
@@ -143,6 +147,13 @@ DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
 DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN,community.oneplus.com
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com
@@ -172,6 +183,8 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,vivoglobal.com
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN,ztedevices.com
 DOMAIN-SUFFIX,ctexcel.ca
 DOMAIN-SUFFIX,ctexcel.com
@@ -183,3 +196,5 @@ DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,chinaunicom.com.hk
 DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,cuniq.com
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com

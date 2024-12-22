@@ -12,3 +12,7 @@ HOST,openaicomproductionae4b.blob.core.windows.net,OPENAI
 HOST,production-openaicom-storage.azureedge.net,OPENAI
 HOST,o33249.ingest.sentry.io,OPENAI
 HOST,openaicom.imgix.net,OPENAI
+HOST,browser-intake-datadoghq.com,OPENAI
+HOST-SUFFIX,chatgpt.livekit.cloud,OPENAI
+HOST-SUFFIX,host.livekit.cloud,OPENAI
+HOST-SUFFIX,turn.livekit.cloud,OPENAI

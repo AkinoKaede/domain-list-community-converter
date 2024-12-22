@@ -105,13 +105,17 @@ HOST-SUFFIX,muscdn.com,CN@!CN
 HOST-SUFFIX,musical.ly,CN@!CN
 HOST-SUFFIX,tik-tokapi.com,CN@!CN
 HOST-SUFFIX,tiktok.com,CN@!CN
+HOST-SUFFIX,tiktokcdn-eu.com,CN@!CN
 HOST-SUFFIX,tiktokcdn-us.com,CN@!CN
 HOST-SUFFIX,tiktokcdn.com,CN@!CN
 HOST-SUFFIX,tiktokd.net,CN@!CN
 HOST-SUFFIX,tiktokd.org,CN@!CN
 HOST-SUFFIX,tiktokv.com,CN@!CN
+HOST-SUFFIX,tiktokv.eu,CN@!CN
 HOST-SUFFIX,tiktokv.us,CN@!CN
+HOST-SUFFIX,tiktokw.eu,CN@!CN
 HOST-SUFFIX,tiktokw.us,CN@!CN
+HOST-SUFFIX,ttlivecdn.com,CN@!CN
 HOST-SUFFIX,ttwstatic.com,CN@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,CN@!CN
 HOST-SUFFIX,byteoversea.com,CN@!CN
@@ -143,6 +147,13 @@ HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,CN@!CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,CN@!CN
 HOST,community.oneplus.com,CN@!CN
+HOST-SUFFIX,hk.weibo.com,CN@!CN
+HOST-SUFFIX,my.weibo.com,CN@!CN
+HOST-SUFFIX,overseas.weibo.com,CN@!CN
+HOST-SUFFIX,sg.weibo.com,CN@!CN
+HOST-SUFFIX,th.weibo.com,CN@!CN
+HOST-SUFFIX,tw.weibo.com,CN@!CN
+HOST-SUFFIX,us.weibo.com,CN@!CN
 HOST-SUFFIX,intltencentcos.com,CN@!CN
 HOST-SUFFIX,ap-hongkong.myqcloud.com,CN@!CN
 HOST-SUFFIX,ap-singapore.myqcloud.com,CN@!CN
@@ -172,6 +183,8 @@ HOST-SUFFIX,wetv.vip,CN@!CN
 HOST-SUFFIX,wetvinfo.com,CN@!CN
 HOST,wetv.qq.com,CN@!CN
 HOST-SUFFIX,vivoglobal.com,CN@!CN
+HOST-SUFFIX,c.mi.com,CN@!CN
+HOST-SUFFIX,global.market.xiaomi.com,CN@!CN
 HOST,ztedevices.com,CN@!CN
 HOST-SUFFIX,ctexcel.ca,CN@!CN
 HOST-SUFFIX,ctexcel.com,CN@!CN
@@ -183,3 +196,5 @@ HOST-SUFFIX,chinatelecomhk.com,CN@!CN
 HOST-SUFFIX,chinaunicom.com.hk,CN@!CN
 HOST-SUFFIX,chinaunicomglobal.com,CN@!CN
 HOST-SUFFIX,cuniq.com,CN@!CN
+HOST-SUFFIX,speedtest.hk.chinamobile.com,CN@!CN
+HOST-SUFFIX,speedtestbb.hk.chinamobile.com,CN@!CN
