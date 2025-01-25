@@ -2595,6 +2595,14 @@ HOST-SUFFIX,bytick.com,GEOLOCATION-!CN
 HOST-SUFFIX,byapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,bycbe.com,GEOLOCATION-!CN
 HOST-SUFFIX,bymj.io,GEOLOCATION-!CN
+HOST-SUFFIX,byabcde.com,GEOLOCATION-!CN
+HOST-SUFFIX,byapps.net,GEOLOCATION-!CN
+HOST-SUFFIX,byd3c3.com,GEOLOCATION-!CN
+HOST-SUFFIX,bybit.biz,GEOLOCATION-!CN
+HOST-SUFFIX,bybdc6.com,GEOLOCATION-!CN
+HOST-SUFFIX,bybit-global.com,GEOLOCATION-!CN
+HOST-SUFFIX,bybit.cloud,GEOLOCATION-!CN
+HOST-SUFFIX,bybitglobal.com,GEOLOCATION-!CN
 HOST,bybit-exchange.github.io,GEOLOCATION-!CN
 HOST,bybit.ada.support,GEOLOCATION-!CN
 HOST-SUFFIX,coinone.co.kr,GEOLOCATION-!CN
@@ -2641,6 +2649,11 @@ HOST-SUFFIX,zb.io,GEOLOCATION-!CN
 HOST-SUFFIX,zb.live,GEOLOCATION-!CN
 HOST-SUFFIX,kucoin.com,GEOLOCATION-!CN
 HOST-SUFFIX,kucoin.plus,GEOLOCATION-!CN
+HOST-SUFFIX,redotpay.com,GEOLOCATION-!CN
+HOST-SUFFIX,redotpay.zendesk.com,GEOLOCATION-!CN
+HOST-SUFFIX,pod-15-sunco-ws.zendesk.com,GEOLOCATION-!CN
+HOST-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,GEOLOCATION-!CN
+HOST-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,GEOLOCATION-!CN
 HOST-SUFFIX,1inch.io,GEOLOCATION-!CN
 HOST-SUFFIX,aave.com,GEOLOCATION-!CN
 HOST-SUFFIX,bitbank.cc,GEOLOCATION-!CN
@@ -10952,6 +10965,7 @@ HOST-SUFFIX,spotifycharts.com,GEOLOCATION-!CN
 HOST-SUFFIX,spotifycodes.com,GEOLOCATION-!CN
 HOST-SUFFIX,spotifyforbrands.com,GEOLOCATION-!CN
 HOST-SUFFIX,spotifyjobs.com,GEOLOCATION-!CN
+HOST-SUFFIX,spotify.link,GEOLOCATION-!CN
 HOST,audio-ak-spotify-com.akamaized.net,GEOLOCATION-!CN
 HOST,audio4-ak-spotify-com.akamaized.net,GEOLOCATION-!CN
 HOST,cdn-spotify-experiments.conductrics.com,GEOLOCATION-!CN

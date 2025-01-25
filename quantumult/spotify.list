@@ -11,6 +11,7 @@ HOST-SUFFIX,spotifycharts.com,SPOTIFY
 HOST-SUFFIX,spotifycodes.com,SPOTIFY
 HOST-SUFFIX,spotifyforbrands.com,SPOTIFY
 HOST-SUFFIX,spotifyjobs.com,SPOTIFY
+HOST-SUFFIX,spotify.link,SPOTIFY
 HOST,audio-ak-spotify-com.akamaized.net,SPOTIFY
 HOST,audio4-ak-spotify-com.akamaized.net,SPOTIFY
 HOST,cdn-spotify-experiments.conductrics.com,SPOTIFY
