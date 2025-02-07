@@ -4510,6 +4510,7 @@ DOMAIN,uberproxy-with-cn6.l.google.com
 DOMAIN,qiao-cn.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
