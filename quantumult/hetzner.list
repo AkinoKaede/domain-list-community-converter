@@ -8,4 +8,6 @@ HOST-SUFFIX,second-ns.com,HETZNER
 HOST-SUFFIX,second-ns.de,HETZNER
 HOST-SUFFIX,your-objectstorage.com,HETZNER
 HOST-SUFFIX,your-server.de,HETZNER
+HOST-SUFFIX,your-storagebox.de,HETZNER
+HOST-SUFFIX,your-storageshare.de,HETZNER
 HOST,sentry.hetzner.company,HETZNER
