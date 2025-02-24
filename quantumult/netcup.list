@@ -1,7 +1,14 @@
 HOST-SUFFIX,customercontrolpanel.de,NETCUP
+HOST-SUFFIX,dnsserver1.de,NETCUP
+HOST-SUFFIX,dnsserver2.de,NETCUP
+HOST-SUFFIX,luckysrv.de,NETCUP
 HOST-SUFFIX,netcup.com,NETCUP
 HOST-SUFFIX,netcup.de,NETCUP
 HOST-SUFFIX,netcup.eu,NETCUP
 HOST-SUFFIX,netcup.net,NETCUP
 HOST-SUFFIX,netcup-news.de,NETCUP
 HOST-SUFFIX,netcup-sonderangebote.de,NETCUP
+HOST-SUFFIX,netcup-wiki.de,NETCUP
+HOST-SUFFIX,servercontrolpanel.de,NETCUP
+HOST-SUFFIX,supersrv.de,NETCUP
+HOST-SUFFIX,yourvserver.net,NETCUP

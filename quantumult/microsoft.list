@@ -122,6 +122,7 @@ HOST-SUFFIX,bingsandbox.com,MICROSOFT
 HOST-SUFFIX,bingvisualsearch.com,MICROSOFT
 HOST-SUFFIX,bingworld.com,MICROSOFT
 HOST-SUFFIX,bluehatnights.com,MICROSOFT
+HOST-SUFFIX,copilot.microsoft.com,MICROSOFT
 HOST-SUFFIX,dictate.ms,MICROSOFT
 HOST-SUFFIX,flipwithsurface.com,MICROSOFT
 HOST-SUFFIX,masalladeloslimites.com,MICROSOFT
@@ -373,6 +374,7 @@ HOST-SUFFIX,bluehatil.com,MICROSOFT
 HOST-SUFFIX,boswp.com,MICROSOFT
 HOST-SUFFIX,brazilpartneruniversity.com,MICROSOFT
 HOST-SUFFIX,breakdown.me,MICROSOFT
+HOST-SUFFIX,c-msedge.net,MICROSOFT
 HOST-SUFFIX,centralvalidation.com,MICROSOFT
 HOST-SUFFIX,ch9.ms,MICROSOFT
 HOST-SUFFIX,charticulator.com,MICROSOFT
@@ -406,18 +408,19 @@ HOST-SUFFIX,hotmail.eu,MICROSOFT
 HOST-SUFFIX,hotmail.net,MICROSOFT
 HOST-SUFFIX,hotmail.org,MICROSOFT
 HOST-SUFFIX,hummingbird.ms,MICROSOFT
-HOST-SUFFIX,ie8.co,MICROSOFT
-HOST-SUFFIX,ie9.com,MICROSOFT
 HOST-SUFFIX,ie10.com,MICROSOFT
 HOST-SUFFIX,ie11.com,MICROSOFT
-HOST-SUFFIX,internetexplorer.co,MICROSOFT
-HOST-SUFFIX,internetexplorer.com,MICROSOFT
+HOST-SUFFIX,ie8.co,MICROSOFT
+HOST-SUFFIX,ie9.com,MICROSOFT
 HOST-SUFFIX,imaginecup.pl,MICROSOFT
 HOST-SUFFIX,ingads.com,MICROSOFT
+HOST-SUFFIX,internetexplorer.co,MICROSOFT
+HOST-SUFFIX,internetexplorer.com,MICROSOFT
 HOST-SUFFIX,intunewiki.com,MICROSOFT
 HOST-SUFFIX,iotinactionevents.com,MICROSOFT
 HOST-SUFFIX,kidgrid.tv,MICROSOFT
 HOST-SUFFIX,kumo.com,MICROSOFT
+HOST-SUFFIX,l-msedge.net,MICROSOFT
 HOST-SUFFIX,latampartneruniversity.com,MICROSOFT
 HOST-SUFFIX,live.com,MICROSOFT
 HOST-SUFFIX,live.com.au,MICROSOFT
@@ -430,6 +433,7 @@ HOST-SUFFIX,managedmeetingrooms.com,MICROSOFT
 HOST-SUFFIX,meetfasttrack.com,MICROSOFT
 HOST-SUFFIX,meetyourdevices.com,MICROSOFT
 HOST-SUFFIX,mepn.com,MICROSOFT
+HOST-SUFFIX,microsoftedgeinsider.com,MICROSOFT
 HOST-SUFFIX,microsoft-falcon.io,MICROSOFT
 HOST-SUFFIX,microsoft-int.com,MICROSOFT
 HOST-SUFFIX,microsoft-ppe.com,MICROSOFT
@@ -466,6 +470,7 @@ HOST-SUFFIX,microsoftpartnercommunity.com,MICROSOFT
 HOST-SUFFIX,microsoftready.com,MICROSOFT
 HOST-SUFFIX,microsoftsiteselection.com,MICROSOFT
 HOST-SUFFIX,microsoftstore.com,MICROSOFT
+HOST-SUFFIX,microsoftstore.com.cn,MICROSOFT
 HOST-SUFFIX,microsoftstore.com.hk,MICROSOFT
 HOST-SUFFIX,microsoftstream.com,MICROSOFT
 HOST-SUFFIX,microsoftteams.com,MICROSOFT
@@ -490,7 +495,9 @@ HOST-SUFFIX,msft.net,MICROSOFT
 HOST-SUFFIX,msftauth.cn,MICROSOFT
 HOST-SUFFIX,msftauth.net,MICROSOFT
 HOST-SUFFIX,msftauthimages.cn,MICROSOFT
+HOST-SUFFIX,msftconnecttest.com,MICROSOFT
 HOST-SUFFIX,msfteducation.ca,MICROSOFT
+HOST-SUFFIX,msftncsi.com,MICROSOFT
 HOST-SUFFIX,msftnet.org,MICROSOFT
 HOST-SUFFIX,msgamesresearch.com,MICROSOFT
 HOST-SUFFIX,msocdn.com,MICROSOFT
@@ -499,6 +506,7 @@ HOST-SUFFIX,msra.cn,MICROSOFT
 HOST-SUFFIX,msturing.org,MICROSOFT
 HOST-SUFFIX,msudalosti.com,MICROSOFT
 HOST-SUFFIX,mymicrosoft.com,MICROSOFT
+HOST-SUFFIX,nelreports.net,MICROSOFT
 HOST-SUFFIX,nextechafrica.net,MICROSOFT
 HOST-SUFFIX,nxta.org,MICROSOFT
 HOST-SUFFIX,o365cn.com,MICROSOFT
@@ -511,6 +519,7 @@ HOST-SUFFIX,office.net,MICROSOFT
 HOST-SUFFIX,office365-net.cn,MICROSOFT
 HOST-SUFFIX,office365.cn,MICROSOFT
 HOST-SUFFIX,office365.com,MICROSOFT
+HOST-SUFFIX,officeplus.cn,MICROSOFT
 HOST-SUFFIX,officewebapps.cn,MICROSOFT
 HOST-SUFFIX,onenote.com,MICROSOFT
 HOST-SUFFIX,onenote.net,MICROSOFT
@@ -550,6 +559,7 @@ HOST-SUFFIX,skype.com,MICROSOFT
 HOST-SUFFIX,skype.net,MICROSOFT
 HOST-SUFFIX,skypeassets.com,MICROSOFT
 HOST-SUFFIX,skypeassets.net,MICROSOFT
+HOST-SUFFIX,spo-msedge.net,MICROSOFT
 HOST-SUFFIX,staffhub.ms,MICROSOFT
 HOST-SUFFIX,successwithteams.com,MICROSOFT
 HOST-SUFFIX,surface.com,MICROSOFT
@@ -557,6 +567,7 @@ HOST-SUFFIX,svc.ms,MICROSOFT
 HOST-SUFFIX,sway-cdn.com,MICROSOFT
 HOST-SUFFIX,sway.com,MICROSOFT
 HOST-SUFFIX,sysinternals.com,MICROSOFT
+HOST-SUFFIX,t-msedge.net,MICROSOFT
 HOST-SUFFIX,tailwindtraders.com,MICROSOFT
 HOST-SUFFIX,techhub.ms,MICROSOFT
 HOST-SUFFIX,tfsallin.net,MICROSOFT
@@ -583,7 +594,6 @@ HOST-SUFFIX,windowsupdate.com,MICROSOFT
 HOST-SUFFIX,winhec.com,MICROSOFT
 HOST-SUFFIX,winhec.net,MICROSOFT
 HOST-SUFFIX,yammer.com,MICROSOFT
-HOST-SUFFIX,edge-skype-com.s-0001.s-msedge.net,MICROSOFT
 HOST-SUFFIX,skype-edf.akadns.net,MICROSOFT
 HOST-SUFFIX,skypedata.akadns.net,MICROSOFT
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,MICROSOFT

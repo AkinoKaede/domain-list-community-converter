@@ -640,6 +640,7 @@ DOMAIN-SUFFIX,microsoftonline-p-i.net.cn
 DOMAIN-SUFFIX,microsoftonline-p.cn
 DOMAIN-SUFFIX,microsoftonline-p.net.cn
 DOMAIN-SUFFIX,microsoftonline.cn
+DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,microsofttranslator-int.cn
 DOMAIN-SUFFIX,msauth.cn
 DOMAIN-SUFFIX,msauthimages.cn
@@ -651,6 +652,7 @@ DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,office365-net.cn
 DOMAIN-SUFFIX,office365.cn
+DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,onmschina.cn
 DOMAIN-SUFFIX,outlook.cn

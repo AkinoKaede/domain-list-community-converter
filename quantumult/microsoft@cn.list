@@ -81,6 +81,7 @@ HOST-SUFFIX,microsoftonline-p-i.net.cn,MICROSOFT@CN
 HOST-SUFFIX,microsoftonline-p.cn,MICROSOFT@CN
 HOST-SUFFIX,microsoftonline-p.net.cn,MICROSOFT@CN
 HOST-SUFFIX,microsoftonline.cn,MICROSOFT@CN
+HOST-SUFFIX,microsoftstore.com.cn,MICROSOFT@CN
 HOST-SUFFIX,microsofttranslator-int.cn,MICROSOFT@CN
 HOST-SUFFIX,msauth.cn,MICROSOFT@CN
 HOST-SUFFIX,msauthimages.cn,MICROSOFT@CN
@@ -92,6 +93,7 @@ HOST-SUFFIX,o365cn.com,MICROSOFT@CN
 HOST-SUFFIX,o365files.cn,MICROSOFT@CN
 HOST-SUFFIX,office365-net.cn,MICROSOFT@CN
 HOST-SUFFIX,office365.cn,MICROSOFT@CN
+HOST-SUFFIX,officeplus.cn,MICROSOFT@CN
 HOST-SUFFIX,officewebapps.cn,MICROSOFT@CN
 HOST-SUFFIX,onmschina.cn,MICROSOFT@CN
 HOST-SUFFIX,outlook.cn,MICROSOFT@CN

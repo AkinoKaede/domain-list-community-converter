@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
@@ -17,3 +18,5 @@ DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,botvip.cn
 DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,cueme.cn
+DOMAIN,cueme-api.quark.cn

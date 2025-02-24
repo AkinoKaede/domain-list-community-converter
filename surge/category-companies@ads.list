@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,nelreports.net
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
 DOMAIN,browser-intake-datadoghq.com

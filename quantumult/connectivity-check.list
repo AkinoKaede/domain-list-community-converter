@@ -4,6 +4,8 @@ HOST-SUFFIX,connectivitycheck.gstatic.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,cp.cloudflare.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,network-test.debian.org,CONNECTIVITY-CHECK
 HOST-SUFFIX,detectportal.firefox.com,CONNECTIVITY-CHECK
+HOST,connectivitycheck.platform.hihonorcloud.com,CONNECTIVITY-CHECK
+HOST,connectivitycheck.platform.hicloud.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,networkcheck.kde.org,CONNECTIVITY-CHECK
 HOST,connect.rom.miui.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,msftconnecttest.com,CONNECTIVITY-CHECK

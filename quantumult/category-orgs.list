@@ -73,6 +73,14 @@ HOST-SUFFIX,photonicssociety.org,CATEGORY-ORGS
 HOST-SUFFIX,signalprocessingsociety.org,CATEGORY-ORGS
 HOST-SUFFIX,technologyandsociety.org,CATEGORY-ORGS
 HOST-SUFFIX,vtsociety.org,CATEGORY-ORGS
+HOST-SUFFIX,acousticbrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,bookbrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,coverartarchive.org,CATEGORY-ORGS
+HOST-SUFFIX,critiquebrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,listenbrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,messybrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,metabrainz.org,CATEGORY-ORGS
+HOST-SUFFIX,musicbrainz.org,CATEGORY-ORGS
 HOST-SUFFIX,nist.gov,CATEGORY-ORGS
 HOST-SUFFIX,time.gov,CATEGORY-ORGS
 HOST-SUFFIX,openmaps.org,CATEGORY-ORGS

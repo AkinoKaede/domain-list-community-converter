@@ -195,6 +195,8 @@ HOST-SUFFIX,repo.new,CATEGORY-DEV
 HOST-SUFFIX,thegithubshop.com,CATEGORY-DEV
 HOST-SUFFIX,blob.core.windows.net,CATEGORY-DEV
 HOST,github-cloud.s3.amazonaws.com,CATEGORY-DEV
+HOST-SUFFIX,github1s.com,CATEGORY-DEV
+HOST-SUFFIX,sourcegraph.com,CATEGORY-DEV
 HOST-SUFFIX,gitlab.com,CATEGORY-DEV
 HOST-SUFFIX,gitlab.io,CATEGORY-DEV
 HOST-SUFFIX,gitlab.net,CATEGORY-DEV
@@ -387,8 +389,13 @@ HOST-SUFFIX,stackoverflow.blog,CATEGORY-DEV
 HOST-SUFFIX,stackoverflow.co,CATEGORY-DEV
 HOST-SUFFIX,stackoverflow.com,CATEGORY-DEV
 HOST-SUFFIX,stackoverflow.email,CATEGORY-DEV
+HOST-SUFFIX,stackoverflow.help,CATEGORY-DEV
+HOST-SUFFIX,stackoverflow.net,CATEGORY-DEV
 HOST-SUFFIX,stackoverflowbusiness.com,CATEGORY-DEV
 HOST-SUFFIX,stackoverflowcareers.com,CATEGORY-DEV
+HOST-SUFFIX,stackoverflowjobs.com,CATEGORY-DEV
+HOST-SUFFIX,stackoverflowsolutions.com,CATEGORY-DEV
+HOST-SUFFIX,stackoverflowteams.com,CATEGORY-DEV
 HOST-SUFFIX,stacksnippets.net,CATEGORY-DEV
 HOST-SUFFIX,superuser.com,CATEGORY-DEV
 HOST-SUFFIX,tex-talk.net,CATEGORY-DEV
@@ -431,6 +438,7 @@ HOST-SUFFIX,vim.org,CATEGORY-DEV
 HOST-SUFFIX,xda-cdn.com,CATEGORY-DEV
 HOST-SUFFIX,xda-developers.com,CATEGORY-DEV
 HOST-SUFFIX,xdaforums.com,CATEGORY-DEV
+HOST-SUFFIX,xdaimages.com,CATEGORY-DEV
 HOST-SUFFIX,adventofcode.com,CATEGORY-DEV
 HOST-SUFFIX,alpinelinux.org,CATEGORY-DEV
 HOST-SUFFIX,apache.org,CATEGORY-DEV

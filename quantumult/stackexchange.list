@@ -12,8 +12,13 @@ HOST-SUFFIX,stackoverflow.blog,STACKEXCHANGE
 HOST-SUFFIX,stackoverflow.co,STACKEXCHANGE
 HOST-SUFFIX,stackoverflow.com,STACKEXCHANGE
 HOST-SUFFIX,stackoverflow.email,STACKEXCHANGE
+HOST-SUFFIX,stackoverflow.help,STACKEXCHANGE
+HOST-SUFFIX,stackoverflow.net,STACKEXCHANGE
 HOST-SUFFIX,stackoverflowbusiness.com,STACKEXCHANGE
 HOST-SUFFIX,stackoverflowcareers.com,STACKEXCHANGE
+HOST-SUFFIX,stackoverflowjobs.com,STACKEXCHANGE
+HOST-SUFFIX,stackoverflowsolutions.com,STACKEXCHANGE
+HOST-SUFFIX,stackoverflowteams.com,STACKEXCHANGE
 HOST-SUFFIX,stacksnippets.net,STACKEXCHANGE
 HOST-SUFFIX,superuser.com,STACKEXCHANGE
 HOST-SUFFIX,tex-talk.net,STACKEXCHANGE
