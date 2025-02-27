@@ -19,6 +19,10 @@ HOST-SUFFIX,nwcddns.cn,AMAZON@CN
 HOST-SUFFIX,nwcdinfosec.cn,AMAZON@CN
 HOST-SUFFIX,route53.cn,AMAZON@CN
 HOST-SUFFIX,sagemaker.com.cn,AMAZON@CN
+HOST-SUFFIX,amzndns-cn.biz,AMAZON@CN
+HOST-SUFFIX,amzndns-cn.cn,AMAZON@CN
+HOST-SUFFIX,amzndns-cn.com,AMAZON@CN
+HOST-SUFFIX,amzndns-cn.net,AMAZON@CN
 HOST-SUFFIX,kindle.cn,AMAZON@CN
 HOST-SUFFIX,kindleoasis.cn,AMAZON@CN
 HOST-SUFFIX,kindleoasis.com.cn,AMAZON@CN

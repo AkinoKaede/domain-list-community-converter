@@ -19,3 +19,7 @@ HOST-SUFFIX,nwcddns.cn,AWS@CN
 HOST-SUFFIX,nwcdinfosec.cn,AWS@CN
 HOST-SUFFIX,route53.cn,AWS@CN
 HOST-SUFFIX,sagemaker.com.cn,AWS@CN
+HOST-SUFFIX,amzndns-cn.biz,AWS@CN
+HOST-SUFFIX,amzndns-cn.cn,AWS@CN
+HOST-SUFFIX,amzndns-cn.com,AWS@CN
+HOST-SUFFIX,amzndns-cn.net,AWS@CN

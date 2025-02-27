@@ -735,6 +735,16 @@ HOST-SUFFIX,hubcloud.com.cn,CATEGORY-ADS
 HOST-SUFFIX,beizi.biz,CATEGORY-ADS
 HOST-SUFFIX,click.ali213.net,CATEGORY-ADS
 HOST-SUFFIX,pbmp.ali213.net,CATEGORY-ADS
+HOST,pinggai0.caixin.com,CATEGORY-ADS
+HOST,pinggai1.caixin.com,CATEGORY-ADS
+HOST,pinggai2.caixin.com,CATEGORY-ADS
+HOST,pinggai3.caixin.com,CATEGORY-ADS
+HOST,pinggai4.caixin.com,CATEGORY-ADS
+HOST,pinggai5.caixin.com,CATEGORY-ADS
+HOST,pinggai6.caixin.com,CATEGORY-ADS
+HOST,pinggai7.caixin.com,CATEGORY-ADS
+HOST,pinggai8.caixin.com,CATEGORY-ADS
+HOST,pinggai9.caixin.com,CATEGORY-ADS
 HOST-SUFFIX,adq.chinaso.com,CATEGORY-ADS
 HOST-SUFFIX,stat.chinaso.com,CATEGORY-ADS
 HOST-SUFFIX,toboads.com,CATEGORY-ADS

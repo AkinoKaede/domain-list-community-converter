@@ -24,6 +24,10 @@ HOST-SUFFIX,nwcddns.cn,AMAZON
 HOST-SUFFIX,nwcdinfosec.cn,AMAZON
 HOST-SUFFIX,route53.cn,AMAZON
 HOST-SUFFIX,sagemaker.com.cn,AMAZON
+HOST-SUFFIX,amzndns-cn.biz,AMAZON
+HOST-SUFFIX,amzndns-cn.cn,AMAZON
+HOST-SUFFIX,amzndns-cn.com,AMAZON
+HOST-SUFFIX,amzndns-cn.net,AMAZON
 HOST-SUFFIX,aws,AMAZON
 HOST-SUFFIX,acmvalidations.com,AMAZON
 HOST-SUFFIX,acmvalidationsaws.com,AMAZON
@@ -62,6 +66,10 @@ HOST-SUFFIX,cloudfront.net,AMAZON
 HOST-SUFFIX,containersonaws.com,AMAZON
 HOST-SUFFIX,elasticbeanstalk.com,AMAZON
 HOST-SUFFIX,thinkboxsoftware.com,AMAZON
+HOST-SUFFIX,amzndns.co.uk,AMAZON
+HOST-SUFFIX,amzndns.com,AMAZON
+HOST-SUFFIX,amzndns.net,AMAZON
+HOST-SUFFIX,amzndns.org,AMAZON
 HOST-SUFFIX,imdb,AMAZON
 HOST-SUFFIX,boxofficemojo.com,AMAZON
 HOST-SUFFIX,imdb.com,AMAZON

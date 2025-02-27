@@ -19,6 +19,10 @@ HOST-SUFFIX,nwcddns.cn,AWS
 HOST-SUFFIX,nwcdinfosec.cn,AWS
 HOST-SUFFIX,route53.cn,AWS
 HOST-SUFFIX,sagemaker.com.cn,AWS
+HOST-SUFFIX,amzndns-cn.biz,AWS
+HOST-SUFFIX,amzndns-cn.cn,AWS
+HOST-SUFFIX,amzndns-cn.com,AWS
+HOST-SUFFIX,amzndns-cn.net,AWS
 HOST-SUFFIX,aws,AWS
 HOST-SUFFIX,acmvalidations.com,AWS
 HOST-SUFFIX,acmvalidationsaws.com,AWS
@@ -57,3 +61,7 @@ HOST-SUFFIX,cloudfront.net,AWS
 HOST-SUFFIX,containersonaws.com,AWS
 HOST-SUFFIX,elasticbeanstalk.com,AWS
 HOST-SUFFIX,thinkboxsoftware.com,AWS
+HOST-SUFFIX,amzndns.co.uk,AWS
+HOST-SUFFIX,amzndns.com,AWS
+HOST-SUFFIX,amzndns.net,AWS
+HOST-SUFFIX,amzndns.org,AWS
