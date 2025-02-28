@@ -12257,6 +12257,8 @@ DOMAIN-SUFFIX,eiu.com
 DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,fox
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,fox-corporation.com
 DOMAIN-SUFFIX,fox-news.com
 DOMAIN-SUFFIX,fox.com
@@ -26221,6 +26223,7 @@ DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,dnsserver1.de
 DOMAIN-SUFFIX,dnsserver2.de
 DOMAIN-SUFFIX,luckysrv.de
+DOMAIN-SUFFIX,netcup.cafe
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,netcup.de
 DOMAIN-SUFFIX,netcup.eu
