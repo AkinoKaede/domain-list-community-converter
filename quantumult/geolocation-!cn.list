@@ -25983,6 +25983,7 @@ HOST-SUFFIX,microsoftonline-p.net.cn,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftonline.cn,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftonline.com,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftpartnercommunity.com,GEOLOCATION-!CN
+HOST-SUFFIX,microsoftpersonalcontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftready.com,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftsiteselection.com,GEOLOCATION-!CN
 HOST-SUFFIX,microsoftstore.com,GEOLOCATION-!CN
