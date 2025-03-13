@@ -6648,6 +6648,8 @@ DOMAIN-SUFFIX,pccwglobal.com
 DOMAIN-SUFFIX,pccwsolutions.com
 DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,qnap.com
