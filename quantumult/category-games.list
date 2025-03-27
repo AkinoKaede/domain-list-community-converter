@@ -255,8 +255,12 @@ HOST,menu-static.gog-statics.com,CATEGORY-GAMES
 HOST,productcard.gog-statics.com,CATEGORY-GAMES
 HOST,static-login.gog-statics.com,CATEGORY-GAMES
 HOST,www4-static.gog-statics.com,CATEGORY-GAMES
+HOST,gog-cdn-fastly.gog.com,CATEGORY-GAMES
+HOST,gog-cdn.akamaized.net,CATEGORY-GAMES
 HOST-SUFFIX,illusion.co.jp,CATEGORY-GAMES
 HOST-SUFFIX,illusion.jp,CATEGORY-GAMES
+HOST-SUFFIX,itch.io,CATEGORY-GAMES
+HOST-SUFFIX,itch.zone,CATEGORY-GAMES
 HOST-SUFFIX,kurogames.com,CATEGORY-GAMES
 HOST-SUFFIX,aki-game.com,CATEGORY-GAMES
 HOST-SUFFIX,lowiro.com,CATEGORY-GAMES

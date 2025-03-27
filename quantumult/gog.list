@@ -6,3 +6,5 @@ HOST,menu-static.gog-statics.com,GOG
 HOST,productcard.gog-statics.com,GOG
 HOST,static-login.gog-statics.com,GOG
 HOST,www4-static.gog-statics.com,GOG
+HOST,gog-cdn-fastly.gog.com,GOG
+HOST,gog-cdn.akamaized.net,GOG

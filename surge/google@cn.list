@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN,www.recaptcha.net
+DOMAIN,safebrowsing-cache.google.com
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net

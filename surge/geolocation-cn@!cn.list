@@ -72,7 +72,6 @@ DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,iq.com
-DOMAIN-SUFFIX,myip.la
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com.au
 DOMAIN-SUFFIX,alibabacloud.com.hk
@@ -240,3 +239,4 @@ DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,cuniq.com
 DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
 DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com
+DOMAIN-SUFFIX,myip.la

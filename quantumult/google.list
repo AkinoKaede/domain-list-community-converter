@@ -962,6 +962,7 @@ HOST-SUFFIX,xplr.co,GOOGLE
 HOST-SUFFIX,zukunftswerkstatt.de,GOOGLE
 HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,GOOGLE
 HOST,www.recaptcha.net,GOOGLE
+HOST,safebrowsing-cache.google.com,GOOGLE
 HOST,265.com,GOOGLE
 HOST,2mdn-cn.net,GOOGLE
 HOST,2mdn.net,GOOGLE

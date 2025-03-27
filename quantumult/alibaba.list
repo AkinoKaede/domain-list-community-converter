@@ -171,6 +171,11 @@ HOST-SUFFIX,oss-eu-west-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-me-east-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-us-east-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-us-west-1.aliyuncs.com,ALIBABA
+HOST-SUFFIX,cainiao-inc.com,ALIBABA
+HOST-SUFFIX,cainiao.com,ALIBABA
+HOST-SUFFIX,cainiao.com.cn,ALIBABA
+HOST-SUFFIX,cainiaoyizhan.com,ALIBABA
+HOST-SUFFIX,guoguo-app.com,ALIBABA
 HOST-SUFFIX,ddurl.to,ALIBABA
 HOST-SUFFIX,dingding.xin,ALIBABA
 HOST-SUFFIX,dingtalk.cn,ALIBABA
@@ -310,9 +315,6 @@ HOST-SUFFIX,alicloudccp.com,ALIBABA
 HOST-SUFFIX,alipan.com,ALIBABA
 HOST-SUFFIX,aliyundrive.com,ALIBABA
 HOST-SUFFIX,aliyundrive.net,ALIBABA
-HOST-SUFFIX,cainiao.com,ALIBABA
-HOST-SUFFIX,cainiao.com.cn,ALIBABA
-HOST-SUFFIX,cainiao-inc.com,ALIBABA
 HOST-SUFFIX,freshhema.com,ALIBABA
 HOST-SUFFIX,hemamax.com,ALIBABA
 HOST-SUFFIX,hemaos.com,ALIBABA

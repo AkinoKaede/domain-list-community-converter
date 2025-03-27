@@ -72,7 +72,6 @@ HOST-SUFFIX,biliintl.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,dreamcast.hk,GEOLOCATION-CN@!CN
 HOST,upos-hz-mirrorakam.akamaized.net,GEOLOCATION-CN@!CN
 HOST-SUFFIX,iq.com,GEOLOCATION-CN@!CN
-HOST-SUFFIX,myip.la,GEOLOCATION-CN@!CN
 HOST-SUFFIX,alibabacloud.co.in,GEOLOCATION-CN@!CN
 HOST-SUFFIX,alibabacloud.com.au,GEOLOCATION-CN@!CN
 HOST-SUFFIX,alibabacloud.com.hk,GEOLOCATION-CN@!CN
@@ -240,3 +239,4 @@ HOST-SUFFIX,chinaunicomglobal.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,cuniq.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,speedtest.hk.chinamobile.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,speedtestbb.hk.chinamobile.com,GEOLOCATION-CN@!CN
+HOST-SUFFIX,myip.la,GEOLOCATION-CN@!CN

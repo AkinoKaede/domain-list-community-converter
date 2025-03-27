@@ -116,3 +116,5 @@ HOST-SUFFIX,tail-f.com,CISCO
 HOST-SUFFIX,tailf.com,CISCO
 HOST,cisco.evergage.com,CISCO
 HOST,ciscolivehls-i.akamaihd.net,CISCO
+HOST-SUFFIX,umbrella.com,CISCO
+HOST-SUFFIX,opendns.com,CISCO

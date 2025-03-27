@@ -15,6 +15,7 @@ HOST-SUFFIX,googlecnapps.cn,GOOGLE@CN
 HOST-SUFFIX,gstatic.cn,GOOGLE@CN
 HOST-SUFFIX,gstaticcnapps.cn,GOOGLE@CN
 HOST,www.recaptcha.net,GOOGLE@CN
+HOST,safebrowsing-cache.google.com,GOOGLE@CN
 HOST,265.com,GOOGLE@CN
 HOST,2mdn-cn.net,GOOGLE@CN
 HOST,2mdn.net,GOOGLE@CN

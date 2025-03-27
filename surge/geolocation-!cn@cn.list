@@ -196,6 +196,8 @@ DOMAIN,menu-static.gog-statics.com
 DOMAIN,productcard.gog-statics.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,legendofzelda.cn
@@ -765,6 +767,7 @@ DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN,www.recaptcha.net
+DOMAIN,safebrowsing-cache.google.com
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
