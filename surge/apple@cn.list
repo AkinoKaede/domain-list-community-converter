@@ -8,6 +8,7 @@ DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,beats1.cn
 DOMAIN-SUFFIX,beats1.com.cn
 DOMAIN-SUFFIX,beats2.com.cn
@@ -311,7 +312,6 @@ DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net

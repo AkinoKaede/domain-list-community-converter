@@ -8,6 +8,7 @@ HOST,ocsp-lb.apple.com.akadns.net,APPLE@CN
 HOST,ocsp.apple.com,APPLE@CN
 HOST,ocsp2-lb.apple.com.akadns.net,APPLE@CN
 HOST,ocsp2.apple.com,APPLE@CN
+HOST,valid.apple.com,APPLE@CN
 HOST-SUFFIX,beats1.cn,APPLE@CN
 HOST-SUFFIX,beats1.com.cn,APPLE@CN
 HOST-SUFFIX,beats2.com.cn,APPLE@CN
@@ -311,7 +312,6 @@ HOST,tj-pod1-smp-device.apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com.akadns.net,APPLE@CN
 HOST,updates.cdn-apple.com,APPLE@CN
-HOST,valid.apple.com,APPLE@CN
 HOST,valid.origin-apple.com.akadns.net,APPLE@CN
 HOST,weather-data.apple.com,APPLE@CN
 HOST,weather-data.apple.com.akadns.net,APPLE@CN

@@ -79,14 +79,17 @@ HOST,ocsp-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp.apple.com,GEOLOCATION-!CN@CN
 HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp2.apple.com,GEOLOCATION-!CN@CN
+HOST,valid.apple.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dcocsp.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,digicert.cn,GEOLOCATION-!CN@CN
+HOST,www.entrust.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,alphassl.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,easy-signing.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsign.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsign.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,globalsigncdn.com,GEOLOCATION-!CN@CN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GEOLOCATION-!CN@CN
+HOST,crl.globalsign.net,GEOLOCATION-!CN@CN
 HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
 HOST,c.pki.goog,GEOLOCATION-!CN@CN
 HOST,i.pki.goog,GEOLOCATION-!CN@CN
@@ -735,7 +738,6 @@ HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,updates.cdn-apple.com,GEOLOCATION-!CN@CN
-HOST,valid.apple.com,GEOLOCATION-!CN@CN
 HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,weather-data.apple.com,GEOLOCATION-!CN@CN
 HOST,weather-data.apple.com.akadns.net,GEOLOCATION-!CN@CN

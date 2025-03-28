@@ -18,3 +18,4 @@ HOST-SUFFIX,globalsign.net,GLOBALSIGN
 HOST-SUFFIX,globalsign.nl,GLOBALSIGN
 HOST-SUFFIX,globalsigncdn.com,GLOBALSIGN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GLOBALSIGN
+HOST,crl.globalsign.net,GLOBALSIGN

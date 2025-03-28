@@ -6,14 +6,17 @@ HOST,ocsp-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,ocsp.apple.com,CATEGORY-CAS@CN
 HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,ocsp2.apple.com,CATEGORY-CAS@CN
+HOST,valid.apple.com,CATEGORY-CAS@CN
 HOST-SUFFIX,dcocsp.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,digicert.cn,CATEGORY-CAS@CN
+HOST,www.entrust.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,alphassl.com,CATEGORY-CAS@CN
 HOST-SUFFIX,easy-signing.com,CATEGORY-CAS@CN
 HOST-SUFFIX,globalsign.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,globalsign.com,CATEGORY-CAS@CN
 HOST-SUFFIX,globalsigncdn.com,CATEGORY-CAS@CN
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,CATEGORY-CAS@CN
+HOST,crl.globalsign.net,CATEGORY-CAS@CN
 HOST,pki-goog.l.google.com,CATEGORY-CAS@CN
 HOST,c.pki.goog,CATEGORY-CAS@CN
 HOST,i.pki.goog,CATEGORY-CAS@CN

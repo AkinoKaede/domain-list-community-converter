@@ -43,6 +43,15 @@ HOST,ocsp-lb.apple.com.akadns.net,APPLE
 HOST,ocsp.apple.com,APPLE
 HOST,ocsp2-lb.apple.com.akadns.net,APPLE
 HOST,ocsp2.apple.com,APPLE
+HOST,valid.apple.com,APPLE
+HOST,apple-tv-plus-press.apple.com,APPLE
+HOST,hls-amt.itunes.apple.com,APPLE
+HOST,hls.itunes.apple.com,APPLE
+HOST,np-edge.itunes.apple.com,APPLE
+HOST,play-edge.itunes.apple.com,APPLE
+HOST,tv.applemusic.com,APPLE
+HOST,uts-api.itunes.apple.com,APPLE
+HOST-SUFFIX,tv.apple.com,APPLE
 HOST-SUFFIX,appldnld.apple.com,APPLE
 HOST-SUFFIX,gg.apple.com,APPLE
 HOST-SUFFIX,gnf-mdn.apple.com,APPLE
@@ -1822,7 +1831,6 @@ HOST,tj-pod1-smp-device.apple.com,APPLE
 HOST,updates-http.cdn-apple.com,APPLE
 HOST,updates-http.cdn-apple.com.akadns.net,APPLE
 HOST,updates.cdn-apple.com,APPLE
-HOST,valid.apple.com,APPLE
 HOST,valid.origin-apple.com.akadns.net,APPLE
 HOST,weather-data.apple.com,APPLE
 HOST,weather-data.apple.com.akadns.net,APPLE

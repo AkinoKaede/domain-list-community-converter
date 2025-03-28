@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,globalsign.cn
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net

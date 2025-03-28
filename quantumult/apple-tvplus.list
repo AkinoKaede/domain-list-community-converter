@@ -1,0 +1,8 @@
+HOST,apple-tv-plus-press.apple.com,APPLE-TVPLUS
+HOST,hls-amt.itunes.apple.com,APPLE-TVPLUS
+HOST,hls.itunes.apple.com,APPLE-TVPLUS
+HOST,np-edge.itunes.apple.com,APPLE-TVPLUS
+HOST,play-edge.itunes.apple.com,APPLE-TVPLUS
+HOST,tv.applemusic.com,APPLE-TVPLUS
+HOST,uts-api.itunes.apple.com,APPLE-TVPLUS
+HOST-SUFFIX,tv.apple.com,APPLE-TVPLUS

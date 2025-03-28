@@ -6,14 +6,17 @@ DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,digicert.cn
+DOMAIN,www.entrust.cn
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign.cn
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog

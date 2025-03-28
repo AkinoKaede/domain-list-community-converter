@@ -1,2 +1,5 @@
 HOST-SUFFIX,eca.hinet.net,HINET-ECA
 HOST-SUFFIX,gtlsca.nat.gov.tw,HINET-ECA
+HOST-SUFFIX,pki.hinet.net,HINET-ECA
+HOST-SUFFIX,publicca.hinet.net,HINET-ECA
+HOST-SUFFIX,tls.hinet.net,HINET-ECA

@@ -3,6 +3,7 @@ HOST-SUFFIX,21vbc.com,AZURE
 HOST-SUFFIX,21vbluecloud.com,AZURE
 HOST-SUFFIX,21vbluecloud.net,AZURE
 HOST-SUFFIX,aadrm.cn,AZURE
+HOST-SUFFIX,aadrm.com,AZURE
 HOST-SUFFIX,aggresmart.com,AZURE
 HOST-SUFFIX,apihub-internal.cn,AZURE
 HOST-SUFFIX,appserviceenvironment.cn,AZURE
@@ -81,6 +82,7 @@ HOST-SUFFIX,management-azure-devices.cn,AZURE
 HOST-SUFFIX,management-azure-devices.net,AZURE
 HOST-SUFFIX,mcchcdn.com,AZURE
 HOST-SUFFIX,mgmt-azure-api.cn,AZURE
+HOST-SUFFIX,microsoftazuread-sso.com,AZURE
 HOST-SUFFIX,microsoftazuresponsorships.com,AZURE
 HOST-SUFFIX,microsoftazurestatus.cn,AZURE
 HOST-SUFFIX,microsofteca.com,AZURE
@@ -93,6 +95,8 @@ HOST-SUFFIX,msftcloudes.cn,AZURE
 HOST-SUFFIX,msidentity.cn,AZURE
 HOST-SUFFIX,msidlabpbmc.cn,AZURE
 HOST-SUFFIX,msn.net,AZURE
+HOST-SUFFIX,playfab.com,AZURE
+HOST-SUFFIX,playfabapi.com,AZURE
 HOST-SUFFIX,serverlesslibrary.net,AZURE
 HOST-SUFFIX,trafficmanager.cn,AZURE
 HOST-SUFFIX,trafficmanager.net,AZURE
