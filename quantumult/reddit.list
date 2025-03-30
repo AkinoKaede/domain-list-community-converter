@@ -9,4 +9,4 @@ HOST-SUFFIX,redditmedia.com,REDDIT
 HOST-SUFFIX,redditspace.com,REDDIT
 HOST-SUFFIX,redditstatic.com,REDDIT
 HOST-SUFFIX,redditstatus.com,REDDIT
-HOST,reddit.map.fastly.net,REDDIT
+HOST-SUFFIX,reddit.map.fastly.net,REDDIT

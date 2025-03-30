@@ -11475,7 +11475,7 @@ HOST-SUFFIX,redditmedia.com,GEOLOCATION-!CN
 HOST-SUFFIX,redditspace.com,GEOLOCATION-!CN
 HOST-SUFFIX,redditstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,redditstatus.com,GEOLOCATION-!CN
-HOST,reddit.map.fastly.net,GEOLOCATION-!CN
+HOST-SUFFIX,reddit.map.fastly.net,GEOLOCATION-!CN
 HOST-SUFFIX,maintracker.org,GEOLOCATION-!CN
 HOST-SUFFIX,rutracker.cc,GEOLOCATION-!CN
 HOST-SUFFIX,rutracker.cr,GEOLOCATION-!CN
