@@ -10407,6 +10407,7 @@ HOST-SUFFIX,steam.apac.qtlglb.com,GEOLOCATION-!CN
 HOST-SUFFIX,steam.eca.qtlglb.com,GEOLOCATION-!CN
 HOST-SUFFIX,steam.naeu.qtlglb.com,GEOLOCATION-!CN
 HOST-SUFFIX,steam.ru.qtlglb.com,GEOLOCATION-!CN
+HOST,a4e8s8k3.map2.ssl.hwcdn.net,GEOLOCATION-!CN
 HOST,f3b7q2p3.ssl.hwcdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,steam.cdn.on.net,GEOLOCATION-!CN
 HOST-SUFFIX,steam.cdn.orcon.net.nz,GEOLOCATION-!CN
@@ -10427,13 +10428,13 @@ HOST-SUFFIX,csgo.wmsj.cn,GEOLOCATION-!CN
 HOST-SUFFIX,dota2.wmsj.cn,GEOLOCATION-!CN
 HOST-SUFFIX,wmsjsteam.com,GEOLOCATION-!CN
 HOST-SUFFIX,dl.steam.clngaa.com,GEOLOCATION-!CN
-HOST-SUFFIX,dl.steam.ksyna.com,GEOLOCATION-!CN
 HOST-SUFFIX,st.dl.bscstorage.net,GEOLOCATION-!CN
 HOST-SUFFIX,st.dl.eccdnx.com,GEOLOCATION-!CN
 HOST-SUFFIX,st.dl.pinyuncloud.com,GEOLOCATION-!CN
-HOST-SUFFIX,steampipe.steamcontent.tnkjmec.com,GEOLOCATION-!CN
 HOST-SUFFIX,steampowered.com.8686c.com,GEOLOCATION-!CN
 HOST-SUFFIX,steamstatic.com.8686c.com,GEOLOCATION-!CN
+HOST,alibaba.cdn.steampipe.steamcontent.com,GEOLOCATION-!CN
+HOST,lv.queniujq.cn,GEOLOCATION-!CN
 HOST,xz.pphimalayanrt.com,GEOLOCATION-!CN
 HOST-SUFFIX,steamchina.com,GEOLOCATION-!CN
 HOST-SUFFIX,gstore.val.manlaxy.com,GEOLOCATION-!CN

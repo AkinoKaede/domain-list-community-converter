@@ -18,6 +18,7 @@ HOST-SUFFIX,steam.apac.qtlglb.com,STEAM
 HOST-SUFFIX,steam.eca.qtlglb.com,STEAM
 HOST-SUFFIX,steam.naeu.qtlglb.com,STEAM
 HOST-SUFFIX,steam.ru.qtlglb.com,STEAM
+HOST,a4e8s8k3.map2.ssl.hwcdn.net,STEAM
 HOST,f3b7q2p3.ssl.hwcdn.net,STEAM
 HOST-SUFFIX,steam.cdn.on.net,STEAM
 HOST-SUFFIX,steam.cdn.orcon.net.nz,STEAM
@@ -38,13 +39,13 @@ HOST-SUFFIX,csgo.wmsj.cn,STEAM
 HOST-SUFFIX,dota2.wmsj.cn,STEAM
 HOST-SUFFIX,wmsjsteam.com,STEAM
 HOST-SUFFIX,dl.steam.clngaa.com,STEAM
-HOST-SUFFIX,dl.steam.ksyna.com,STEAM
 HOST-SUFFIX,st.dl.bscstorage.net,STEAM
 HOST-SUFFIX,st.dl.eccdnx.com,STEAM
 HOST-SUFFIX,st.dl.pinyuncloud.com,STEAM
-HOST-SUFFIX,steampipe.steamcontent.tnkjmec.com,STEAM
 HOST-SUFFIX,steampowered.com.8686c.com,STEAM
 HOST-SUFFIX,steamstatic.com.8686c.com,STEAM
+HOST,alibaba.cdn.steampipe.steamcontent.com,STEAM
+HOST,lv.queniujq.cn,STEAM
 HOST,xz.pphimalayanrt.com,STEAM
 HOST-SUFFIX,steamchina.com,STEAM
 HOST-SUFFIX,gstore.val.manlaxy.com,STEAM

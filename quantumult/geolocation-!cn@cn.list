@@ -221,13 +221,13 @@ HOST-SUFFIX,csgo.wmsj.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dota2.wmsj.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,wmsjsteam.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dl.steam.clngaa.com,GEOLOCATION-!CN@CN
-HOST-SUFFIX,dl.steam.ksyna.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,st.dl.bscstorage.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,st.dl.eccdnx.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,st.dl.pinyuncloud.com,GEOLOCATION-!CN@CN
-HOST-SUFFIX,steampipe.steamcontent.tnkjmec.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,steampowered.com.8686c.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,steamstatic.com.8686c.com,GEOLOCATION-!CN@CN
+HOST,alibaba.cdn.steampipe.steamcontent.com,GEOLOCATION-!CN@CN
+HOST,lv.queniujq.cn,GEOLOCATION-!CN@CN
 HOST,xz.pphimalayanrt.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,steamchina.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstore.val.manlaxy.com,GEOLOCATION-!CN@CN

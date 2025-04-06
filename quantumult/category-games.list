@@ -526,6 +526,7 @@ HOST-SUFFIX,steam.apac.qtlglb.com,CATEGORY-GAMES
 HOST-SUFFIX,steam.eca.qtlglb.com,CATEGORY-GAMES
 HOST-SUFFIX,steam.naeu.qtlglb.com,CATEGORY-GAMES
 HOST-SUFFIX,steam.ru.qtlglb.com,CATEGORY-GAMES
+HOST,a4e8s8k3.map2.ssl.hwcdn.net,CATEGORY-GAMES
 HOST,f3b7q2p3.ssl.hwcdn.net,CATEGORY-GAMES
 HOST-SUFFIX,steam.cdn.on.net,CATEGORY-GAMES
 HOST-SUFFIX,steam.cdn.orcon.net.nz,CATEGORY-GAMES
@@ -546,13 +547,13 @@ HOST-SUFFIX,csgo.wmsj.cn,CATEGORY-GAMES
 HOST-SUFFIX,dota2.wmsj.cn,CATEGORY-GAMES
 HOST-SUFFIX,wmsjsteam.com,CATEGORY-GAMES
 HOST-SUFFIX,dl.steam.clngaa.com,CATEGORY-GAMES
-HOST-SUFFIX,dl.steam.ksyna.com,CATEGORY-GAMES
 HOST-SUFFIX,st.dl.bscstorage.net,CATEGORY-GAMES
 HOST-SUFFIX,st.dl.eccdnx.com,CATEGORY-GAMES
 HOST-SUFFIX,st.dl.pinyuncloud.com,CATEGORY-GAMES
-HOST-SUFFIX,steampipe.steamcontent.tnkjmec.com,CATEGORY-GAMES
 HOST-SUFFIX,steampowered.com.8686c.com,CATEGORY-GAMES
 HOST-SUFFIX,steamstatic.com.8686c.com,CATEGORY-GAMES
+HOST,alibaba.cdn.steampipe.steamcontent.com,CATEGORY-GAMES
+HOST,lv.queniujq.cn,CATEGORY-GAMES
 HOST,xz.pphimalayanrt.com,CATEGORY-GAMES
 HOST-SUFFIX,steamchina.com,CATEGORY-GAMES
 HOST-SUFFIX,gstore.val.manlaxy.com,CATEGORY-GAMES
