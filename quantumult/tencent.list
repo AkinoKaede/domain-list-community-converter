@@ -514,6 +514,8 @@ HOST-SUFFIX,wechatpay.cn,TENCENT
 HOST-SUFFIX,weiyun.com,TENCENT
 HOST-SUFFIX,wetv.vip,TENCENT
 HOST-SUFFIX,wetvinfo.com,TENCENT
+HOST-SUFFIX,wxcloudrun.com,TENCENT
+HOST-SUFFIX,wxgateway.com,TENCENT
 HOST-SUFFIX,wxlivecdn.com,TENCENT
 HOST,wetv.qq.com,TENCENT
 HOST-SUFFIX,alloyteam.com,TENCENT
