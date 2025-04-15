@@ -356,6 +356,7 @@ HOST,ntp4.aliyun.com,GEOLOCATION-!CN@CN
 HOST,ntp5.aliyun.com,GEOLOCATION-!CN@CN
 HOST,ntp6.aliyun.com,GEOLOCATION-!CN@CN
 HOST,ntp7.aliyun.com,GEOLOCATION-!CN@CN
+HOST,time.amazonaws.cn,GEOLOCATION-!CN@CN
 HOST,time.izatcloud.net,GEOLOCATION-!CN@CN
 HOST,time.xtracloud.net,GEOLOCATION-!CN@CN
 HOST,ntp.tencent.com,GEOLOCATION-!CN@CN

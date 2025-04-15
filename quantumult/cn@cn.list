@@ -71,6 +71,7 @@ HOST,ntp4.aliyun.com,CN@CN
 HOST,ntp5.aliyun.com,CN@CN
 HOST,ntp6.aliyun.com,CN@CN
 HOST,ntp7.aliyun.com,CN@CN
+HOST,time.amazonaws.cn,CN@CN
 HOST,time.izatcloud.net,CN@CN
 HOST,time.xtracloud.net,CN@CN
 HOST,ntp.tencent.com,CN@CN

@@ -40,6 +40,7 @@ HOST-SUFFIX,amazonworkdocs.com,AWS
 HOST-SUFFIX,amplifyapp.com,AWS
 HOST-SUFFIX,amplifyframework.com,AWS
 HOST-SUFFIX,aws-iot-hackathon.com,AWS
+HOST-SUFFIX,aws.com,AWS
 HOST-SUFFIX,awsautopilot.com,AWS
 HOST-SUFFIX,awsautoscaling.com,AWS
 HOST-SUFFIX,awsbraket.com,AWS
