@@ -10,4 +10,5 @@ HOST-SUFFIX,generativeai.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,makersuite.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,bard.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,gemini.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google.com,GOOGLE-DEEPMIND

@@ -37,6 +37,8 @@ HOST-SUFFIX,huaweicloud-dns.net,HUAWEI
 HOST-SUFFIX,huaweicloud-dns.org,HUAWEI
 HOST-SUFFIX,huaweicloud-idme.cn,HUAWEI
 HOST-SUFFIX,huaweicloud-idme.com,HUAWEI
+HOST-SUFFIX,huaweicloud-koophone.cn,HUAWEI
+HOST-SUFFIX,huaweicloud-koophone.com,HUAWEI
 HOST-SUFFIX,huaweicloud-smn.cn,HUAWEI
 HOST-SUFFIX,huaweicloud-smn.com,HUAWEI
 HOST-SUFFIX,huaweicloud-smn.net,HUAWEI
@@ -94,6 +96,8 @@ HOST-SUFFIX,kmop-cn-north-4.cn,HUAWEI
 HOST-SUFFIX,livehwc3.cn,HUAWEI
 HOST-SUFFIX,modelarts-infer.cn,HUAWEI
 HOST-SUFFIX,modelarts-infer.com,HUAWEI
+HOST-SUFFIX,modelarts-maas.cn,HUAWEI
+HOST-SUFFIX,modelarts-maas.com,HUAWEI
 HOST-SUFFIX,myhuaweicloud-custom.cn,HUAWEI
 HOST-SUFFIX,myhuaweicloud-custom.com,HUAWEI
 HOST-SUFFIX,myhuaweicloud-koodrive.cn,HUAWEI

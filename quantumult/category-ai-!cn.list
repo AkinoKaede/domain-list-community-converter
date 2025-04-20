@@ -14,6 +14,7 @@ HOST-SUFFIX,generativeai.google,CATEGORY-AI-!CN
 HOST-SUFFIX,makersuite.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-!CN
+HOST-SUFFIX,gemini.google,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,groq.com,CATEGORY-AI-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-!CN
