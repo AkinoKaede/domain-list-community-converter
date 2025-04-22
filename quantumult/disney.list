@@ -92,7 +92,6 @@ HOST-SUFFIX,disney-plus.net,DISNEY
 HOST-SUFFIX,disney-portal.my.onetrust.com,DISNEY
 HOST-SUFFIX,disney-studio.com,DISNEY
 HOST-SUFFIX,disney-studio.net,DISNEY
-HOST-SUFFIX,disney.my.sentry.io,DISNEY
 HOST-SUFFIX,disneyadsales.com,DISNEY
 HOST-SUFFIX,disneyarena.com,DISNEY
 HOST-SUFFIX,disneyaulani.com,DISNEY
@@ -159,3 +158,4 @@ HOST-SUFFIX,streamingdisney.net,DISNEY
 HOST-SUFFIX,thestationbymaker.com,DISNEY
 HOST-SUFFIX,thisispolaris.com,DISNEY
 HOST-SUFFIX,watchdisneyfe.com,DISNEY
+HOST,disney.my.sentry.io,DISNEY
