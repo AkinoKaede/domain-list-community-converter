@@ -69,6 +69,7 @@ HOST-SUFFIX,tongyi.aliyun.com,CN
 HOST-SUFFIX,qianwen.aliyun.com,CN
 HOST-SUFFIX,qwen.ai,CN
 HOST-SUFFIX,qwenlm.ai,CN
+HOST-SUFFIX,tongyi.com,CN
 HOST-SUFFIX,yiyan.baidu.com,CN
 HOST-SUFFIX,tiangong.cn,CN
 HOST-SUFFIX,doubao.com,CN
@@ -2093,8 +2094,10 @@ HOST-SUFFIX,51jobcdn.com,CN
 HOST-SUFFIX,yingjiesheng.com,CN
 HOST-SUFFIX,yingjiesheng.net,CN
 HOST-SUFFIX,zhiding.com.cn,CN
+HOST-SUFFIX,afdian.com,CN
 HOST-SUFFIX,afdian.net,CN
 HOST-SUFFIX,afdiancdn.com,CN
+HOST-SUFFIX,ifdian.net,CN
 HOST-SUFFIX,agora.io,CN
 HOST-SUFFIX,agoraio.cn,CN
 HOST-SUFFIX,agoralab.co,CN
@@ -3691,6 +3694,7 @@ HOST-SUFFIX,xiaojukeji.com,CN
 HOST-SUFFIX,dji.com,CN
 HOST-SUFFIX,dji.net,CN
 HOST-SUFFIX,djicdn.com,CN
+HOST-SUFFIX,djiits.com,CN
 HOST-SUFFIX,djiops.com,CN
 HOST-SUFFIX,djiservice.org,CN
 HOST-SUFFIX,skypixel.com,CN
@@ -5026,6 +5030,7 @@ HOST-SUFFIX,miui.com,CN
 HOST-SUFFIX,miwifi.com,CN
 HOST-SUFFIX,xiaomi.cn,CN
 HOST-SUFFIX,xiaomi.com,CN
+HOST-SUFFIX,xiaomi.eu,CN
 HOST-SUFFIX,xiaomi.net,CN
 HOST-SUFFIX,xiaomicp.com,CN
 HOST-SUFFIX,xiaomidns.cn,CN
@@ -5927,6 +5932,7 @@ HOST-SUFFIX,mokahr.com,CN
 HOST-SUFFIX,moleecel.com,CN
 HOST-SUFFIX,moocollege.com,CN
 HOST-SUFFIX,mop.com,CN
+HOST-SUFFIX,morefreegame.com,CN
 HOST-SUFFIX,msanjia.com,CN
 HOST-SUFFIX,mscbsc.com,CN
 HOST-SUFFIX,mukewang.com,CN
