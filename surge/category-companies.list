@@ -3601,6 +3601,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
@@ -4775,6 +4776,7 @@ DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,interactivebrokers.ca
 DOMAIN-SUFFIX,interactivebrokers.co.in
 DOMAIN-SUFFIX,interactivebrokers.co.jp
@@ -5862,6 +5864,8 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,r.bing.com
+DOMAIN-SUFFIX,th.bing.com
 DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,npm.community
@@ -6938,6 +6942,19 @@ DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,synologyupdate.com
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmynas.com
+DOMAIN-SUFFIX,dsmynas.net
+DOMAIN-SUFFIX,dsmynas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.me
+DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io

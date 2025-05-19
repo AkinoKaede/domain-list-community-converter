@@ -32,5 +32,7 @@ HOST-SUFFIX,cn.bing.com,BING
 HOST-SUFFIX,cn.bing.net,BING
 HOST-SUFFIX,cn.mm.bing.net,BING
 HOST-SUFFIX,ditu.live.com,BING
+HOST-SUFFIX,r.bing.com,BING
+HOST-SUFFIX,th.bing.com,BING
 HOST,bj1.api.bing.com,BING
 HOST,emoi-cncdn.bing.com,BING

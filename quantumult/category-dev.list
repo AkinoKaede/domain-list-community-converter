@@ -82,6 +82,9 @@ HOST-SUFFIX,dotdeb.org,CATEGORY-DEV
 HOST-SUFFIX,compose-spec.io,CATEGORY-DEV
 HOST-SUFFIX,docker.com,CATEGORY-DEV
 HOST-SUFFIX,docker.io,CATEGORY-DEV
+HOST-SUFFIX,dockerstatic.com,CATEGORY-DEV
+HOST,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,CATEGORY-DEV
+HOST,docker-pinata-support.s3.amazonaws.com,CATEGORY-DEV
 HOST-SUFFIX,embed.ly,CATEGORY-DEV
 HOST-SUFFIX,embedly.com,CATEGORY-DEV
 HOST-SUFFIX,playerjs.io,CATEGORY-DEV

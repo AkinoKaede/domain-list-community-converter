@@ -6,6 +6,7 @@ HOST-SUFFIX,proactivebackend-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST,ai.google.dev,GOOGLE-DEEPMIND
 HOST,alkalicore-pa.clients6.google.com,GOOGLE-DEEPMIND
 HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-DEEPMIND
+HOST,webchannel-alkalimakersuite-pa.clients6.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,generativeai.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,makersuite.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND

@@ -10,6 +10,10 @@ HOST-SUFFIX,ctrip.my,CTRIP
 HOST-SUFFIX,ctrip.sg,CTRIP
 HOST-SUFFIX,ctripbiz.com,CTRIP
 HOST-SUFFIX,ctripbuy.hk,CTRIP
+HOST-SUFFIX,ctripgslb.cn,CTRIP
+HOST-SUFFIX,ctripgslb.com,CTRIP
+HOST-SUFFIX,ctripgslb.com.cn,CTRIP
+HOST-SUFFIX,ctripgslb.net,CTRIP
 HOST-SUFFIX,ctripteam.com,CTRIP
 HOST-SUFFIX,doticloud.com,CTRIP
 HOST-SUFFIX,easytrip.com,CTRIP
@@ -25,6 +29,7 @@ HOST-SUFFIX,tieyou.com,CTRIP
 HOST-SUFFIX,toptown.cn,CTRIP
 HOST-SUFFIX,toursbms.com,CTRIP
 HOST-SUFFIX,trip.com,CTRIP
+HOST-SUFFIX,tripcdn.cn,CTRIP
 HOST-SUFFIX,tripcdn.com,CTRIP
 HOST-SUFFIX,vipdlt.com,CTRIP
 HOST-SUFFIX,qunar.com,CTRIP

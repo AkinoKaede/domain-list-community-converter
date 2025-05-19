@@ -10,6 +10,7 @@ HOST-SUFFIX,proactivebackend-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,ai.google.dev,CATEGORY-AI-CHAT-!CN
 HOST,alkalicore-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
 HOST,alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
+HOST,webchannel-alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,generativeai.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,makersuite.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-CHAT-!CN
@@ -47,6 +48,8 @@ HOST-SUFFIX,cursor-cdn.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursor.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursor.sh,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursorapi.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,coderabbit.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,coderabbit.gallery.vsassets.io,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,clipdrop.co,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,jasper.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-CHAT-!CN

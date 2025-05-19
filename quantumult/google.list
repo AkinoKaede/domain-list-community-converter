@@ -161,6 +161,7 @@ HOST-SUFFIX,proactivebackend-pa.googleapis.com,GOOGLE
 HOST,ai.google.dev,GOOGLE
 HOST,alkalicore-pa.clients6.google.com,GOOGLE
 HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE
+HOST,webchannel-alkalimakersuite-pa.clients6.google.com,GOOGLE
 HOST-SUFFIX,generativeai.google,GOOGLE
 HOST-SUFFIX,makersuite.google.com,GOOGLE
 HOST-SUFFIX,aistudio.google.com,GOOGLE
