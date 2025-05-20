@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
 DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,ads.yahoo.com

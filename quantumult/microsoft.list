@@ -415,6 +415,7 @@ HOST-SUFFIX,c-msedge.net,MICROSOFT
 HOST-SUFFIX,centralvalidation.com,MICROSOFT
 HOST-SUFFIX,ch9.ms,MICROSOFT
 HOST-SUFFIX,charticulator.com,MICROSOFT
+HOST-SUFFIX,clarity.ms,MICROSOFT
 HOST-SUFFIX,cloudapp.net,MICROSOFT
 HOST-SUFFIX,cloudappsecurity.com,MICROSOFT
 HOST-SUFFIX,cortanaanalytics.com,MICROSOFT
@@ -533,6 +534,7 @@ HOST-SUFFIX,msft.net,MICROSOFT
 HOST-SUFFIX,msftauth.cn,MICROSOFT
 HOST-SUFFIX,msftauth.net,MICROSOFT
 HOST-SUFFIX,msftauthimages.cn,MICROSOFT
+HOST-SUFFIX,msftauthimages.net,MICROSOFT
 HOST-SUFFIX,msftconnecttest.com,MICROSOFT
 HOST-SUFFIX,msfteducation.ca,MICROSOFT
 HOST-SUFFIX,msftncsi.com,MICROSOFT
