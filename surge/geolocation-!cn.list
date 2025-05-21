@@ -11500,6 +11500,8 @@ DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hkgolden.media
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,pimg.tw
@@ -11539,7 +11541,12 @@ DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com
 DOMAIN-SUFFIX,yamibo.com
+DOMAIN,bbs.boingboing.net
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,8chan.moe
 DOMAIN-SUFFIX,avsforum.com
@@ -20953,10 +20960,6 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,vim.org
-DOMAIN-SUFFIX,xda-cdn.com
-DOMAIN-SUFFIX,xda-developers.com
-DOMAIN-SUFFIX,xdaforums.com
-DOMAIN-SUFFIX,xdaimages.com
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
@@ -26586,6 +26589,7 @@ DOMAIN-SUFFIX,galaxymobile.jp
 DOMAIN-SUFFIX,game-platform.net
 DOMAIN-SUFFIX,knoxemm.com
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com
 DOMAIN-SUFFIX,samsungdm.com

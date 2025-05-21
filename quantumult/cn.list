@@ -1145,11 +1145,13 @@ HOST-SUFFIX,yiyaojd.com,CN
 HOST-SUFFIX,yizhitou.com,CN
 HOST-SUFFIX,duolabao.com,CN
 HOST-SUFFIX,ads.union.jd.com,CN
+HOST-SUFFIX,ads-union.jd.com,CN
 HOST-SUFFIX,c-nfa.jd.com,CN
 HOST-SUFFIX,cps.360buy.com,CN
+HOST-SUFFIX,gia.jd.com,CN
+HOST-SUFFIX,img-x.jd.com,CN
 HOST-SUFFIX,jzt.jd.com,CN
 HOST-SUFFIX,stat.m.jd.com,CN
-HOST-SUFFIX,img-x.jd.com,CN
 HOST-SUFFIX,lianjia.com,CN
 HOST-SUFFIX,ljcdn.com,CN
 HOST-SUFFIX,beckyroom.com,CN
@@ -1442,6 +1444,11 @@ HOST,p9-ad-sign.byteimg.com,CN
 HOST,rtlog3-applog-hl.fqnovel.com,CN
 HOST,rtlog5-applog-hl.fqnovel.com,CN
 HOST-SUFFIX,gamersky.com,CN
+HOST-SUFFIX,click.gamersky.com,CN
+HOST-SUFFIX,ja.gamersky.com,CN
+HOST-SUFFIX,ja1.gamersky.com,CN
+HOST-SUFFIX,ja2.gamersky.com,CN
+HOST-SUFFIX,wmbd.gamersky.com,CN
 HOST-SUFFIX,gcores.com,CN
 HOST-SUFFIX,gitv.cn,CN
 HOST-SUFFIX,gitv.tv,CN
@@ -2798,6 +2805,7 @@ HOST-SUFFIX,alipan.com,CN
 HOST-SUFFIX,aliyundrive.com,CN
 HOST-SUFFIX,aliyundrive.net,CN
 HOST-SUFFIX,freshhema.com,CN
+HOST-SUFFIX,freshippo.com,CN
 HOST-SUFFIX,hemamax.com,CN
 HOST-SUFFIX,hemaos.com,CN
 HOST-SUFFIX,hemashare.cn,CN
@@ -5186,6 +5194,8 @@ HOST-SUFFIX,10086.cn,CN
 HOST-SUFFIX,139.com,CN
 HOST-SUFFIX,chinamobile.com,CN
 HOST-SUFFIX,chinamobileltd.com,CN
+HOST-SUFFIX,speedtest.hk.chinamobile.com,CN
+HOST-SUFFIX,speedtestbb.hk.chinamobile.com,CN
 HOST-SUFFIX,migucloud.com,CN
 HOST-SUFFIX,migu.cn,CN
 HOST-SUFFIX,cmvideo.cn,CN
@@ -5220,8 +5230,6 @@ HOST-SUFFIX,chinaunicom.com.hk,CN
 HOST-SUFFIX,chinaunicomglobal.com,CN
 HOST-SUFFIX,cuniq.com,CN
 HOST-SUFFIX,mychinaunicom.com,CN
-HOST-SUFFIX,speedtest.hk.chinamobile.com,CN
-HOST-SUFFIX,speedtestbb.hk.chinamobile.com,CN
 HOST-SUFFIX,wo.cn,CN
 HOST-SUFFIX,wo.com.cn,CN
 HOST-SUFFIX,wo116114.com,CN

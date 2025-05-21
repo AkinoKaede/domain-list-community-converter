@@ -3,11 +3,13 @@ HOST-SUFFIX,alog.umengcloud.com,CN@ADS
 HOST-SUFFIX,w.cnzz.com,CN@ADS
 HOST-SUFFIX,z.gds.cnzz.com,CN@ADS
 HOST-SUFFIX,ads.union.jd.com,CN@ADS
+HOST-SUFFIX,ads-union.jd.com,CN@ADS
 HOST-SUFFIX,c-nfa.jd.com,CN@ADS
 HOST-SUFFIX,cps.360buy.com,CN@ADS
+HOST-SUFFIX,gia.jd.com,CN@ADS
+HOST-SUFFIX,img-x.jd.com,CN@ADS
 HOST-SUFFIX,jzt.jd.com,CN@ADS
 HOST-SUFFIX,stat.m.jd.com,CN@ADS
-HOST-SUFFIX,img-x.jd.com,CN@ADS
 HOST,apilog-web.acfun.cn,CN@ADS
 HOST,ads3-normal-hl.zijieapi.com,CN@ADS
 HOST,ads5-normal-hl.zijieapi.com,CN@ADS
@@ -18,6 +20,11 @@ HOST,p6-ad-sign.byteimg.com,CN@ADS
 HOST,p9-ad-sign.byteimg.com,CN@ADS
 HOST,rtlog3-applog-hl.fqnovel.com,CN@ADS
 HOST,rtlog5-applog-hl.fqnovel.com,CN@ADS
+HOST-SUFFIX,click.gamersky.com,CN@ADS
+HOST-SUFFIX,ja.gamersky.com,CN@ADS
+HOST-SUFFIX,ja1.gamersky.com,CN@ADS
+HOST-SUFFIX,ja2.gamersky.com,CN@ADS
+HOST-SUFFIX,wmbd.gamersky.com,CN@ADS
 HOST-SUFFIX,click.hunantv.com,CN@ADS
 HOST-SUFFIX,da.hunantv.com,CN@ADS
 HOST-SUFFIX,da.mgtv.com,CN@ADS

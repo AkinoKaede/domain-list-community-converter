@@ -3,11 +3,13 @@ DOMAIN-SUFFIX,alog.umengcloud.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,ads.union.jd.com
+DOMAIN-SUFFIX,ads-union.jd.com
 DOMAIN-SUFFIX,c-nfa.jd.com
 DOMAIN-SUFFIX,cps.360buy.com
+DOMAIN-SUFFIX,gia.jd.com
+DOMAIN-SUFFIX,img-x.jd.com
 DOMAIN-SUFFIX,jzt.jd.com
 DOMAIN-SUFFIX,stat.m.jd.com
-DOMAIN-SUFFIX,img-x.jd.com
 DOMAIN,apilog-web.acfun.cn
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -18,6 +20,11 @@ DOMAIN,p6-ad-sign.byteimg.com
 DOMAIN,p9-ad-sign.byteimg.com
 DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN-SUFFIX,click.gamersky.com
+DOMAIN-SUFFIX,ja.gamersky.com
+DOMAIN-SUFFIX,ja1.gamersky.com
+DOMAIN-SUFFIX,ja2.gamersky.com
+DOMAIN-SUFFIX,wmbd.gamersky.com
 DOMAIN-SUFFIX,click.hunantv.com
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
