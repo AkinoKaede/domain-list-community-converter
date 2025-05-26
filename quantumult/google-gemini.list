@@ -13,3 +13,7 @@ HOST-SUFFIX,aistudio.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,bard.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.google,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.google.com,GOOGLE-GEMINI
+HOST-SUFFIX,notebooklm.google,GOOGLE-GEMINI
+HOST-SUFFIX,notebooklm.google.com,GOOGLE-GEMINI
+HOST-SUFFIX,jules.google,GOOGLE-GEMINI
+HOST-SUFFIX,jules.google.com,GOOGLE-GEMINI

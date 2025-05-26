@@ -17,6 +17,10 @@ HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google.com,CATEGORY-AI-!CN
+HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
+HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-!CN
+HOST-SUFFIX,jules.google,CATEGORY-AI-!CN
+HOST-SUFFIX,jules.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,groq.com,CATEGORY-AI-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-!CN
 HOST-SUFFIX,huggingface.co,CATEGORY-AI-!CN
@@ -52,8 +56,6 @@ HOST-SUFFIX,coderabbit.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,coderabbit.gallery.vsassets.io,CATEGORY-AI-!CN
 HOST-SUFFIX,clipdrop.co,CATEGORY-AI-!CN
 HOST-SUFFIX,jasper.ai,CATEGORY-AI-!CN
-HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
-HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,chutes.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,dify.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,gateway.ai.cloudflare.com,CATEGORY-AI-!CN
