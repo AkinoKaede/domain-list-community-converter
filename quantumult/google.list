@@ -1,5 +1,6 @@
 HOST-SUFFIX,android.com,GOOGLE
 HOST-SUFFIX,androidify.com,GOOGLE
+HOST,android.googlesource.com,GOOGLE
 HOST-SUFFIX,blogger.com,GOOGLE
 HOST-SUFFIX,blogblog.com,GOOGLE
 HOST-SUFFIX,blogspot.ae,GOOGLE

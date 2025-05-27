@@ -1,2 +1,3 @@
 HOST-SUFFIX,android.com,ANDROID
 HOST-SUFFIX,androidify.com,ANDROID
+HOST,android.googlesource.com,ANDROID
