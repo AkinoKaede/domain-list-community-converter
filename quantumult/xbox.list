@@ -1,9 +1,17 @@
+HOST-SUFFIX,asobostudio.com,XBOX
+HOST-SUFFIX,flightsimulator.com,XBOX
+HOST,flightsimulator.azureedge.net,XBOX
 HOST-SUFFIX,beth.games,XBOX
 HOST-SUFFIX,bethesda.net,XBOX
 HOST-SUFFIX,bethesdagamestudios.com,XBOX
 HOST-SUFFIX,bethsoft.com,XBOX
 HOST-SUFFIX,doom.com,XBOX
 HOST-SUFFIX,elderscrolls.com,XBOX
+HOST-SUFFIX,forza.net,XBOX
+HOST-SUFFIX,forzamotorsport.net,XBOX
+HOST-SUFFIX,forzaracingchampionship.com,XBOX
+HOST-SUFFIX,forzarc.com,XBOX
+HOST,prodforza.blob.core.windows.net,XBOX
 HOST-SUFFIX,callersbane.com,XBOX
 HOST-SUFFIX,minecraft-services.net,XBOX
 HOST-SUFFIX,minecraft.net,XBOX
@@ -11,9 +19,6 @@ HOST-SUFFIX,minecraftservices.com,XBOX
 HOST-SUFFIX,minecraftshop.com,XBOX
 HOST-SUFFIX,mojang.com,XBOX
 HOST-SUFFIX,xbox,XBOX
-HOST-SUFFIX,forzamotorsport.net,XBOX
-HOST-SUFFIX,forzaracingchampionship.com,XBOX
-HOST-SUFFIX,forzarc.com,XBOX
 HOST-SUFFIX,gamepass.com,XBOX
 HOST-SUFFIX,orithegame.com,XBOX
 HOST-SUFFIX,renovacionxboxlive.com,XBOX
