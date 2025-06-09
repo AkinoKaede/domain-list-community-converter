@@ -1941,14 +1941,14 @@ HOST-SUFFIX,tmtsmartrun.com,CN
 HOST-SUFFIX,feng.com,CN
 HOST-SUFFIX,fengimg.com,CN
 HOST-SUFFIX,wfdata.club,CN
-HOST-SUFFIX,ynet.cn,CN
-HOST-SUFFIX,ynet.com,CN
-HOST-SUFFIX,ynet.com.cn,CN
 HOST-SUFFIX,aiganggu.com,CN
 HOST-SUFFIX,danjuanfunds.com,CN
 HOST-SUFFIX,imedao.com,CN
 HOST-SUFFIX,snowballsecurities.com,CN
 HOST-SUFFIX,xueqiu.com,CN
+HOST-SUFFIX,ynet.cn,CN
+HOST-SUFFIX,ynet.com,CN
+HOST-SUFFIX,ynet.com.cn,CN
 HOST-SUFFIX,stcn.com,CN
 HOST-SUFFIX,caijing.com.cn,CN
 HOST-SUFFIX,hexun.com,CN
@@ -1986,6 +1986,9 @@ HOST-SUFFIX,huanqiucdn.cn,CN
 HOST-SUFFIX,gmw.com,CN
 HOST-SUFFIX,thepaper.cn,CN
 HOST-SUFFIX,thecover.cn,CN
+HOST-SUFFIX,cankaoxiaoxi.com,CN
+HOST-SUFFIX,ckxx.net,CN
+HOST-SUFFIX,takungpao.com,CN
 HOST-SUFFIX,expreview.com,CN
 HOST-SUFFIX,huxiu.com,CN
 HOST-SUFFIX,huxiucdn.com,CN
