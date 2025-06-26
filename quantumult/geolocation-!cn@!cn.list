@@ -25,3 +25,10 @@ HOST-SUFFIX,alibabacloud.com.hk,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.my,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.sg,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.tw,GEOLOCATION-!CN@!CN
+HOST,alt1-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,alt2-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,alt3-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,alt4-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,alt5-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,alt6-mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST,mtalk.google.com,GEOLOCATION-!CN@!CN
