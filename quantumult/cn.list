@@ -3,9 +3,10 @@ HOST-SUFFIX,citic,CN
 HOST-SUFFIX,baidu,CN
 HOST-SUFFIX,unicom,CN
 HOST-SUFFIX,sohu,CN
-HOST-SUFFIX,xn--zfr164b,CN
 HOST-SUFFIX,xn--fiqs8s,CN
 HOST-SUFFIX,xn--fiqz9s,CN
+HOST-SUFFIX,xn--zfr164b,CN
+HOST-SUFFIX,xn--55qw42g,CN
 HOST-SUFFIX,xn--55qx5d,CN
 HOST-SUFFIX,xn--io0a7i,CN
 HOST-SUFFIX,xn--ses554g,CN
@@ -447,6 +448,7 @@ HOST-SUFFIX,howbuy.com,CN
 HOST-SUFFIX,lufunds.com,CN
 HOST-SUFFIX,zlfund.cn,CN
 HOST-SUFFIX,citic,CN
+HOST-SUFFIX,xn--fiq64b,CN
 HOST-SUFFIX,chinaamc.com,CN
 HOST-SUFFIX,citic-prudential.com.cn,CN
 HOST-SUFFIX,citicbank.com,CN
@@ -1923,6 +1925,7 @@ HOST-SUFFIX,uranus.sogou.com,CN
 HOST-SUFFIX,v2.reachmax.cn,CN
 HOST,e8aeb8bbdbbd7.cdn.sohucs.com,CN
 HOST,643108e7617ef.cdn.sohucs.com,CN
+HOST-SUFFIX,sohu,CN
 HOST-SUFFIX,focus-img.cn,CN
 HOST-SUFFIX,focus.cn,CN
 HOST-SUFFIX,itc.cn,CN
@@ -5242,7 +5245,6 @@ HOST-SUFFIX,miui.com,CN
 HOST-SUFFIX,miwifi.com,CN
 HOST-SUFFIX,xiaomi.cn,CN
 HOST-SUFFIX,xiaomi.com,CN
-HOST-SUFFIX,xiaomi.eu,CN
 HOST-SUFFIX,xiaomi.net,CN
 HOST-SUFFIX,xiaomicp.com,CN
 HOST-SUFFIX,xiaomidns.cn,CN
@@ -5350,6 +5352,8 @@ HOST-SUFFIX,chinatelecom.com.cn,CN
 HOST-SUFFIX,chinatelecomglobal.com,CN
 HOST-SUFFIX,chntel.com,CN
 HOST-SUFFIX,chinatelecomhk.com,CN
+HOST-SUFFIX,unicom,CN
+HOST-SUFFIX,xn--8y0a063a,CN
 HOST-SUFFIX,10010.com,CN
 HOST-SUFFIX,10010.com.cn,CN
 HOST-SUFFIX,114menhu.com,CN
