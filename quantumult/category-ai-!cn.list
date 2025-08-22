@@ -2,6 +2,10 @@ HOST-SUFFIX,anthropic.com,CATEGORY-AI-!CN
 HOST-SUFFIX,claude.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,claudeusercontent.com,CATEGORY-AI-!CN
 HOST,servd-anthropic-website.b-cdn.net,CATEGORY-AI-!CN
+HOST-SUFFIX,cursor-cdn.com,CATEGORY-AI-!CN
+HOST-SUFFIX,cursor.com,CATEGORY-AI-!CN
+HOST-SUFFIX,cursor.sh,CATEGORY-AI-!CN
+HOST-SUFFIX,cursorapi.com,CATEGORY-AI-!CN
 HOST-SUFFIX,deepmind.com,CATEGORY-AI-!CN
 HOST-SUFFIX,deepmind.google,CATEGORY-AI-!CN
 HOST-SUFFIX,geller-pa.googleapis.com,CATEGORY-AI-!CN
@@ -48,15 +52,12 @@ HOST-SUFFIX,poe.com,CATEGORY-AI-!CN
 HOST-SUFFIX,poecdn.net,CATEGORY-AI-!CN
 HOST-SUFFIX,grok.com,CATEGORY-AI-!CN
 HOST-SUFFIX,x.ai,CATEGORY-AI-!CN
-HOST-SUFFIX,cursor-cdn.com,CATEGORY-AI-!CN
-HOST-SUFFIX,cursor.com,CATEGORY-AI-!CN
-HOST-SUFFIX,cursor.sh,CATEGORY-AI-!CN
-HOST-SUFFIX,cursorapi.com,CATEGORY-AI-!CN
 HOST-SUFFIX,coderabbit.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,coderabbit.gallery.vsassets.io,CATEGORY-AI-!CN
 HOST-SUFFIX,clipdrop.co,CATEGORY-AI-!CN
 HOST-SUFFIX,jasper.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,chutes.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,copilot.microsoft.com,CATEGORY-AI-!CN
 HOST-SUFFIX,dify.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,gateway.ai.cloudflare.com,CATEGORY-AI-!CN
 HOST-SUFFIX,meta.ai,CATEGORY-AI-!CN
