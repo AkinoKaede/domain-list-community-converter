@@ -35,12 +35,15 @@ HOST-SUFFIX,amazonaws.info,AWS
 HOST-SUFFIX,amazonaws.net,AWS
 HOST-SUFFIX,amazonaws.org,AWS
 HOST-SUFFIX,amazonaws.tv,AWS
+HOST-SUFFIX,amazoncognito.com,AWS
 HOST-SUFFIX,amazonses.com,AWS
 HOST-SUFFIX,amazonworkdocs.com,AWS
 HOST-SUFFIX,amplifyapp.com,AWS
 HOST-SUFFIX,amplifyframework.com,AWS
 HOST-SUFFIX,aws-iot-hackathon.com,AWS
 HOST-SUFFIX,aws.com,AWS
+HOST-SUFFIX,awsapprunner.com,AWS
+HOST-SUFFIX,awsapps.com,AWS
 HOST-SUFFIX,awsautopilot.com,AWS
 HOST-SUFFIX,awsautoscaling.com,AWS
 HOST-SUFFIX,awsbraket.com,AWS

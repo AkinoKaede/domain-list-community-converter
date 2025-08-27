@@ -17,3 +17,5 @@ HOST-SUFFIX,notebooklm.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,notebooklm.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,jules.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,jules.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,labs.google,GOOGLE-DEEPMIND
+HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE-DEEPMIND

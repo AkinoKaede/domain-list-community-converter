@@ -59,6 +59,8 @@ HOST-SUFFIX,hk.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,sgp.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,ca.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,ger.file.myqcloud.com,TENCENT@!CN
+HOST-SUFFIX,rumt-sg.com,TENCENT@!CN
+HOST-SUFFIX,rumt-us.com,TENCENT@!CN
 HOST-SUFFIX,supercell.com,TENCENT@!CN
 HOST-SUFFIX,tencent.co.id,TENCENT@!CN
 HOST-SUFFIX,tencent.com.hk,TENCENT@!CN

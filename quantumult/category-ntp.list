@@ -48,6 +48,7 @@ HOST-SUFFIX,ntp.tut.ac.jp,CATEGORY-NTP
 HOST-SUFFIX,ntp1.wakwak.com,CATEGORY-NTP
 HOST-SUFFIX,ntp2.wakwak.com,CATEGORY-NTP
 HOST,time.apple.com,CATEGORY-NTP
+HOST,time.asia.apple.com,CATEGORY-NTP
 HOST,time.euro.apple.com,CATEGORY-NTP
 HOST,time.aws.com,CATEGORY-NTP
 HOST,time.cloudflare.com,CATEGORY-NTP

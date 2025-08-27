@@ -25,6 +25,8 @@ HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,jules.google,CATEGORY-AI-!CN
 HOST-SUFFIX,jules.google.com,CATEGORY-AI-!CN
+HOST-SUFFIX,labs.google,CATEGORY-AI-!CN
+HOST-SUFFIX,aisandbox-pa.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,groq.com,CATEGORY-AI-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-!CN
 HOST-SUFFIX,huggingface.co,CATEGORY-AI-!CN
@@ -46,6 +48,7 @@ HOST-SUFFIX,chatgpt.livekit.cloud,CATEGORY-AI-!CN
 HOST-SUFFIX,host.livekit.cloud,CATEGORY-AI-!CN
 HOST-SUFFIX,turn.livekit.cloud,CATEGORY-AI-!CN
 HOST-SUFFIX,perplexity.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,perplexity.com,CATEGORY-AI-!CN
 HOST-SUFFIX,pplx.ai,CATEGORY-AI-!CN
 HOST,pplx-res.cloudinary.com,CATEGORY-AI-!CN
 HOST-SUFFIX,poe.com,CATEGORY-AI-!CN

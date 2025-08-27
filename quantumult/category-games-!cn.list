@@ -511,6 +511,7 @@ HOST-SUFFIX,steamusercontent.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,underlords.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,valvesoftware.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,edge.steam-dns.top.comcast.net,CATEGORY-GAMES-!CN
+HOST,steamcommunity-a.akamaihd.net.edgesuite.net,CATEGORY-GAMES-!CN
 HOST-SUFFIX,steam.apac.qtlglb.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,steam.eca.qtlglb.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,steam.naeu.qtlglb.com,CATEGORY-GAMES-!CN
