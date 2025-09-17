@@ -159,6 +159,7 @@ HOST-SUFFIX,deepmind.google,GOOGLE
 HOST-SUFFIX,geller-pa.googleapis.com,GOOGLE
 HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,GOOGLE
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,GOOGLE
 HOST,ai.google.dev,GOOGLE
 HOST,alkalicore-pa.clients6.google.com,GOOGLE
 HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE

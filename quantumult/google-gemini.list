@@ -3,6 +3,7 @@ HOST-SUFFIX,deepmind.google,GOOGLE-GEMINI
 HOST-SUFFIX,geller-pa.googleapis.com,GOOGLE-GEMINI
 HOST-SUFFIX,generativelanguage.googleapis.com,GOOGLE-GEMINI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,GOOGLE-GEMINI
 HOST,ai.google.dev,GOOGLE-GEMINI
 HOST,alkalicore-pa.clients6.google.com,GOOGLE-GEMINI
 HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-GEMINI

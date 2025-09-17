@@ -11,6 +11,7 @@ HOST-SUFFIX,deepmind.google,CATEGORY-AI-!CN
 HOST-SUFFIX,geller-pa.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,generativelanguage.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,CATEGORY-AI-!CN
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,ai.google.dev,CATEGORY-AI-!CN
 HOST,alkalicore-pa.clients6.google.com,CATEGORY-AI-!CN
 HOST,alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-!CN
