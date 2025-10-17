@@ -196,10 +196,12 @@ HOST-SUFFIX,githubstatus.com,CATEGORY-DEV
 HOST-SUFFIX,githubuniverse.com,CATEGORY-DEV
 HOST-SUFFIX,githubusercontent.com,CATEGORY-DEV
 HOST-SUFFIX,myoctocat.com,CATEGORY-DEV
+HOST-SUFFIX,octocaptcha.com,CATEGORY-DEV
 HOST-SUFFIX,opensource.guide,CATEGORY-DEV
 HOST-SUFFIX,repo.new,CATEGORY-DEV
 HOST-SUFFIX,thegithubshop.com,CATEGORY-DEV
 HOST-SUFFIX,blob.core.windows.net,CATEGORY-DEV
+HOST,github-api.arkoselabs.com,CATEGORY-DEV
 HOST,github-cloud.s3.amazonaws.com,CATEGORY-DEV
 HOST-SUFFIX,github1s.com,CATEGORY-DEV
 HOST-SUFFIX,sourcegraph.com,CATEGORY-DEV

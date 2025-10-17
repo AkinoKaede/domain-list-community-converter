@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
@@ -2786,6 +2788,8 @@ DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
@@ -10536,6 +10540,7 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
@@ -20813,10 +20818,12 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,github1s.com
 DOMAIN-SUFFIX,sourcegraph.com

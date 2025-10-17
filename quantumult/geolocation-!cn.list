@@ -1,6 +1,8 @@
 HOST-SUFFIX,anthropic.com,GEOLOCATION-!CN
 HOST-SUFFIX,claude.ai,GEOLOCATION-!CN
+HOST-SUFFIX,claude.com,GEOLOCATION-!CN
 HOST-SUFFIX,claudeusercontent.com,GEOLOCATION-!CN
+HOST-SUFFIX,claudemcpclient.com,GEOLOCATION-!CN
 HOST,servd-anthropic-website.b-cdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,cursor-cdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,cursor.com,GEOLOCATION-!CN
@@ -2786,6 +2788,8 @@ HOST-SUFFIX,binancezh.sh,GEOLOCATION-!CN
 HOST-SUFFIX,binancezh.top,GEOLOCATION-!CN
 HOST-SUFFIX,binanceapi.com,GEOLOCATION-!CN
 HOST-SUFFIX,bnbstatic.com,GEOLOCATION-!CN
+HOST-SUFFIX,bntrace.com,GEOLOCATION-!CN
+HOST-SUFFIX,nftstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,appsflayer.com,GEOLOCATION-!CN
 HOST-SUFFIX,saasexch.cc,GEOLOCATION-!CN
 HOST-SUFFIX,saasexch.co,GEOLOCATION-!CN
@@ -10536,6 +10540,7 @@ HOST,steamstore-a.akamaihd.net,GEOLOCATION-!CN
 HOST,steamusercontent-a.akamaihd.net,GEOLOCATION-!CN
 HOST,steamuserimages-a.akamaihd.net,GEOLOCATION-!CN
 HOST,steamvideo-a.akamaihd.net,GEOLOCATION-!CN
+HOST,steamcloudsweden.blob.core.windows.net,GEOLOCATION-!CN
 HOST-SUFFIX,csgo.wmsj.cn,GEOLOCATION-!CN
 HOST-SUFFIX,dota2.wmsj.cn,GEOLOCATION-!CN
 HOST-SUFFIX,wmsjsteam.com,GEOLOCATION-!CN
@@ -20813,10 +20818,12 @@ HOST-SUFFIX,githubstatus.com,GEOLOCATION-!CN
 HOST-SUFFIX,githubuniverse.com,GEOLOCATION-!CN
 HOST-SUFFIX,githubusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,myoctocat.com,GEOLOCATION-!CN
+HOST-SUFFIX,octocaptcha.com,GEOLOCATION-!CN
 HOST-SUFFIX,opensource.guide,GEOLOCATION-!CN
 HOST-SUFFIX,repo.new,GEOLOCATION-!CN
 HOST-SUFFIX,thegithubshop.com,GEOLOCATION-!CN
 HOST-SUFFIX,blob.core.windows.net,GEOLOCATION-!CN
+HOST,github-api.arkoselabs.com,GEOLOCATION-!CN
 HOST,github-cloud.s3.amazonaws.com,GEOLOCATION-!CN
 HOST-SUFFIX,github1s.com,GEOLOCATION-!CN
 HOST-SUFFIX,sourcegraph.com,GEOLOCATION-!CN

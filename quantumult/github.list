@@ -22,8 +22,10 @@ HOST-SUFFIX,githubstatus.com,GITHUB
 HOST-SUFFIX,githubuniverse.com,GITHUB
 HOST-SUFFIX,githubusercontent.com,GITHUB
 HOST-SUFFIX,myoctocat.com,GITHUB
+HOST-SUFFIX,octocaptcha.com,GITHUB
 HOST-SUFFIX,opensource.guide,GITHUB
 HOST-SUFFIX,repo.new,GITHUB
 HOST-SUFFIX,thegithubshop.com,GITHUB
 HOST-SUFFIX,blob.core.windows.net,GITHUB
+HOST,github-api.arkoselabs.com,GITHUB
 HOST,github-cloud.s3.amazonaws.com,GITHUB

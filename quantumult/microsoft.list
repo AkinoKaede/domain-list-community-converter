@@ -204,10 +204,12 @@ HOST-SUFFIX,githubstatus.com,MICROSOFT
 HOST-SUFFIX,githubuniverse.com,MICROSOFT
 HOST-SUFFIX,githubusercontent.com,MICROSOFT
 HOST-SUFFIX,myoctocat.com,MICROSOFT
+HOST-SUFFIX,octocaptcha.com,MICROSOFT
 HOST-SUFFIX,opensource.guide,MICROSOFT
 HOST-SUFFIX,repo.new,MICROSOFT
 HOST-SUFFIX,thegithubshop.com,MICROSOFT
 HOST-SUFFIX,blob.core.windows.net,MICROSOFT
+HOST,github-api.arkoselabs.com,MICROSOFT
 HOST,github-cloud.s3.amazonaws.com,MICROSOFT
 HOST-SUFFIX,adaptivecards.io,MICROSOFT
 HOST-SUFFIX,api-extractor.com,MICROSOFT
