@@ -4,6 +4,7 @@ HOST-SUFFIX,claude.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,claudeusercontent.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,claudemcpclient.com,CATEGORY-AI-CHAT-!CN
 HOST,servd-anthropic-website.b-cdn.net,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,cerebras.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursor-cdn.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursor.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cursor.sh,CATEGORY-AI-CHAT-!CN

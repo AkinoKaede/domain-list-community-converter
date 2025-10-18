@@ -19,6 +19,8 @@ HOST-SUFFIX,acctdns.com,TENCENT
 HOST-SUFFIX,acctdns.net,TENCENT
 HOST-SUFFIX,aitransfy.com,TENCENT
 HOST-SUFFIX,apaas-zone-test.com,TENCENT
+HOST-SUFFIX,apdcdn.com,TENCENT
+HOST-SUFFIX,apdcdn.net,TENCENT
 HOST-SUFFIX,apigwtencent.com,TENCENT
 HOST-SUFFIX,bkapigw.com,TENCENT
 HOST-SUFFIX,bkapps.com,TENCENT
@@ -187,6 +189,7 @@ HOST-SUFFIX,tidaas.com,TENCENT
 HOST-SUFFIX,timatrix.com.cn,TENCENT
 HOST-SUFFIX,timmerse.com,TENCENT
 HOST-SUFFIX,tlivecdn.com,TENCENT
+HOST-SUFFIX,tlivemcdn.com,TENCENT
 HOST-SUFFIX,tlivepush.com,TENCENT
 HOST-SUFFIX,tlivesource.com,TENCENT
 HOST-SUFFIX,tourismshow.cn,TENCENT

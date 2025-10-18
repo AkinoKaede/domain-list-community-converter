@@ -485,6 +485,7 @@ HOST-SUFFIX,youtubekids.com,GOOGLE
 HOST-SUFFIX,youtubemobilesupport.com,GOOGLE
 HOST-SUFFIX,yt.be,GOOGLE
 HOST-SUFFIX,ytimg.com,GOOGLE
+HOST,yt3.googleusercontent.com,GOOGLE
 HOST-SUFFIX,and,GOOGLE
 HOST-SUFFIX,chrome,GOOGLE
 HOST-SUFFIX,dclk,GOOGLE

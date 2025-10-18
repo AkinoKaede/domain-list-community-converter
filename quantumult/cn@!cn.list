@@ -1,3 +1,6 @@
+HOST-SUFFIX,coze.com,CN@!CN
+HOST-SUFFIX,marscode.com,CN@!CN
+HOST-SUFFIX,trae.ai,CN@!CN
 HOST-SUFFIX,bochk.com,CN@!CN
 HOST-SUFFIX,ccbintl.com.hk,CN@!CN
 HOST-SUFFIX,ccbseoul.com,CN@!CN
@@ -132,7 +135,6 @@ HOST-SUFFIX,byteoversea.net,CN@!CN
 HOST-SUFFIX,ibytedtos.com,CN@!CN
 HOST-SUFFIX,ibyteimg.com,CN@!CN
 HOST,bytedance.map.fastly.net,CN@!CN
-HOST-SUFFIX,coze.com,CN@!CN
 HOST-SUFFIX,didi-food.com,CN@!CN
 HOST-SUFFIX,didiaustralia.blog,CN@!CN
 HOST-SUFFIX,didiglobal.com,CN@!CN

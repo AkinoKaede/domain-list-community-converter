@@ -19,6 +19,8 @@ HOST-SUFFIX,acctdns.com,QCLOUD
 HOST-SUFFIX,acctdns.net,QCLOUD
 HOST-SUFFIX,aitransfy.com,QCLOUD
 HOST-SUFFIX,apaas-zone-test.com,QCLOUD
+HOST-SUFFIX,apdcdn.com,QCLOUD
+HOST-SUFFIX,apdcdn.net,QCLOUD
 HOST-SUFFIX,apigwtencent.com,QCLOUD
 HOST-SUFFIX,bkapigw.com,QCLOUD
 HOST-SUFFIX,bkapps.com,QCLOUD
@@ -187,6 +189,7 @@ HOST-SUFFIX,tidaas.com,QCLOUD
 HOST-SUFFIX,timatrix.com.cn,QCLOUD
 HOST-SUFFIX,timmerse.com,QCLOUD
 HOST-SUFFIX,tlivecdn.com,QCLOUD
+HOST-SUFFIX,tlivemcdn.com,QCLOUD
 HOST-SUFFIX,tlivepush.com,QCLOUD
 HOST-SUFFIX,tlivesource.com,QCLOUD
 HOST-SUFFIX,tourismshow.cn,QCLOUD

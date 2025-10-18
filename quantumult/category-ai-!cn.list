@@ -4,6 +4,7 @@ HOST-SUFFIX,claude.com,CATEGORY-AI-!CN
 HOST-SUFFIX,claudeusercontent.com,CATEGORY-AI-!CN
 HOST-SUFFIX,claudemcpclient.com,CATEGORY-AI-!CN
 HOST,servd-anthropic-website.b-cdn.net,CATEGORY-AI-!CN
+HOST-SUFFIX,cerebras.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,cursor-cdn.com,CATEGORY-AI-!CN
 HOST-SUFFIX,cursor.com,CATEGORY-AI-!CN
 HOST-SUFFIX,cursor.sh,CATEGORY-AI-!CN
