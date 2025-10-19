@@ -10,6 +10,7 @@ HOST-SUFFIX,vercel-status.com,VERCEL
 HOST-SUFFIX,vercel.app,VERCEL
 HOST-SUFFIX,vercel.blog,VERCEL
 HOST-SUFFIX,vercel.com,VERCEL
+HOST-SUFFIX,vercel.dev,VERCEL
 HOST-SUFFIX,vercel.events,VERCEL
 HOST-SUFFIX,vercel.live,VERCEL
 HOST-SUFFIX,vercel.pub,VERCEL
