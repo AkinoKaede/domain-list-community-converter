@@ -302,6 +302,9 @@ HOST-SUFFIX,i.snssdk.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,mcs.snssdk.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,pangolin-dsp-toutiao.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,pangolin-hl.snssdk.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,pangolin-lf.snssdk.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,pangolin-lq.snssdk.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,pangolin-sdk-toutiao-b.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,pangolin-sdk-toutiao.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,pangolin-sdk-toutiao1.com,CATEGORY-ADS-ALL
@@ -597,6 +600,7 @@ HOST-SUFFIX,testads.api.my7v.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.qun.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,adfilter.imtt.qq.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,adnet.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,adping.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,adpm.app.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,adsclick.qq.com,CATEGORY-ADS-ALL

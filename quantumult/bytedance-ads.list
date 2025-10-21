@@ -7,6 +7,9 @@ HOST-SUFFIX,i.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-hl.snssdk.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-lf.snssdk.com,BYTEDANCE-ADS
+HOST-SUFFIX,pangolin-lq.snssdk.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-sdk-toutiao-b.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-sdk-toutiao.com,BYTEDANCE-ADS
 HOST-SUFFIX,pangolin-sdk-toutiao1.com,BYTEDANCE-ADS

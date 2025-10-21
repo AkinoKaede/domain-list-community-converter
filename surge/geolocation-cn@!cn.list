@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,ccbintl.com.hk
 DOMAIN-SUFFIX,ccbseoul.com
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,cmbi.com.hk
 DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,icbc-at.com
@@ -51,9 +54,6 @@ DOMAIN-SUFFIX,icbcswiss.com
 DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
-DOMAIN-SUFFIX,citics.com.hk
-DOMAIN-SUFFIX,cncbinternational.com
-DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,emsec.hk
 DOMAIN-SUFFIX,pingan.com.hk
 DOMAIN-SUFFIX,ctrip.co.id
@@ -81,6 +81,13 @@ DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com.au
 DOMAIN-SUFFIX,alibabacloud.com.hk
@@ -184,13 +191,6 @@ DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
 DOMAIN,community.oneplus.com
-DOMAIN-SUFFIX,hk.weibo.com
-DOMAIN-SUFFIX,my.weibo.com
-DOMAIN-SUFFIX,overseas.weibo.com
-DOMAIN-SUFFIX,sg.weibo.com
-DOMAIN-SUFFIX,th.weibo.com
-DOMAIN-SUFFIX,tw.weibo.com
-DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com

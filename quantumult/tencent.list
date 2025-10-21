@@ -115,7 +115,6 @@ HOST-SUFFIX,spcloudhw.com,TENCENT
 HOST-SUFFIX,spcloudhw.net,TENCENT
 HOST-SUFFIX,srmkp.cn,TENCENT
 HOST-SUFFIX,starlakelab.com,TENCENT
-HOST-SUFFIX,tamaegis.com,TENCENT
 HOST-SUFFIX,tapd.cn,TENCENT
 HOST-SUFFIX,tcdlive.com,TENCENT
 HOST-SUFFIX,tcdnhw.com,TENCENT
@@ -345,6 +344,7 @@ HOST-SUFFIX,rumt-us.com,TENCENT
 HOST-SUFFIX,ad.qq.com,TENCENT
 HOST-SUFFIX,ad.qun.qq.com,TENCENT
 HOST-SUFFIX,adfilter.imtt.qq.com,TENCENT
+HOST-SUFFIX,adnet.qq.com,TENCENT
 HOST-SUFFIX,adping.qq.com,TENCENT
 HOST-SUFFIX,adpm.app.qq.com,TENCENT
 HOST-SUFFIX,adsclick.qq.com,TENCENT
