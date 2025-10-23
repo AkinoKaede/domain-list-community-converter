@@ -65,6 +65,7 @@ HOST-SUFFIX,clipdrop.co,GEOLOCATION-!CN
 HOST-SUFFIX,jasper.ai,GEOLOCATION-!CN
 HOST-SUFFIX,chutes.ai,GEOLOCATION-!CN
 HOST-SUFFIX,copilot.microsoft.com,GEOLOCATION-!CN
+HOST-SUFFIX,devin.ai,GEOLOCATION-!CN
 HOST-SUFFIX,diabrowser.com,GEOLOCATION-!CN
 HOST-SUFFIX,dify.ai,GEOLOCATION-!CN
 HOST-SUFFIX,gateway.ai.cloudflare.com,GEOLOCATION-!CN
@@ -2865,6 +2866,9 @@ HOST-SUFFIX,redotpay.zendesk.com,GEOLOCATION-!CN
 HOST-SUFFIX,pod-15-sunco-ws.zendesk.com,GEOLOCATION-!CN
 HOST-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,GEOLOCATION-!CN
 HOST-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,GEOLOCATION-!CN
+HOST-SUFFIX,straitsx.com,GEOLOCATION-!CN
+HOST,d3r7nsslvs6aaf.cloudfront.net,GEOLOCATION-!CN
+HOST,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,GEOLOCATION-!CN
 HOST-SUFFIX,trustwallet.com,GEOLOCATION-!CN
 HOST-SUFFIX,wyndlabs.ai,GEOLOCATION-!CN
 HOST-SUFFIX,wynd.network,GEOLOCATION-!CN
@@ -10596,6 +10600,12 @@ HOST,ubisoft-uplay-savegames.s3.amazonaws.com,GEOLOCATION-!CN
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,GEOLOCATION-!CN
 HOST,ubistatic3-a.akamaihd.net,GEOLOCATION-!CN
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,GEOLOCATION-!CN
+HOST,datarouter.apps.netherrealm.com,GEOLOCATION-!CN
+HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,GEOLOCATION-!CN
+HOST-SUFFIX,warnerbrosgames.com,GEOLOCATION-!CN
+HOST-SUFFIX,wbagora.com,GEOLOCATION-!CN
+HOST-SUFFIX,wbgames.com,GEOLOCATION-!CN
+HOST-SUFFIX,wbinsights.com,GEOLOCATION-!CN
 HOST-SUFFIX,asobostudio.com,GEOLOCATION-!CN
 HOST-SUFFIX,flightsimulator.com,GEOLOCATION-!CN
 HOST,flightsimulator.azureedge.net,GEOLOCATION-!CN
@@ -27402,6 +27412,7 @@ HOST-SUFFIX,yandexcloud.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexcom.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexwebcache.org,GEOLOCATION-!CN
 HOST-SUFFIX,yastatic.net,GEOLOCATION-!CN
+HOST-SUFFIX,kinopoisk.ru,GEOLOCATION-!CN
 HOST-SUFFIX,teamviewer.cn,GEOLOCATION-!CN
 HOST-SUFFIX,teamviewer.com,GEOLOCATION-!CN
 HOST-SUFFIX,teamviewer.us,GEOLOCATION-!CN

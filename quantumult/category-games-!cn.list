@@ -579,6 +579,12 @@ HOST,ubisoft-uplay-savegames.s3.amazonaws.com,CATEGORY-GAMES-!CN
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,CATEGORY-GAMES-!CN
 HOST,ubistatic3-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,CATEGORY-GAMES-!CN
+HOST,datarouter.apps.netherrealm.com,CATEGORY-GAMES-!CN
+HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,warnerbrosgames.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,wbagora.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,wbgames.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,wbinsights.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,asobostudio.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,flightsimulator.com,CATEGORY-GAMES-!CN
 HOST,flightsimulator.azureedge.net,CATEGORY-GAMES-!CN
