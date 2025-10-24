@@ -89,6 +89,8 @@ HOST-SUFFIX,sg.weibo.com,CN@!CN
 HOST-SUFFIX,th.weibo.com,CN@!CN
 HOST-SUFFIX,tw.weibo.com,CN@!CN
 HOST-SUFFIX,us.weibo.com,CN@!CN
+HOST-SUFFIX,deepin.io,CN@!CN
+HOST-SUFFIX,deepin.org,CN@!CN
 HOST-SUFFIX,alibabacloud.co.in,CN@!CN
 HOST-SUFFIX,alibabacloud.com.au,CN@!CN
 HOST-SUFFIX,alibabacloud.com.hk,CN@!CN

@@ -1,3 +1,4 @@
+HOST-SUFFIX,cf-china.info,CLOUDFLARE
 HOST-SUFFIX,cf-ns.com,CLOUDFLARE
 HOST-SUFFIX,cf-ns.net,CLOUDFLARE
 HOST-SUFFIX,cf-ns.site,CLOUDFLARE
@@ -38,6 +39,7 @@ HOST-SUFFIX,cloudflareok.com,CLOUDFLARE
 HOST-SUFFIX,cloudflarepartners.com,CLOUDFLARE
 HOST-SUFFIX,cloudflareportal.com,CLOUDFLARE
 HOST-SUFFIX,cloudflarepreview.com,CLOUDFLARE
+HOST-SUFFIX,cloudflareregistrar.com,CLOUDFLARE
 HOST-SUFFIX,cloudflareresolve.com,CLOUDFLARE
 HOST-SUFFIX,cloudflaressl.com,CLOUDFLARE
 HOST-SUFFIX,cloudflarestatus.com,CLOUDFLARE

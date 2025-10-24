@@ -792,6 +792,7 @@ HOST-SUFFIX,bootcdn.cn,CN
 HOST-SUFFIX,bootcdn.net,CN
 HOST-SUFFIX,bootcss.com,CN
 HOST-SUFFIX,phpcomposer.com,CN
+HOST-SUFFIX,cf-china.info,CN
 HOST-SUFFIX,cf-ns.com,CN
 HOST-SUFFIX,cf-ns.net,CN
 HOST-SUFFIX,cf-ns.site,CN
@@ -2890,7 +2891,16 @@ HOST-SUFFIX,deepin.cn,CN
 HOST-SUFFIX,deepin.com,CN
 HOST-SUFFIX,deepin.io,CN
 HOST-SUFFIX,deepin.org,CN
+HOST-SUFFIX,deepin.org.cn,CN
+HOST-SUFFIX,sndu.cn,CN
+HOST-SUFFIX,51changxie.com,CN
+HOST-SUFFIX,51jianxie.cn,CN
+HOST-SUFFIX,91changxie.com,CN
+HOST-SUFFIX,changxie.com,CN
 HOST-SUFFIX,chinauos.com,CN
+HOST-SUFFIX,linglong.space,CN
+HOST-SUFFIX,linyaps.org.cn,CN
+HOST-SUFFIX,uniontech.cn,CN
 HOST-SUFFIX,uniontech.com,CN
 HOST-SUFFIX,gitee.com,CN
 HOST-SUFFIX,gitee.io,CN
