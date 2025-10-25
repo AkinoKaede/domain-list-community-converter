@@ -13,12 +13,14 @@ HOST-SUFFIX,sentry.d.xiaomi.net,XIAOMI
 HOST-SUFFIX,tjqonline.cn,XIAOMI
 HOST-SUFFIX,tracker.ai.xiaomi.com,XIAOMI
 HOST-SUFFIX,tracking.miui.com,XIAOMI
+HOST-SUFFIX,mgslb.com,XIAOMI
 HOST-SUFFIX,mi-idc.com,XIAOMI
 HOST-SUFFIX,mi-img.com,XIAOMI
 HOST-SUFFIX,mi.com,XIAOMI
 HOST-SUFFIX,mifile.cn,XIAOMI
 HOST-SUFFIX,migames.com,XIAOMI
 HOST-SUFFIX,mijia.tech,XIAOMI
+HOST-SUFFIX,mitvos.com,XIAOMI
 HOST-SUFFIX,miui.com,XIAOMI
 HOST-SUFFIX,miwifi.com,XIAOMI
 HOST-SUFFIX,xiaomi.cn,XIAOMI
