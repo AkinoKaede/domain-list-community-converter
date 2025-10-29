@@ -45,6 +45,14 @@ HOST-SUFFIX,cloudsite.vip,TENCENT
 HOST-SUFFIX,cncqcloud.com,TENCENT
 HOST-SUFFIX,computeinit.com,TENCENT
 HOST-SUFFIX,coolsite.vip,TENCENT
+HOST-SUFFIX,dcloudlive.com,TENCENT
+HOST-SUFFIX,dcloudlive.net,TENCENT
+HOST-SUFFIX,dcloudsp.com,TENCENT
+HOST-SUFFIX,dcloudsp.net,TENCENT
+HOST-SUFFIX,dcloudstc.com,TENCENT
+HOST-SUFFIX,dcloudstc.net,TENCENT
+HOST-SUFFIX,dcloudvod.com,TENCENT
+HOST-SUFFIX,dcloudvod.net,TENCENT
 HOST-SUFFIX,dnsv1.com,TENCENT
 HOST-SUFFIX,dnsv1.com.cn,TENCENT
 HOST-SUFFIX,dothework.cn,TENCENT
@@ -162,6 +170,7 @@ HOST-SUFFIX,tencentcloudses.com,TENCENT
 HOST-SUFFIX,tencentcos.cn,TENCENT
 HOST-SUFFIX,tencentcos.com,TENCENT
 HOST-SUFFIX,tencentcos.com.cn,TENCENT
+HOST-SUFFIX,tencentcs.cn,TENCENT
 HOST-SUFFIX,tencentcs.com,TENCENT
 HOST-SUFFIX,tencentdayu.com,TENCENT
 HOST-SUFFIX,tencentdb.com,TENCENT

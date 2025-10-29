@@ -18,7 +18,6 @@ HOST-SUFFIX,mi-idc.com,XIAOMI
 HOST-SUFFIX,mi-img.com,XIAOMI
 HOST-SUFFIX,mi.com,XIAOMI
 HOST-SUFFIX,mifile.cn,XIAOMI
-HOST-SUFFIX,migames.com,XIAOMI
 HOST-SUFFIX,mijia.tech,XIAOMI
 HOST-SUFFIX,mitvos.com,XIAOMI
 HOST-SUFFIX,miui.com,XIAOMI
@@ -45,6 +44,8 @@ HOST-SUFFIX,xiaomisa.net,XIAOMI
 HOST-SUFFIX,xiaomisa.org,XIAOMI
 HOST-SUFFIX,xiaomiwear.com,XIAOMI
 HOST-SUFFIX,xiaomixiaoai.com,XIAOMI
+HOST-SUFFIX,migames.com,XIAOMI
+HOST-SUFFIX,wali.com,XIAOMI
 HOST-SUFFIX,airstarfinance.net,XIAOMI
 HOST-SUFFIX,mipay.com,XIAOMI
 HOST-SUFFIX,duokan.com,XIAOMI
