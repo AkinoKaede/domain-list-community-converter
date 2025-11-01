@@ -981,7 +981,10 @@ HOST-SUFFIX,jxksw.net,CN
 HOST-SUFFIX,roomeet.cn,CN
 HOST-SUFFIX,xinchong.com,CN
 HOST-SUFFIX,zhuancorp.com,CN
+HOST-SUFFIX,zhuaninc.com,CN
+HOST-SUFFIX,zhuanspirit.cn,CN
 HOST-SUFFIX,zhuanspirit.com,CN
+HOST-SUFFIX,zhuanstatic.com,CN
 HOST-SUFFIX,zhuanzhuan.com,CN
 HOST-SUFFIX,c-ctrip.com,CN
 HOST-SUFFIX,colinker.com,CN
@@ -2068,6 +2071,7 @@ HOST-SUFFIX,ruanmei.com,CN
 HOST-SUFFIX,saayaa.com,CN
 HOST-SUFFIX,win7china.com,CN
 HOST-SUFFIX,win8china.com,CN
+HOST-SUFFIX,zuihuimai.com,CN
 HOST-SUFFIX,binglianhuajianzhan.com,CN
 HOST-SUFFIX,ggoplay.com,CN
 HOST-SUFFIX,ggowan.com,CN
@@ -3564,6 +3568,7 @@ HOST-SUFFIX,bce-cdn.cn,CN
 HOST-SUFFIX,bce-cdn.com,CN
 HOST-SUFFIX,bce-cdn.net,CN
 HOST-SUFFIX,bcebos.com,CN
+HOST-SUFFIX,bcelive.com,CN
 HOST-SUFFIX,bdcloudapi.com,CN
 HOST-SUFFIX,bdimg.com,CN
 HOST-SUFFIX,bdstatic.com,CN
@@ -3599,6 +3604,7 @@ HOST-SUFFIX,tieba.com,CN
 HOST-SUFFIX,tiebaimg.com,CN
 HOST-SUFFIX,xianfae.com,CN
 HOST-SUFFIX,xiaodutv.com,CN
+HOST-SUFFIX,yoojia.com,CN
 HOST-SUFFIX,duxiaoman-int.com,CN
 HOST-SUFFIX,duxiaoman.com,CN
 HOST-SUFFIX,duxiaomanfintech.com,CN
@@ -5466,6 +5472,7 @@ HOST-SUFFIX,vivo.cn,CN
 HOST-SUFFIX,vivo.com,CN
 HOST-SUFFIX,vivo.com.cn,CN
 HOST-SUFFIX,vivoglobal.com,CN
+HOST-SUFFIX,vvstc.com,CN
 HOST-SUFFIX,a.market.xiaomi.com,CN
 HOST-SUFFIX,ad.intl.xiaomi.com,CN
 HOST-SUFFIX,ad.mi.com,CN
@@ -5562,6 +5569,7 @@ HOST,bbs.ztedevices.com,CN
 HOST,www.ztedevices.com,CN
 HOST,ztedevices.com,CN
 HOST-SUFFIX,huorong.cn,CN
+HOST-SUFFIX,quickapp.cn,CN
 HOST-SUFFIX,socpk.com,CN
 HOST-SUFFIX,udesk.cn,CN
 HOST-SUFFIX,fdcyun.com,CN
@@ -5615,6 +5623,7 @@ HOST-SUFFIX,chinatelecom-h.com,CN
 HOST-SUFFIX,chinatelecom.com.cn,CN
 HOST-SUFFIX,chinatelecomglobal.com,CN
 HOST-SUFFIX,chntel.com,CN
+HOST-SUFFIX,vnet.cn,CN
 HOST-SUFFIX,chinatelecomhk.com,CN
 HOST-SUFFIX,unicom,CN
 HOST-SUFFIX,xn--8y0a063a,CN
@@ -5695,6 +5704,8 @@ HOST-SUFFIX,sinopecgroup.com,CN
 HOST-SUFFIX,sinopecnews.com.cn,CN
 HOST-SUFFIX,sinopecsales.com,CN
 HOST-SUFFIX,aiqicha.baidu.com,CN
+HOST-SUFFIX,aiqicha.cn,CN
+HOST-SUFFIX,aiqicha.com,CN
 HOST-SUFFIX,hongdunwang.com.cn,CN
 HOST-SUFFIX,qcc.com,CN
 HOST-SUFFIX,qichacha.com,CN

@@ -183,6 +183,7 @@ HOST-SUFFIX,bce-cdn.cn,BAIDU
 HOST-SUFFIX,bce-cdn.com,BAIDU
 HOST-SUFFIX,bce-cdn.net,BAIDU
 HOST-SUFFIX,bcebos.com,BAIDU
+HOST-SUFFIX,bcelive.com,BAIDU
 HOST-SUFFIX,bdcloudapi.com,BAIDU
 HOST-SUFFIX,bdimg.com,BAIDU
 HOST-SUFFIX,bdstatic.com,BAIDU
@@ -218,6 +219,7 @@ HOST-SUFFIX,tieba.com,BAIDU
 HOST-SUFFIX,tiebaimg.com,BAIDU
 HOST-SUFFIX,xianfae.com,BAIDU
 HOST-SUFFIX,xiaodutv.com,BAIDU
+HOST-SUFFIX,yoojia.com,BAIDU
 HOST-SUFFIX,duxiaoman-int.com,BAIDU
 HOST-SUFFIX,duxiaoman.com,BAIDU
 HOST-SUFFIX,duxiaomanfintech.com,BAIDU
