@@ -20,3 +20,4 @@ HOST-SUFFIX,jules.google,GOOGLE-GEMINI
 HOST-SUFFIX,jules.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,labs.google,GOOGLE-GEMINI
 HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,aida.googleapis.com,GOOGLE-GEMINI
