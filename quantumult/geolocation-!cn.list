@@ -10304,6 +10304,7 @@ HOST-SUFFIX,spyjinx.com,GEOLOCATION-!CN
 HOST-SUFFIX,twinmotion.com,GEOLOCATION-!CN
 HOST-SUFFIX,unrealengine.com,GEOLOCATION-!CN
 HOST-SUFFIX,unrealtournament.com,GEOLOCATION-!CN
+HOST-SUFFIX,egdownload.fastly-edge.com,GEOLOCATION-!CN
 HOST-SUFFIX,tarkov.com,GEOLOCATION-!CN
 HOST-SUFFIX,eft-store.com,GEOLOCATION-!CN
 HOST-SUFFIX,escapefromtarkov.com,GEOLOCATION-!CN
