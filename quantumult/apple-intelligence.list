@@ -2,3 +2,4 @@ HOST,apple-relay.apple.com,APPLE-INTELLIGENCE
 HOST,apple-relay.cloudflare.com,APPLE-INTELLIGENCE
 HOST,apple-relay.fastly-edge.com,APPLE-INTELLIGENCE
 HOST,apple-relay.mask.apple-dns.net,APPLE-INTELLIGENCE
+HOST,gspe1-ssl.ls.apple.com,APPLE-INTELLIGENCE
