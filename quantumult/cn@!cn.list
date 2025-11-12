@@ -77,6 +77,7 @@ HOST-SUFFIX,jd.co.th,CN@!CN
 HOST-SUFFIX,jd.hk,CN@!CN
 HOST-SUFFIX,jd.id,CN@!CN
 HOST-SUFFIX,jd.ru,CN@!CN
+HOST-SUFFIX,taptap.io,CN@!CN
 HOST,upos-hz-mirrorakam.akamaized.net,CN@!CN
 HOST-SUFFIX,bilibili.tv,CN@!CN
 HOST-SUFFIX,biliintl.com,CN@!CN
@@ -257,7 +258,6 @@ HOST-SUFFIX,ca.file.myqcloud.com,CN@!CN
 HOST-SUFFIX,ger.file.myqcloud.com,CN@!CN
 HOST-SUFFIX,rumt-sg.com,CN@!CN
 HOST-SUFFIX,rumt-us.com,CN@!CN
-HOST-SUFFIX,supercell.com,CN@!CN
 HOST-SUFFIX,tencent.co.id,CN@!CN
 HOST-SUFFIX,tencent.com.hk,CN@!CN
 HOST-SUFFIX,wetv.vip,CN@!CN
