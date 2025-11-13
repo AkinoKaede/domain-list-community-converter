@@ -1,4 +1,3 @@
-HOST-SUFFIX,coze.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.com,BYTEDANCE@!CN
 HOST-SUFFIX,muscdn.com,BYTEDANCE@!CN
 HOST-SUFFIX,musical.ly,BYTEDANCE@!CN
@@ -20,8 +19,6 @@ HOST-SUFFIX,ttlivecdn.com,BYTEDANCE@!CN
 HOST-SUFFIX,ttoverseaus.net,BYTEDANCE@!CN
 HOST-SUFFIX,ttwstatic.com,BYTEDANCE@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,BYTEDANCE@!CN
-HOST-SUFFIX,marscode.com,BYTEDANCE@!CN
-HOST-SUFFIX,trae.ai,BYTEDANCE@!CN
 HOST-SUFFIX,byteglb.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.net,BYTEDANCE@!CN
