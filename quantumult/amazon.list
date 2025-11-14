@@ -99,6 +99,16 @@ HOST-SUFFIX,kindleoasis.org,AMAZON
 HOST-SUFFIX,kindleoasis.us,AMAZON
 HOST-SUFFIX,kindleoasisnews.com,AMAZON
 HOST-SUFFIX,kindleproject.com,AMAZON
+HOST,d1v5ir2lpwr8os.cloudfront.net,AMAZON
+HOST,d22qjgkvxw22r6.cloudfront.net,AMAZON
+HOST,d25xi40x97liuc.cloudfront.net,AMAZON
+HOST,d27xxe7juh1us6.cloudfront.net,AMAZON
+HOST,dmqdd6hw24ucf.cloudfront.net,AMAZON
+HOST,images-eu.ssl-images-amazon.com,AMAZON
+HOST,images-na.ssl-images-amazon.com,AMAZON
+HOST,images-fe.ssl-images-amazon.com,AMAZON
+HOST,msh.amazon.co.uk,AMAZON
+HOST,static.siege-amazon.com,AMAZON
 HOST-SUFFIX,aiv-cdn.net,AMAZON
 HOST-SUFFIX,amazonprimevideo.cn,AMAZON
 HOST-SUFFIX,amazonprimevideo.com.cn,AMAZON
@@ -111,6 +121,7 @@ HOST-SUFFIX,primevideo.com,AMAZON
 HOST-SUFFIX,primevideo.info,AMAZON
 HOST-SUFFIX,primevideo.org,AMAZON
 HOST-SUFFIX,primevideo.tv,AMAZON
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,AMAZON
 HOST-SUFFIX,wfm.com,AMAZON
 HOST-SUFFIX,wholecitiesfoundation.org,AMAZON
 HOST-SUFFIX,wholefoods.com,AMAZON

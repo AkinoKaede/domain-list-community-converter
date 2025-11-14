@@ -11184,6 +11184,16 @@ HOST-SUFFIX,pluto.tv,GEOLOCATION-!CN
 HOST-SUFFIX,plutotv.net,GEOLOCATION-!CN
 HOST-SUFFIX,pca.st,GEOLOCATION-!CN
 HOST-SUFFIX,pocketcasts.com,GEOLOCATION-!CN
+HOST,d1v5ir2lpwr8os.cloudfront.net,GEOLOCATION-!CN
+HOST,d22qjgkvxw22r6.cloudfront.net,GEOLOCATION-!CN
+HOST,d25xi40x97liuc.cloudfront.net,GEOLOCATION-!CN
+HOST,d27xxe7juh1us6.cloudfront.net,GEOLOCATION-!CN
+HOST,dmqdd6hw24ucf.cloudfront.net,GEOLOCATION-!CN
+HOST,images-eu.ssl-images-amazon.com,GEOLOCATION-!CN
+HOST,images-na.ssl-images-amazon.com,GEOLOCATION-!CN
+HOST,images-fe.ssl-images-amazon.com,GEOLOCATION-!CN
+HOST,msh.amazon.co.uk,GEOLOCATION-!CN
+HOST,static.siege-amazon.com,GEOLOCATION-!CN
 HOST-SUFFIX,aiv-cdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,amazonprimevideo.cn,GEOLOCATION-!CN
 HOST-SUFFIX,amazonprimevideo.com.cn,GEOLOCATION-!CN
@@ -11196,6 +11206,7 @@ HOST-SUFFIX,primevideo.com,GEOLOCATION-!CN
 HOST-SUFFIX,primevideo.info,GEOLOCATION-!CN
 HOST-SUFFIX,primevideo.org,GEOLOCATION-!CN
 HOST-SUFFIX,primevideo.tv,GEOLOCATION-!CN
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,GEOLOCATION-!CN
 HOST-SUFFIX,fandango.com,GEOLOCATION-!CN
 HOST-SUFFIX,mgo.com,GEOLOCATION-!CN
 HOST-SUFFIX,mgo-images.com,GEOLOCATION-!CN

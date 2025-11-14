@@ -1,3 +1,13 @@
+HOST,d1v5ir2lpwr8os.cloudfront.net,PRIMEVIDEO
+HOST,d22qjgkvxw22r6.cloudfront.net,PRIMEVIDEO
+HOST,d25xi40x97liuc.cloudfront.net,PRIMEVIDEO
+HOST,d27xxe7juh1us6.cloudfront.net,PRIMEVIDEO
+HOST,dmqdd6hw24ucf.cloudfront.net,PRIMEVIDEO
+HOST,images-eu.ssl-images-amazon.com,PRIMEVIDEO
+HOST,images-na.ssl-images-amazon.com,PRIMEVIDEO
+HOST,images-fe.ssl-images-amazon.com,PRIMEVIDEO
+HOST,msh.amazon.co.uk,PRIMEVIDEO
+HOST,static.siege-amazon.com,PRIMEVIDEO
 HOST-SUFFIX,aiv-cdn.net,PRIMEVIDEO
 HOST-SUFFIX,amazonprimevideo.cn,PRIMEVIDEO
 HOST-SUFFIX,amazonprimevideo.com.cn,PRIMEVIDEO
@@ -10,3 +20,4 @@ HOST-SUFFIX,primevideo.com,PRIMEVIDEO
 HOST-SUFFIX,primevideo.info,PRIMEVIDEO
 HOST-SUFFIX,primevideo.org,PRIMEVIDEO
 HOST-SUFFIX,primevideo.tv,PRIMEVIDEO
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,PRIMEVIDEO

@@ -388,6 +388,16 @@ HOST-SUFFIX,kindleoasis.org,CATEGORY-COMPANIES
 HOST-SUFFIX,kindleoasis.us,CATEGORY-COMPANIES
 HOST-SUFFIX,kindleoasisnews.com,CATEGORY-COMPANIES
 HOST-SUFFIX,kindleproject.com,CATEGORY-COMPANIES
+HOST,d1v5ir2lpwr8os.cloudfront.net,CATEGORY-COMPANIES
+HOST,d22qjgkvxw22r6.cloudfront.net,CATEGORY-COMPANIES
+HOST,d25xi40x97liuc.cloudfront.net,CATEGORY-COMPANIES
+HOST,d27xxe7juh1us6.cloudfront.net,CATEGORY-COMPANIES
+HOST,dmqdd6hw24ucf.cloudfront.net,CATEGORY-COMPANIES
+HOST,images-eu.ssl-images-amazon.com,CATEGORY-COMPANIES
+HOST,images-na.ssl-images-amazon.com,CATEGORY-COMPANIES
+HOST,images-fe.ssl-images-amazon.com,CATEGORY-COMPANIES
+HOST,msh.amazon.co.uk,CATEGORY-COMPANIES
+HOST,static.siege-amazon.com,CATEGORY-COMPANIES
 HOST-SUFFIX,aiv-cdn.net,CATEGORY-COMPANIES
 HOST-SUFFIX,amazonprimevideo.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,amazonprimevideo.com.cn,CATEGORY-COMPANIES
@@ -400,6 +410,7 @@ HOST-SUFFIX,primevideo.com,CATEGORY-COMPANIES
 HOST-SUFFIX,primevideo.info,CATEGORY-COMPANIES
 HOST-SUFFIX,primevideo.org,CATEGORY-COMPANIES
 HOST-SUFFIX,primevideo.tv,CATEGORY-COMPANIES
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,CATEGORY-COMPANIES
 HOST-SUFFIX,wfm.com,CATEGORY-COMPANIES
 HOST-SUFFIX,wholecitiesfoundation.org,CATEGORY-COMPANIES
 HOST-SUFFIX,wholefoods.com,CATEGORY-COMPANIES
