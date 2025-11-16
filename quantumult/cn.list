@@ -127,6 +127,7 @@ HOST-SUFFIX,n.cn,CN
 HOST-SUFFIX,namiso.com,CN
 HOST,ai.zhaomi.cn,CN
 HOST-SUFFIX,miaoyanai.com,CN
+HOST-SUFFIX,faxingbao.com,CN
 HOST-SUFFIX,airchina.com.cn,CN
 HOST-SUFFIX,airchinacargo.com,CN
 HOST-SUFFIX,hainanairlines.com,CN
@@ -1984,6 +1985,8 @@ HOST-SUFFIX,miaopai.com,CN
 HOST-SUFFIX,muwai.com,CN
 HOST-SUFFIX,pearvideo.com,CN
 HOST-SUFFIX,sfacg.com,CN
+HOST-SUFFIX,yamibo.com,CN
+HOST-SUFFIX,yiyouliao.com,CN
 HOST-SUFFIX,zhanqi.tv,CN
 HOST-SUFFIX,leigod.com,CN
 HOST-SUFFIX,tmjiasuqi.com,CN
@@ -2033,9 +2036,12 @@ HOST-SUFFIX,ngacn.cc,CN
 HOST-SUFFIX,saraba1st.com,CN
 HOST-SUFFIX,stage1st.com,CN
 HOST-SUFFIX,52pojie.cn,CN
+HOST-SUFFIX,anywlan.com,CN
+HOST-SUFFIX,chinadsl.net,CN
 HOST-SUFFIX,chiphell.com,CN
 HOST-SUFFIX,chongbuluo.com,CN
 HOST-SUFFIX,erji.net,CN
+HOST-SUFFIX,itpub.net,CN
 HOST-SUFFIX,itsk.com,CN
 HOST-SUFFIX,kafan.cn,CN
 HOST-SUFFIX,kanxue.com,CN
@@ -2045,6 +2051,7 @@ HOST-SUFFIX,klpbbs.com,CN
 HOST-SUFFIX,mcbbs.net,CN
 HOST-SUFFIX,pcbeta.com,CN
 HOST-SUFFIX,right.com.cn,CN
+HOST-SUFFIX,txrjy.com,CN
 HOST-SUFFIX,uiwow.com,CN
 HOST-SUFFIX,wuyou.net,CN
 HOST-SUFFIX,423down.com,CN
@@ -2284,6 +2291,7 @@ HOST-SUFFIX,idcquan.com,CN
 HOST-SUFFIX,admin5.com,CN
 HOST-SUFFIX,jxpp.com,CN
 HOST-SUFFIX,woshipm.com,CN
+HOST-SUFFIX,zhichanli.com,CN
 HOST-SUFFIX,115.com,CN
 HOST-SUFFIX,115cdn.com,CN
 HOST-SUFFIX,115cdn.net,CN
@@ -3606,6 +3614,7 @@ HOST-SUFFIX,bdydns.net,CN
 HOST-SUFFIX,chuanke.com,CN
 HOST-SUFFIX,dlnel.com,CN
 HOST-SUFFIX,dlnel.org,CN
+HOST-SUFFIX,duapp.com,CN
 HOST-SUFFIX,duapp.net,CN
 HOST-SUFFIX,duapps.com,CN
 HOST-SUFFIX,duurl.cn,CN
@@ -3619,6 +3628,7 @@ HOST-SUFFIX,jomocdn.net,CN
 HOST-SUFFIX,jomodns.cn,CN
 HOST-SUFFIX,jomodns.com,CN
 HOST-SUFFIX,jomodns.net,CN
+HOST-SUFFIX,jomoxc.com,CN
 HOST-SUFFIX,mipcdn.com,CN
 HOST-SUFFIX,nuomi.com,CN
 HOST-SUFFIX,quyaoya.com,CN
@@ -6601,7 +6611,6 @@ HOST-SUFFIX,tuwan.com,CN
 HOST-SUFFIX,tuwanjun.com,CN
 HOST-SUFFIX,tvmao.com,CN
 HOST-SUFFIX,tvzhe.com,CN
-HOST-SUFFIX,txrjy.com,CN
 HOST-SUFFIX,u.tools,CN
 HOST-SUFFIX,ucbug.com,CN
 HOST-SUFFIX,uggame.com,CN
