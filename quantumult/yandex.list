@@ -1,11 +1,17 @@
 HOST-SUFFIX,yandex,YANDEX
 HOST-SUFFIX,xn--d1acpjx3f.xn--p1ai,YANDEX
+HOST-SUFFIX,adfox.ru,YANDEX
+HOST-SUFFIX,admetrica.ru,YANDEX
 HOST-SUFFIX,dzen.ru,YANDEX
 HOST-SUFFIX,naydex.net,YANDEX
 HOST-SUFFIX,rostaxi.org,YANDEX
+HOST-SUFFIX,webvisor.com,YANDEX
+HOST-SUFFIX,webvisor.org,YANDEX
 HOST-SUFFIX,ya.ru,YANDEX
+HOST-SUFFIX,yads.tech,YANDEX
 HOST-SUFFIX,yandex-bank.net,YANDEX
 HOST-SUFFIX,yandex-images.clstorage.net,YANDEX
+HOST-SUFFIX,yandex-team.ru,YANDEX
 HOST-SUFFIX,yandex.aero,YANDEX
 HOST-SUFFIX,yandex.az,YANDEX
 HOST-SUFFIX,yandex.by,YANDEX
@@ -41,6 +47,9 @@ HOST-SUFFIX,yandex.uz,YANDEX
 HOST-SUFFIX,yandexadexchange.net,YANDEX
 HOST-SUFFIX,yandexcloud.net,YANDEX
 HOST-SUFFIX,yandexcom.net,YANDEX
+HOST-SUFFIX,yandexmetrica.com,YANDEX
 HOST-SUFFIX,yandexwebcache.org,YANDEX
+HOST-SUFFIX,yastat.net,YANDEX
 HOST-SUFFIX,yastatic.net,YANDEX
 HOST-SUFFIX,kinopoisk.ru,YANDEX
+HOST-SUFFIX,kinopoisk-ru.clstorage.net,YANDEX
