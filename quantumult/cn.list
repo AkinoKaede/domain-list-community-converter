@@ -76,10 +76,11 @@ HOST-SUFFIX,whalecloud.com,CN
 HOST-SUFFIX,deepseek.com,CN
 HOST-SUFFIX,rwkv.cn,CN
 HOST-SUFFIX,rwkv.com,CN
-HOST-SUFFIX,tongyi.aliyun.com,CN
 HOST-SUFFIX,qianwen.aliyun.com,CN
+HOST-SUFFIX,qianwen.com,CN
 HOST-SUFFIX,qwen.ai,CN
 HOST-SUFFIX,qwenlm.ai,CN
+HOST-SUFFIX,tongyi.aliyun.com,CN
 HOST-SUFFIX,tongyi.com,CN
 HOST-SUFFIX,yiyan.baidu.com,CN
 HOST-SUFFIX,tiangong.cn,CN
@@ -2223,9 +2224,11 @@ HOST-SUFFIX,cztv.com,CN
 HOST-SUFFIX,cztvcdn.com,CN
 HOST-SUFFIX,cztvcloud.com,CN
 HOST-SUFFIX,zjstv.com,CN
+HOST-SUFFIX,cqcb.com,CN
+HOST-SUFFIX,hntv.tv,CN
 HOST-SUFFIX,dgtle.com,CN
 HOST-SUFFIX,gcores.com,CN
-HOST-SUFFIX,geekpark,CN
+HOST-SUFFIX,geekpark.net,CN
 HOST-SUFFIX,solidot.org,CN
 HOST-SUFFIX,sspai.com,CN
 HOST-SUFFIX,stcn.com,CN
@@ -2292,6 +2295,12 @@ HOST-SUFFIX,admin5.com,CN
 HOST-SUFFIX,jxpp.com,CN
 HOST-SUFFIX,woshipm.com,CN
 HOST-SUFFIX,zhichanli.com,CN
+HOST-SUFFIX,chinaaet.com,CN
+HOST-SUFFIX,freebuf.com,CN
+HOST-SUFFIX,iresearch.cn,CN
+HOST-SUFFIX,qianzhan.com,CN
+HOST-SUFFIX,secrss.com,CN
+HOST-SUFFIX,shangyexinzhi.com,CN
 HOST-SUFFIX,115.com,CN
 HOST-SUFFIX,115cdn.com,CN
 HOST-SUFFIX,115cdn.net,CN
@@ -2461,6 +2470,8 @@ HOST-SUFFIX,qgzb.gov.cn,CN
 HOST-SUFFIX,qgzb.net,CN
 HOST-SUFFIX,zbbm.gov.cn,CN
 HOST-SUFFIX,zbbm.net,CN
+HOST-SUFFIX,cbern.com.cn,CN
+HOST-SUFFIX,smartedu.cn,CN
 HOST-SUFFIX,cugbonline.cn,CN
 HOST-SUFFIX,zhihuishu.com,CN
 HOST-SUFFIX,j-test.com,CN
@@ -6158,7 +6169,6 @@ HOST-SUFFIX,fimmu.com,CN
 HOST-SUFFIX,finchina.com,CN
 HOST-SUFFIX,fixdown.com,CN
 HOST-SUFFIX,fqjob.net,CN
-HOST-SUFFIX,freebuf.com,CN
 HOST-SUFFIX,fugetech.com,CN
 HOST-SUFFIX,fuwj.com,CN
 HOST-SUFFIX,fxxz.com,CN
@@ -6229,7 +6239,6 @@ HOST-SUFFIX,hiyd.com,CN
 HOST-SUFFIX,hktheone.com,CN
 HOST-SUFFIX,hn-cbec.com,CN
 HOST-SUFFIX,hnrcsc.com,CN
-HOST-SUFFIX,hntv.tv,CN
 HOST-SUFFIX,hnyuyuhui.com,CN
 HOST-SUFFIX,hollycrm.com,CN
 HOST-SUFFIX,homeinns.com,CN
@@ -6486,7 +6495,6 @@ HOST-SUFFIX,qh24.com,CN
 HOST-SUFFIX,qiangbus.com,CN
 HOST-SUFFIX,qianjia.com,CN
 HOST-SUFFIX,qianlima.com,CN
-HOST-SUFFIX,qianzhan.com,CN
 HOST-SUFFIX,qiaobutang.com,CN
 HOST-SUFFIX,qie.tv,CN
 HOST-SUFFIX,qifeiye.com,CN
