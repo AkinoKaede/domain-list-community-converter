@@ -6280,7 +6280,6 @@ HOST-SUFFIX,facebook30.com,GEOLOCATION-!CN
 HOST-SUFFIX,facebook30.net,GEOLOCATION-!CN
 HOST-SUFFIX,facebook30.org,GEOLOCATION-!CN
 HOST-SUFFIX,facebook4business.com,GEOLOCATION-!CN
-HOST-SUFFIX,facebookads.com,GEOLOCATION-!CN
 HOST-SUFFIX,facebookadvertisingsecrets.com,GEOLOCATION-!CN
 HOST-SUFFIX,facebookatschool.com,GEOLOCATION-!CN
 HOST-SUFFIX,facebookawards.com,GEOLOCATION-!CN
@@ -15762,6 +15761,7 @@ HOST-SUFFIX,redhat.org,GEOLOCATION-!CN
 HOST-SUFFIX,scala-lang.org,GEOLOCATION-!CN
 HOST-SUFFIX,scala-sbt.org,GEOLOCATION-!CN
 HOST-SUFFIX,sentry.io,GEOLOCATION-!CN
+HOST-SUFFIX,sentry-cdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,sourcehut.org,GEOLOCATION-!CN
 HOST-SUFFIX,sr.ht,GEOLOCATION-!CN
 HOST-SUFFIX,askubuntu.com,GEOLOCATION-!CN
@@ -19560,6 +19560,8 @@ HOST-SUFFIX,advertiserscommunity.com,GEOLOCATION-!CN
 HOST-SUFFIX,adwords-community.com,GEOLOCATION-!CN
 HOST-SUFFIX,adwords.com,GEOLOCATION-!CN
 HOST-SUFFIX,adwordsexpress.com,GEOLOCATION-!CN
+HOST-SUFFIX,app-analytics-services.com,GEOLOCATION-!CN
+HOST-SUFFIX,app-analytics-services-att.com,GEOLOCATION-!CN
 HOST-SUFFIX,app-measurement-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,app-measurement.com,GEOLOCATION-!CN
 HOST-SUFFIX,doubleclick-cn.net,GEOLOCATION-!CN
@@ -19569,6 +19571,7 @@ HOST-SUFFIX,doubleclick.net,GEOLOCATION-!CN
 HOST-SUFFIX,google-analytics-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,google-analytics.com,GEOLOCATION-!CN
 HOST-SUFFIX,googleadapis.com,GEOLOCATION-!CN
+HOST-SUFFIX,googleadapis.l.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,googleads-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,googleads.com,GEOLOCATION-!CN
 HOST-SUFFIX,googleadservices-cn.com,GEOLOCATION-!CN
@@ -19587,9 +19590,13 @@ HOST-SUFFIX,googletraveladservices-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,googletraveladservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,googlevads-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,mail-ads.google.com,GEOLOCATION-!CN
+HOST-SUFFIX,mobileads.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,marketingplatform.google.com,GEOLOCATION-!CN
+HOST-SUFFIX,pagead.l.google.com,GEOLOCATION-!CN
+HOST-SUFFIX,partnerad.l.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN
 HOST,analytics.google.com,GEOLOCATION-!CN
+HOST,fundingchoicesmessages.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,googleplay.com,GEOLOCATION-!CN
 HOST-SUFFIX,play-fe.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,play-games.googleusercontent.com,GEOLOCATION-!CN

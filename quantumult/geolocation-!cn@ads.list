@@ -20,6 +20,7 @@ HOST-SUFFIX,ads-pixiv.net,GEOLOCATION-!CN@ADS
 HOST,o4504926511693824.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,ads-twitter.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.unitychina.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,splash-ads.cdn.unity.cn,GEOLOCATION-!CN@ADS
@@ -52,6 +53,8 @@ HOST-SUFFIX,advertiserscommunity.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwords-community.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwords.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwordsexpress.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,app-analytics-services.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,app-analytics-services-att.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-measurement-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-measurement.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,doubleclick-cn.net,GEOLOCATION-!CN@ADS
@@ -61,6 +64,7 @@ HOST-SUFFIX,doubleclick.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,google-analytics-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,google-analytics.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googleadapis.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,googleadapis.l.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googleads-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googleads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googleadservices-cn.com,GEOLOCATION-!CN@ADS
@@ -79,11 +83,18 @@ HOST-SUFFIX,googletraveladservices-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googletraveladservices.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googlevads-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,mail-ads.google.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,mobileads.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,marketingplatform.google.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,pagead.l.google.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,partnerad.l.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN@ADS
 HOST,analytics.google.com,GEOLOCATION-!CN@ADS
+HOST,fundingchoicesmessages.google.com,GEOLOCATION-!CN@ADS
 HOST,sentry.hetzner.company,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,bingads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,clarity.ms,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,microsoftads.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,msads.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,nelreports.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,samsungads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,snapads.com,GEOLOCATION-!CN@ADS

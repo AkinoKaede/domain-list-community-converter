@@ -350,8 +350,10 @@ HOST-SUFFIX,tamaegis.com,TENCENT
 HOST-SUFFIX,rumt-zh.com,TENCENT
 HOST-SUFFIX,rumt-sg.com,TENCENT
 HOST-SUFFIX,rumt-us.com,TENCENT
+HOST-SUFFIX,ad.browser.qq.com,TENCENT
 HOST-SUFFIX,ad.qq.com,TENCENT
 HOST-SUFFIX,ad.qun.qq.com,TENCENT
+HOST-SUFFIX,ad.weixin.qq.com,TENCENT
 HOST-SUFFIX,adfilter.imtt.qq.com,TENCENT
 HOST-SUFFIX,adnet.qq.com,TENCENT
 HOST-SUFFIX,adping.qq.com,TENCENT
@@ -368,13 +370,17 @@ HOST-SUFFIX,adsview.qq.com,TENCENT
 HOST-SUFFIX,adsview2.qq.com,TENCENT
 HOST-SUFFIX,adv.app.qq.com,TENCENT
 HOST-SUFFIX,adver.qq.com,TENCENT
+HOST-SUFFIX,beacon.cdn.qq.com,TENCENT
 HOST-SUFFIX,beacon.qq.com,TENCENT
 HOST-SUFFIX,beaconcdn.qq.com,TENCENT
 HOST-SUFFIX,btrace.qq.com,TENCENT
+HOST-SUFFIX,bugly.qq.com,TENCENT
 HOST-SUFFIX,e.qq.com,TENCENT
 HOST-SUFFIX,gdt.qq.com,TENCENT
+HOST-SUFFIX,hq-tracking.qq.com,TENCENT
 HOST-SUFFIX,isdspeed.qq.com,TENCENT
 HOST-SUFFIX,log.tbs.qq.com,TENCENT
+HOST-SUFFIX,mdt.qq.com,TENCENT
 HOST-SUFFIX,mpush.qq.com,TENCENT
 HOST-SUFFIX,mtrace.qq.com,TENCENT
 HOST-SUFFIX,pgdt.gtimg.cn,TENCENT
@@ -384,6 +390,8 @@ HOST-SUFFIX,sngmta.qq.com,TENCENT
 HOST-SUFFIX,stat.y.qq.com,TENCENT
 HOST-SUFFIX,tajs.qq.com,TENCENT
 HOST-SUFFIX,tcss.qq.com,TENCENT
+HOST-SUFFIX,tmead.y.qq.com,TENCENT
+HOST-SUFFIX,tmeadcomm.y.qq.com,TENCENT
 HOST-SUFFIX,trace.qq.com,TENCENT
 HOST-SUFFIX,ugdtimg.com,TENCENT
 HOST-SUFFIX,wit.qq.com,TENCENT

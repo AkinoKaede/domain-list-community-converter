@@ -12,6 +12,8 @@ HOST-SUFFIX,advertiserscommunity.com,GOOGLE-ADS
 HOST-SUFFIX,adwords-community.com,GOOGLE-ADS
 HOST-SUFFIX,adwords.com,GOOGLE-ADS
 HOST-SUFFIX,adwordsexpress.com,GOOGLE-ADS
+HOST-SUFFIX,app-analytics-services.com,GOOGLE-ADS
+HOST-SUFFIX,app-analytics-services-att.com,GOOGLE-ADS
 HOST-SUFFIX,app-measurement-cn.com,GOOGLE-ADS
 HOST-SUFFIX,app-measurement.com,GOOGLE-ADS
 HOST-SUFFIX,doubleclick-cn.net,GOOGLE-ADS
@@ -21,6 +23,7 @@ HOST-SUFFIX,doubleclick.net,GOOGLE-ADS
 HOST-SUFFIX,google-analytics-cn.com,GOOGLE-ADS
 HOST-SUFFIX,google-analytics.com,GOOGLE-ADS
 HOST-SUFFIX,googleadapis.com,GOOGLE-ADS
+HOST-SUFFIX,googleadapis.l.google.com,GOOGLE-ADS
 HOST-SUFFIX,googleads-cn.com,GOOGLE-ADS
 HOST-SUFFIX,googleads.com,GOOGLE-ADS
 HOST-SUFFIX,googleadservices-cn.com,GOOGLE-ADS
@@ -39,6 +42,10 @@ HOST-SUFFIX,googletraveladservices-cn.com,GOOGLE-ADS
 HOST-SUFFIX,googletraveladservices.com,GOOGLE-ADS
 HOST-SUFFIX,googlevads-cn.com,GOOGLE-ADS
 HOST-SUFFIX,mail-ads.google.com,GOOGLE-ADS
+HOST-SUFFIX,mobileads.google.com,GOOGLE-ADS
 HOST-SUFFIX,marketingplatform.google.com,GOOGLE-ADS
+HOST-SUFFIX,pagead.l.google.com,GOOGLE-ADS
+HOST-SUFFIX,partnerad.l.google.com,GOOGLE-ADS
 HOST-SUFFIX,urchin.com,GOOGLE-ADS
 HOST,analytics.google.com,GOOGLE-ADS
+HOST,fundingchoicesmessages.google.com,GOOGLE-ADS
