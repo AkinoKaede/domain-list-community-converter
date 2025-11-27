@@ -7,9 +7,11 @@ HOST,log-sdk.gifshow.com,KUAISHOU
 HOST,wlog.kuaishou.com,KUAISHOU
 HOST-SUFFIX,ecukwai.com,KUAISHOU
 HOST-SUFFIX,gifshow.com,KUAISHOU
+HOST-SUFFIX,inkuai.com,KUAISHOU
 HOST-SUFFIX,inkwai.com,KUAISHOU
 HOST-SUFFIX,ksapisrv.com,KUAISHOU
 HOST-SUFFIX,kskwai.com,KUAISHOU
+HOST-SUFFIX,kuaishou.cn,KUAISHOU
 HOST-SUFFIX,kuaishou.com,KUAISHOU
 HOST-SUFFIX,kuaishouapps.com,KUAISHOU
 HOST-SUFFIX,kuaishoupay.com,KUAISHOU
