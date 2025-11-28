@@ -111,6 +111,8 @@ HOST-SUFFIX,oss-me-east-1.aliyuncs.com,CN@!CN
 HOST-SUFFIX,oss-us-east-1.aliyuncs.com,CN@!CN
 HOST-SUFFIX,oss-us-west-1.aliyuncs.com,CN@!CN
 HOST-SUFFIX,alihealth.hk,CN@!CN
+HOST-SUFFIX,ae-rus.net,CN@!CN
+HOST-SUFFIX,aestatic.net,CN@!CN
 HOST-SUFFIX,aliexpress.ru,CN@!CN
 HOST-SUFFIX,alipay.hk,CN@!CN
 HOST-SUFFIX,alipaymo.com,CN@!CN

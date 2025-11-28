@@ -12,6 +12,10 @@ HOST-SUFFIX,coze.com,GEOLOCATION-!CN
 HOST-SUFFIX,marscode.com,GEOLOCATION-!CN
 HOST-SUFFIX,trae.ai,GEOLOCATION-!CN
 HOST-SUFFIX,cerebras.ai,GEOLOCATION-!CN
+HOST-SUFFIX,oystermercury.top,GEOLOCATION-!CN
+HOST-SUFFIX,comfy.org,GEOLOCATION-!CN
+HOST-SUFFIX,comfyci.org,GEOLOCATION-!CN
+HOST-SUFFIX,comfyregistry.org,GEOLOCATION-!CN
 HOST-SUFFIX,cursor-cdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,cursor.com,GEOLOCATION-!CN
 HOST-SUFFIX,cursor.sh,GEOLOCATION-!CN
@@ -5008,6 +5012,16 @@ HOST-SUFFIX,playvalorant.com,GEOLOCATION-!CN
 HOST-SUFFIX,riotforgegames.com,GEOLOCATION-!CN
 HOST-SUFFIX,ruinedking.com,GEOLOCATION-!CN
 HOST-SUFFIX,convrgencegame.com,GEOLOCATION-!CN
+HOST-SUFFIX,rblx.org,GEOLOCATION-!CN
+HOST-SUFFIX,rbx.com,GEOLOCATION-!CN
+HOST-SUFFIX,rbxcdn.com,GEOLOCATION-!CN
+HOST-SUFFIX,roblox-api.arkoselabs.co,GEOLOCATION-!CN
+HOST-SUFFIX,roblox.com,GEOLOCATION-!CN
+HOST-SUFFIX,robloxlabs.com,GEOLOCATION-!CN
+HOST,d1unuk07s6td74.cloudfront.net,GEOLOCATION-!CN
+HOST,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,GEOLOCATION-!CN
+HOST,roblox-poc.global.ssl.fastly.net,GEOLOCATION-!CN
+HOST,robloxcorp.s.llnwi.net,GEOLOCATION-!CN
 HOST-SUFFIX,rockstargames.com,GEOLOCATION-!CN
 HOST-SUFFIX,rsg.sc,GEOLOCATION-!CN
 HOST,gamedownloads-rockstargames-com.akamaized.net,GEOLOCATION-!CN

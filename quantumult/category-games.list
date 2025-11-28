@@ -703,6 +703,16 @@ HOST-SUFFIX,playvalorant.com,CATEGORY-GAMES
 HOST-SUFFIX,riotforgegames.com,CATEGORY-GAMES
 HOST-SUFFIX,ruinedking.com,CATEGORY-GAMES
 HOST-SUFFIX,convrgencegame.com,CATEGORY-GAMES
+HOST-SUFFIX,rblx.org,CATEGORY-GAMES
+HOST-SUFFIX,rbx.com,CATEGORY-GAMES
+HOST-SUFFIX,rbxcdn.com,CATEGORY-GAMES
+HOST-SUFFIX,roblox-api.arkoselabs.co,CATEGORY-GAMES
+HOST-SUFFIX,roblox.com,CATEGORY-GAMES
+HOST-SUFFIX,robloxlabs.com,CATEGORY-GAMES
+HOST,d1unuk07s6td74.cloudfront.net,CATEGORY-GAMES
+HOST,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,CATEGORY-GAMES
+HOST,roblox-poc.global.ssl.fastly.net,CATEGORY-GAMES
+HOST,robloxcorp.s.llnwi.net,CATEGORY-GAMES
 HOST-SUFFIX,rockstargames.com,CATEGORY-GAMES
 HOST-SUFFIX,rsg.sc,CATEGORY-GAMES
 HOST,gamedownloads-rockstargames-com.akamaized.net,CATEGORY-GAMES
