@@ -265,7 +265,6 @@ HOST,wetv.qq.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,vivoglobal.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,c.mi.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,global.market.xiaomi.com,GEOLOCATION-CN@!CN
-HOST,ztedevices.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,speedtest.hk.chinamobile.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,speedtestbb.hk.chinamobile.com,GEOLOCATION-CN@!CN
 HOST-SUFFIX,ctexcel.ca,GEOLOCATION-CN@!CN
