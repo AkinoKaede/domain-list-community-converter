@@ -421,6 +421,10 @@ HOST-SUFFIX,uoherald.com,CATEGORY-GAMES
 HOST-SUFFIX,xdsummit.com,CATEGORY-GAMES
 HOST,ea.tt.omtrdc.net,CATEGORY-GAMES
 HOST,eaassets-a.akamaihd.net,CATEGORY-GAMES
+HOST-SUFFIX,arcraiders.com,CATEGORY-GAMES
+HOST-SUFFIX,embark-studios.com,CATEGORY-GAMES
+HOST-SUFFIX,embark.games,CATEGORY-GAMES
+HOST-SUFFIX,reachthefinals.com,CATEGORY-GAMES
 HOST-SUFFIX,3lateral.com,CATEGORY-GAMES
 HOST-SUFFIX,artstation.com,CATEGORY-GAMES
 HOST-SUFFIX,capturingreality.com,CATEGORY-GAMES
@@ -452,6 +456,8 @@ HOST-SUFFIX,egdownload.fastly-edge.com,CATEGORY-GAMES
 HOST-SUFFIX,tarkov.com,CATEGORY-GAMES
 HOST-SUFFIX,eft-store.com,CATEGORY-GAMES
 HOST-SUFFIX,escapefromtarkov.com,CATEGORY-GAMES
+HOST-SUFFIX,faceit.com,CATEGORY-GAMES
+HOST-SUFFIX,faceit-cdn.net,CATEGORY-GAMES
 HOST,avatargarenanow-a.akamaihd.net,CATEGORY-GAMES
 HOST,cdngarenanow-a.akamaihd.net,CATEGORY-GAMES
 HOST,dlgarenanow-a.akamaihd.net,CATEGORY-GAMES
