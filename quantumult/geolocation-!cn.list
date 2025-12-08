@@ -2372,6 +2372,7 @@ HOST-SUFFIX,cloudflarestream.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflaretest.com,GEOLOCATION-!CN
 HOST-SUFFIX,cloudflarewarp.com,GEOLOCATION-!CN
 HOST-SUFFIX,every1dns.net,GEOLOCATION-!CN
+HOST-SUFFIX,imagedelivery.net,GEOLOCATION-!CN
 HOST-SUFFIX,isbgpsafeyet.com,GEOLOCATION-!CN
 HOST-SUFFIX,one.one.one,GEOLOCATION-!CN
 HOST-SUFFIX,pacloudflare.com,GEOLOCATION-!CN

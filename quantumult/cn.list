@@ -1262,11 +1262,13 @@ HOST-SUFFIX,kankanews.com,CN
 HOST-SUFFIX,kankannews.com,CN
 HOST-SUFFIX,kksmg.com,CN
 HOST-SUFFIX,statickksmg.com,CN
+HOST-SUFFIX,latepost.com,CN
 HOST-SUFFIX,nanyuenews.com,CN
 HOST-SUFFIX,nbd.com.cn,CN
 HOST-SUFFIX,news.cn,CN
 HOST-SUFFIX,xinhuanet.com,CN
 HOST-SUFFIX,xinhuaxmt.com,CN
+HOST-SUFFIX,ofweek.com,CN
 HOST-SUFFIX,3conline.com,CN
 HOST-SUFFIX,pconline.com.cn,CN
 HOST-SUFFIX,people.cn,CN
@@ -2893,6 +2895,7 @@ HOST-SUFFIX,leigod.com,CN
 HOST-SUFFIX,tmjiasuqi.com,CN
 HOST-SUFFIX,uu.163.com,CN
 HOST-SUFFIX,xunyou.com,CN
+HOST-SUFFIX,xunyou.mobi,CN
 HOST-SUFFIX,bohejiasuqi.com,CN
 HOST-SUFFIX,jiasu.bohe.com,CN
 HOST-SUFFIX,golink.com,CN
@@ -5403,6 +5406,7 @@ HOST-SUFFIX,gcloudcstest.com,CN
 HOST-SUFFIX,gcloudcstestonly.com,CN
 HOST-SUFFIX,gclouddolphin.com,CN
 HOST-SUFFIX,gcloudsdk.com,CN
+HOST-SUFFIX,gcloudsvcs.com,CN
 HOST-SUFFIX,gdtimg.com,CN
 HOST-SUFFIX,goto-game.com,CN
 HOST-SUFFIX,goto-game.mobi,CN

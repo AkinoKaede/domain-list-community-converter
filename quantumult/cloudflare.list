@@ -48,6 +48,7 @@ HOST-SUFFIX,cloudflarestream.com,CLOUDFLARE
 HOST-SUFFIX,cloudflaretest.com,CLOUDFLARE
 HOST-SUFFIX,cloudflarewarp.com,CLOUDFLARE
 HOST-SUFFIX,every1dns.net,CLOUDFLARE
+HOST-SUFFIX,imagedelivery.net,CLOUDFLARE
 HOST-SUFFIX,isbgpsafeyet.com,CLOUDFLARE
 HOST-SUFFIX,one.one.one,CLOUDFLARE
 HOST-SUFFIX,pacloudflare.com,CLOUDFLARE
