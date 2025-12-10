@@ -36,6 +36,7 @@ HOST-SUFFIX,pglstatp-snssdk-toutiao.com,BYTEDANCE
 HOST-SUFFIX,pglstatp-toutiao-b.com,BYTEDANCE
 HOST-SUFFIX,pglstatp-toutiao.com,BYTEDANCE
 HOST-SUFFIX,sf3-ttcdn-tos.pstatp.com,BYTEDANCE
+HOST-SUFFIX,shoppingads.cn,BYTEDANCE
 HOST-SUFFIX,butterfly-static.cn,BYTEDANCE
 HOST-SUFFIX,butterflyai.cn,BYTEDANCE
 HOST-SUFFIX,coze.cn,BYTEDANCE
@@ -744,6 +745,10 @@ HOST-SUFFIX,ppximg.com,BYTEDANCE
 HOST-SUFFIX,ppxstatic.com,BYTEDANCE
 HOST-SUFFIX,ppxvod.com,BYTEDANCE
 HOST-SUFFIX,xiaoxiaapi.com,BYTEDANCE
+HOST-SUFFIX,douyinec.com,BYTEDANCE
+HOST-SUFFIX,ecombdapi.com,BYTEDANCE
+HOST-SUFFIX,ecombdstatic.com,BYTEDANCE
+HOST-SUFFIX,jinritemai.com,BYTEDANCE
 HOST-SUFFIX,faceu.com,BYTEDANCE
 HOST-SUFFIX,ulikecam.com,BYTEDANCE
 HOST-SUFFIX,rsproxy.cn,BYTEDANCE
