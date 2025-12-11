@@ -13,6 +13,7 @@ HOST-SUFFIX,adslvfile.qq.com,TENCENT@ADS
 HOST-SUFFIX,adslvseed.qq.com,TENCENT@ADS
 HOST-SUFFIX,adsmind.apdcdn.tc.qq.com,TENCENT@ADS
 HOST-SUFFIX,adsqqclick.qq.com,TENCENT@ADS
+HOST-SUFFIX,adstats.tencentmusic.com,TENCENT@ADS
 HOST-SUFFIX,adstestview.qq.com,TENCENT@ADS
 HOST-SUFFIX,adsview.qq.com,TENCENT@ADS
 HOST-SUFFIX,adsview2.qq.com,TENCENT@ADS
@@ -26,14 +27,17 @@ HOST-SUFFIX,bugly.qq.com,TENCENT@ADS
 HOST-SUFFIX,e.qq.com,TENCENT@ADS
 HOST-SUFFIX,gdt.qq.com,TENCENT@ADS
 HOST-SUFFIX,hq-tracking.qq.com,TENCENT@ADS
+HOST-SUFFIX,htrace.wetvinfo.com,TENCENT@ADS
 HOST-SUFFIX,isdspeed.qq.com,TENCENT@ADS
 HOST-SUFFIX,log.tbs.qq.com,TENCENT@ADS
 HOST-SUFFIX,mdt.qq.com,TENCENT@ADS
+HOST-SUFFIX,monitor.music.qq.com,TENCENT@ADS
 HOST-SUFFIX,mpush.qq.com,TENCENT@ADS
 HOST-SUFFIX,mtrace.qq.com,TENCENT@ADS
 HOST-SUFFIX,pgdt.gtimg.cn,TENCENT@ADS
 HOST-SUFFIX,pingjs.qq.com,TENCENT@ADS
 HOST-SUFFIX,push.qq.com,TENCENT@ADS
+HOST-SUFFIX,report.qqweb.qq.com,TENCENT@ADS
 HOST-SUFFIX,sngmta.qq.com,TENCENT@ADS
 HOST-SUFFIX,stat.y.qq.com,TENCENT@ADS
 HOST-SUFFIX,tajs.qq.com,TENCENT@ADS

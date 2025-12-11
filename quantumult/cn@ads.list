@@ -332,6 +332,7 @@ HOST-SUFFIX,adslvfile.qq.com,CN@ADS
 HOST-SUFFIX,adslvseed.qq.com,CN@ADS
 HOST-SUFFIX,adsmind.apdcdn.tc.qq.com,CN@ADS
 HOST-SUFFIX,adsqqclick.qq.com,CN@ADS
+HOST-SUFFIX,adstats.tencentmusic.com,CN@ADS
 HOST-SUFFIX,adstestview.qq.com,CN@ADS
 HOST-SUFFIX,adsview.qq.com,CN@ADS
 HOST-SUFFIX,adsview2.qq.com,CN@ADS
@@ -345,14 +346,17 @@ HOST-SUFFIX,bugly.qq.com,CN@ADS
 HOST-SUFFIX,e.qq.com,CN@ADS
 HOST-SUFFIX,gdt.qq.com,CN@ADS
 HOST-SUFFIX,hq-tracking.qq.com,CN@ADS
+HOST-SUFFIX,htrace.wetvinfo.com,CN@ADS
 HOST-SUFFIX,isdspeed.qq.com,CN@ADS
 HOST-SUFFIX,log.tbs.qq.com,CN@ADS
 HOST-SUFFIX,mdt.qq.com,CN@ADS
+HOST-SUFFIX,monitor.music.qq.com,CN@ADS
 HOST-SUFFIX,mpush.qq.com,CN@ADS
 HOST-SUFFIX,mtrace.qq.com,CN@ADS
 HOST-SUFFIX,pgdt.gtimg.cn,CN@ADS
 HOST-SUFFIX,pingjs.qq.com,CN@ADS
 HOST-SUFFIX,push.qq.com,CN@ADS
+HOST-SUFFIX,report.qqweb.qq.com,CN@ADS
 HOST-SUFFIX,sngmta.qq.com,CN@ADS
 HOST-SUFFIX,stat.y.qq.com,CN@ADS
 HOST-SUFFIX,tajs.qq.com,CN@ADS

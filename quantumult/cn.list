@@ -4741,6 +4741,7 @@ HOST-SUFFIX,wps.cn,CN
 HOST-SUFFIX,wps.com,CN
 HOST-SUFFIX,wpscdn.cn,CN
 HOST-SUFFIX,wpscdn.com,CN
+HOST-SUFFIX,qwps.cn,CN
 HOST-SUFFIX,kscord.com,CN
 HOST-SUFFIX,51dzt.com,CN
 HOST-SUFFIX,iciba.com,CN
@@ -5409,6 +5410,7 @@ HOST-SUFFIX,adslvfile.qq.com,CN
 HOST-SUFFIX,adslvseed.qq.com,CN
 HOST-SUFFIX,adsmind.apdcdn.tc.qq.com,CN
 HOST-SUFFIX,adsqqclick.qq.com,CN
+HOST-SUFFIX,adstats.tencentmusic.com,CN
 HOST-SUFFIX,adstestview.qq.com,CN
 HOST-SUFFIX,adsview.qq.com,CN
 HOST-SUFFIX,adsview2.qq.com,CN
@@ -5422,14 +5424,17 @@ HOST-SUFFIX,bugly.qq.com,CN
 HOST-SUFFIX,e.qq.com,CN
 HOST-SUFFIX,gdt.qq.com,CN
 HOST-SUFFIX,hq-tracking.qq.com,CN
+HOST-SUFFIX,htrace.wetvinfo.com,CN
 HOST-SUFFIX,isdspeed.qq.com,CN
 HOST-SUFFIX,log.tbs.qq.com,CN
 HOST-SUFFIX,mdt.qq.com,CN
+HOST-SUFFIX,monitor.music.qq.com,CN
 HOST-SUFFIX,mpush.qq.com,CN
 HOST-SUFFIX,mtrace.qq.com,CN
 HOST-SUFFIX,pgdt.gtimg.cn,CN
 HOST-SUFFIX,pingjs.qq.com,CN
 HOST-SUFFIX,push.qq.com,CN
+HOST-SUFFIX,report.qqweb.qq.com,CN
 HOST-SUFFIX,sngmta.qq.com,CN
 HOST-SUFFIX,stat.y.qq.com,CN
 HOST-SUFFIX,tajs.qq.com,CN
