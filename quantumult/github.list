@@ -1,3 +1,5 @@
+HOST-SUFFIX,collector.github.com,GITHUB
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GITHUB
 HOST-SUFFIX,npm.community,GITHUB
 HOST-SUFFIX,npmjs.com,GITHUB
 HOST-SUFFIX,npmjs.org,GITHUB

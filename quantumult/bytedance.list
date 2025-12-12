@@ -247,10 +247,12 @@ HOST-SUFFIX,okr.cn,BYTEDANCE
 HOST-SUFFIX,okr.com,BYTEDANCE
 HOST-SUFFIX,okr.com.cn,BYTEDANCE
 HOST-SUFFIX,vscenevideo.com,BYTEDANCE
+HOST-SUFFIX,bytedapm.com,BYTEDANCE
 HOST-SUFFIX,byteoversea.com,BYTEDANCE
 HOST-SUFFIX,muscdn.com,BYTEDANCE
 HOST-SUFFIX,musical.ly,BYTEDANCE
 HOST-SUFFIX,tik-tokapi.com,BYTEDANCE
+HOST-SUFFIX,tiktok-minis.com,BYTEDANCE
 HOST-SUFFIX,tiktok-row.net,BYTEDANCE
 HOST-SUFFIX,tiktok.com,BYTEDANCE
 HOST-SUFFIX,tiktokcdn-eu.com,BYTEDANCE
@@ -271,6 +273,10 @@ HOST-SUFFIX,ttlivecdn.com,BYTEDANCE
 HOST-SUFFIX,ttoverseaus.net,BYTEDANCE
 HOST-SUFFIX,ttwstatic.com,BYTEDANCE
 HOST,p16-tiktokcdn-com.akamaized.net,BYTEDANCE
+HOST,roovza-launches.appsflyersdk.com,BYTEDANCE
+HOST,roovza.inapps.appsflyersdk.com,BYTEDANCE
+HOST,roovza.launches.appsflyersdk.com,BYTEDANCE
+HOST,roovza.skadsdk.appsflyersdk.com,BYTEDANCE
 HOST-SUFFIX,doudou.com,BYTEDANCE
 HOST-SUFFIX,marscode.cn,BYTEDANCE
 HOST-SUFFIX,marscode.com.cn,BYTEDANCE
@@ -507,7 +513,6 @@ HOST-SUFFIX,bytedance.com,BYTEDANCE
 HOST-SUFFIX,bytedance.net,BYTEDANCE
 HOST-SUFFIX,bytedance.org,BYTEDANCE
 HOST-SUFFIX,bytedanceapi.com,BYTEDANCE
-HOST-SUFFIX,bytedapm.com,BYTEDANCE
 HOST-SUFFIX,bytedcdn.com,BYTEDANCE
 HOST-SUFFIX,bytedeliver.com,BYTEDANCE
 HOST-SUFFIX,bytedgames.com,BYTEDANCE

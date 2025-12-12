@@ -1,7 +1,9 @@
+HOST-SUFFIX,bytedapm.com,TIKTOK@!CN
 HOST-SUFFIX,byteoversea.com,TIKTOK@!CN
 HOST-SUFFIX,muscdn.com,TIKTOK@!CN
 HOST-SUFFIX,musical.ly,TIKTOK@!CN
 HOST-SUFFIX,tik-tokapi.com,TIKTOK@!CN
+HOST-SUFFIX,tiktok-minis.com,TIKTOK@!CN
 HOST-SUFFIX,tiktok-row.net,TIKTOK@!CN
 HOST-SUFFIX,tiktok.com,TIKTOK@!CN
 HOST-SUFFIX,tiktokcdn-eu.com,TIKTOK@!CN
@@ -22,3 +24,7 @@ HOST-SUFFIX,ttlivecdn.com,TIKTOK@!CN
 HOST-SUFFIX,ttoverseaus.net,TIKTOK@!CN
 HOST-SUFFIX,ttwstatic.com,TIKTOK@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,TIKTOK@!CN
+HOST,roovza-launches.appsflyersdk.com,TIKTOK@!CN
+HOST,roovza.inapps.appsflyersdk.com,TIKTOK@!CN
+HOST,roovza.launches.appsflyersdk.com,TIKTOK@!CN
+HOST,roovza.skadsdk.appsflyersdk.com,TIKTOK@!CN

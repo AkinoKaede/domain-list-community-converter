@@ -2315,6 +2315,7 @@ HOST-SUFFIX,janrainservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,skycdn.com.cn,GEOLOCATION-!CN
 HOST-SUFFIX,soasta-dswb.com,GEOLOCATION-!CN
 HOST-SUFFIX,srtcdn.net,GEOLOCATION-!CN
+HOST-SUFFIX,tl88.net,GEOLOCATION-!CN
 HOST-SUFFIX,awempire.com,GEOLOCATION-!CN
 HOST-SUFFIX,dditsadn.com,GEOLOCATION-!CN
 HOST-SUFFIX,dditscdn.com,GEOLOCATION-!CN
@@ -5230,6 +5231,7 @@ HOST-SUFFIX,humblebundle.com,GEOLOCATION-!CN
 HOST-SUFFIX,joinsquad.com,GEOLOCATION-!CN
 HOST-SUFFIX,loverslab.com,GEOLOCATION-!CN
 HOST-SUFFIX,minecraft.wiki,GEOLOCATION-!CN
+HOST-SUFFIX,nexus-cdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,nexusmods.com,GEOLOCATION-!CN
 HOST-SUFFIX,offworldindustries.com,GEOLOCATION-!CN
 HOST-SUFFIX,offworldindustries.net,GEOLOCATION-!CN
@@ -5788,10 +5790,12 @@ HOST,i.jeded.com,GEOLOCATION-!CN
 HOST-SUFFIX,tidal.com,GEOLOCATION-!CN
 HOST-SUFFIX,tidalhifi.com,GEOLOCATION-!CN
 HOST-SUFFIX,wimpmusic.com,GEOLOCATION-!CN
+HOST-SUFFIX,bytedapm.com,GEOLOCATION-!CN
 HOST-SUFFIX,byteoversea.com,GEOLOCATION-!CN
 HOST-SUFFIX,muscdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,musical.ly,GEOLOCATION-!CN
 HOST-SUFFIX,tik-tokapi.com,GEOLOCATION-!CN
+HOST-SUFFIX,tiktok-minis.com,GEOLOCATION-!CN
 HOST-SUFFIX,tiktok-row.net,GEOLOCATION-!CN
 HOST-SUFFIX,tiktok.com,GEOLOCATION-!CN
 HOST-SUFFIX,tiktokcdn-eu.com,GEOLOCATION-!CN
@@ -5812,6 +5816,10 @@ HOST-SUFFIX,ttlivecdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,ttoverseaus.net,GEOLOCATION-!CN
 HOST-SUFFIX,ttwstatic.com,GEOLOCATION-!CN
 HOST,p16-tiktokcdn-com.akamaized.net,GEOLOCATION-!CN
+HOST,roovza-launches.appsflyersdk.com,GEOLOCATION-!CN
+HOST,roovza.inapps.appsflyersdk.com,GEOLOCATION-!CN
+HOST,roovza.launches.appsflyersdk.com,GEOLOCATION-!CN
+HOST,roovza.skadsdk.appsflyersdk.com,GEOLOCATION-!CN
 HOST-SUFFIX,themoviedb.org,GEOLOCATION-!CN
 HOST-SUFFIX,tmdb.org,GEOLOCATION-!CN
 HOST,tmdb-image-prod.b-cdn.net,GEOLOCATION-!CN
@@ -15635,6 +15643,8 @@ HOST-SUFFIX,fury.io,GEOLOCATION-!CN
 HOST-SUFFIX,gemfury.com,GEOLOCATION-!CN
 HOST-SUFFIX,gitbook.com,GEOLOCATION-!CN
 HOST-SUFFIX,gitbook.io,GEOLOCATION-!CN
+HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,npm.community,GEOLOCATION-!CN
 HOST-SUFFIX,npmjs.com,GEOLOCATION-!CN
 HOST-SUFFIX,npmjs.org,GEOLOCATION-!CN

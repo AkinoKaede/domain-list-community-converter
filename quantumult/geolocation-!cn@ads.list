@@ -22,6 +22,8 @@ HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads-twitter.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.unitychina.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,splash-ads.cdn.unity.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,splash-ads.unitychina.cn,GEOLOCATION-!CN@ADS

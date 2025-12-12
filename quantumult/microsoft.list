@@ -180,6 +180,8 @@ HOST-SUFFIX,r.bing.com,MICROSOFT
 HOST-SUFFIX,th.bing.com,MICROSOFT
 HOST,bj1.api.bing.com,MICROSOFT
 HOST,emoi-cncdn.bing.com,MICROSOFT
+HOST-SUFFIX,collector.github.com,MICROSOFT
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,MICROSOFT
 HOST-SUFFIX,npm.community,MICROSOFT
 HOST-SUFFIX,npmjs.com,MICROSOFT
 HOST-SUFFIX,npmjs.org,MICROSOFT
