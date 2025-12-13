@@ -1,6 +1,6 @@
 HOST,download.cdp.bethesda.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,content.cdp.bethesda.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
-HOST,gamedownloads-rockstargames-com.akamaized.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
+HOST,lion.secure.dyn.riotcdn.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,lol.secure.dyn.riotcdn.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,ks-foundation.secure.dyn.riotcdn.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,riot-client.secure.dyn.riotcdn.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
@@ -41,6 +41,7 @@ HOST,blzdist-wow.necdn.leihuo.netease.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,blzdist-hs.necdn.leihuo.netease.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,blzdist-di.necdn.leihuo.netease.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,blzdist-ow.necdn.leihuo.netease.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
+HOST,blzdist-d3.necdn.leihuo.netease.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,gog-cdn.akamaized.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,gog-cdn-fastly-cp77.gog.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,gog-cdn-fastly.gog.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
@@ -59,8 +60,11 @@ HOST,assets2.xboxlive.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,uplaypc-s-ubisoft-ww.cdn.ubi.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,ubisoftconnect.cdn.ubi.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
+HOST,ubisoftconnect.eo-edgefunctions7.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
+HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,origin-a.akamaihd.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
+HOST,prod.cloudflare.cdn.ea.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,dl.steam.clngaa.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,st.dl.eccdnx.com,CATEGORY-GAME-PLATFORMS-DOWNLOAD
 HOST,st.dl.bscstorage.net,CATEGORY-GAME-PLATFORMS-DOWNLOAD
