@@ -94,6 +94,8 @@ DOMAIN,analytics.google.com
 DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,msads.net

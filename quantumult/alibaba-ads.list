@@ -1,3 +1,8 @@
+HOST-SUFFIX,adashx.ut.amap.com,ALIBABA-ADS
+HOST-SUFFIX,dualstack-logs.amap.com,ALIBABA-ADS
+HOST-SUFFIX,logs.amap.com,ALIBABA-ADS
+HOST-SUFFIX,optimus-ads.amap.com,ALIBABA-ADS
+HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA-ADS
 HOST-SUFFIX,ad.api.3g.youku.com,ALIBABA-ADS
 HOST-SUFFIX,ad.api.mobile.youku.com,ALIBABA-ADS
 HOST-SUFFIX,ad.mobile.youku.com,ALIBABA-ADS
@@ -29,7 +34,6 @@ HOST-SUFFIX,adash.man.aliyuncs.com,ALIBABA-ADS
 HOST-SUFFIX,adashbc.m.taobao.com,ALIBABA-ADS
 HOST-SUFFIX,adashbc.ut.taobao.com,ALIBABA-ADS
 HOST-SUFFIX,adashx.m.taobao.com,ALIBABA-ADS
-HOST-SUFFIX,adashx.ut.amap.com,ALIBABA-ADS
 HOST-SUFFIX,adashx.ut.ele.me,ALIBABA-ADS
 HOST-SUFFIX,adashx4ae.ut.taobao.com,ALIBABA-ADS
 HOST-SUFFIX,adashx4yt.m.taobao.com,ALIBABA-ADS
@@ -57,7 +61,6 @@ HOST-SUFFIX,retcode.taobao.com,ALIBABA-ADS
 HOST-SUFFIX,tce.alicdn.com,ALIBABA-ADS
 HOST-SUFFIX,tns.simba.taobao.com,ALIBABA-ADS
 HOST-SUFFIX,track.lc.quark.cn,ALIBABA-ADS
-HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA-ADS
 HOST-SUFFIX,v6-adashx.ut.cainiao.com,ALIBABA-ADS
 HOST-SUFFIX,v6-adashx.ut.ele.me,ALIBABA-ADS
 HOST-SUFFIX,v6-adashx.ut.taobao.com,ALIBABA-ADS

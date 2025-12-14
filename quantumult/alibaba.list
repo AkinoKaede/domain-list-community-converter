@@ -3,6 +3,11 @@ HOST-SUFFIX,alipay,ALIBABA
 HOST-SUFFIX,taobao,ALIBABA
 HOST-SUFFIX,tmall,ALIBABA
 HOST-SUFFIX,9game.cn,ALIBABA
+HOST-SUFFIX,adashx.ut.amap.com,ALIBABA
+HOST-SUFFIX,dualstack-logs.amap.com,ALIBABA
+HOST-SUFFIX,logs.amap.com,ALIBABA
+HOST-SUFFIX,optimus-ads.amap.com,ALIBABA
+HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA
 HOST-SUFFIX,ad.api.3g.youku.com,ALIBABA
 HOST-SUFFIX,ad.api.mobile.youku.com,ALIBABA
 HOST-SUFFIX,ad.mobile.youku.com,ALIBABA
@@ -34,7 +39,6 @@ HOST-SUFFIX,adash.man.aliyuncs.com,ALIBABA
 HOST-SUFFIX,adashbc.m.taobao.com,ALIBABA
 HOST-SUFFIX,adashbc.ut.taobao.com,ALIBABA
 HOST-SUFFIX,adashx.m.taobao.com,ALIBABA
-HOST-SUFFIX,adashx.ut.amap.com,ALIBABA
 HOST-SUFFIX,adashx.ut.ele.me,ALIBABA
 HOST-SUFFIX,adashx4ae.ut.taobao.com,ALIBABA
 HOST-SUFFIX,adashx4yt.m.taobao.com,ALIBABA
@@ -62,7 +66,6 @@ HOST-SUFFIX,retcode.taobao.com,ALIBABA
 HOST-SUFFIX,tce.alicdn.com,ALIBABA
 HOST-SUFFIX,tns.simba.taobao.com,ALIBABA
 HOST-SUFFIX,track.lc.quark.cn,ALIBABA
-HOST-SUFFIX,v6-adashx.ut.amap.com,ALIBABA
 HOST-SUFFIX,v6-adashx.ut.cainiao.com,ALIBABA
 HOST-SUFFIX,v6-adashx.ut.ele.me,ALIBABA
 HOST-SUFFIX,v6-adashx.ut.taobao.com,ALIBABA
@@ -178,8 +181,10 @@ HOST-SUFFIX,uc.cn,ALIBABA
 HOST-SUFFIX,uc123.com,ALIBABA
 HOST-SUFFIX,ucweb.com,ALIBABA
 HOST-SUFFIX,uczzd.cn,ALIBABA
+HOST-SUFFIX,aaid.umeng.com,ALIBABA
 HOST-SUFFIX,alog.umeng.com,ALIBABA
 HOST-SUFFIX,alog.umengcloud.com,ALIBABA
+HOST-SUFFIX,utoken.umeng.com,ALIBABA
 HOST-SUFFIX,w.cnzz.com,ALIBABA
 HOST-SUFFIX,z.gds.cnzz.com,ALIBABA
 HOST-SUFFIX,cnzz.com,ALIBABA

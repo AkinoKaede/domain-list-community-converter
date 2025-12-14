@@ -1408,6 +1408,8 @@ HOST-SUFFIX,duowan.com,CN
 HOST-SUFFIX,dwstatic.com,CN
 HOST-SUFFIX,yy.com,CN
 HOST-SUFFIX,yystatic.com,CN
+HOST-SUFFIX,crash2.zhihu.com,CN
+HOST-SUFFIX,zhihu-web-analytics.zhihu.com,CN
 HOST-SUFFIX,zhihu.com,CN
 HOST-SUFFIX,zhimg.com,CN
 HOST-SUFFIX,tieba.baidu.com,CN
@@ -1440,8 +1442,10 @@ HOST-SUFFIX,kc9.cn,CN
 HOST-SUFFIX,n0q.cn,CN
 HOST-SUFFIX,pushcfg.com,CN
 HOST-SUFFIX,s0n.cn,CN
+HOST-SUFFIX,aaid.umeng.com,CN
 HOST-SUFFIX,alog.umeng.com,CN
 HOST-SUFFIX,alog.umengcloud.com,CN
+HOST-SUFFIX,utoken.umeng.com,CN
 HOST-SUFFIX,w.cnzz.com,CN
 HOST-SUFFIX,z.gds.cnzz.com,CN
 HOST-SUFFIX,cnzz.com,CN
@@ -3286,6 +3290,11 @@ HOST-SUFFIX,alipay,CN
 HOST-SUFFIX,taobao,CN
 HOST-SUFFIX,tmall,CN
 HOST-SUFFIX,9game.cn,CN
+HOST-SUFFIX,adashx.ut.amap.com,CN
+HOST-SUFFIX,dualstack-logs.amap.com,CN
+HOST-SUFFIX,logs.amap.com,CN
+HOST-SUFFIX,optimus-ads.amap.com,CN
+HOST-SUFFIX,v6-adashx.ut.amap.com,CN
 HOST-SUFFIX,ad.api.3g.youku.com,CN
 HOST-SUFFIX,ad.api.mobile.youku.com,CN
 HOST-SUFFIX,ad.mobile.youku.com,CN
@@ -3317,7 +3326,6 @@ HOST-SUFFIX,adash.man.aliyuncs.com,CN
 HOST-SUFFIX,adashbc.m.taobao.com,CN
 HOST-SUFFIX,adashbc.ut.taobao.com,CN
 HOST-SUFFIX,adashx.m.taobao.com,CN
-HOST-SUFFIX,adashx.ut.amap.com,CN
 HOST-SUFFIX,adashx.ut.ele.me,CN
 HOST-SUFFIX,adashx4ae.ut.taobao.com,CN
 HOST-SUFFIX,adashx4yt.m.taobao.com,CN
@@ -3345,7 +3353,6 @@ HOST-SUFFIX,retcode.taobao.com,CN
 HOST-SUFFIX,tce.alicdn.com,CN
 HOST-SUFFIX,tns.simba.taobao.com,CN
 HOST-SUFFIX,track.lc.quark.cn,CN
-HOST-SUFFIX,v6-adashx.ut.amap.com,CN
 HOST-SUFFIX,v6-adashx.ut.cainiao.com,CN
 HOST-SUFFIX,v6-adashx.ut.ele.me,CN
 HOST-SUFFIX,v6-adashx.ut.taobao.com,CN
@@ -5476,6 +5483,7 @@ HOST-SUFFIX,adsview.qq.com,CN
 HOST-SUFFIX,adsview2.qq.com,CN
 HOST-SUFFIX,adv.app.qq.com,CN
 HOST-SUFFIX,adver.qq.com,CN
+HOST-SUFFIX,badjs.weixinbridge.com,CN
 HOST-SUFFIX,beacon.cdn.qq.com,CN
 HOST-SUFFIX,beacon.qq.com,CN
 HOST-SUFFIX,beaconcdn.qq.com,CN

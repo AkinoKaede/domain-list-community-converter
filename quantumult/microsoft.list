@@ -213,6 +213,12 @@ HOST-SUFFIX,thegithubshop.com,MICROSOFT
 HOST-SUFFIX,blob.core.windows.net,MICROSOFT
 HOST,github-api.arkoselabs.com,MICROSOFT
 HOST,github-cloud.s3.amazonaws.com,MICROSOFT
+HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT
+HOST-SUFFIX,browser.events.data.msn.com,MICROSOFT
+HOST-SUFFIX,clarity.ms,MICROSOFT
+HOST-SUFFIX,microsoftads.com,MICROSOFT
+HOST-SUFFIX,msads.net,MICROSOFT
+HOST-SUFFIX,nelreports.net,MICROSOFT
 HOST-SUFFIX,adaptivecards.io,MICROSOFT
 HOST-SUFFIX,api-extractor.com,MICROSOFT
 HOST-SUFFIX,apisof.net,MICROSOFT
@@ -426,7 +432,6 @@ HOST-SUFFIX,c-msedge.net,MICROSOFT
 HOST-SUFFIX,centralvalidation.com,MICROSOFT
 HOST-SUFFIX,ch9.ms,MICROSOFT
 HOST-SUFFIX,charticulator.com,MICROSOFT
-HOST-SUFFIX,clarity.ms,MICROSOFT
 HOST-SUFFIX,cloudapp.net,MICROSOFT
 HOST-SUFFIX,cloudappsecurity.com,MICROSOFT
 HOST-SUFFIX,cortanaanalytics.com,MICROSOFT
@@ -490,7 +495,6 @@ HOST-SUFFIX,microsoft-sbs-domains.com,MICROSOFT
 HOST-SUFFIX,microsoft-smb.cn,MICROSOFT
 HOST-SUFFIX,microsoft365.com,MICROSOFT
 HOST-SUFFIX,microsoftaccountguard.com,MICROSOFT
-HOST-SUFFIX,microsoftads.com,MICROSOFT
 HOST-SUFFIX,microsoftadvertising.com,MICROSOFT
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,MICROSOFT
 HOST-SUFFIX,microsoftaffiliates.com,MICROSOFT
@@ -532,7 +536,6 @@ HOST-SUFFIX,morphcharts.com,MICROSOFT
 HOST-SUFFIX,mpnevolution.com,MICROSOFT
 HOST-SUFFIX,ms-studiosmedia.com,MICROSOFT
 HOST-SUFFIX,ms365surfaceoffer.com,MICROSOFT
-HOST-SUFFIX,msads.net,MICROSOFT
 HOST-SUFFIX,msauth.cn,MICROSOFT
 HOST-SUFFIX,msauth.net,MICROSOFT
 HOST-SUFFIX,msauthimages.cn,MICROSOFT
@@ -559,7 +562,6 @@ HOST-SUFFIX,msra.cn,MICROSOFT
 HOST-SUFFIX,msturing.org,MICROSOFT
 HOST-SUFFIX,msudalosti.com,MICROSOFT
 HOST-SUFFIX,mymicrosoft.com,MICROSOFT
-HOST-SUFFIX,nelreports.net,MICROSOFT
 HOST-SUFFIX,nextechafrica.net,MICROSOFT
 HOST-SUFFIX,nxta.org,MICROSOFT
 HOST-SUFFIX,o365cn.com,MICROSOFT
