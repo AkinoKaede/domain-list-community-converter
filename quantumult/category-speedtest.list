@@ -10,6 +10,7 @@ HOST-SUFFIX,speedtest.net,CATEGORY-SPEEDTEST
 HOST-SUFFIX,speedtestcustom.com,CATEGORY-SPEEDTEST
 HOST-SUFFIX,webtest.net,CATEGORY-SPEEDTEST
 HOST,www.speedtest.net.cdn.cloudflare.net,CATEGORY-SPEEDTEST
+HOST-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk,CATEGORY-SPEEDTEST
 HOST-SUFFIX,open.cachefly.net,CATEGORY-SPEEDTEST
 HOST-SUFFIX,openspeedtest.com,CATEGORY-SPEEDTEST
 HOST-SUFFIX,cnspeedtest.cn,CATEGORY-SPEEDTEST

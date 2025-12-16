@@ -10,3 +10,4 @@ HOST-SUFFIX,speedtest.net,OOKLA-SPEEDTEST
 HOST-SUFFIX,speedtestcustom.com,OOKLA-SPEEDTEST
 HOST-SUFFIX,webtest.net,OOKLA-SPEEDTEST
 HOST,www.speedtest.net.cdn.cloudflare.net,OOKLA-SPEEDTEST
+HOST-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk,OOKLA-SPEEDTEST

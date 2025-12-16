@@ -21,6 +21,8 @@ DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz
+DOMAIN-SUFFIX,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com

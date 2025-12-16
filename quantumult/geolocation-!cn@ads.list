@@ -21,6 +21,8 @@ HOST,o4504926511693824.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads-twitter.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
