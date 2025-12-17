@@ -1,3 +1,5 @@
+HOST,ad-channel.diwodiwo.xyz,PICACG
+HOST,ad-display.diwodiwo.xyz,PICACG
 HOST-SUFFIX,bikaa.xyz,PICACG
 HOST-SUFFIX,bikac.xyz,PICACG
 HOST-SUFFIX,bikaios.xyz,PICACG
@@ -8,5 +10,4 @@ HOST-SUFFIX,picacn.xyz,PICACG
 HOST-SUFFIX,picacomic.com,PICACG
 HOST-SUFFIX,picacomic.xyz,PICACG
 HOST-SUFFIX,wikawika.xyz,PICACG
-HOST-SUFFIX,ad-channel.diwodiwo.xyz,PICACG
-HOST-SUFFIX,ad-display.diwodiwo.xyz,PICACG
+HOST-SUFFIX,diwodiwo.xyz,PICACG

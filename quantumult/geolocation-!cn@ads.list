@@ -21,8 +21,8 @@ HOST,o4504926511693824.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads-twitter.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
+HOST,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
+HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
@@ -93,7 +93,6 @@ HOST-SUFFIX,pagead.l.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,partnerad.l.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN@ADS
 HOST,analytics.google.com,GEOLOCATION-!CN@ADS
-HOST,fundingchoicesmessages.google.com,GEOLOCATION-!CN@ADS
 HOST,sentry.hetzner.company,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,bingads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,browser.events.data.msn.cn,GEOLOCATION-!CN@ADS
