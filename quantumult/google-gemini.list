@@ -21,3 +21,5 @@ HOST-SUFFIX,jules.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,labs.google,GOOGLE-GEMINI
 HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE-GEMINI
 HOST-SUFFIX,aida.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,opal.google,GOOGLE-GEMINI
+HOST-SUFFIX,opal.google.com,GOOGLE-GEMINI

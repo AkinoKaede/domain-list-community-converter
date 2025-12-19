@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
@@ -16425,6 +16427,7 @@ DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com

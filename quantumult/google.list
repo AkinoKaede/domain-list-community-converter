@@ -184,6 +184,8 @@ HOST-SUFFIX,jules.google.com,GOOGLE
 HOST-SUFFIX,labs.google,GOOGLE
 HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE
 HOST-SUFFIX,aida.googleapis.com,GOOGLE
+HOST-SUFFIX,opal.google,GOOGLE
+HOST-SUFFIX,opal.google.com,GOOGLE
 HOST-SUFFIX,googleplay.com,GOOGLE
 HOST-SUFFIX,play-fe.googleapis.com,GOOGLE
 HOST-SUFFIX,play-games.googleusercontent.com,GOOGLE
