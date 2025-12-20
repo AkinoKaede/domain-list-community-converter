@@ -1,5 +1,11 @@
 HOST-SUFFIX,litv.tv,LITV
 HOST-SUFFIX,litvfreepc.akamaized.net,LITV
+HOST,ntdfreemobile-tgc.cdn.hinet.net,LITV
+HOST,ntdfreepc-tgc.cdn.hinet.net,LITV
+HOST,ntdfreetv-tgc.cdn.hinet.net,LITV
+HOST,ntdfreevcpc-tgc.cdn.hinet.net,LITV
 HOST-SUFFIX,ofiii.com,LITV
+HOST,ntdofifreemobile-tgc.cdn.hinet.net,LITV
 HOST,ntdofifreepc-tgc.cdn.hinet.net,LITV
+HOST,ntdofifreetv-tgc.cdn.hinet.net,LITV
 HOST,ntdofifreevcpc-tgc.cdn.hinet.net,LITV

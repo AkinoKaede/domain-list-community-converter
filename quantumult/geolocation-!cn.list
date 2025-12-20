@@ -5626,8 +5626,14 @@ HOST-SUFFIX,last.fm,GEOLOCATION-!CN
 HOST,lastfm.freetls.fastly.net,GEOLOCATION-!CN
 HOST-SUFFIX,litv.tv,GEOLOCATION-!CN
 HOST-SUFFIX,litvfreepc.akamaized.net,GEOLOCATION-!CN
+HOST,ntdfreemobile-tgc.cdn.hinet.net,GEOLOCATION-!CN
+HOST,ntdfreepc-tgc.cdn.hinet.net,GEOLOCATION-!CN
+HOST,ntdfreetv-tgc.cdn.hinet.net,GEOLOCATION-!CN
+HOST,ntdfreevcpc-tgc.cdn.hinet.net,GEOLOCATION-!CN
 HOST-SUFFIX,ofiii.com,GEOLOCATION-!CN
+HOST,ntdofifreemobile-tgc.cdn.hinet.net,GEOLOCATION-!CN
 HOST,ntdofifreepc-tgc.cdn.hinet.net,GEOLOCATION-!CN
+HOST,ntdofifreetv-tgc.cdn.hinet.net,GEOLOCATION-!CN
 HOST,ntdofifreevcpc-tgc.cdn.hinet.net,GEOLOCATION-!CN
 HOST-SUFFIX,manhuagui.com,GEOLOCATION-!CN
 HOST-SUFFIX,metacritic.com,GEOLOCATION-!CN
