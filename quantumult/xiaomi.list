@@ -6,8 +6,12 @@ HOST-SUFFIX,ad1.xiaomi.com,XIAOMI
 HOST-SUFFIX,admob.xiaomi.com,XIAOMI
 HOST-SUFFIX,adv.sec.intl.miui.com,XIAOMI
 HOST-SUFFIX,adv.sec.miui.com,XIAOMI
+HOST-SUFFIX,data.mistat.india.xiaomi.com,XIAOMI
+HOST-SUFFIX,data.mistat.intl.xiaomi.com,XIAOMI
+HOST-SUFFIX,data.mistat.rus.xiaomi.com,XIAOMI
+HOST-SUFFIX,data.mistat.xiaomi.com,XIAOMI
+HOST-SUFFIX,logupdate.avlyun.sec.miui.com,XIAOMI
 HOST-SUFFIX,misc.in.duokanbox.com,XIAOMI
-HOST-SUFFIX,mistat.xiaomi.com,XIAOMI
 HOST-SUFFIX,sentry.d.mi.com,XIAOMI
 HOST-SUFFIX,sentry.d.xiaomi.net,XIAOMI
 HOST-SUFFIX,tjqonline.cn,XIAOMI

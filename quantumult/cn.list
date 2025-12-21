@@ -1404,6 +1404,7 @@ HOST-SUFFIX,weibocdn.com,CN
 HOST-SUFFIX,xhaiwai.com,CN
 HOST-SUFFIX,xhscdn.com,CN
 HOST-SUFFIX,xhscdn.net,CN
+HOST-SUFFIX,xhslink.com,CN
 HOST-SUFFIX,xiaohongshu.com,CN
 HOST-SUFFIX,duowan.com,CN
 HOST-SUFFIX,dwstatic.com,CN
@@ -2670,6 +2671,7 @@ HOST,hospital.pku.edu.cn,CN
 HOST,ss.bjmu.edu.cn,CN
 HOST-SUFFIX,yctdyy.com,CN
 HOST-SUFFIX,smuszh.com,CN
+HOST-SUFFIX,ahfda.com,CN
 HOST-SUFFIX,biomart.cn,CN
 HOST-SUFFIX,dxy.com,CN
 HOST-SUFFIX,dxy.cn,CN
@@ -2802,6 +2804,10 @@ HOST-SUFFIX,cugbonline.cn,CN
 HOST-SUFFIX,dearedu.com,CN
 HOST-SUFFIX,dgjy.net,CN
 HOST-SUFFIX,eduei.com,CN
+HOST-SUFFIX,ictbda.cn,CN
+HOST-SUFFIX,ictbda.com,CN
+HOST-SUFFIX,modex.com.cn,CN
+HOST-SUFFIX,xir.cn,CN
 HOST-SUFFIX,j-test.com,CN
 HOST-SUFFIX,nattest-china.com,CN
 HOST-SUFFIX,keboyunxiao.com,CN
@@ -2889,6 +2895,7 @@ HOST-SUFFIX,ancientbooks.cn,CN
 HOST-SUFFIX,apabi.com,CN
 HOST-SUFFIX,bjinfobank.com,CN
 HOST-SUFFIX,blyun.com,CN
+HOST-SUFFIX,medalink.cn,CN
 HOST-SUFFIX,chinabooktrading.com,CN
 HOST-SUFFIX,cidp.com.cn,CN
 HOST-SUFFIX,cnbksy.com,CN
@@ -2958,6 +2965,8 @@ HOST-SUFFIX,guoxuedashi.com,CN
 HOST-SUFFIX,guoxuemi.com,CN
 HOST-SUFFIX,zyh365.com,CN
 HOST-SUFFIX,wzlib.cn,CN
+HOST-SUFFIX,askdiandian.com,CN
+HOST-SUFFIX,diandianlife.top,CN
 HOST-SUFFIX,deepseek.com,CN
 HOST-SUFFIX,butterfly-static.cn,CN
 HOST-SUFFIX,butterflyai.cn,CN
@@ -3340,6 +3349,7 @@ HOST-SUFFIX,i8tq.com,CN
 HOST-SUFFIX,tq121.com.cn,CN
 HOST-SUFFIX,weather.com.cn,CN
 HOST-SUFFIX,weatherdt.com,CN
+HOST-SUFFIX,immersivetranslate.cn,CN
 HOST-SUFFIX,ireader.com,CN
 HOST-SUFFIX,zhangyue.com,CN
 HOST-SUFFIX,zhangyue01.com,CN
@@ -5773,8 +5783,12 @@ HOST-SUFFIX,ad1.xiaomi.com,CN
 HOST-SUFFIX,admob.xiaomi.com,CN
 HOST-SUFFIX,adv.sec.intl.miui.com,CN
 HOST-SUFFIX,adv.sec.miui.com,CN
+HOST-SUFFIX,data.mistat.india.xiaomi.com,CN
+HOST-SUFFIX,data.mistat.intl.xiaomi.com,CN
+HOST-SUFFIX,data.mistat.rus.xiaomi.com,CN
+HOST-SUFFIX,data.mistat.xiaomi.com,CN
+HOST-SUFFIX,logupdate.avlyun.sec.miui.com,CN
 HOST-SUFFIX,misc.in.duokanbox.com,CN
-HOST-SUFFIX,mistat.xiaomi.com,CN
 HOST-SUFFIX,sentry.d.mi.com,CN
 HOST-SUFFIX,sentry.d.xiaomi.net,CN
 HOST-SUFFIX,tjqonline.cn,CN

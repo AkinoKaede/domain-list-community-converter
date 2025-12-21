@@ -509,8 +509,12 @@ HOST-SUFFIX,ad1.xiaomi.com,CATEGORY-ADS
 HOST-SUFFIX,admob.xiaomi.com,CATEGORY-ADS
 HOST-SUFFIX,adv.sec.intl.miui.com,CATEGORY-ADS
 HOST-SUFFIX,adv.sec.miui.com,CATEGORY-ADS
+HOST-SUFFIX,data.mistat.india.xiaomi.com,CATEGORY-ADS
+HOST-SUFFIX,data.mistat.intl.xiaomi.com,CATEGORY-ADS
+HOST-SUFFIX,data.mistat.rus.xiaomi.com,CATEGORY-ADS
+HOST-SUFFIX,data.mistat.xiaomi.com,CATEGORY-ADS
+HOST-SUFFIX,logupdate.avlyun.sec.miui.com,CATEGORY-ADS
 HOST-SUFFIX,misc.in.duokanbox.com,CATEGORY-ADS
-HOST-SUFFIX,mistat.xiaomi.com,CATEGORY-ADS
 HOST-SUFFIX,sentry.d.mi.com,CATEGORY-ADS
 HOST-SUFFIX,sentry.d.xiaomi.net,CATEGORY-ADS
 HOST-SUFFIX,tjqonline.cn,CATEGORY-ADS
