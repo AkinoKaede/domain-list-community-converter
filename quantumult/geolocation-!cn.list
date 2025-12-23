@@ -2414,6 +2414,9 @@ HOST-SUFFIX,cloudimage.io,GEOLOCATION-!CN
 HOST-SUFFIX,cloudimg.io,GEOLOCATION-!CN
 HOST-SUFFIX,stackpath.com,GEOLOCATION-!CN
 HOST-SUFFIX,stackpath.dev,GEOLOCATION-!CN
+HOST-SUFFIX,vrcdn.cloud,GEOLOCATION-!CN
+HOST-SUFFIX,vrcdn.live,GEOLOCATION-!CN
+HOST-SUFFIX,vrcdn.video,GEOLOCATION-!CN
 HOST-SUFFIX,embedwistia-a.akamaihd.net,GEOLOCATION-!CN
 HOST-SUFFIX,wistia.com,GEOLOCATION-!CN
 HOST-SUFFIX,wistia.net,GEOLOCATION-!CN
@@ -5174,6 +5177,9 @@ HOST,ubisoft-uplay-savegames.s3.amazonaws.com,GEOLOCATION-!CN
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,GEOLOCATION-!CN
 HOST,ubistatic3-a.akamaihd.net,GEOLOCATION-!CN
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,GEOLOCATION-!CN
+HOST-SUFFIX,vrchat.cloud,GEOLOCATION-!CN
+HOST-SUFFIX,vrchat.com,GEOLOCATION-!CN
+HOST-SUFFIX,vrchat.net,GEOLOCATION-!CN
 HOST,datarouter.apps.netherrealm.com,GEOLOCATION-!CN
 HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,GEOLOCATION-!CN
 HOST-SUFFIX,warnerbrosgames.com,GEOLOCATION-!CN

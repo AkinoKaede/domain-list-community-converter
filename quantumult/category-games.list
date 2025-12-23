@@ -851,6 +851,9 @@ HOST,ubisoft-uplay-savegames.s3.amazonaws.com,CATEGORY-GAMES
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,CATEGORY-GAMES
 HOST,ubistatic3-a.akamaihd.net,CATEGORY-GAMES
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,CATEGORY-GAMES
+HOST-SUFFIX,vrchat.cloud,CATEGORY-GAMES
+HOST-SUFFIX,vrchat.com,CATEGORY-GAMES
+HOST-SUFFIX,vrchat.net,CATEGORY-GAMES
 HOST,datarouter.apps.netherrealm.com,CATEGORY-GAMES
 HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,CATEGORY-GAMES
 HOST-SUFFIX,warnerbrosgames.com,CATEGORY-GAMES
