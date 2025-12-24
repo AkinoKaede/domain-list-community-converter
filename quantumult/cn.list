@@ -1270,6 +1270,8 @@ HOST-SUFFIX,iresearch.cn,CN
 HOST-SUFFIX,jianyuweb.com,CN
 HOST-SUFFIX,wallstcn.com,CN
 HOST-SUFFIX,wallstreetcn.com,CN
+HOST-SUFFIX,jfdaily.com,CN
+HOST-SUFFIX,shobserver.com,CN
 HOST-SUFFIX,jiqizhixin.com,CN
 HOST-SUFFIX,jrj.com.cn,CN
 HOST-SUFFIX,jrjimg.cn,CN
@@ -2167,6 +2169,7 @@ HOST-SUFFIX,jiashule.com,CN
 HOST-SUFFIX,jiasule.com,CN
 HOST-SUFFIX,yunaq.com,CN
 HOST-SUFFIX,jikeiot.cloud,CN
+HOST-SUFFIX,jsdmirror.com,CN
 HOST-SUFFIX,kaipuyun.cn,CN
 HOST-SUFFIX,kaipuyun.com,CN
 HOST-SUFFIX,kaipuyun.com.cn,CN
@@ -2804,6 +2807,7 @@ HOST-SUFFIX,cugbonline.cn,CN
 HOST-SUFFIX,dearedu.com,CN
 HOST-SUFFIX,dgjy.net,CN
 HOST-SUFFIX,eduei.com,CN
+HOST-SUFFIX,gk100.com,CN
 HOST-SUFFIX,ictbda.cn,CN
 HOST-SUFFIX,ictbda.com,CN
 HOST-SUFFIX,modex.com.cn,CN
@@ -4013,6 +4017,11 @@ HOST-SUFFIX,tiktokw.us,CN
 HOST-SUFFIX,ttlivecdn.com,CN
 HOST-SUFFIX,ttoverseaus.net,CN
 HOST-SUFFIX,ttwstatic.com,CN
+HOST-SUFFIX,tiktokcdn-us.com.edgesuite.net,CN
+HOST-SUFFIX,tiktokcdn.com.akamaized.net,CN
+HOST-SUFFIX,tiktokcdn.com.edgesuite.net,CN
+HOST-SUFFIX,tiktokv.com.edgekey.net,CN
+HOST-SUFFIX,tiktokv.com.edgesuite.net,CN
 HOST,p16-tiktokcdn-com.akamaized.net,CN
 HOST,roovza-launches.appsflyersdk.com,CN
 HOST,roovza.inapps.appsflyersdk.com,CN

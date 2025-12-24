@@ -272,6 +272,11 @@ HOST-SUFFIX,tiktokw.us,BYTEDANCE
 HOST-SUFFIX,ttlivecdn.com,BYTEDANCE
 HOST-SUFFIX,ttoverseaus.net,BYTEDANCE
 HOST-SUFFIX,ttwstatic.com,BYTEDANCE
+HOST-SUFFIX,tiktokcdn-us.com.edgesuite.net,BYTEDANCE
+HOST-SUFFIX,tiktokcdn.com.akamaized.net,BYTEDANCE
+HOST-SUFFIX,tiktokcdn.com.edgesuite.net,BYTEDANCE
+HOST-SUFFIX,tiktokv.com.edgekey.net,BYTEDANCE
+HOST-SUFFIX,tiktokv.com.edgesuite.net,BYTEDANCE
 HOST,p16-tiktokcdn-com.akamaized.net,BYTEDANCE
 HOST,roovza-launches.appsflyersdk.com,BYTEDANCE
 HOST,roovza.inapps.appsflyersdk.com,BYTEDANCE

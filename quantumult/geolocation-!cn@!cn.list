@@ -23,6 +23,11 @@ HOST-SUFFIX,tiktokw.us,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,ttlivecdn.com,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,ttoverseaus.net,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,ttwstatic.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,tiktokcdn-us.com.edgesuite.net,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,tiktokcdn.com.akamaized.net,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,tiktokcdn.com.edgesuite.net,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,tiktokv.com.edgekey.net,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,tiktokv.com.edgesuite.net,GEOLOCATION-!CN@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,GEOLOCATION-!CN@!CN
 HOST,roovza-launches.appsflyersdk.com,GEOLOCATION-!CN@!CN
 HOST,roovza.inapps.appsflyersdk.com,GEOLOCATION-!CN@!CN

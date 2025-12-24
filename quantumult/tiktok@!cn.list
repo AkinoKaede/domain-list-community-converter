@@ -23,6 +23,11 @@ HOST-SUFFIX,tiktokw.us,TIKTOK@!CN
 HOST-SUFFIX,ttlivecdn.com,TIKTOK@!CN
 HOST-SUFFIX,ttoverseaus.net,TIKTOK@!CN
 HOST-SUFFIX,ttwstatic.com,TIKTOK@!CN
+HOST-SUFFIX,tiktokcdn-us.com.edgesuite.net,TIKTOK@!CN
+HOST-SUFFIX,tiktokcdn.com.akamaized.net,TIKTOK@!CN
+HOST-SUFFIX,tiktokcdn.com.edgesuite.net,TIKTOK@!CN
+HOST-SUFFIX,tiktokv.com.edgekey.net,TIKTOK@!CN
+HOST-SUFFIX,tiktokv.com.edgesuite.net,TIKTOK@!CN
 HOST,p16-tiktokcdn-com.akamaized.net,TIKTOK@!CN
 HOST,roovza-launches.appsflyersdk.com,TIKTOK@!CN
 HOST,roovza.inapps.appsflyersdk.com,TIKTOK@!CN
