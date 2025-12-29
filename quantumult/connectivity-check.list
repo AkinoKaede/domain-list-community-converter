@@ -1,5 +1,6 @@
 HOST-SUFFIX,captive.apple.com,CONNECTIVITY-CHECK
-HOST-SUFFIX,ping.archlinux.org,CONNECTIVITY-CHECK
+HOST,ping.archlinux.org,CONNECTIVITY-CHECK
+HOST,redirect.archlinux.org,CONNECTIVITY-CHECK
 HOST-SUFFIX,cp.cloudflare.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,network-test.debian.org,CONNECTIVITY-CHECK
 HOST-SUFFIX,detectportal.firefox.com,CONNECTIVITY-CHECK
