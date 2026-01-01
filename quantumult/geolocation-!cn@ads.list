@@ -52,11 +52,13 @@ HOST-SUFFIX,adsense.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adsensecustomsearchads.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adsenseformobileapps.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adservice.google.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,adtrafficquality.google,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertisercommunity.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertiserscommunity.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwords-community.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwords.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwordsexpress.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,analytics-alv.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-analytics-services.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-analytics-services-att.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-measurement-cn.com,GEOLOCATION-!CN@ADS
@@ -65,6 +67,7 @@ HOST-SUFFIX,doubleclick-cn.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,doubleclick.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,doubleclick.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,doubleclick.net,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,fcmatch.google.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,google-analytics-cn.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,google-analytics.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,googleadapis.com,GEOLOCATION-!CN@ADS

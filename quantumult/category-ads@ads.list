@@ -205,11 +205,13 @@ HOST-SUFFIX,adsense.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adsensecustomsearchads.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adsenseformobileapps.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adservice.google.com,CATEGORY-ADS@ADS
+HOST-SUFFIX,adtrafficquality.google,CATEGORY-ADS@ADS
 HOST-SUFFIX,advertisercommunity.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,advertiserscommunity.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adwords-community.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adwords.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adwordsexpress.com,CATEGORY-ADS@ADS
+HOST-SUFFIX,analytics-alv.google.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,app-analytics-services.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,app-analytics-services-att.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,app-measurement-cn.com,CATEGORY-ADS@ADS
@@ -218,6 +220,7 @@ HOST-SUFFIX,doubleclick-cn.net,CATEGORY-ADS@ADS
 HOST-SUFFIX,doubleclick.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,doubleclick.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,doubleclick.net,CATEGORY-ADS@ADS
+HOST-SUFFIX,fcmatch.google.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,google-analytics-cn.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,google-analytics.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,googleadapis.com,CATEGORY-ADS@ADS

@@ -120,11 +120,13 @@ HOST-SUFFIX,adsense.com,GOOGLE
 HOST-SUFFIX,adsensecustomsearchads.com,GOOGLE
 HOST-SUFFIX,adsenseformobileapps.com,GOOGLE
 HOST-SUFFIX,adservice.google.com,GOOGLE
+HOST-SUFFIX,adtrafficquality.google,GOOGLE
 HOST-SUFFIX,advertisercommunity.com,GOOGLE
 HOST-SUFFIX,advertiserscommunity.com,GOOGLE
 HOST-SUFFIX,adwords-community.com,GOOGLE
 HOST-SUFFIX,adwords.com,GOOGLE
 HOST-SUFFIX,adwordsexpress.com,GOOGLE
+HOST-SUFFIX,analytics-alv.google.com,GOOGLE
 HOST-SUFFIX,app-analytics-services.com,GOOGLE
 HOST-SUFFIX,app-analytics-services-att.com,GOOGLE
 HOST-SUFFIX,app-measurement-cn.com,GOOGLE
@@ -133,6 +135,7 @@ HOST-SUFFIX,doubleclick-cn.net,GOOGLE
 HOST-SUFFIX,doubleclick.cn,GOOGLE
 HOST-SUFFIX,doubleclick.com,GOOGLE
 HOST-SUFFIX,doubleclick.net,GOOGLE
+HOST-SUFFIX,fcmatch.google.com,GOOGLE
 HOST-SUFFIX,google-analytics-cn.com,GOOGLE
 HOST-SUFFIX,google-analytics.com,GOOGLE
 HOST-SUFFIX,googleadapis.com,GOOGLE
