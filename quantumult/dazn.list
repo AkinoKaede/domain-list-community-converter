@@ -1,5 +1,8 @@
-HOST-SUFFIX,dazn-api.com,DAZN
 HOST-SUFFIX,dazn.com,DAZN
+HOST-SUFFIX,dazn-api.com,DAZN
 HOST-SUFFIX,dazndn.com,DAZN
+HOST-SUFFIX,daznfeeds.com,DAZN
+HOST-SUFFIX,daznplayer.com,DAZN
+HOST-SUFFIX,daznservices.com,DAZN
 HOST-SUFFIX,indazn.com,DAZN
 HOST-SUFFIX,indaznlab.com,DAZN
