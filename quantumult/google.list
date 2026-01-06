@@ -176,6 +176,7 @@ HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,GOOGLE
 HOST-SUFFIX,generativeai.google,GOOGLE
 HOST-SUFFIX,makersuite.google.com,GOOGLE
+HOST-SUFFIX,ai.studio,GOOGLE
 HOST-SUFFIX,aistudio.google.com,GOOGLE
 HOST-SUFFIX,bard.google.com,GOOGLE
 HOST-SUFFIX,gemini.google,GOOGLE

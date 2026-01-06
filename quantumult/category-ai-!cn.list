@@ -34,6 +34,7 @@ HOST,alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-!CN
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,generativeai.google,CATEGORY-AI-!CN
 HOST-SUFFIX,makersuite.google.com,CATEGORY-AI-!CN
+HOST-SUFFIX,ai.studio,CATEGORY-AI-!CN
 HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-!CN

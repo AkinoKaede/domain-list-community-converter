@@ -10,6 +10,7 @@ HOST,alkalimakersuite-pa.clients6.google.com,GOOGLE-DEEPMIND
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,generativeai.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,makersuite.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,ai.studio,GOOGLE-DEEPMIND
 HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,bard.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google,GOOGLE-DEEPMIND

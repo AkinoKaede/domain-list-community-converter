@@ -34,6 +34,7 @@ HOST,alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,generativeai.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,makersuite.google.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,ai.studio,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-CHAT-!CN
