@@ -12,6 +12,7 @@ HOST,ocsp.apple.com,CATEGORY-CAS
 HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-CAS
 HOST,ocsp2.apple.com,CATEGORY-CAS
 HOST,valid.apple.com,CATEGORY-CAS
+HOST,valid.origin-apple.com.akadns.net,CATEGORY-CAS
 HOST-SUFFIX,buypass-ssl.com,CATEGORY-CAS
 HOST-SUFFIX,buypass.com,CATEGORY-CAS
 HOST-SUFFIX,buypass.no,CATEGORY-CAS

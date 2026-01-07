@@ -986,8 +986,9 @@ HOST-SUFFIX,xn--gogl-1nd42e.com,GOOGLE
 HOST-SUFFIX,xplr.co,GOOGLE
 HOST-SUFFIX,zukunftswerkstatt.de,GOOGLE
 HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,GOOGLE
+HOST-SUFFIX,gvt1-cn.com,GOOGLE
+HOST-SUFFIX,gvt2-cn.com,GOOGLE
 HOST,www.recaptcha.net,GOOGLE
-HOST,safebrowsing-cache.google.com,GOOGLE
 HOST,265.com,GOOGLE
 HOST,2mdn-cn.net,GOOGLE
 HOST,2mdn.net,GOOGLE
@@ -1016,7 +1017,6 @@ HOST,cnappinstall.googleadapis.com,GOOGLE
 HOST,connectivitycheck.gstatic.com,GOOGLE
 HOST,content.googleadapis.com,GOOGLE
 HOST,crashlyticsreports-pa.googleapis.com,GOOGLE
-HOST,crl.pki.goog,GOOGLE
 HOST,csi.gstatic.com,GOOGLE
 HOST,dartsearch-cn.net,GOOGLE
 HOST,dg-meta.video.google.com,GOOGLE
@@ -1028,7 +1028,6 @@ HOST,download.mlcc.google.com,GOOGLE
 HOST,download.qatp1.net,GOOGLE
 HOST,download.tensorflow.google.com,GOOGLE
 HOST,emmapplecodevice.googleapis.com,GOOGLE
-HOST,firebase-settings.crashlytics.com,GOOGLE
 HOST,fontfiles.googleapis.com,GOOGLE
 HOST,fonts.googleapis.com,GOOGLE
 HOST,fonts.gstatic.com,GOOGLE
@@ -1067,10 +1066,8 @@ HOST,logger-dev.corp.google.com,GOOGLE
 HOST,logger.corp.google.com,GOOGLE
 HOST,login.corp.google.com,GOOGLE
 HOST,monitoring.qpdp1.net,GOOGLE
-HOST,ocsp.pki.goog,GOOGLE
 HOST,pagead-googlehosted.l.google.com,GOOGLE
 HOST,performanceparameters.googleapis.com,GOOGLE
-HOST,pki-goog.l.google.com,GOOGLE
 HOST,prod-controlbe.floonet.goog,GOOGLE
 HOST,prod-databe.floonet.goog,GOOGLE
 HOST,prod.databe.floonet.goog,GOOGLE
@@ -1089,7 +1086,6 @@ HOST,redirector.bdn.dev,GOOGLE
 HOST,redirector.c.chat.google.com,GOOGLE
 HOST,redirector.c.mail.google.com,GOOGLE
 HOST,redirector.c.pack.google.com,GOOGLE
-HOST,redirector.c.play.google.com,GOOGLE
 HOST,redirector.c.youtubeeducation.com,GOOGLE
 HOST,redirector.gcpcdn.gvt1.com,GOOGLE
 HOST,redirector.gvt1.com,GOOGLE
@@ -1128,5 +1124,3 @@ HOST,www.destinationurl.com,GOOGLE
 HOST,www.gstatic.com,GOOGLE
 HOST,www.pxcc.com,GOOGLE
 HOST,xn--flw351e.com,GOOGLE
-HOST-SUFFIX,gvt1-cn.com,GOOGLE
-HOST-SUFFIX,gvt2-cn.com,GOOGLE

@@ -14,8 +14,9 @@ HOST-SUFFIX,gkecnapps.cn,GOOGLE@CN
 HOST-SUFFIX,googlecnapps.cn,GOOGLE@CN
 HOST-SUFFIX,gstatic.cn,GOOGLE@CN
 HOST-SUFFIX,gstaticcnapps.cn,GOOGLE@CN
+HOST-SUFFIX,gvt1-cn.com,GOOGLE@CN
+HOST-SUFFIX,gvt2-cn.com,GOOGLE@CN
 HOST,www.recaptcha.net,GOOGLE@CN
-HOST,safebrowsing-cache.google.com,GOOGLE@CN
 HOST,265.com,GOOGLE@CN
 HOST,2mdn-cn.net,GOOGLE@CN
 HOST,2mdn.net,GOOGLE@CN
@@ -44,7 +45,6 @@ HOST,cnappinstall.googleadapis.com,GOOGLE@CN
 HOST,connectivitycheck.gstatic.com,GOOGLE@CN
 HOST,content.googleadapis.com,GOOGLE@CN
 HOST,crashlyticsreports-pa.googleapis.com,GOOGLE@CN
-HOST,crl.pki.goog,GOOGLE@CN
 HOST,csi.gstatic.com,GOOGLE@CN
 HOST,dartsearch-cn.net,GOOGLE@CN
 HOST,dg-meta.video.google.com,GOOGLE@CN
@@ -56,7 +56,6 @@ HOST,download.mlcc.google.com,GOOGLE@CN
 HOST,download.qatp1.net,GOOGLE@CN
 HOST,download.tensorflow.google.com,GOOGLE@CN
 HOST,emmapplecodevice.googleapis.com,GOOGLE@CN
-HOST,firebase-settings.crashlytics.com,GOOGLE@CN
 HOST,fontfiles.googleapis.com,GOOGLE@CN
 HOST,fonts.googleapis.com,GOOGLE@CN
 HOST,fonts.gstatic.com,GOOGLE@CN
@@ -95,10 +94,8 @@ HOST,logger-dev.corp.google.com,GOOGLE@CN
 HOST,logger.corp.google.com,GOOGLE@CN
 HOST,login.corp.google.com,GOOGLE@CN
 HOST,monitoring.qpdp1.net,GOOGLE@CN
-HOST,ocsp.pki.goog,GOOGLE@CN
 HOST,pagead-googlehosted.l.google.com,GOOGLE@CN
 HOST,performanceparameters.googleapis.com,GOOGLE@CN
-HOST,pki-goog.l.google.com,GOOGLE@CN
 HOST,prod-controlbe.floonet.goog,GOOGLE@CN
 HOST,prod-databe.floonet.goog,GOOGLE@CN
 HOST,prod.databe.floonet.goog,GOOGLE@CN
@@ -117,7 +114,6 @@ HOST,redirector.bdn.dev,GOOGLE@CN
 HOST,redirector.c.chat.google.com,GOOGLE@CN
 HOST,redirector.c.mail.google.com,GOOGLE@CN
 HOST,redirector.c.pack.google.com,GOOGLE@CN
-HOST,redirector.c.play.google.com,GOOGLE@CN
 HOST,redirector.c.youtubeeducation.com,GOOGLE@CN
 HOST,redirector.gcpcdn.gvt1.com,GOOGLE@CN
 HOST,redirector.gvt1.com,GOOGLE@CN
@@ -156,5 +152,3 @@ HOST,www.destinationurl.com,GOOGLE@CN
 HOST,www.gstatic.com,GOOGLE@CN
 HOST,www.pxcc.com,GOOGLE@CN
 HOST,xn--flw351e.com,GOOGLE@CN
-HOST-SUFFIX,gvt1-cn.com,GOOGLE@CN
-HOST-SUFFIX,gvt2-cn.com,GOOGLE@CN

@@ -546,6 +546,10 @@ HOST-SUFFIX,api-adservices.apple.com,CATEGORY-COMPANIES
 HOST-SUFFIX,iadsdk.apple.com,CATEGORY-COMPANIES
 HOST-SUFFIX,iad.apple.com,CATEGORY-COMPANIES
 HOST-SUFFIX,qwapi.com,CATEGORY-COMPANIES
+HOST-SUFFIX,appleswift.com,CATEGORY-COMPANIES
+HOST-SUFFIX,swift.org,CATEGORY-COMPANIES
+HOST-SUFFIX,swiftui.cn,CATEGORY-COMPANIES
+HOST-SUFFIX,swiftui.com.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,calendarserver.org,CATEGORY-COMPANIES
 HOST-SUFFIX,apple-cloudkit.com,CATEGORY-COMPANIES
 HOST-SUFFIX,cups.org,CATEGORY-COMPANIES
@@ -588,6 +592,7 @@ HOST,ocsp.apple.com,CATEGORY-COMPANIES
 HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,ocsp2.apple.com,CATEGORY-COMPANIES
 HOST,valid.apple.com,CATEGORY-COMPANIES
+HOST,valid.origin-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,apple-tv-plus-press.apple.com,CATEGORY-COMPANIES
 HOST,hls-amt.itunes.apple.com,CATEGORY-COMPANIES
 HOST,hls.itunes.apple.com,CATEGORY-COMPANIES
@@ -1439,10 +1444,6 @@ HOST-SUFFIX,itunesu.com,CATEGORY-COMPANIES
 HOST-SUFFIX,itunesu.net,CATEGORY-COMPANIES
 HOST-SUFFIX,iutunes.com,CATEGORY-COMPANIES
 HOST-SUFFIX,wwwitunes.com,CATEGORY-COMPANIES
-HOST-SUFFIX,appleswift.com,CATEGORY-COMPANIES
-HOST-SUFFIX,swift.org,CATEGORY-COMPANIES
-HOST-SUFFIX,swiftui.cn,CATEGORY-COMPANIES
-HOST-SUFFIX,swiftui.com.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,apple,CATEGORY-COMPANIES
 HOST-SUFFIX,apple.ae,CATEGORY-COMPANIES
 HOST-SUFFIX,apple.at,CATEGORY-COMPANIES
@@ -2240,7 +2241,6 @@ HOST,cds-cdn.v.aaplimg.com,CATEGORY-COMPANIES
 HOST,cds.apple.com,CATEGORY-COMPANIES
 HOST,cds.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,cdsassets.apple.com,CATEGORY-COMPANIES
-HOST,certs.apple.com,CATEGORY-COMPANIES
 HOST,cl2-cn.apple.com,CATEGORY-COMPANIES
 HOST,cl4-cn.apple.com,CATEGORY-COMPANIES
 HOST,clientflow.apple.com,CATEGORY-COMPANIES
@@ -2248,7 +2248,6 @@ HOST,clientflow.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,cn-smp-paymentservices.apple.com,CATEGORY-COMPANIES
 HOST,configuration.apple.com,CATEGORY-COMPANIES
 HOST,configuration.apple.com.akadns.net,CATEGORY-COMPANIES
-HOST,crl.apple.com,CATEGORY-COMPANIES
 HOST,cstat.apple.com,CATEGORY-COMPANIES
 HOST,cstat.cdn-apple.com,CATEGORY-COMPANIES
 HOST,dd-cdn.origin-apple.com.akadns.net,CATEGORY-COMPANIES
@@ -2301,10 +2300,6 @@ HOST,mesu-china.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,mesu.apple.com,CATEGORY-COMPANIES
 HOST,ml.cdn-apple.com,CATEGORY-COMPANIES
 HOST,music.apple.com,CATEGORY-COMPANIES
-HOST,ocsp-lb.apple.com.akadns.net,CATEGORY-COMPANIES
-HOST,ocsp.apple.com,CATEGORY-COMPANIES
-HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-COMPANIES
-HOST,ocsp2.apple.com,CATEGORY-COMPANIES
 HOST,oscdn.apple.com,CATEGORY-COMPANIES
 HOST,oscdn.origin-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,osxapps.itunes.g.aaplimg.com,CATEGORY-COMPANIES
@@ -2347,8 +2342,6 @@ HOST,tj-pod1-smp-device.apple.com,CATEGORY-COMPANIES
 HOST,updates-http.cdn-apple.com,CATEGORY-COMPANIES
 HOST,updates-http.cdn-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,updates.cdn-apple.com,CATEGORY-COMPANIES
-HOST,valid.apple.com,CATEGORY-COMPANIES
-HOST,valid.origin-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,weather-data.apple.com,CATEGORY-COMPANIES
 HOST,weather-data.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,weather-map.apple.com,CATEGORY-COMPANIES
@@ -4664,8 +4657,9 @@ HOST-SUFFIX,xn--gogl-1nd42e.com,CATEGORY-COMPANIES
 HOST-SUFFIX,xplr.co,CATEGORY-COMPANIES
 HOST-SUFFIX,zukunftswerkstatt.de,CATEGORY-COMPANIES
 HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,CATEGORY-COMPANIES
+HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES
+HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES
 HOST,www.recaptcha.net,CATEGORY-COMPANIES
-HOST,safebrowsing-cache.google.com,CATEGORY-COMPANIES
 HOST,265.com,CATEGORY-COMPANIES
 HOST,2mdn-cn.net,CATEGORY-COMPANIES
 HOST,2mdn.net,CATEGORY-COMPANIES
@@ -4694,7 +4688,6 @@ HOST,cnappinstall.googleadapis.com,CATEGORY-COMPANIES
 HOST,connectivitycheck.gstatic.com,CATEGORY-COMPANIES
 HOST,content.googleadapis.com,CATEGORY-COMPANIES
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES
-HOST,crl.pki.goog,CATEGORY-COMPANIES
 HOST,csi.gstatic.com,CATEGORY-COMPANIES
 HOST,dartsearch-cn.net,CATEGORY-COMPANIES
 HOST,dg-meta.video.google.com,CATEGORY-COMPANIES
@@ -4706,7 +4699,6 @@ HOST,download.mlcc.google.com,CATEGORY-COMPANIES
 HOST,download.qatp1.net,CATEGORY-COMPANIES
 HOST,download.tensorflow.google.com,CATEGORY-COMPANIES
 HOST,emmapplecodevice.googleapis.com,CATEGORY-COMPANIES
-HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES
 HOST,fontfiles.googleapis.com,CATEGORY-COMPANIES
 HOST,fonts.googleapis.com,CATEGORY-COMPANIES
 HOST,fonts.gstatic.com,CATEGORY-COMPANIES
@@ -4745,10 +4737,8 @@ HOST,logger-dev.corp.google.com,CATEGORY-COMPANIES
 HOST,logger.corp.google.com,CATEGORY-COMPANIES
 HOST,login.corp.google.com,CATEGORY-COMPANIES
 HOST,monitoring.qpdp1.net,CATEGORY-COMPANIES
-HOST,ocsp.pki.goog,CATEGORY-COMPANIES
 HOST,pagead-googlehosted.l.google.com,CATEGORY-COMPANIES
 HOST,performanceparameters.googleapis.com,CATEGORY-COMPANIES
-HOST,pki-goog.l.google.com,CATEGORY-COMPANIES
 HOST,prod-controlbe.floonet.goog,CATEGORY-COMPANIES
 HOST,prod-databe.floonet.goog,CATEGORY-COMPANIES
 HOST,prod.databe.floonet.goog,CATEGORY-COMPANIES
@@ -4767,7 +4757,6 @@ HOST,redirector.bdn.dev,CATEGORY-COMPANIES
 HOST,redirector.c.chat.google.com,CATEGORY-COMPANIES
 HOST,redirector.c.mail.google.com,CATEGORY-COMPANIES
 HOST,redirector.c.pack.google.com,CATEGORY-COMPANIES
-HOST,redirector.c.play.google.com,CATEGORY-COMPANIES
 HOST,redirector.c.youtubeeducation.com,CATEGORY-COMPANIES
 HOST,redirector.gcpcdn.gvt1.com,CATEGORY-COMPANIES
 HOST,redirector.gvt1.com,CATEGORY-COMPANIES
@@ -4806,8 +4795,6 @@ HOST,www.destinationurl.com,CATEGORY-COMPANIES
 HOST,www.gstatic.com,CATEGORY-COMPANIES
 HOST,www.pxcc.com,CATEGORY-COMPANIES
 HOST,xn--flw351e.com,CATEGORY-COMPANIES
-HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES
-HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES
 HOST-SUFFIX,first-ns.de,CATEGORY-COMPANIES
 HOST-SUFFIX,hetzner-cloud.de,CATEGORY-COMPANIES
 HOST-SUFFIX,hetzner.cloud,CATEGORY-COMPANIES
@@ -7436,9 +7423,6 @@ HOST-SUFFIX,myds.me,CATEGORY-COMPANIES
 HOST-SUFFIX,synology.me,CATEGORY-COMPANIES
 HOST-SUFFIX,symantec.com,CATEGORY-COMPANIES
 HOST-SUFFIX,symantecliveupdate.com,CATEGORY-COMPANIES
-HOST-SUFFIX,tailscale.com,CATEGORY-COMPANIES
-HOST-SUFFIX,tailscale.io,CATEGORY-COMPANIES
-HOST-SUFFIX,ts.net,CATEGORY-COMPANIES
 HOST-SUFFIX,boringcompany.com,CATEGORY-COMPANIES
 HOST-SUFFIX,internetdownloadmanager.com,CATEGORY-COMPANIES
 HOST-SUFFIX,registeridm.com,CATEGORY-COMPANIES

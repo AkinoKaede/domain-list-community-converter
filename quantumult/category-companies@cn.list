@@ -55,6 +55,8 @@ HOST-SUFFIX,z.cn,CATEGORY-COMPANIES@CN
 HOST,images-cn.ssl-images-amazon.com,CATEGORY-COMPANIES@CN
 HOST,images-cn-8.ssl-images-amazon.com,CATEGORY-COMPANIES@CN
 HOST,www.amd.com,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,swiftui.cn,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,swiftui.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,researchkit.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,researchkit.com.cn,CATEGORY-COMPANIES@CN
 HOST,certs-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
@@ -66,6 +68,7 @@ HOST,ocsp.apple.com,CATEGORY-COMPANIES@CN
 HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,ocsp2.apple.com,CATEGORY-COMPANIES@CN
 HOST,valid.apple.com,CATEGORY-COMPANIES@CN
+HOST,valid.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,beats1.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,beats1.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,beats2.com.cn,CATEGORY-COMPANIES@CN
@@ -84,8 +87,6 @@ HOST-SUFFIX,itunes-apple.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,itunesapple.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,itunesradio.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,itunesradio.com.cn,CATEGORY-COMPANIES@CN
-HOST-SUFFIX,swiftui.cn,CATEGORY-COMPANIES@CN
-HOST-SUFFIX,swiftui.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,apple.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,apple.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,apple-store.cn,CATEGORY-COMPANIES@CN
@@ -229,7 +230,6 @@ HOST,cds-cdn.v.aaplimg.com,CATEGORY-COMPANIES@CN
 HOST,cds.apple.com,CATEGORY-COMPANIES@CN
 HOST,cds.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,cdsassets.apple.com,CATEGORY-COMPANIES@CN
-HOST,certs.apple.com,CATEGORY-COMPANIES@CN
 HOST,cl2-cn.apple.com,CATEGORY-COMPANIES@CN
 HOST,cl4-cn.apple.com,CATEGORY-COMPANIES@CN
 HOST,clientflow.apple.com,CATEGORY-COMPANIES@CN
@@ -237,7 +237,6 @@ HOST,clientflow.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,cn-smp-paymentservices.apple.com,CATEGORY-COMPANIES@CN
 HOST,configuration.apple.com,CATEGORY-COMPANIES@CN
 HOST,configuration.apple.com.akadns.net,CATEGORY-COMPANIES@CN
-HOST,crl.apple.com,CATEGORY-COMPANIES@CN
 HOST,cstat.apple.com,CATEGORY-COMPANIES@CN
 HOST,cstat.cdn-apple.com,CATEGORY-COMPANIES@CN
 HOST,dd-cdn.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
@@ -290,10 +289,6 @@ HOST,mesu-china.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,mesu.apple.com,CATEGORY-COMPANIES@CN
 HOST,ml.cdn-apple.com,CATEGORY-COMPANIES@CN
 HOST,music.apple.com,CATEGORY-COMPANIES@CN
-HOST,ocsp-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
-HOST,ocsp.apple.com,CATEGORY-COMPANIES@CN
-HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
-HOST,ocsp2.apple.com,CATEGORY-COMPANIES@CN
 HOST,oscdn.apple.com,CATEGORY-COMPANIES@CN
 HOST,oscdn.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,osxapps.itunes.g.aaplimg.com,CATEGORY-COMPANIES@CN
@@ -336,8 +331,6 @@ HOST,tj-pod1-smp-device.apple.com,CATEGORY-COMPANIES@CN
 HOST,updates-http.cdn-apple.com,CATEGORY-COMPANIES@CN
 HOST,updates-http.cdn-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,updates.cdn-apple.com,CATEGORY-COMPANIES@CN
-HOST,valid.apple.com,CATEGORY-COMPANIES@CN
-HOST,valid.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,weather-data.apple.com,CATEGORY-COMPANIES@CN
 HOST,weather-data.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,weather-map.apple.com,CATEGORY-COMPANIES@CN
@@ -408,8 +401,9 @@ HOST-SUFFIX,gkecnapps.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,googlecnapps.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gstatic.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gstaticcnapps.cn,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES@CN
 HOST,www.recaptcha.net,CATEGORY-COMPANIES@CN
-HOST,safebrowsing-cache.google.com,CATEGORY-COMPANIES@CN
 HOST,265.com,CATEGORY-COMPANIES@CN
 HOST,2mdn-cn.net,CATEGORY-COMPANIES@CN
 HOST,2mdn.net,CATEGORY-COMPANIES@CN
@@ -438,7 +432,6 @@ HOST,cnappinstall.googleadapis.com,CATEGORY-COMPANIES@CN
 HOST,connectivitycheck.gstatic.com,CATEGORY-COMPANIES@CN
 HOST,content.googleadapis.com,CATEGORY-COMPANIES@CN
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES@CN
-HOST,crl.pki.goog,CATEGORY-COMPANIES@CN
 HOST,csi.gstatic.com,CATEGORY-COMPANIES@CN
 HOST,dartsearch-cn.net,CATEGORY-COMPANIES@CN
 HOST,dg-meta.video.google.com,CATEGORY-COMPANIES@CN
@@ -450,7 +443,6 @@ HOST,download.mlcc.google.com,CATEGORY-COMPANIES@CN
 HOST,download.qatp1.net,CATEGORY-COMPANIES@CN
 HOST,download.tensorflow.google.com,CATEGORY-COMPANIES@CN
 HOST,emmapplecodevice.googleapis.com,CATEGORY-COMPANIES@CN
-HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES@CN
 HOST,fontfiles.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,fonts.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,fonts.gstatic.com,CATEGORY-COMPANIES@CN
@@ -489,10 +481,8 @@ HOST,logger-dev.corp.google.com,CATEGORY-COMPANIES@CN
 HOST,logger.corp.google.com,CATEGORY-COMPANIES@CN
 HOST,login.corp.google.com,CATEGORY-COMPANIES@CN
 HOST,monitoring.qpdp1.net,CATEGORY-COMPANIES@CN
-HOST,ocsp.pki.goog,CATEGORY-COMPANIES@CN
 HOST,pagead-googlehosted.l.google.com,CATEGORY-COMPANIES@CN
 HOST,performanceparameters.googleapis.com,CATEGORY-COMPANIES@CN
-HOST,pki-goog.l.google.com,CATEGORY-COMPANIES@CN
 HOST,prod-controlbe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,prod-databe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,prod.databe.floonet.goog,CATEGORY-COMPANIES@CN
@@ -511,7 +501,6 @@ HOST,redirector.bdn.dev,CATEGORY-COMPANIES@CN
 HOST,redirector.c.chat.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.mail.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.pack.google.com,CATEGORY-COMPANIES@CN
-HOST,redirector.c.play.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.youtubeeducation.com,CATEGORY-COMPANIES@CN
 HOST,redirector.gcpcdn.gvt1.com,CATEGORY-COMPANIES@CN
 HOST,redirector.gvt1.com,CATEGORY-COMPANIES@CN
@@ -550,8 +539,6 @@ HOST,www.destinationurl.com,CATEGORY-COMPANIES@CN
 HOST,www.gstatic.com,CATEGORY-COMPANIES@CN
 HOST,www.pxcc.com,CATEGORY-COMPANIES@CN
 HOST,xn--flw351e.com,CATEGORY-COMPANIES@CN
-HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES@CN
-HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,hpstore.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,intel.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,kaspersky.com.cn,CATEGORY-COMPANIES@CN

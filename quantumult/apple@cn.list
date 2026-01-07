@@ -1,3 +1,5 @@
+HOST-SUFFIX,swiftui.cn,APPLE@CN
+HOST-SUFFIX,swiftui.com.cn,APPLE@CN
 HOST-SUFFIX,researchkit.cn,APPLE@CN
 HOST-SUFFIX,researchkit.com.cn,APPLE@CN
 HOST,certs-lb.apple.com.akadns.net,APPLE@CN
@@ -9,6 +11,7 @@ HOST,ocsp.apple.com,APPLE@CN
 HOST,ocsp2-lb.apple.com.akadns.net,APPLE@CN
 HOST,ocsp2.apple.com,APPLE@CN
 HOST,valid.apple.com,APPLE@CN
+HOST,valid.origin-apple.com.akadns.net,APPLE@CN
 HOST-SUFFIX,beats1.cn,APPLE@CN
 HOST-SUFFIX,beats1.com.cn,APPLE@CN
 HOST-SUFFIX,beats2.com.cn,APPLE@CN
@@ -27,8 +30,6 @@ HOST-SUFFIX,itunes-apple.cn,APPLE@CN
 HOST-SUFFIX,itunesapple.cn,APPLE@CN
 HOST-SUFFIX,itunesradio.cn,APPLE@CN
 HOST-SUFFIX,itunesradio.com.cn,APPLE@CN
-HOST-SUFFIX,swiftui.cn,APPLE@CN
-HOST-SUFFIX,swiftui.com.cn,APPLE@CN
 HOST-SUFFIX,apple.cn,APPLE@CN
 HOST-SUFFIX,apple.com.cn,APPLE@CN
 HOST-SUFFIX,apple-store.cn,APPLE@CN
@@ -172,7 +173,6 @@ HOST,cds-cdn.v.aaplimg.com,APPLE@CN
 HOST,cds.apple.com,APPLE@CN
 HOST,cds.apple.com.akadns.net,APPLE@CN
 HOST,cdsassets.apple.com,APPLE@CN
-HOST,certs.apple.com,APPLE@CN
 HOST,cl2-cn.apple.com,APPLE@CN
 HOST,cl4-cn.apple.com,APPLE@CN
 HOST,clientflow.apple.com,APPLE@CN
@@ -180,7 +180,6 @@ HOST,clientflow.apple.com.akadns.net,APPLE@CN
 HOST,cn-smp-paymentservices.apple.com,APPLE@CN
 HOST,configuration.apple.com,APPLE@CN
 HOST,configuration.apple.com.akadns.net,APPLE@CN
-HOST,crl.apple.com,APPLE@CN
 HOST,cstat.apple.com,APPLE@CN
 HOST,cstat.cdn-apple.com,APPLE@CN
 HOST,dd-cdn.origin-apple.com.akadns.net,APPLE@CN
@@ -233,10 +232,6 @@ HOST,mesu-china.apple.com.akadns.net,APPLE@CN
 HOST,mesu.apple.com,APPLE@CN
 HOST,ml.cdn-apple.com,APPLE@CN
 HOST,music.apple.com,APPLE@CN
-HOST,ocsp-lb.apple.com.akadns.net,APPLE@CN
-HOST,ocsp.apple.com,APPLE@CN
-HOST,ocsp2-lb.apple.com.akadns.net,APPLE@CN
-HOST,ocsp2.apple.com,APPLE@CN
 HOST,oscdn.apple.com,APPLE@CN
 HOST,oscdn.origin-apple.com.akadns.net,APPLE@CN
 HOST,osxapps.itunes.g.aaplimg.com,APPLE@CN
@@ -279,8 +274,6 @@ HOST,tj-pod1-smp-device.apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com.akadns.net,APPLE@CN
 HOST,updates.cdn-apple.com,APPLE@CN
-HOST,valid.apple.com,APPLE@CN
-HOST,valid.origin-apple.com.akadns.net,APPLE@CN
 HOST,weather-data.apple.com,APPLE@CN
 HOST,weather-data.apple.com.akadns.net,APPLE@CN
 HOST,weather-map.apple.com,APPLE@CN

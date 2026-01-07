@@ -2,6 +2,10 @@ HOST-SUFFIX,api-adservices.apple.com,APPLE
 HOST-SUFFIX,iadsdk.apple.com,APPLE
 HOST-SUFFIX,iad.apple.com,APPLE
 HOST-SUFFIX,qwapi.com,APPLE
+HOST-SUFFIX,appleswift.com,APPLE
+HOST-SUFFIX,swift.org,APPLE
+HOST-SUFFIX,swiftui.cn,APPLE
+HOST-SUFFIX,swiftui.com.cn,APPLE
 HOST-SUFFIX,calendarserver.org,APPLE
 HOST-SUFFIX,apple-cloudkit.com,APPLE
 HOST-SUFFIX,cups.org,APPLE
@@ -44,6 +48,7 @@ HOST,ocsp.apple.com,APPLE
 HOST,ocsp2-lb.apple.com.akadns.net,APPLE
 HOST,ocsp2.apple.com,APPLE
 HOST,valid.apple.com,APPLE
+HOST,valid.origin-apple.com.akadns.net,APPLE
 HOST,apple-tv-plus-press.apple.com,APPLE
 HOST,hls-amt.itunes.apple.com,APPLE
 HOST,hls.itunes.apple.com,APPLE
@@ -895,10 +900,6 @@ HOST-SUFFIX,itunesu.com,APPLE
 HOST-SUFFIX,itunesu.net,APPLE
 HOST-SUFFIX,iutunes.com,APPLE
 HOST-SUFFIX,wwwitunes.com,APPLE
-HOST-SUFFIX,appleswift.com,APPLE
-HOST-SUFFIX,swift.org,APPLE
-HOST-SUFFIX,swiftui.cn,APPLE
-HOST-SUFFIX,swiftui.com.cn,APPLE
 HOST-SUFFIX,apple,APPLE
 HOST-SUFFIX,apple.ae,APPLE
 HOST-SUFFIX,apple.at,APPLE
@@ -1696,7 +1697,6 @@ HOST,cds-cdn.v.aaplimg.com,APPLE
 HOST,cds.apple.com,APPLE
 HOST,cds.apple.com.akadns.net,APPLE
 HOST,cdsassets.apple.com,APPLE
-HOST,certs.apple.com,APPLE
 HOST,cl2-cn.apple.com,APPLE
 HOST,cl4-cn.apple.com,APPLE
 HOST,clientflow.apple.com,APPLE
@@ -1704,7 +1704,6 @@ HOST,clientflow.apple.com.akadns.net,APPLE
 HOST,cn-smp-paymentservices.apple.com,APPLE
 HOST,configuration.apple.com,APPLE
 HOST,configuration.apple.com.akadns.net,APPLE
-HOST,crl.apple.com,APPLE
 HOST,cstat.apple.com,APPLE
 HOST,cstat.cdn-apple.com,APPLE
 HOST,dd-cdn.origin-apple.com.akadns.net,APPLE
@@ -1757,10 +1756,6 @@ HOST,mesu-china.apple.com.akadns.net,APPLE
 HOST,mesu.apple.com,APPLE
 HOST,ml.cdn-apple.com,APPLE
 HOST,music.apple.com,APPLE
-HOST,ocsp-lb.apple.com.akadns.net,APPLE
-HOST,ocsp.apple.com,APPLE
-HOST,ocsp2-lb.apple.com.akadns.net,APPLE
-HOST,ocsp2.apple.com,APPLE
 HOST,oscdn.apple.com,APPLE
 HOST,oscdn.origin-apple.com.akadns.net,APPLE
 HOST,osxapps.itunes.g.aaplimg.com,APPLE
@@ -1803,8 +1798,6 @@ HOST,tj-pod1-smp-device.apple.com,APPLE
 HOST,updates-http.cdn-apple.com,APPLE
 HOST,updates-http.cdn-apple.com.akadns.net,APPLE
 HOST,updates.cdn-apple.com,APPLE
-HOST,valid.apple.com,APPLE
-HOST,valid.origin-apple.com.akadns.net,APPLE
 HOST,weather-data.apple.com,APPLE
 HOST,weather-data.apple.com.akadns.net,APPLE
 HOST,weather-map.apple.com,APPLE

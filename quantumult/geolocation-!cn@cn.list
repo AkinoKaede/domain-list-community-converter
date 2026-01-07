@@ -86,6 +86,7 @@ HOST,ocsp.apple.com,GEOLOCATION-!CN@CN
 HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp2.apple.com,GEOLOCATION-!CN@CN
 HOST,valid.apple.com,GEOLOCATION-!CN@CN
+HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,dcocsp.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,digicert.cn,GEOLOCATION-!CN@CN
 HOST,www.entrust.cn,GEOLOCATION-!CN@CN
@@ -598,7 +599,6 @@ HOST,cds-cdn.v.aaplimg.com,GEOLOCATION-!CN@CN
 HOST,cds.apple.com,GEOLOCATION-!CN@CN
 HOST,cds.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,cdsassets.apple.com,GEOLOCATION-!CN@CN
-HOST,certs.apple.com,GEOLOCATION-!CN@CN
 HOST,cl2-cn.apple.com,GEOLOCATION-!CN@CN
 HOST,cl4-cn.apple.com,GEOLOCATION-!CN@CN
 HOST,clientflow.apple.com,GEOLOCATION-!CN@CN
@@ -606,7 +606,6 @@ HOST,clientflow.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,cn-smp-paymentservices.apple.com,GEOLOCATION-!CN@CN
 HOST,configuration.apple.com,GEOLOCATION-!CN@CN
 HOST,configuration.apple.com.akadns.net,GEOLOCATION-!CN@CN
-HOST,crl.apple.com,GEOLOCATION-!CN@CN
 HOST,cstat.apple.com,GEOLOCATION-!CN@CN
 HOST,cstat.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,dd-cdn.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
@@ -659,10 +658,6 @@ HOST,mesu-china.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,mesu.apple.com,GEOLOCATION-!CN@CN
 HOST,ml.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,music.apple.com,GEOLOCATION-!CN@CN
-HOST,ocsp-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
-HOST,ocsp.apple.com,GEOLOCATION-!CN@CN
-HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
-HOST,ocsp2.apple.com,GEOLOCATION-!CN@CN
 HOST,oscdn.apple.com,GEOLOCATION-!CN@CN
 HOST,oscdn.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,osxapps.itunes.g.aaplimg.com,GEOLOCATION-!CN@CN
@@ -705,8 +700,6 @@ HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,updates.cdn-apple.com,GEOLOCATION-!CN@CN
-HOST,valid.apple.com,GEOLOCATION-!CN@CN
-HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,weather-data.apple.com,GEOLOCATION-!CN@CN
 HOST,weather-data.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,weather-map.apple.com,GEOLOCATION-!CN@CN
@@ -768,8 +761,9 @@ HOST-SUFFIX,gkecnapps.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,googlecnapps.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstatic.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstaticcnapps.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN@CN
 HOST,www.recaptcha.net,GEOLOCATION-!CN@CN
-HOST,safebrowsing-cache.google.com,GEOLOCATION-!CN@CN
 HOST,265.com,GEOLOCATION-!CN@CN
 HOST,2mdn-cn.net,GEOLOCATION-!CN@CN
 HOST,2mdn.net,GEOLOCATION-!CN@CN
@@ -798,7 +792,6 @@ HOST,cnappinstall.googleadapis.com,GEOLOCATION-!CN@CN
 HOST,connectivitycheck.gstatic.com,GEOLOCATION-!CN@CN
 HOST,content.googleadapis.com,GEOLOCATION-!CN@CN
 HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN@CN
-HOST,crl.pki.goog,GEOLOCATION-!CN@CN
 HOST,csi.gstatic.com,GEOLOCATION-!CN@CN
 HOST,dartsearch-cn.net,GEOLOCATION-!CN@CN
 HOST,dg-meta.video.google.com,GEOLOCATION-!CN@CN
@@ -810,7 +803,6 @@ HOST,download.mlcc.google.com,GEOLOCATION-!CN@CN
 HOST,download.qatp1.net,GEOLOCATION-!CN@CN
 HOST,download.tensorflow.google.com,GEOLOCATION-!CN@CN
 HOST,emmapplecodevice.googleapis.com,GEOLOCATION-!CN@CN
-HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN@CN
 HOST,fontfiles.googleapis.com,GEOLOCATION-!CN@CN
 HOST,fonts.googleapis.com,GEOLOCATION-!CN@CN
 HOST,fonts.gstatic.com,GEOLOCATION-!CN@CN
@@ -849,10 +841,8 @@ HOST,logger-dev.corp.google.com,GEOLOCATION-!CN@CN
 HOST,logger.corp.google.com,GEOLOCATION-!CN@CN
 HOST,login.corp.google.com,GEOLOCATION-!CN@CN
 HOST,monitoring.qpdp1.net,GEOLOCATION-!CN@CN
-HOST,ocsp.pki.goog,GEOLOCATION-!CN@CN
 HOST,pagead-googlehosted.l.google.com,GEOLOCATION-!CN@CN
 HOST,performanceparameters.googleapis.com,GEOLOCATION-!CN@CN
-HOST,pki-goog.l.google.com,GEOLOCATION-!CN@CN
 HOST,prod-controlbe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,prod-databe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,prod.databe.floonet.goog,GEOLOCATION-!CN@CN
@@ -871,7 +861,6 @@ HOST,redirector.bdn.dev,GEOLOCATION-!CN@CN
 HOST,redirector.c.chat.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.mail.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.pack.google.com,GEOLOCATION-!CN@CN
-HOST,redirector.c.play.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.youtubeeducation.com,GEOLOCATION-!CN@CN
 HOST,redirector.gcpcdn.gvt1.com,GEOLOCATION-!CN@CN
 HOST,redirector.gvt1.com,GEOLOCATION-!CN@CN
@@ -910,8 +899,6 @@ HOST,www.destinationurl.com,GEOLOCATION-!CN@CN
 HOST,www.gstatic.com,GEOLOCATION-!CN@CN
 HOST,www.pxcc.com,GEOLOCATION-!CN@CN
 HOST,xn--flw351e.com,GEOLOCATION-!CN@CN
-HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN@CN
-HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,hpstore.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,intel.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,21vbc.com,GEOLOCATION-!CN@CN

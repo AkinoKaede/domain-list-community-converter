@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,z.cn
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,www.amd.com
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN,certs-lb.apple.com.akadns.net
@@ -66,6 +68,7 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,beats1.cn
 DOMAIN-SUFFIX,beats1.com.cn
 DOMAIN-SUFFIX,beats2.com.cn
@@ -84,8 +87,6 @@ DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
 DOMAIN-SUFFIX,itunesradio.cn
 DOMAIN-SUFFIX,itunesradio.com.cn
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-store.cn
@@ -229,7 +230,6 @@ DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
 DOMAIN,cdsassets.apple.com
-DOMAIN,certs.apple.com
 DOMAIN,cl2-cn.apple.com
 DOMAIN,cl4-cn.apple.com
 DOMAIN,clientflow.apple.com
@@ -237,7 +237,6 @@ DOMAIN,clientflow.apple.com.akadns.net
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
-DOMAIN,crl.apple.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
@@ -290,10 +289,6 @@ DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,music.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
-DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.g.aaplimg.com
@@ -336,8 +331,6 @@ DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-map.apple.com
@@ -408,8 +401,9 @@ DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstaticcnapps.cn
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN,www.recaptcha.net
-DOMAIN,safebrowsing-cache.google.com
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -438,7 +432,6 @@ DOMAIN,cnappinstall.googleadapis.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,content.googleadapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,crl.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dg-meta.video.google.com
@@ -450,7 +443,6 @@ DOMAIN,download.mlcc.google.com
 DOMAIN,download.qatp1.net
 DOMAIN,download.tensorflow.google.com
 DOMAIN,emmapplecodevice.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
@@ -489,10 +481,8 @@ DOMAIN,logger-dev.corp.google.com
 DOMAIN,logger.corp.google.com
 DOMAIN,login.corp.google.com
 DOMAIN,monitoring.qpdp1.net
-DOMAIN,ocsp.pki.goog
 DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,performanceparameters.googleapis.com
-DOMAIN,pki-goog.l.google.com
 DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
@@ -511,7 +501,6 @@ DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
 DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,redirector.c.youtubeeducation.com
 DOMAIN,redirector.gcpcdn.gvt1.com
 DOMAIN,redirector.gvt1.com
@@ -550,8 +539,6 @@ DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
-DOMAIN-SUFFIX,gvt1-cn.com
-DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN-SUFFIX,hpstore.cn
 DOMAIN-SUFFIX,intel.cn
 DOMAIN-SUFFIX,kaspersky.com.cn

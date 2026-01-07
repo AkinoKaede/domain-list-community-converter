@@ -7,6 +7,7 @@ HOST,ocsp.apple.com,CATEGORY-CAS@CN
 HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,ocsp2.apple.com,CATEGORY-CAS@CN
 HOST,valid.apple.com,CATEGORY-CAS@CN
+HOST,valid.origin-apple.com.akadns.net,CATEGORY-CAS@CN
 HOST-SUFFIX,dcocsp.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,digicert.cn,CATEGORY-CAS@CN
 HOST,www.entrust.cn,CATEGORY-CAS@CN

@@ -182,6 +182,20 @@ HOST-SUFFIX,xtls.github.io,GEOLOCATION-!CN
 HOST-SUFFIX,trojan-gfw.github.io,GEOLOCATION-!CN
 HOST-SUFFIX,zeronet.io,GEOLOCATION-!CN
 HOST-SUFFIX,metacubex.one,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok-free.app,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok-free.dev,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok-free.pizza,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.app,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.com,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.dev,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.io,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.pizza,GEOLOCATION-!CN
+HOST-SUFFIX,ngrok.pro,GEOLOCATION-!CN
+HOST-SUFFIX,pinggy.io,GEOLOCATION-!CN
+HOST-SUFFIX,pinggy.link,GEOLOCATION-!CN
+HOST-SUFFIX,tailscale.com,GEOLOCATION-!CN
+HOST-SUFFIX,tailscale.io,GEOLOCATION-!CN
+HOST-SUFFIX,ts.net,GEOLOCATION-!CN
 HOST-SUFFIX,artstation.com,GEOLOCATION-!CN
 HOST-SUFFIX,artstationmedia.com,GEOLOCATION-!CN
 HOST-SUFFIX,drbl.in,GEOLOCATION-!CN
@@ -2437,6 +2451,7 @@ HOST,ocsp.apple.com,GEOLOCATION-!CN
 HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,ocsp2.apple.com,GEOLOCATION-!CN
 HOST,valid.apple.com,GEOLOCATION-!CN
+HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN
 HOST-SUFFIX,buypass-ssl.com,GEOLOCATION-!CN
 HOST-SUFFIX,buypass.com,GEOLOCATION-!CN
 HOST-SUFFIX,buypass.no,GEOLOCATION-!CN
@@ -18447,7 +18462,6 @@ HOST,cds-cdn.v.aaplimg.com,GEOLOCATION-!CN
 HOST,cds.apple.com,GEOLOCATION-!CN
 HOST,cds.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,cdsassets.apple.com,GEOLOCATION-!CN
-HOST,certs.apple.com,GEOLOCATION-!CN
 HOST,cl2-cn.apple.com,GEOLOCATION-!CN
 HOST,cl4-cn.apple.com,GEOLOCATION-!CN
 HOST,clientflow.apple.com,GEOLOCATION-!CN
@@ -18455,7 +18469,6 @@ HOST,clientflow.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,cn-smp-paymentservices.apple.com,GEOLOCATION-!CN
 HOST,configuration.apple.com,GEOLOCATION-!CN
 HOST,configuration.apple.com.akadns.net,GEOLOCATION-!CN
-HOST,crl.apple.com,GEOLOCATION-!CN
 HOST,cstat.apple.com,GEOLOCATION-!CN
 HOST,cstat.cdn-apple.com,GEOLOCATION-!CN
 HOST,dd-cdn.origin-apple.com.akadns.net,GEOLOCATION-!CN
@@ -18508,10 +18521,6 @@ HOST,mesu-china.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,mesu.apple.com,GEOLOCATION-!CN
 HOST,ml.cdn-apple.com,GEOLOCATION-!CN
 HOST,music.apple.com,GEOLOCATION-!CN
-HOST,ocsp-lb.apple.com.akadns.net,GEOLOCATION-!CN
-HOST,ocsp.apple.com,GEOLOCATION-!CN
-HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN
-HOST,ocsp2.apple.com,GEOLOCATION-!CN
 HOST,oscdn.apple.com,GEOLOCATION-!CN
 HOST,oscdn.origin-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,osxapps.itunes.g.aaplimg.com,GEOLOCATION-!CN
@@ -18554,8 +18563,6 @@ HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN
 HOST,updates-http.cdn-apple.com,GEOLOCATION-!CN
 HOST,updates-http.cdn-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,updates.cdn-apple.com,GEOLOCATION-!CN
-HOST,valid.apple.com,GEOLOCATION-!CN
-HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,weather-data.apple.com,GEOLOCATION-!CN
 HOST,weather-data.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,weather-map.apple.com,GEOLOCATION-!CN
@@ -20512,8 +20519,9 @@ HOST-SUFFIX,xn--gogl-1nd42e.com,GEOLOCATION-!CN
 HOST-SUFFIX,xplr.co,GEOLOCATION-!CN
 HOST-SUFFIX,zukunftswerkstatt.de,GEOLOCATION-!CN
 HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,GEOLOCATION-!CN
+HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN
+HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN
 HOST,www.recaptcha.net,GEOLOCATION-!CN
-HOST,safebrowsing-cache.google.com,GEOLOCATION-!CN
 HOST,265.com,GEOLOCATION-!CN
 HOST,2mdn-cn.net,GEOLOCATION-!CN
 HOST,2mdn.net,GEOLOCATION-!CN
@@ -20542,7 +20550,6 @@ HOST,cnappinstall.googleadapis.com,GEOLOCATION-!CN
 HOST,connectivitycheck.gstatic.com,GEOLOCATION-!CN
 HOST,content.googleadapis.com,GEOLOCATION-!CN
 HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN
-HOST,crl.pki.goog,GEOLOCATION-!CN
 HOST,csi.gstatic.com,GEOLOCATION-!CN
 HOST,dartsearch-cn.net,GEOLOCATION-!CN
 HOST,dg-meta.video.google.com,GEOLOCATION-!CN
@@ -20554,7 +20561,6 @@ HOST,download.mlcc.google.com,GEOLOCATION-!CN
 HOST,download.qatp1.net,GEOLOCATION-!CN
 HOST,download.tensorflow.google.com,GEOLOCATION-!CN
 HOST,emmapplecodevice.googleapis.com,GEOLOCATION-!CN
-HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN
 HOST,fontfiles.googleapis.com,GEOLOCATION-!CN
 HOST,fonts.googleapis.com,GEOLOCATION-!CN
 HOST,fonts.gstatic.com,GEOLOCATION-!CN
@@ -20593,10 +20599,8 @@ HOST,logger-dev.corp.google.com,GEOLOCATION-!CN
 HOST,logger.corp.google.com,GEOLOCATION-!CN
 HOST,login.corp.google.com,GEOLOCATION-!CN
 HOST,monitoring.qpdp1.net,GEOLOCATION-!CN
-HOST,ocsp.pki.goog,GEOLOCATION-!CN
 HOST,pagead-googlehosted.l.google.com,GEOLOCATION-!CN
 HOST,performanceparameters.googleapis.com,GEOLOCATION-!CN
-HOST,pki-goog.l.google.com,GEOLOCATION-!CN
 HOST,prod-controlbe.floonet.goog,GEOLOCATION-!CN
 HOST,prod-databe.floonet.goog,GEOLOCATION-!CN
 HOST,prod.databe.floonet.goog,GEOLOCATION-!CN
@@ -20615,7 +20619,6 @@ HOST,redirector.bdn.dev,GEOLOCATION-!CN
 HOST,redirector.c.chat.google.com,GEOLOCATION-!CN
 HOST,redirector.c.mail.google.com,GEOLOCATION-!CN
 HOST,redirector.c.pack.google.com,GEOLOCATION-!CN
-HOST,redirector.c.play.google.com,GEOLOCATION-!CN
 HOST,redirector.c.youtubeeducation.com,GEOLOCATION-!CN
 HOST,redirector.gcpcdn.gvt1.com,GEOLOCATION-!CN
 HOST,redirector.gvt1.com,GEOLOCATION-!CN
@@ -20654,8 +20657,6 @@ HOST,www.destinationurl.com,GEOLOCATION-!CN
 HOST,www.gstatic.com,GEOLOCATION-!CN
 HOST,www.pxcc.com,GEOLOCATION-!CN
 HOST,xn--flw351e.com,GEOLOCATION-!CN
-HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN
-HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,first-ns.de,GEOLOCATION-!CN
 HOST-SUFFIX,hetzner-cloud.de,GEOLOCATION-!CN
 HOST-SUFFIX,hetzner.cloud,GEOLOCATION-!CN
@@ -22262,9 +22263,6 @@ HOST-SUFFIX,familyds.org,GEOLOCATION-!CN
 HOST-SUFFIX,i234.me,GEOLOCATION-!CN
 HOST-SUFFIX,myds.me,GEOLOCATION-!CN
 HOST-SUFFIX,synology.me,GEOLOCATION-!CN
-HOST-SUFFIX,tailscale.com,GEOLOCATION-!CN
-HOST-SUFFIX,tailscale.io,GEOLOCATION-!CN
-HOST-SUFFIX,ts.net,GEOLOCATION-!CN
 HOST-SUFFIX,boringcompany.com,GEOLOCATION-!CN
 HOST-SUFFIX,internetdownloadmanager.com,GEOLOCATION-!CN
 HOST-SUFFIX,registeridm.com,GEOLOCATION-!CN
