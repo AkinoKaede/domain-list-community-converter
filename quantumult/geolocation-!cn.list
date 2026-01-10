@@ -44,6 +44,7 @@ HOST-SUFFIX,notebooklm.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,jules.google,GEOLOCATION-!CN
 HOST-SUFFIX,jules.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,labs.google,GEOLOCATION-!CN
+HOST-SUFFIX,labs.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,aisandbox-pa.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,aida.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,opal.google,GEOLOCATION-!CN
