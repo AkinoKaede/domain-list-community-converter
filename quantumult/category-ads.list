@@ -460,12 +460,15 @@ HOST-SUFFIX,isdspeed.qq.com,CATEGORY-ADS
 HOST-SUFFIX,log.tbs.qq.com,CATEGORY-ADS
 HOST-SUFFIX,mdt.qq.com,CATEGORY-ADS
 HOST-SUFFIX,monitor.music.qq.com,CATEGORY-ADS
+HOST-SUFFIX,monitor.uu.qq.com,CATEGORY-ADS
 HOST-SUFFIX,mpush.qq.com,CATEGORY-ADS
 HOST-SUFFIX,mtrace.qq.com,CATEGORY-ADS
 HOST-SUFFIX,pgdt.gtimg.cn,CATEGORY-ADS
 HOST-SUFFIX,pingjs.qq.com,CATEGORY-ADS
+HOST-SUFFIX,pmir.3g.qq.com,CATEGORY-ADS
 HOST-SUFFIX,push.qq.com,CATEGORY-ADS
 HOST-SUFFIX,report.qqweb.qq.com,CATEGORY-ADS
+HOST-SUFFIX,rmonitor.qq.com,CATEGORY-ADS
 HOST-SUFFIX,sngmta.qq.com,CATEGORY-ADS
 HOST-SUFFIX,stat.y.qq.com,CATEGORY-ADS
 HOST-SUFFIX,tajs.qq.com,CATEGORY-ADS
@@ -520,8 +523,10 @@ HOST-SUFFIX,logupdate.avlyun.sec.miui.com,CATEGORY-ADS
 HOST-SUFFIX,misc.in.duokanbox.com,CATEGORY-ADS
 HOST-SUFFIX,sentry.d.mi.com,CATEGORY-ADS
 HOST-SUFFIX,sentry.d.xiaomi.net,CATEGORY-ADS
+HOST-SUFFIX,stats.music.xiaomi.com,CATEGORY-ADS
 HOST-SUFFIX,tjqonline.cn,CATEGORY-ADS
 HOST-SUFFIX,tracker.ai.xiaomi.com,CATEGORY-ADS
+HOST-SUFFIX,tracker.xiaomixiaoai.com,CATEGORY-ADS
 HOST-SUFFIX,tracking.miui.com,CATEGORY-ADS
 HOST-SUFFIX,adbehavior.ximalaya.com,CATEGORY-ADS
 HOST-SUFFIX,adse.wsa.ximalaya.com,CATEGORY-ADS
@@ -622,3 +627,5 @@ HOST-SUFFIX,reyun.com,CATEGORY-ADS
 HOST-SUFFIX,zhugeapi.com,CATEGORY-ADS
 HOST-SUFFIX,zhugeapi.net,CATEGORY-ADS
 HOST-SUFFIX,zhugeio.com,CATEGORY-ADS
+HOST-SUFFIX,atrace.chelaile.net.cn,CATEGORY-ADS
+HOST-SUFFIX,logs.chelaile.net.cn,CATEGORY-ADS

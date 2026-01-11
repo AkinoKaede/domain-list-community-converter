@@ -386,12 +386,15 @@ HOST-SUFFIX,isdspeed.qq.com,TENCENT
 HOST-SUFFIX,log.tbs.qq.com,TENCENT
 HOST-SUFFIX,mdt.qq.com,TENCENT
 HOST-SUFFIX,monitor.music.qq.com,TENCENT
+HOST-SUFFIX,monitor.uu.qq.com,TENCENT
 HOST-SUFFIX,mpush.qq.com,TENCENT
 HOST-SUFFIX,mtrace.qq.com,TENCENT
 HOST-SUFFIX,pgdt.gtimg.cn,TENCENT
 HOST-SUFFIX,pingjs.qq.com,TENCENT
+HOST-SUFFIX,pmir.3g.qq.com,TENCENT
 HOST-SUFFIX,push.qq.com,TENCENT
 HOST-SUFFIX,report.qqweb.qq.com,TENCENT
+HOST-SUFFIX,rmonitor.qq.com,TENCENT
 HOST-SUFFIX,sngmta.qq.com,TENCENT
 HOST-SUFFIX,stat.y.qq.com,TENCENT
 HOST-SUFFIX,tajs.qq.com,TENCENT

@@ -376,12 +376,15 @@ HOST-SUFFIX,isdspeed.qq.com,CN@ADS
 HOST-SUFFIX,log.tbs.qq.com,CN@ADS
 HOST-SUFFIX,mdt.qq.com,CN@ADS
 HOST-SUFFIX,monitor.music.qq.com,CN@ADS
+HOST-SUFFIX,monitor.uu.qq.com,CN@ADS
 HOST-SUFFIX,mpush.qq.com,CN@ADS
 HOST-SUFFIX,mtrace.qq.com,CN@ADS
 HOST-SUFFIX,pgdt.gtimg.cn,CN@ADS
 HOST-SUFFIX,pingjs.qq.com,CN@ADS
+HOST-SUFFIX,pmir.3g.qq.com,CN@ADS
 HOST-SUFFIX,push.qq.com,CN@ADS
 HOST-SUFFIX,report.qqweb.qq.com,CN@ADS
+HOST-SUFFIX,rmonitor.qq.com,CN@ADS
 HOST-SUFFIX,sngmta.qq.com,CN@ADS
 HOST-SUFFIX,stat.y.qq.com,CN@ADS
 HOST-SUFFIX,tajs.qq.com,CN@ADS
@@ -407,6 +410,8 @@ HOST-SUFFIX,logupdate.avlyun.sec.miui.com,CN@ADS
 HOST-SUFFIX,misc.in.duokanbox.com,CN@ADS
 HOST-SUFFIX,sentry.d.mi.com,CN@ADS
 HOST-SUFFIX,sentry.d.xiaomi.net,CN@ADS
+HOST-SUFFIX,stats.music.xiaomi.com,CN@ADS
 HOST-SUFFIX,tjqonline.cn,CN@ADS
 HOST-SUFFIX,tracker.ai.xiaomi.com,CN@ADS
+HOST-SUFFIX,tracker.xiaomixiaoai.com,CN@ADS
 HOST-SUFFIX,tracking.miui.com,CN@ADS
