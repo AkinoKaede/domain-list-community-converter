@@ -13,12 +13,15 @@ HOST,rtlog3-applog-hl.fqnovel.com,BYTEDANCE
 HOST,rtlog3-applog.fqnovel.com,BYTEDANCE
 HOST,rtlog5-applog-hl.fqnovel.com,BYTEDANCE
 HOST,rtlog5-applog.fqnovel.com,BYTEDANCE
+HOST-SUFFIX,ad.toutiao.com,BYTEDANCE
+HOST-SUFFIX,analytics.tiktok.com,BYTEDANCE
 HOST-SUFFIX,bds.snssdk.com,BYTEDANCE
 HOST-SUFFIX,byteadverts.com,BYTEDANCE
 HOST-SUFFIX,ctobsnssdk.com,BYTEDANCE
 HOST-SUFFIX,dig.bdurl.net,BYTEDANCE
 HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE
 HOST-SUFFIX,i.snssdk.com,BYTEDANCE
+HOST-SUFFIX,log.zijieapi.com,BYTEDANCE
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE

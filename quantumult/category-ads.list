@@ -74,6 +74,7 @@ HOST-SUFFIX,v6-adashx.ut.ele.me,CATEGORY-ADS
 HOST-SUFFIX,v6-adashx.ut.taobao.com,CATEGORY-ADS
 HOST-SUFFIX,amazon-adsystem.com,CATEGORY-ADS
 HOST-SUFFIX,serving-sys.com,CATEGORY-ADS
+HOST-SUFFIX,advertising.apple.com,CATEGORY-ADS
 HOST-SUFFIX,api-adservices.apple.com,CATEGORY-ADS
 HOST-SUFFIX,iadsdk.apple.com,CATEGORY-ADS
 HOST-SUFFIX,iad.apple.com,CATEGORY-ADS
@@ -151,12 +152,15 @@ HOST,rtlog3-applog-hl.fqnovel.com,CATEGORY-ADS
 HOST,rtlog3-applog.fqnovel.com,CATEGORY-ADS
 HOST,rtlog5-applog-hl.fqnovel.com,CATEGORY-ADS
 HOST,rtlog5-applog.fqnovel.com,CATEGORY-ADS
+HOST-SUFFIX,ad.toutiao.com,CATEGORY-ADS
+HOST-SUFFIX,analytics.tiktok.com,CATEGORY-ADS
 HOST-SUFFIX,bds.snssdk.com,CATEGORY-ADS
 HOST-SUFFIX,byteadverts.com,CATEGORY-ADS
 HOST-SUFFIX,ctobsnssdk.com,CATEGORY-ADS
 HOST-SUFFIX,dig.bdurl.net,CATEGORY-ADS
 HOST-SUFFIX,extlog.snssdk.com,CATEGORY-ADS
 HOST-SUFFIX,i.snssdk.com,CATEGORY-ADS
+HOST-SUFFIX,log.zijieapi.com,CATEGORY-ADS
 HOST-SUFFIX,mcs.snssdk.com,CATEGORY-ADS
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,CATEGORY-ADS
 HOST-SUFFIX,pangolin-dsp-toutiao.com,CATEGORY-ADS
@@ -182,6 +186,7 @@ HOST-SUFFIX,najva.com,CATEGORY-ADS
 HOST-SUFFIX,sabavision.com,CATEGORY-ADS
 HOST-SUFFIX,tapsell.ir,CATEGORY-ADS
 HOST-SUFFIX,yektanet.com,CATEGORY-ADS
+HOST-SUFFIX,ad.cctv.com,CATEGORY-ADS
 HOST-SUFFIX,clearbit.com,CATEGORY-ADS
 HOST-SUFFIX,clearbitjs.com,CATEGORY-ADS
 HOST-SUFFIX,clearbitscripts.com,CATEGORY-ADS
@@ -201,8 +206,6 @@ HOST-SUFFIX,metrics.duolingo.com,CATEGORY-ADS
 HOST-SUFFIX,analytics.vpc.duolingo.com,CATEGORY-ADS
 HOST-SUFFIX,emogi.com,CATEGORY-ADS
 HOST-SUFFIX,data.flurry.com,CATEGORY-ADS
-HOST-SUFFIX,collector.github.com,CATEGORY-ADS
-HOST-SUFFIX,copilot-telemetry.githubusercontent.com,CATEGORY-ADS
 HOST-SUFFIX,2mdn-cn.net,CATEGORY-ADS
 HOST-SUFFIX,2mdn.net,CATEGORY-ADS
 HOST-SUFFIX,admob-cn.com,CATEGORY-ADS
@@ -306,6 +309,8 @@ HOST-SUFFIX,graph.instagram.com,CATEGORY-ADS
 HOST-SUFFIX,graph-fallback.instagram.com,CATEGORY-ADS
 HOST-SUFFIX,graph.whatsapp.com,CATEGORY-ADS
 HOST-SUFFIX,graph.whatsapp.net,CATEGORY-ADS
+HOST-SUFFIX,collector.github.com,CATEGORY-ADS
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,CATEGORY-ADS
 HOST-SUFFIX,browser.events.data.msn.cn,CATEGORY-ADS
 HOST-SUFFIX,browser.events.data.msn.com,CATEGORY-ADS
 HOST-SUFFIX,clarity.ms,CATEGORY-ADS
@@ -413,6 +418,7 @@ HOST-SUFFIX,g1.tagtic.cn,CATEGORY-ADS
 HOST-SUFFIX,xy-log.tagtic.cn,CATEGORY-ADS
 HOST-SUFFIX,ssp.api.tappx.com,CATEGORY-ADS
 HOST-SUFFIX,ad.hpplay.cn,CATEGORY-ADS
+HOST-SUFFIX,adc.hpplay.cn,CATEGORY-ADS
 HOST-SUFFIX,adeng.hpplay.cn,CATEGORY-ADS
 HOST-SUFFIX,ads-uo.api.leiniao.com,CATEGORY-ADS
 HOST-SUFFIX,ads-ut.api.leiniao.com,CATEGORY-ADS
@@ -467,6 +473,7 @@ HOST-SUFFIX,pgdt.gtimg.cn,CATEGORY-ADS
 HOST-SUFFIX,pingjs.qq.com,CATEGORY-ADS
 HOST-SUFFIX,pmir.3g.qq.com,CATEGORY-ADS
 HOST-SUFFIX,push.qq.com,CATEGORY-ADS
+HOST-SUFFIX,qqdata.ab.qq.com,CATEGORY-ADS
 HOST-SUFFIX,report.qqweb.qq.com,CATEGORY-ADS
 HOST-SUFFIX,rmonitor.qq.com,CATEGORY-ADS
 HOST-SUFFIX,sngmta.qq.com,CATEGORY-ADS
@@ -475,9 +482,11 @@ HOST-SUFFIX,tajs.qq.com,CATEGORY-ADS
 HOST-SUFFIX,tcss.qq.com,CATEGORY-ADS
 HOST-SUFFIX,tmead.y.qq.com,CATEGORY-ADS
 HOST-SUFFIX,tmeadcomm.y.qq.com,CATEGORY-ADS
+HOST-SUFFIX,tpstelemetry.tencent.com,CATEGORY-ADS
 HOST-SUFFIX,trace.qq.com,CATEGORY-ADS
 HOST-SUFFIX,ugdtimg.com,CATEGORY-ADS
 HOST-SUFFIX,wit.qq.com,CATEGORY-ADS
+HOST-SUFFIX,tdsdk.cpatrk.net,CATEGORY-ADS
 HOST-SUFFIX,uberads.com,CATEGORY-ADS
 HOST-SUFFIX,aaid.umeng.com,CATEGORY-ADS
 HOST-SUFFIX,alog.umeng.com,CATEGORY-ADS
@@ -547,6 +556,7 @@ HOST-SUFFIX,adbutter.net,CATEGORY-ADS
 HOST-SUFFIX,addthisedge.com,CATEGORY-ADS
 HOST-SUFFIX,ads.trafficjunky.net,CATEGORY-ADS
 HOST-SUFFIX,ads.wteam.xyz,CATEGORY-ADS
+HOST-SUFFIX,adservice.sigmob.cn,CATEGORY-ADS
 HOST-SUFFIX,adtechus.com,CATEGORY-ADS
 HOST-SUFFIX,adtrue.com,CATEGORY-ADS
 HOST-SUFFIX,adxprtz.com,CATEGORY-ADS

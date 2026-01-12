@@ -36,6 +36,7 @@ HOST-SUFFIX,advertising.adobe.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,tubemogul.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,amazon-adsystem.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,serving-sys.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,advertising.apple.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,api-adservices.apple.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,iadsdk.apple.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,iad.apple.com,GEOLOCATION-!CN@ADS

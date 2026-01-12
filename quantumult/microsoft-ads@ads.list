@@ -1,3 +1,5 @@
+HOST-SUFFIX,collector.github.com,MICROSOFT-ADS@ADS
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,MICROSOFT-ADS@ADS
 HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT-ADS@ADS
 HOST-SUFFIX,browser.events.data.msn.com,MICROSOFT-ADS@ADS
 HOST-SUFFIX,clarity.ms,MICROSOFT-ADS@ADS

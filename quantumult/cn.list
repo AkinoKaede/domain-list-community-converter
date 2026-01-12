@@ -1108,6 +1108,7 @@ HOST-SUFFIX,zggbdszt.cn,CN
 HOST-SUFFIX,zggbdszt.com.cn,CN
 HOST-SUFFIX,zggbdszt.net.cn,CN
 HOST-SUFFIX,zygbdszt.net.cn,CN
+HOST-SUFFIX,ad.cctv.com,CN
 HOST-SUFFIX,chinanews.com,CN
 HOST-SUFFIX,chinanews.com.cn,CN
 HOST-SUFFIX,cns.com.cn,CN
@@ -1423,10 +1424,10 @@ HOST-SUFFIX,duowan.com,CN
 HOST-SUFFIX,dwstatic.com,CN
 HOST-SUFFIX,yy.com,CN
 HOST-SUFFIX,yystatic.com,CN
-HOST-SUFFIX,crash2.zhihu.com,CN
-HOST-SUFFIX,zhihu-web-analytics.zhihu.com,CN
 HOST-SUFFIX,zhihu.com,CN
 HOST-SUFFIX,zhimg.com,CN
+HOST-SUFFIX,crash2.zhihu.com,CN
+HOST-SUFFIX,zhihu-web-analytics.zhihu.com,CN
 HOST-SUFFIX,tieba.baidu.com,CN
 HOST-SUFFIX,tieba.com,CN
 HOST-SUFFIX,dandan818.com,CN
@@ -3324,6 +3325,7 @@ HOST-SUFFIX,tendcloud.com,CN
 HOST-SUFFIX,talkingdata.com,CN
 HOST-SUFFIX,talkinggame.com,CN
 HOST-SUFFIX,cpatrk.net,CN
+HOST-SUFFIX,tdsdk.cpatrk.net,CN
 HOST-SUFFIX,vaptcha.com,CN
 HOST-SUFFIX,vaptcha.net,CN
 HOST-SUFFIX,hf-aw.cn,CN
@@ -3914,12 +3916,15 @@ HOST-SUFFIX,bsurl.cn,CN
 HOST-SUFFIX,zhiye.com,CN
 HOST-SUFFIX,sl916.com,CN
 HOST-SUFFIX,bluepoch.com,CN
+HOST-SUFFIX,ad.toutiao.com,CN
+HOST-SUFFIX,analytics.tiktok.com,CN
 HOST-SUFFIX,bds.snssdk.com,CN
 HOST-SUFFIX,byteadverts.com,CN
 HOST-SUFFIX,ctobsnssdk.com,CN
 HOST-SUFFIX,dig.bdurl.net,CN
 HOST-SUFFIX,extlog.snssdk.com,CN
 HOST-SUFFIX,i.snssdk.com,CN
+HOST-SUFFIX,log.zijieapi.com,CN
 HOST-SUFFIX,mcs.snssdk.com,CN
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,CN
 HOST-SUFFIX,pangolin-dsp-toutiao.com,CN
@@ -5657,6 +5662,7 @@ HOST-SUFFIX,pgdt.gtimg.cn,CN
 HOST-SUFFIX,pingjs.qq.com,CN
 HOST-SUFFIX,pmir.3g.qq.com,CN
 HOST-SUFFIX,push.qq.com,CN
+HOST-SUFFIX,qqdata.ab.qq.com,CN
 HOST-SUFFIX,report.qqweb.qq.com,CN
 HOST-SUFFIX,rmonitor.qq.com,CN
 HOST-SUFFIX,sngmta.qq.com,CN
@@ -5665,6 +5671,7 @@ HOST-SUFFIX,tajs.qq.com,CN
 HOST-SUFFIX,tcss.qq.com,CN
 HOST-SUFFIX,tmead.y.qq.com,CN
 HOST-SUFFIX,tmeadcomm.y.qq.com,CN
+HOST-SUFFIX,tpstelemetry.tencent.com,CN
 HOST-SUFFIX,trace.qq.com,CN
 HOST-SUFFIX,ugdtimg.com,CN
 HOST-SUFFIX,wit.qq.com,CN

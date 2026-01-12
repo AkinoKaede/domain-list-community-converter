@@ -40,6 +40,7 @@ HOST-SUFFIX,pgdt.gtimg.cn,TENCENT-ADS
 HOST-SUFFIX,pingjs.qq.com,TENCENT-ADS
 HOST-SUFFIX,pmir.3g.qq.com,TENCENT-ADS
 HOST-SUFFIX,push.qq.com,TENCENT-ADS
+HOST-SUFFIX,qqdata.ab.qq.com,TENCENT-ADS
 HOST-SUFFIX,report.qqweb.qq.com,TENCENT-ADS
 HOST-SUFFIX,rmonitor.qq.com,TENCENT-ADS
 HOST-SUFFIX,sngmta.qq.com,TENCENT-ADS
@@ -48,6 +49,7 @@ HOST-SUFFIX,tajs.qq.com,TENCENT-ADS
 HOST-SUFFIX,tcss.qq.com,TENCENT-ADS
 HOST-SUFFIX,tmead.y.qq.com,TENCENT-ADS
 HOST-SUFFIX,tmeadcomm.y.qq.com,TENCENT-ADS
+HOST-SUFFIX,tpstelemetry.tencent.com,TENCENT-ADS
 HOST-SUFFIX,trace.qq.com,TENCENT-ADS
 HOST-SUFFIX,ugdtimg.com,TENCENT-ADS
 HOST-SUFFIX,wit.qq.com,TENCENT-ADS

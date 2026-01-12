@@ -49,6 +49,7 @@ HOST-SUFFIX,apple.www.letv.com,CN@ADS
 HOST-SUFFIX,ark.letv.com,CN@ADS
 HOST-SUFFIX,dc.letv.com,CN@ADS
 HOST-SUFFIX,g3.letv.com,CN@ADS
+HOST-SUFFIX,ad.cctv.com,CN@ADS
 HOST-SUFFIX,adnet.sohu.com,CN@ADS
 HOST-SUFFIX,ads.sohu.com,CN@ADS
 HOST-SUFFIX,adv-sv-show.focus.cn,CN@ADS
@@ -177,6 +178,7 @@ HOST-SUFFIX,gia.jd.com,CN@ADS
 HOST-SUFFIX,img-x.jd.com,CN@ADS
 HOST-SUFFIX,jzt.jd.com,CN@ADS
 HOST-SUFFIX,stat.m.jd.com,CN@ADS
+HOST-SUFFIX,tdsdk.cpatrk.net,CN@ADS
 HOST-SUFFIX,adashx.ut.amap.com,CN@ADS
 HOST-SUFFIX,dualstack-logs.amap.com,CN@ADS
 HOST-SUFFIX,logs.amap.com,CN@ADS
@@ -296,12 +298,15 @@ HOST-SUFFIX,wangmeng.baidu.com,CN@ADS
 HOST-SUFFIX,wkctj.baidu.com,CN@ADS
 HOST-SUFFIX,wm.baidu.com,CN@ADS
 HOST-SUFFIX,zz.bdstatic.com,CN@ADS
+HOST-SUFFIX,ad.toutiao.com,CN@ADS
+HOST-SUFFIX,analytics.tiktok.com,CN@ADS
 HOST-SUFFIX,bds.snssdk.com,CN@ADS
 HOST-SUFFIX,byteadverts.com,CN@ADS
 HOST-SUFFIX,ctobsnssdk.com,CN@ADS
 HOST-SUFFIX,dig.bdurl.net,CN@ADS
 HOST-SUFFIX,extlog.snssdk.com,CN@ADS
 HOST-SUFFIX,i.snssdk.com,CN@ADS
+HOST-SUFFIX,log.zijieapi.com,CN@ADS
 HOST-SUFFIX,mcs.snssdk.com,CN@ADS
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,CN@ADS
 HOST-SUFFIX,pangolin-dsp-toutiao.com,CN@ADS
@@ -383,6 +388,7 @@ HOST-SUFFIX,pgdt.gtimg.cn,CN@ADS
 HOST-SUFFIX,pingjs.qq.com,CN@ADS
 HOST-SUFFIX,pmir.3g.qq.com,CN@ADS
 HOST-SUFFIX,push.qq.com,CN@ADS
+HOST-SUFFIX,qqdata.ab.qq.com,CN@ADS
 HOST-SUFFIX,report.qqweb.qq.com,CN@ADS
 HOST-SUFFIX,rmonitor.qq.com,CN@ADS
 HOST-SUFFIX,sngmta.qq.com,CN@ADS
@@ -391,6 +397,7 @@ HOST-SUFFIX,tajs.qq.com,CN@ADS
 HOST-SUFFIX,tcss.qq.com,CN@ADS
 HOST-SUFFIX,tmead.y.qq.com,CN@ADS
 HOST-SUFFIX,tmeadcomm.y.qq.com,CN@ADS
+HOST-SUFFIX,tpstelemetry.tencent.com,CN@ADS
 HOST-SUFFIX,trace.qq.com,CN@ADS
 HOST-SUFFIX,ugdtimg.com,CN@ADS
 HOST-SUFFIX,wit.qq.com,CN@ADS

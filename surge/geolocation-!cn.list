@@ -8682,8 +8682,6 @@ DOMAIN-SUFFIX,nudevista.com
 DOMAIN-SUFFIX,nudevista.es
 DOMAIN-SUFFIX,nudevista.net
 DOMAIN-SUFFIX,nudevista.vip
-DOMAIN,ad-channel.diwodiwo.xyz
-DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
@@ -8695,6 +8693,8 @@ DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,diwodiwo.xyz
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboy.com.uk
 DOMAIN-SUFFIX,gaytube.com
@@ -16843,6 +16843,7 @@ DOMAIN-SUFFIX,firstns.cc
 DOMAIN-SUFFIX,fourthns.systems
 DOMAIN-SUFFIX,secondns.at
 DOMAIN-SUFFIX,thirdns.de
+DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
