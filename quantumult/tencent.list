@@ -354,6 +354,7 @@ HOST-SUFFIX,rumt-us.com,TENCENT
 HOST-SUFFIX,ad.browser.qq.com,TENCENT
 HOST-SUFFIX,ad.qq.com,TENCENT
 HOST-SUFFIX,ad.qun.qq.com,TENCENT
+HOST-SUFFIX,ad.tencentmusic.com,TENCENT
 HOST-SUFFIX,ad.weixin.qq.com,TENCENT
 HOST-SUFFIX,adfilter.imtt.qq.com,TENCENT
 HOST-SUFFIX,adnet.qq.com,TENCENT
@@ -395,6 +396,7 @@ HOST-SUFFIX,pmir.3g.qq.com,TENCENT
 HOST-SUFFIX,push.qq.com,TENCENT
 HOST-SUFFIX,qqdata.ab.qq.com,TENCENT
 HOST-SUFFIX,report.qqweb.qq.com,TENCENT
+HOST-SUFFIX,report.tencentmusic.com,TENCENT
 HOST-SUFFIX,rmonitor.qq.com,TENCENT
 HOST-SUFFIX,sngmta.qq.com,TENCENT
 HOST-SUFFIX,stat.y.qq.com,TENCENT
@@ -584,3 +586,13 @@ HOST-SUFFIX,fymallqa3.com,TENCENT
 HOST-SUFFIX,fymallqa4.com,TENCENT
 HOST-SUFFIX,fymallqa7.com,TENCENT
 HOST-SUFFIX,fymallqa9.com,TENCENT
+HOST-SUFFIX,tdnsdl1.cn,TENCENT
+HOST-SUFFIX,tdnsdl1.com.cn,TENCENT
+HOST-SUFFIX,tdnsdl2.cn,TENCENT
+HOST-SUFFIX,tdnsdl2.com.cn,TENCENT
+HOST-SUFFIX,tdnsdl3.cn,TENCENT
+HOST-SUFFIX,tdnsdl3.com.cn,TENCENT
+HOST-SUFFIX,tdnsdl4.cn,TENCENT
+HOST-SUFFIX,tdnsdl4.com.cn,TENCENT
+HOST-SUFFIX,tdnsdl5.cn,TENCENT
+HOST-SUFFIX,tdnsdl5.com.cn,TENCENT

@@ -1,6 +1,7 @@
 HOST-SUFFIX,ad.browser.qq.com,TENCENT-ADS
 HOST-SUFFIX,ad.qq.com,TENCENT-ADS
 HOST-SUFFIX,ad.qun.qq.com,TENCENT-ADS
+HOST-SUFFIX,ad.tencentmusic.com,TENCENT-ADS
 HOST-SUFFIX,ad.weixin.qq.com,TENCENT-ADS
 HOST-SUFFIX,adfilter.imtt.qq.com,TENCENT-ADS
 HOST-SUFFIX,adnet.qq.com,TENCENT-ADS
@@ -42,6 +43,7 @@ HOST-SUFFIX,pmir.3g.qq.com,TENCENT-ADS
 HOST-SUFFIX,push.qq.com,TENCENT-ADS
 HOST-SUFFIX,qqdata.ab.qq.com,TENCENT-ADS
 HOST-SUFFIX,report.qqweb.qq.com,TENCENT-ADS
+HOST-SUFFIX,report.tencentmusic.com,TENCENT-ADS
 HOST-SUFFIX,rmonitor.qq.com,TENCENT-ADS
 HOST-SUFFIX,sngmta.qq.com,TENCENT-ADS
 HOST-SUFFIX,stat.y.qq.com,TENCENT-ADS
