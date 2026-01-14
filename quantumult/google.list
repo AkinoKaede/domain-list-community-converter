@@ -181,6 +181,11 @@ HOST-SUFFIX,aistudio.google.com,GOOGLE
 HOST-SUFFIX,bard.google.com,GOOGLE
 HOST-SUFFIX,gemini.google,GOOGLE
 HOST-SUFFIX,gemini.google.com,GOOGLE
+HOST,cloudaicompanion.googleapis.com,GOOGLE
+HOST,cloudcode-pa.googleapis.com,GOOGLE
+HOST,daily-cloudcode-pa.googleapis.com,GOOGLE
+HOST,notebooklm-pa.googleapis.com,GOOGLE
+HOST,notebooklm.googleapis.com,GOOGLE
 HOST-SUFFIX,notebooklm.google,GOOGLE
 HOST-SUFFIX,notebooklm.google.com,GOOGLE
 HOST-SUFFIX,jules.google,GOOGLE
@@ -191,6 +196,10 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE
 HOST-SUFFIX,aida.googleapis.com,GOOGLE
 HOST-SUFFIX,opal.google,GOOGLE
 HOST-SUFFIX,opal.google.com,GOOGLE
+HOST,antigravity-pa.googleapis.com,GOOGLE
+HOST,antigravity.googleapis.com,GOOGLE
+HOST-SUFFIX,antigravity.google,GOOGLE
+HOST-SUFFIX,antigravity-unleash.goog,GOOGLE
 HOST-SUFFIX,googleplay.com,GOOGLE
 HOST-SUFFIX,play-fe.googleapis.com,GOOGLE
 HOST-SUFFIX,play-games.googleusercontent.com,GOOGLE

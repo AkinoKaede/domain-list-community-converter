@@ -3853,6 +3853,11 @@ HOST-SUFFIX,aistudio.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,bard.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,gemini.google,CATEGORY-COMPANIES
 HOST-SUFFIX,gemini.google.com,CATEGORY-COMPANIES
+HOST,cloudaicompanion.googleapis.com,CATEGORY-COMPANIES
+HOST,cloudcode-pa.googleapis.com,CATEGORY-COMPANIES
+HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-COMPANIES
+HOST,notebooklm-pa.googleapis.com,CATEGORY-COMPANIES
+HOST,notebooklm.googleapis.com,CATEGORY-COMPANIES
 HOST-SUFFIX,notebooklm.google,CATEGORY-COMPANIES
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,jules.google,CATEGORY-COMPANIES
@@ -3863,6 +3868,10 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,CATEGORY-COMPANIES
 HOST-SUFFIX,aida.googleapis.com,CATEGORY-COMPANIES
 HOST-SUFFIX,opal.google,CATEGORY-COMPANIES
 HOST-SUFFIX,opal.google.com,CATEGORY-COMPANIES
+HOST,antigravity-pa.googleapis.com,CATEGORY-COMPANIES
+HOST,antigravity.googleapis.com,CATEGORY-COMPANIES
+HOST-SUFFIX,antigravity.google,CATEGORY-COMPANIES
+HOST-SUFFIX,antigravity-unleash.goog,CATEGORY-COMPANIES
 HOST-SUFFIX,googleplay.com,CATEGORY-COMPANIES
 HOST-SUFFIX,play-fe.googleapis.com,CATEGORY-COMPANIES
 HOST-SUFFIX,play-games.googleusercontent.com,CATEGORY-COMPANIES

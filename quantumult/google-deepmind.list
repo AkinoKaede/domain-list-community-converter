@@ -15,6 +15,11 @@ HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,bard.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google.com,GOOGLE-DEEPMIND
+HOST,cloudaicompanion.googleapis.com,GOOGLE-DEEPMIND
+HOST,cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND
+HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND
+HOST,notebooklm-pa.googleapis.com,GOOGLE-DEEPMIND
+HOST,notebooklm.googleapis.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,notebooklm.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,notebooklm.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,jules.google,GOOGLE-DEEPMIND
@@ -25,3 +30,7 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,aida.googleapis.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,opal.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,opal.google.com,GOOGLE-DEEPMIND
+HOST,antigravity-pa.googleapis.com,GOOGLE-DEEPMIND
+HOST,antigravity.googleapis.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,antigravity.google,GOOGLE-DEEPMIND
+HOST-SUFFIX,antigravity-unleash.goog,GOOGLE-DEEPMIND

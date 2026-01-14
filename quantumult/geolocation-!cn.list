@@ -39,6 +39,11 @@ HOST-SUFFIX,aistudio.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,bard.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,gemini.google,GEOLOCATION-!CN
 HOST-SUFFIX,gemini.google.com,GEOLOCATION-!CN
+HOST,cloudaicompanion.googleapis.com,GEOLOCATION-!CN
+HOST,cloudcode-pa.googleapis.com,GEOLOCATION-!CN
+HOST,daily-cloudcode-pa.googleapis.com,GEOLOCATION-!CN
+HOST,notebooklm-pa.googleapis.com,GEOLOCATION-!CN
+HOST,notebooklm.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,notebooklm.google,GEOLOCATION-!CN
 HOST-SUFFIX,notebooklm.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,jules.google,GEOLOCATION-!CN
@@ -49,6 +54,10 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,aida.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,opal.google,GEOLOCATION-!CN
 HOST-SUFFIX,opal.google.com,GEOLOCATION-!CN
+HOST,antigravity-pa.googleapis.com,GEOLOCATION-!CN
+HOST,antigravity.googleapis.com,GEOLOCATION-!CN
+HOST-SUFFIX,antigravity.google,GEOLOCATION-!CN
+HOST-SUFFIX,antigravity-unleash.goog,GEOLOCATION-!CN
 HOST-SUFFIX,groq.com,GEOLOCATION-!CN
 HOST-SUFFIX,hf.co,GEOLOCATION-!CN
 HOST-SUFFIX,hf.space,GEOLOCATION-!CN
@@ -5360,6 +5369,7 @@ HOST-SUFFIX,xboxservices.com,GEOLOCATION-!CN
 HOST-SUFFIX,xboxstudios.com,GEOLOCATION-!CN
 HOST-SUFFIX,xbx.lv,GEOLOCATION-!CN
 HOST-SUFFIX,ynoproject.net,GEOLOCATION-!CN
+HOST-SUFFIX,dinopoloclub.com,GEOLOCATION-!CN
 HOST-SUFFIX,dodi-repacks.download,GEOLOCATION-!CN
 HOST-SUFFIX,dodi-repacks.site,GEOLOCATION-!CN
 HOST-SUFFIX,fabricmc.net,GEOLOCATION-!CN
@@ -5370,8 +5380,10 @@ HOST-SUFFIX,humblebundle.com,GEOLOCATION-!CN
 HOST-SUFFIX,joinsquad.com,GEOLOCATION-!CN
 HOST-SUFFIX,loverslab.com,GEOLOCATION-!CN
 HOST-SUFFIX,minecraft.wiki,GEOLOCATION-!CN
+HOST-SUFFIX,mobimon.com.tw,GEOLOCATION-!CN
 HOST-SUFFIX,nexus-cdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,nexusmods.com,GEOLOCATION-!CN
+HOST-SUFFIX,noxygames.com,GEOLOCATION-!CN
 HOST-SUFFIX,offworldindustries.com,GEOLOCATION-!CN
 HOST-SUFFIX,offworldindustries.net,GEOLOCATION-!CN
 HOST-SUFFIX,papermc.io,GEOLOCATION-!CN
@@ -5379,6 +5391,8 @@ HOST-SUFFIX,planetminecraft.com,GEOLOCATION-!CN
 HOST-SUFFIX,prismlauncher.org,GEOLOCATION-!CN
 HOST-SUFFIX,protondb.com,GEOLOCATION-!CN
 HOST-SUFFIX,quiltmc.org,GEOLOCATION-!CN
+HOST-SUFFIX,rayark.download,GEOLOCATION-!CN
+HOST-SUFFIX,rayark.net,GEOLOCATION-!CN
 HOST-SUFFIX,speedrun.com,GEOLOCATION-!CN
 HOST-SUFFIX,steamdb.info,GEOLOCATION-!CN
 HOST-SUFFIX,ptzwx.com,GEOLOCATION-!CN

@@ -39,6 +39,11 @@ HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.google.com,CATEGORY-AI-CHAT-!CN
+HOST,cloudaicompanion.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST,notebooklm-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST,notebooklm.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,jules.google,CATEGORY-AI-CHAT-!CN
@@ -49,6 +54,10 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aida.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,opal.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,opal.google.com,CATEGORY-AI-CHAT-!CN
+HOST,antigravity-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST,antigravity.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,antigravity.google,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,antigravity-unleash.goog,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,groq.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.space,CATEGORY-AI-CHAT-!CN
