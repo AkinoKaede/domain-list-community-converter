@@ -875,6 +875,7 @@ HOST-SUFFIX,miaopai.com,CN
 HOST-SUFFIX,motie.com,CN
 HOST-SUFFIX,motieimg.com,CN
 HOST-SUFFIX,pearvideo.com,CN
+HOST-SUFFIX,pipi.cn,CN
 HOST-SUFFIX,sfacg.com,CN
 HOST-SUFFIX,shuhai.com,CN
 HOST-SUFFIX,tadu.com,CN
@@ -1445,6 +1446,7 @@ HOST-SUFFIX,dandan818.com,CN
 HOST-SUFFIX,dandanvoice.com,CN
 HOST-SUFFIX,maimai.cn,CN
 HOST-SUFFIX,taou.com,CN
+HOST-SUFFIX,zsxq.com,CN
 HOST-SUFFIX,gepush.com,CN
 HOST-SUFFIX,getui.cn,CN
 HOST-SUFFIX,getui.com,CN
@@ -3381,6 +3383,7 @@ HOST-SUFFIX,zbjimg.com,CN
 HOST-SUFFIX,zhubajie.com,CN
 HOST-SUFFIX,7moor-fs1.com,CN
 HOST-SUFFIX,7moor.com,CN
+HOST-SUFFIX,alookweb.com,CN
 HOST-SUFFIX,antutu.com,CN
 HOST-SUFFIX,antutu.net,CN
 HOST-SUFFIX,bambulab.com,CN
@@ -3392,11 +3395,21 @@ HOST-SUFFIX,xiachufang.com,CN
 HOST-SUFFIX,clink.cn,CN
 HOST-SUFFIX,dangbei.com,CN
 HOST-SUFFIX,dangbei.net,CN
+HOST-SUFFIX,dcloud.io,CN
+HOST-SUFFIX,dcloud.net.cn,CN
 HOST-SUFFIX,deepepg.com,CN
 HOST-SUFFIX,kookong.com,CN
 HOST-SUFFIX,dida365.com,CN
+HOST-SUFFIX,dui88.com,CN
+HOST-SUFFIX,duiba.com.cn,CN
 HOST-SUFFIX,hapjs.org,CN
 HOST-SUFFIX,quickapp.cn,CN
+HOST-SUFFIX,hpplay.cn,CN
+HOST-SUFFIX,lbtp.com,CN
+HOST-SUFFIX,lebo.cn,CN
+HOST-SUFFIX,lebo.com.cn,CN
+HOST-SUFFIX,lebo.top,CN
+HOST-SUFFIX,mirrorcast.cn,CN
 HOST-SUFFIX,huolala.cn,CN
 HOST-SUFFIX,huorong.cn,CN
 HOST-SUFFIX,i8tq.com,CN
@@ -3420,6 +3433,7 @@ HOST-SUFFIX,sobot.com,CN
 HOST-SUFFIX,soboten.com,CN
 HOST-SUFFIX,tacool.com,CN
 HOST-SUFFIX,viayoo.com,CN
+HOST-SUFFIX,xbext.com,CN
 HOST-SUFFIX,yinxiang.com,CN
 HOST-SUFFIX,zhaopin.cn,CN
 HOST-SUFFIX,1tyy.cn,CN
@@ -6002,6 +6016,7 @@ HOST-SUFFIX,migu.cn,CN
 HOST-SUFFIX,migucloud.com,CN
 HOST-SUFFIX,migufun.com,CN
 HOST-SUFFIX,miguvideo.com,CN
+HOST-SUFFIX,cmft.com.cn,CN
 HOST-SUFFIX,cmcc-cs.cn,CN
 HOST-SUFFIX,online-cmcc.cn,CN
 HOST-SUFFIX,andfx.cn,CN
