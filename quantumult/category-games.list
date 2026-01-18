@@ -663,6 +663,10 @@ HOST-SUFFIX,playstation.com,CATEGORY-GAMES
 HOST-SUFFIX,playstation.net,CATEGORY-GAMES
 HOST-SUFFIX,sonyentertainmentnetwork.com,CATEGORY-GAMES
 HOST-SUFFIX,sekai.colorfulpalette.org,CATEGORY-GAMES
+HOST-SUFFIX,kraftonde.com,CATEGORY-GAMES
+HOST-SUFFIX,playbattlegrounds.com,CATEGORY-GAMES
+HOST-SUFFIX,pubg.com,CATEGORY-GAMES
+HOST,pubg1.battleye.com,CATEGORY-GAMES
 HOST-SUFFIX,priconne-redive.jp,CATEGORY-GAMES
 HOST-SUFFIX,api-priconne-redive.cygames.jp,CATEGORY-GAMES
 HOST-SUFFIX,omotenashi.cygames.jp,CATEGORY-GAMES

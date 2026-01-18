@@ -437,6 +437,10 @@ HOST-SUFFIX,playstation.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,playstation.net,CATEGORY-GAMES-!CN
 HOST-SUFFIX,sonyentertainmentnetwork.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,sekai.colorfulpalette.org,CATEGORY-GAMES-!CN
+HOST-SUFFIX,kraftonde.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,playbattlegrounds.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,pubg.com,CATEGORY-GAMES-!CN
+HOST,pubg1.battleye.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,priconne-redive.jp,CATEGORY-GAMES-!CN
 HOST-SUFFIX,api-priconne-redive.cygames.jp,CATEGORY-GAMES-!CN
 HOST-SUFFIX,omotenashi.cygames.jp,CATEGORY-GAMES-!CN

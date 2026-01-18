@@ -5116,6 +5116,10 @@ HOST-SUFFIX,playstation.com,GEOLOCATION-!CN
 HOST-SUFFIX,playstation.net,GEOLOCATION-!CN
 HOST-SUFFIX,sonyentertainmentnetwork.com,GEOLOCATION-!CN
 HOST-SUFFIX,sekai.colorfulpalette.org,GEOLOCATION-!CN
+HOST-SUFFIX,kraftonde.com,GEOLOCATION-!CN
+HOST-SUFFIX,playbattlegrounds.com,GEOLOCATION-!CN
+HOST-SUFFIX,pubg.com,GEOLOCATION-!CN
+HOST,pubg1.battleye.com,GEOLOCATION-!CN
 HOST-SUFFIX,priconne-redive.jp,GEOLOCATION-!CN
 HOST-SUFFIX,api-priconne-redive.cygames.jp,GEOLOCATION-!CN
 HOST-SUFFIX,omotenashi.cygames.jp,GEOLOCATION-!CN
