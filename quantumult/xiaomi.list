@@ -22,6 +22,10 @@ HOST-SUFFIX,tracking.miui.com,XIAOMI
 HOST-SUFFIX,miaibox.com,XIAOMI
 HOST-SUFFIX,xiaoaiassist.com,XIAOMI
 HOST-SUFFIX,xiaomimimo.com,XIAOMI
+HOST-SUFFIX,account.xiaomi.com,XIAOMI
+HOST-SUFFIX,cn-ha.mqtt.io.mi.com,XIAOMI
+HOST-SUFFIX,ha.api.io.mi.com,XIAOMI
+HOST-SUFFIX,miot-spec.org,XIAOMI
 HOST-SUFFIX,mgslb.com,XIAOMI
 HOST-SUFFIX,mi-idc.com,XIAOMI
 HOST-SUFFIX,mi-img.com,XIAOMI
