@@ -64,8 +64,9 @@ HOST-SUFFIX,hf.space,GEOLOCATION-!CN
 HOST-SUFFIX,huggingface.co,GEOLOCATION-!CN
 HOST-SUFFIX,liveperson.net,GEOLOCATION-!CN
 HOST-SUFFIX,lpsnmedia.net,GEOLOCATION-!CN
-HOST-SUFFIX,chatgpt.com,GEOLOCATION-!CN
 HOST-SUFFIX,chat.com,GEOLOCATION-!CN
+HOST-SUFFIX,chatgpt.com,GEOLOCATION-!CN
+HOST-SUFFIX,crixet.com,GEOLOCATION-!CN
 HOST-SUFFIX,oaistatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,oaiusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,openai.com,GEOLOCATION-!CN
@@ -73,10 +74,10 @@ HOST-SUFFIX,sora.com,GEOLOCATION-!CN
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,GEOLOCATION-!CN
 HOST,openaiapi-site.azureedge.net,GEOLOCATION-!CN
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,GEOLOCATION-!CN
+HOST,openaicom.imgix.net,GEOLOCATION-!CN
 HOST,openaicomproductionae4b.blob.core.windows.net,GEOLOCATION-!CN
 HOST,production-openaicom-storage.azureedge.net,GEOLOCATION-!CN
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN
-HOST,openaicom.imgix.net,GEOLOCATION-!CN
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN
 HOST-SUFFIX,chatgpt.livekit.cloud,GEOLOCATION-!CN
 HOST-SUFFIX,host.livekit.cloud,GEOLOCATION-!CN
@@ -4722,6 +4723,15 @@ HOST,blznav.akamaized.net,GEOLOCATION-!CN
 HOST-SUFFIX,bluearchive.jp,GEOLOCATION-!CN
 HOST-SUFFIX,bluearchive.nexon.com,GEOLOCATION-!CN
 HOST-SUFFIX,bluearchive-cn.com,GEOLOCATION-!CN
+HOST-SUFFIX,arma3.com,GEOLOCATION-!CN
+HOST-SUFFIX,armaplatform.com,GEOLOCATION-!CN
+HOST-SUFFIX,bistudio.com,GEOLOCATION-!CN
+HOST-SUFFIX,bohemia.net,GEOLOCATION-!CN
+HOST-SUFFIX,dayz.com,GEOLOCATION-!CN
+HOST-SUFFIX,makearmanotwar.com,GEOLOCATION-!CN
+HOST-SUFFIX,silicagame.com,GEOLOCATION-!CN
+HOST-SUFFIX,vigorgame.com,GEOLOCATION-!CN
+HOST-SUFFIX,ylands.com,GEOLOCATION-!CN
 HOST-SUFFIX,curseforge.com,GEOLOCATION-!CN
 HOST-SUFFIX,forgecdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,cygames.jp,GEOLOCATION-!CN
@@ -15286,6 +15296,7 @@ HOST-SUFFIX,rpglogs.cn,GEOLOCATION-!CN
 HOST-SUFFIX,thetrackernetwork.com,GEOLOCATION-!CN
 HOST-SUFFIX,tracker.gg,GEOLOCATION-!CN
 HOST-SUFFIX,tracker.network,GEOLOCATION-!CN
+HOST-SUFFIX,battleye.com,GEOLOCATION-!CN
 HOST-SUFFIX,bluestacks.com,GEOLOCATION-!CN
 HOST-SUFFIX,ldmnq.com,GEOLOCATION-!CN
 HOST-SUFFIX,lsplayer.com,GEOLOCATION-!CN
@@ -18468,6 +18479,7 @@ HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api.music.apple.com,GEOLOCATION-!CN
+HOST,aod-ssl.itunes.apple.com,GEOLOCATION-!CN
 HOST,aod.itunes.apple.com,GEOLOCATION-!CN
 HOST,api-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,apptrailers.itunes.apple.com,GEOLOCATION-!CN

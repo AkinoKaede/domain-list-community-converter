@@ -1,5 +1,4 @@
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
-HOST,openaicom.imgix.net,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.pubmatic.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS

@@ -74,6 +74,7 @@ HOST,amp-api-edge.apps.apple.com,APPLE@CN
 HOST,amp-api-search-edge.apps.apple.com,APPLE@CN
 HOST,amp-api.apps.apple.com,APPLE@CN
 HOST,amp-api.music.apple.com,APPLE@CN
+HOST,aod-ssl.itunes.apple.com,APPLE@CN
 HOST,aod.itunes.apple.com,APPLE@CN
 HOST,api-edge.apps.apple.com,APPLE@CN
 HOST,apptrailers.itunes.apple.com,APPLE@CN

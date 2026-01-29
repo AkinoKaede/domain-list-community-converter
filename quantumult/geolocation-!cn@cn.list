@@ -500,6 +500,7 @@ HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api.music.apple.com,GEOLOCATION-!CN@CN
+HOST,aod-ssl.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,aod.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,api-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,apptrailers.itunes.apple.com,GEOLOCATION-!CN@CN

@@ -2143,6 +2143,7 @@ HOST,amp-api-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,amp-api-search-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,amp-api.apps.apple.com,CATEGORY-COMPANIES
 HOST,amp-api.music.apple.com,CATEGORY-COMPANIES
+HOST,aod-ssl.itunes.apple.com,CATEGORY-COMPANIES
 HOST,aod.itunes.apple.com,CATEGORY-COMPANIES
 HOST,api-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,apptrailers.itunes.apple.com,CATEGORY-COMPANIES
