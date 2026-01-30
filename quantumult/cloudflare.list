@@ -59,6 +59,9 @@ HOST-SUFFIX,cloudflarewarp.com,CLOUDFLARE
 HOST-SUFFIX,cloudflareworkers.com,CLOUDFLARE
 HOST-SUFFIX,encryptedsni.com,CLOUDFLARE
 HOST-SUFFIX,every1dns.net,CLOUDFLARE
+HOST-SUFFIX,foundationdns.com,CLOUDFLARE
+HOST-SUFFIX,foundationdns.net,CLOUDFLARE
+HOST-SUFFIX,foundationdns.org,CLOUDFLARE
 HOST-SUFFIX,imagedelivery.net,CLOUDFLARE
 HOST-SUFFIX,isbgpsafeyet.com,CLOUDFLARE
 HOST-SUFFIX,one.one.one,CLOUDFLARE

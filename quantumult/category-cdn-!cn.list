@@ -142,6 +142,9 @@ HOST-SUFFIX,cloudflarewarp.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflareworkers.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,encryptedsni.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,every1dns.net,CATEGORY-CDN-!CN
+HOST-SUFFIX,foundationdns.com,CATEGORY-CDN-!CN
+HOST-SUFFIX,foundationdns.net,CATEGORY-CDN-!CN
+HOST-SUFFIX,foundationdns.org,CATEGORY-CDN-!CN
 HOST-SUFFIX,imagedelivery.net,CATEGORY-CDN-!CN
 HOST-SUFFIX,isbgpsafeyet.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,one.one.one,CATEGORY-CDN-!CN
