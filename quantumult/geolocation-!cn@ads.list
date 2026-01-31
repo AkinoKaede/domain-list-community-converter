@@ -1,6 +1,5 @@
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,ads.pubmatic.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ad.games.dmm.com,GEOLOCATION-!CN@ADS
@@ -25,12 +24,8 @@ HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,ads.unitychina.cn,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,splash-ads.cdn.unity.cn,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,splash-ads.unitychina.cn,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,unityads.unity.cn,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,iads.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,unityads.unity3d.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,unityads.unitychina.cn,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertising.adobe.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,tubemogul.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,amazon-adsystem.com,GEOLOCATION-!CN@ADS

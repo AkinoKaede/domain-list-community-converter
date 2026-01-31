@@ -1,6 +1,5 @@
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,ads.pubmatic.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,ad.games.dmm.com
@@ -25,12 +24,8 @@ DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
-DOMAIN-SUFFIX,unityads.unity.cn
+DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,amazon-adsystem.com
