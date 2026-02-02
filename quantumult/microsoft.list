@@ -280,6 +280,7 @@ HOST,default.exp-tas.com,MICROSOFT
 HOST,developer.microsoft.com,MICROSOFT
 HOST,download.visualstudio.microsoft.com,MICROSOFT
 HOST,dtlgalleryint.cloudapp.net,MICROSOFT
+HOST,packages.microsoft.com,MICROSOFT
 HOST,poshtestgallery.cloudapp.net,MICROSOFT
 HOST,psg-int-centralus.cloudapp.net,MICROSOFT
 HOST,psg-int-eastus.cloudapp.net,MICROSOFT

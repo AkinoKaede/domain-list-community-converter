@@ -6485,6 +6485,7 @@ HOST,default.exp-tas.com,CATEGORY-COMPANIES
 HOST,developer.microsoft.com,CATEGORY-COMPANIES
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES
 HOST,dtlgalleryint.cloudapp.net,CATEGORY-COMPANIES
+HOST,packages.microsoft.com,CATEGORY-COMPANIES
 HOST,poshtestgallery.cloudapp.net,CATEGORY-COMPANIES
 HOST,psg-int-centralus.cloudapp.net,CATEGORY-COMPANIES
 HOST,psg-int-eastus.cloudapp.net,CATEGORY-COMPANIES

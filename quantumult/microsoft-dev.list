@@ -59,6 +59,7 @@ HOST,default.exp-tas.com,MICROSOFT-DEV
 HOST,developer.microsoft.com,MICROSOFT-DEV
 HOST,download.visualstudio.microsoft.com,MICROSOFT-DEV
 HOST,dtlgalleryint.cloudapp.net,MICROSOFT-DEV
+HOST,packages.microsoft.com,MICROSOFT-DEV
 HOST,poshtestgallery.cloudapp.net,MICROSOFT-DEV
 HOST,psg-int-centralus.cloudapp.net,MICROSOFT-DEV
 HOST,psg-int-eastus.cloudapp.net,MICROSOFT-DEV

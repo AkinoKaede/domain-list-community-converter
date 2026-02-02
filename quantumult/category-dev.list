@@ -347,6 +347,7 @@ HOST,default.exp-tas.com,CATEGORY-DEV
 HOST,developer.microsoft.com,CATEGORY-DEV
 HOST,download.visualstudio.microsoft.com,CATEGORY-DEV
 HOST,dtlgalleryint.cloudapp.net,CATEGORY-DEV
+HOST,packages.microsoft.com,CATEGORY-DEV
 HOST,poshtestgallery.cloudapp.net,CATEGORY-DEV
 HOST,psg-int-centralus.cloudapp.net,CATEGORY-DEV
 HOST,psg-int-eastus.cloudapp.net,CATEGORY-DEV

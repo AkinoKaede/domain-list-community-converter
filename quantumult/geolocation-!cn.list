@@ -2910,6 +2910,7 @@ HOST-SUFFIX,binanceapi.com,GEOLOCATION-!CN
 HOST-SUFFIX,binanceru.net,GEOLOCATION-!CN
 HOST-SUFFIX,bnbstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,bntrace.com,GEOLOCATION-!CN
+HOST-SUFFIX,bsappapi.com,GEOLOCATION-!CN
 HOST-SUFFIX,nftstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,appsflayer.com,GEOLOCATION-!CN
 HOST-SUFFIX,saasexch.cc,GEOLOCATION-!CN
@@ -5143,6 +5144,7 @@ HOST-SUFFIX,playstation.com,GEOLOCATION-!CN
 HOST-SUFFIX,playstation.net,GEOLOCATION-!CN
 HOST-SUFFIX,sonyentertainmentnetwork.com,GEOLOCATION-!CN
 HOST-SUFFIX,sekai.colorfulpalette.org,GEOLOCATION-!CN
+HOST-SUFFIX,pjsekai.sega.jp,GEOLOCATION-!CN
 HOST-SUFFIX,kraftonde.com,GEOLOCATION-!CN
 HOST-SUFFIX,playbattlegrounds.com,GEOLOCATION-!CN
 HOST-SUFFIX,pubg.com,GEOLOCATION-!CN
@@ -16221,6 +16223,7 @@ HOST,default.exp-tas.com,GEOLOCATION-!CN
 HOST,developer.microsoft.com,GEOLOCATION-!CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN
 HOST,dtlgalleryint.cloudapp.net,GEOLOCATION-!CN
+HOST,packages.microsoft.com,GEOLOCATION-!CN
 HOST,poshtestgallery.cloudapp.net,GEOLOCATION-!CN
 HOST,psg-int-centralus.cloudapp.net,GEOLOCATION-!CN
 HOST,psg-int-eastus.cloudapp.net,GEOLOCATION-!CN
