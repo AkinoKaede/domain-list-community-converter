@@ -182,6 +182,7 @@ HOST,bj1.api.bing.com,MICROSOFT
 HOST,emoi-cncdn.bing.com,MICROSOFT
 HOST-SUFFIX,collector.github.com,MICROSOFT
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,MICROSOFT
+HOST-SUFFIX,githubcopilot.com,MICROSOFT
 HOST-SUFFIX,npm.community,MICROSOFT
 HOST-SUFFIX,npmjs.com,MICROSOFT
 HOST-SUFFIX,npmjs.org,MICROSOFT
@@ -198,7 +199,6 @@ HOST-SUFFIX,github.dev,MICROSOFT
 HOST-SUFFIX,github.io,MICROSOFT
 HOST-SUFFIX,githubapp.com,MICROSOFT
 HOST-SUFFIX,githubassets.com,MICROSOFT
-HOST-SUFFIX,githubcopilot.com,MICROSOFT
 HOST-SUFFIX,githubhackathon.com,MICROSOFT
 HOST-SUFFIX,githubnext.com,MICROSOFT
 HOST-SUFFIX,githubpreview.dev,MICROSOFT

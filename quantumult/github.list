@@ -1,5 +1,6 @@
 HOST-SUFFIX,collector.github.com,GITHUB
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GITHUB
+HOST-SUFFIX,githubcopilot.com,GITHUB
 HOST-SUFFIX,npm.community,GITHUB
 HOST-SUFFIX,npmjs.com,GITHUB
 HOST-SUFFIX,npmjs.org,GITHUB
@@ -16,7 +17,6 @@ HOST-SUFFIX,github.dev,GITHUB
 HOST-SUFFIX,github.io,GITHUB
 HOST-SUFFIX,githubapp.com,GITHUB
 HOST-SUFFIX,githubassets.com,GITHUB
-HOST-SUFFIX,githubcopilot.com,GITHUB
 HOST-SUFFIX,githubhackathon.com,GITHUB
 HOST-SUFFIX,githubnext.com,GITHUB
 HOST-SUFFIX,githubpreview.dev,GITHUB

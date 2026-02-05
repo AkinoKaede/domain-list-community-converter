@@ -181,6 +181,7 @@ HOST-SUFFIX,gitbook.com,CATEGORY-DEV
 HOST-SUFFIX,gitbook.io,CATEGORY-DEV
 HOST-SUFFIX,collector.github.com,CATEGORY-DEV
 HOST-SUFFIX,copilot-telemetry.githubusercontent.com,CATEGORY-DEV
+HOST-SUFFIX,githubcopilot.com,CATEGORY-DEV
 HOST-SUFFIX,npm.community,CATEGORY-DEV
 HOST-SUFFIX,npmjs.com,CATEGORY-DEV
 HOST-SUFFIX,npmjs.org,CATEGORY-DEV
@@ -197,7 +198,6 @@ HOST-SUFFIX,github.dev,CATEGORY-DEV
 HOST-SUFFIX,github.io,CATEGORY-DEV
 HOST-SUFFIX,githubapp.com,CATEGORY-DEV
 HOST-SUFFIX,githubassets.com,CATEGORY-DEV
-HOST-SUFFIX,githubcopilot.com,CATEGORY-DEV
 HOST-SUFFIX,githubhackathon.com,CATEGORY-DEV
 HOST-SUFFIX,githubnext.com,CATEGORY-DEV
 HOST-SUFFIX,githubpreview.dev,CATEGORY-DEV
