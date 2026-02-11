@@ -1,3 +1,9 @@
+HOST-SUFFIX,dmm.co.jp,DMM
+HOST-SUFFIX,dmmrex.com,DMM
+HOST-SUFFIX,dmm.com,DMM
+HOST-SUFFIX,dmm-extension.com,DMM
+HOST-SUFFIX,dmmapis.com,DMM
+HOST,api-p.videomarket.jp,DMM
 HOST-SUFFIX,ad.games.dmm.com,DMM
 HOST-SUFFIX,bluekai.com,DMM
 HOST-SUFFIX,fout.jp,DMM
@@ -9,9 +15,3 @@ HOST-SUFFIX,ladsp.com,DMM
 HOST-SUFFIX,microad.co.jp,DMM
 HOST-SUFFIX,microad.jp,DMM
 HOST-SUFFIX,socdm.com,DMM
-HOST-SUFFIX,dmm.co.jp,DMM
-HOST-SUFFIX,dmmrex.com,DMM
-HOST-SUFFIX,dmm.com,DMM
-HOST-SUFFIX,dmm-extension.com,DMM
-HOST-SUFFIX,dmmapis.com,DMM
-HOST,api-p.videomarket.jp,DMM

@@ -1,3 +1,10 @@
+HOST-SUFFIX,cici.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,ciciai.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,ciciaicdn.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,dola.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,coze.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,marscode.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,trae.ai,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,bytedapm.com,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,byteoversea.com,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,muscdn.com,GEOLOCATION-!CN@!CN
@@ -33,12 +40,16 @@ HOST,roovza-launches.appsflyersdk.com,GEOLOCATION-!CN@!CN
 HOST,roovza.inapps.appsflyersdk.com,GEOLOCATION-!CN@!CN
 HOST,roovza.launches.appsflyersdk.com,GEOLOCATION-!CN@!CN
 HOST,roovza.skadsdk.appsflyersdk.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,analytics.tiktok.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,webnovel.com,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.co.in,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alibabacloud.com,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.au,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.hk,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.my,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.sg,GEOLOCATION-!CN@!CN
 HOST-SUFFIX,alibabacloud.com.tw,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,alicloud.com,GEOLOCATION-!CN@!CN
 HOST,alt1-mtalk.google.com,GEOLOCATION-!CN@!CN
 HOST,alt2-mtalk.google.com,GEOLOCATION-!CN@!CN
 HOST,alt3-mtalk.google.com,GEOLOCATION-!CN@!CN

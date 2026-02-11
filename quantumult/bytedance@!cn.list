@@ -1,3 +1,10 @@
+HOST-SUFFIX,cici.com,BYTEDANCE@!CN
+HOST-SUFFIX,ciciai.com,BYTEDANCE@!CN
+HOST-SUFFIX,ciciaicdn.com,BYTEDANCE@!CN
+HOST-SUFFIX,dola.com,BYTEDANCE@!CN
+HOST-SUFFIX,coze.com,BYTEDANCE@!CN
+HOST-SUFFIX,marscode.com,BYTEDANCE@!CN
+HOST-SUFFIX,trae.ai,BYTEDANCE@!CN
 HOST-SUFFIX,bytedapm.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.com,BYTEDANCE@!CN
 HOST-SUFFIX,muscdn.com,BYTEDANCE@!CN
@@ -33,6 +40,7 @@ HOST,roovza-launches.appsflyersdk.com,BYTEDANCE@!CN
 HOST,roovza.inapps.appsflyersdk.com,BYTEDANCE@!CN
 HOST,roovza.launches.appsflyersdk.com,BYTEDANCE@!CN
 HOST,roovza.skadsdk.appsflyersdk.com,BYTEDANCE@!CN
+HOST-SUFFIX,analytics.tiktok.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteglb.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.com,BYTEDANCE@!CN
 HOST-SUFFIX,byteoversea.net,BYTEDANCE@!CN

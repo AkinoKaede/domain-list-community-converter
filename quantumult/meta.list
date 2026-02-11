@@ -392,6 +392,9 @@ HOST-SUFFIX,redkix.com,META
 HOST-SUFFIX,workplace.com,META
 HOST-SUFFIX,workplaceusecases.com,META
 HOST,fbcdn-a.akamaihd.net,META
+HOST-SUFFIX,analytics.facebook.com,META
+HOST-SUFFIX,facebookads.com,META
+HOST-SUFFIX,pixel.facebook.com,META
 HOST-SUFFIX,accountkit.com,META
 HOST-SUFFIX,atscaleconference.com,META
 HOST-SUFFIX,botorch.org,META
@@ -436,8 +439,6 @@ HOST-SUFFIX,rocksdb.net,META
 HOST-SUFFIX,rocksdb.org,META
 HOST-SUFFIX,yogalayout.com,META
 HOST,developers.facebook.com,META
-HOST-SUFFIX,graph.instagram.com,META
-HOST-SUFFIX,graph-fallback.instagram.com,META
 HOST-SUFFIX,achat-followers-instagram.com,META
 HOST-SUFFIX,acheter-followers-instagram.com,META
 HOST-SUFFIX,acheterdesfollowersinstagram.com,META
@@ -510,6 +511,8 @@ HOST-SUFFIX,online-instagram.com,META
 HOST-SUFFIX,onlineinstagram.com,META
 HOST-SUFFIX,web-instagram.net,META
 HOST-SUFFIX,wwwinstagram.com,META
+HOST-SUFFIX,graph.instagram.com,META
+HOST-SUFFIX,graph-fallback.instagram.com,META
 HOST-SUFFIX,fbmessenger.com,META
 HOST-SUFFIX,m.me,META
 HOST-SUFFIX,messenger.com,META
@@ -533,8 +536,6 @@ HOST-SUFFIX,oculusvr.com,META
 HOST-SUFFIX,powersunitedvr.com,META
 HOST-SUFFIX,threads.com,META
 HOST-SUFFIX,threads.net,META
-HOST-SUFFIX,graph.whatsapp.com,META
-HOST-SUFFIX,graph.whatsapp.net,META
 HOST-SUFFIX,wa.me,META
 HOST-SUFFIX,whatsapp-plus.info,META
 HOST-SUFFIX,whatsapp-plus.me,META
@@ -546,6 +547,8 @@ HOST-SUFFIX,whatsapp.net,META
 HOST-SUFFIX,whatsapp.org,META
 HOST-SUFFIX,whatsapp.tv,META
 HOST-SUFFIX,whatsappbrand.com,META
+HOST-SUFFIX,graph.whatsapp.com,META
+HOST-SUFFIX,graph.whatsapp.net,META
 HOST-SUFFIX,llama.com,META
 HOST-SUFFIX,meta.ai,META
 HOST-SUFFIX,meta.com,META

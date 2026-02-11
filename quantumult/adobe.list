@@ -136,8 +136,6 @@ HOST,wwis-dubc1-vip96.adobe.com,ADOBE
 HOST,wwis-dubc1-vip97.adobe.com,ADOBE
 HOST,wwis-dubc1-vip98.adobe.com,ADOBE
 HOST,wwis-dubc1-vip99.adobe.com,ADOBE
-HOST-SUFFIX,advertising.adobe.com,ADOBE
-HOST-SUFFIX,tubemogul.com,ADOBE
 HOST-SUFFIX,typekit.com,ADOBE
 HOST-SUFFIX,typekit.net,ADOBE
 HOST-SUFFIX,10xfotolia.com,ADOBE
@@ -262,3 +260,5 @@ HOST-SUFFIX,pdf.new,ADOBE
 HOST-SUFFIX,sign.new,ADOBE
 HOST-SUFFIX,scene7.com,ADOBE
 HOST-SUFFIX,adobestats.io,ADOBE
+HOST-SUFFIX,advertising.adobe.com,ADOBE
+HOST-SUFFIX,tubemogul.com,ADOBE

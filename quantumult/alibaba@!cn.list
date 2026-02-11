@@ -1,9 +1,11 @@
 HOST-SUFFIX,alibabacloud.co.in,ALIBABA@!CN
+HOST-SUFFIX,alibabacloud.com,ALIBABA@!CN
 HOST-SUFFIX,alibabacloud.com.au,ALIBABA@!CN
 HOST-SUFFIX,alibabacloud.com.hk,ALIBABA@!CN
 HOST-SUFFIX,alibabacloud.com.my,ALIBABA@!CN
 HOST-SUFFIX,alibabacloud.com.sg,ALIBABA@!CN
 HOST-SUFFIX,alibabacloud.com.tw,ALIBABA@!CN
+HOST-SUFFIX,alicloud.com,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-northeast-1.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-northeast-2.aliyuncs.com,ALIBABA@!CN
 HOST-SUFFIX,oss-ap-south-1.aliyuncs.com,ALIBABA@!CN

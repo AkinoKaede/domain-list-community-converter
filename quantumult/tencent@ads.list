@@ -1,3 +1,4 @@
+HOST-SUFFIX,badjs.weixinbridge.com,TENCENT@ADS
 HOST-SUFFIX,ad.browser.qq.com,TENCENT@ADS
 HOST-SUFFIX,ad.qq.com,TENCENT@ADS
 HOST-SUFFIX,ad.qun.qq.com,TENCENT@ADS
@@ -20,7 +21,6 @@ HOST-SUFFIX,adsview.qq.com,TENCENT@ADS
 HOST-SUFFIX,adsview2.qq.com,TENCENT@ADS
 HOST-SUFFIX,adv.app.qq.com,TENCENT@ADS
 HOST-SUFFIX,adver.qq.com,TENCENT@ADS
-HOST-SUFFIX,badjs.weixinbridge.com,TENCENT@ADS
 HOST-SUFFIX,beacon.cdn.qq.com,TENCENT@ADS
 HOST-SUFFIX,beacon.qq.com,TENCENT@ADS
 HOST-SUFFIX,beaconcdn.qq.com,TENCENT@ADS

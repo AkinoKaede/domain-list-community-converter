@@ -98,6 +98,7 @@ HOST-SUFFIX,reactorms.com.cn,MICROSOFT@CN
 HOST,www.microsoft.com,MICROSOFT@CN
 HOST-SUFFIX,microsoftnews.cn,MICROSOFT@CN
 HOST-SUFFIX,msn.cn,MICROSOFT@CN
+HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT@CN
 HOST-SUFFIX,xboxlive.cn,MICROSOFT@CN
 HOST-SUFFIX,dcg.microsoft.com,MICROSOFT@CN
 HOST-SUFFIX,dynamics.cn,MICROSOFT@CN

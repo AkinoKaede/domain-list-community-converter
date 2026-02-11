@@ -3,9 +3,6 @@ HOST-SUFFIX,flic.kr,YAHOO
 HOST-SUFFIX,flickr.com,YAHOO
 HOST-SUFFIX,flickr.net,YAHOO
 HOST-SUFFIX,staticflickr.com,YAHOO
-HOST-SUFFIX,ads.yahoo.com,YAHOO
-HOST-SUFFIX,gemini.yahoo.com,YAHOO
-HOST-SUFFIX,ysm.yahoo.com,YAHOO
 HOST-SUFFIX,yahoo,YAHOO
 HOST-SUFFIX,yahoo.ae,YAHOO
 HOST-SUFFIX,yahoo.am,YAHOO
@@ -173,3 +170,6 @@ HOST-SUFFIX,yimg.jp,YAHOO
 HOST-SUFFIX,ymail.com,YAHOO
 HOST-SUFFIX,yusercontent.com,YAHOO
 HOST,cdn.js7k.com,YAHOO
+HOST-SUFFIX,ads.yahoo.com,YAHOO
+HOST-SUFFIX,gemini.yahoo.com,YAHOO
+HOST-SUFFIX,ysm.yahoo.com,YAHOO

@@ -1,5 +1,5 @@
-HOST-SUFFIX,ads-api.duolingo.com,DUOLINGO
-HOST-SUFFIX,metrics.duolingo.com,DUOLINGO
-HOST-SUFFIX,analytics.vpc.duolingo.com,DUOLINGO
 HOST-SUFFIX,duolingo.com,DUOLINGO
 HOST-SUFFIX,duolingo.cn,DUOLINGO
+HOST-SUFFIX,ads-api.duolingo.com,DUOLINGO
+HOST-SUFFIX,analytics.vpc.duolingo.com,DUOLINGO
+HOST-SUFFIX,metrics.duolingo.com,DUOLINGO

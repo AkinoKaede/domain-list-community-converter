@@ -180,8 +180,6 @@ HOST-SUFFIX,r.bing.com,MICROSOFT
 HOST-SUFFIX,th.bing.com,MICROSOFT
 HOST,bj1.api.bing.com,MICROSOFT
 HOST,emoi-cncdn.bing.com,MICROSOFT
-HOST-SUFFIX,collector.github.com,MICROSOFT
-HOST-SUFFIX,copilot-telemetry.githubusercontent.com,MICROSOFT
 HOST-SUFFIX,githubcopilot.com,MICROSOFT
 HOST-SUFFIX,npm.community,MICROSOFT
 HOST-SUFFIX,npmjs.com,MICROSOFT
@@ -213,12 +211,8 @@ HOST-SUFFIX,thegithubshop.com,MICROSOFT
 HOST-SUFFIX,blob.core.windows.net,MICROSOFT
 HOST,github-api.arkoselabs.com,MICROSOFT
 HOST,github-cloud.s3.amazonaws.com,MICROSOFT
-HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT
-HOST-SUFFIX,browser.events.data.msn.com,MICROSOFT
-HOST-SUFFIX,clarity.ms,MICROSOFT
-HOST-SUFFIX,microsoftads.com,MICROSOFT
-HOST-SUFFIX,msads.net,MICROSOFT
-HOST-SUFFIX,nelreports.net,MICROSOFT
+HOST-SUFFIX,collector.github.com,MICROSOFT
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,MICROSOFT
 HOST-SUFFIX,adaptivecards.io,MICROSOFT
 HOST-SUFFIX,api-extractor.com,MICROSOFT
 HOST-SUFFIX,apisof.net,MICROSOFT
@@ -315,6 +309,8 @@ HOST-SUFFIX,msnewskids.org,MICROSOFT
 HOST-SUFFIX,msnkids.com,MICROSOFT
 HOST-SUFFIX,microsoftstart.com,MICROSOFT
 HOST-SUFFIX,start.com,MICROSOFT
+HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT
+HOST-SUFFIX,browser.events.data.msn.com,MICROSOFT
 HOST-SUFFIX,1drv.com,MICROSOFT
 HOST-SUFFIX,1drv.ms,MICROSOFT
 HOST-SUFFIX,livefilestore.com,MICROSOFT
@@ -652,6 +648,10 @@ HOST-SUFFIX,winhec.net,MICROSOFT
 HOST-SUFFIX,yammer.com,MICROSOFT
 HOST-SUFFIX,skype-edf.akadns.net,MICROSOFT
 HOST-SUFFIX,skypedata.akadns.net,MICROSOFT
+HOST-SUFFIX,clarity.ms,MICROSOFT
+HOST-SUFFIX,microsoftads.com,MICROSOFT
+HOST-SUFFIX,msads.net,MICROSOFT
+HOST-SUFFIX,nelreports.net,MICROSOFT
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,MICROSOFT
 HOST-SUFFIX,download.windowsupdate.com,MICROSOFT
 HOST,b.c2r.ts.cdn.office.net,MICROSOFT

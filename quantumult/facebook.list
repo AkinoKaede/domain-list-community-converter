@@ -392,3 +392,6 @@ HOST-SUFFIX,redkix.com,FACEBOOK
 HOST-SUFFIX,workplace.com,FACEBOOK
 HOST-SUFFIX,workplaceusecases.com,FACEBOOK
 HOST,fbcdn-a.akamaihd.net,FACEBOOK
+HOST-SUFFIX,analytics.facebook.com,FACEBOOK
+HOST-SUFFIX,facebookads.com,FACEBOOK
+HOST-SUFFIX,pixel.facebook.com,FACEBOOK

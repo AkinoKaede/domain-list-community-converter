@@ -3,3 +3,10 @@ HOST-SUFFIX,tcl.com,TCL
 HOST-SUFFIX,tcl.com.cn,TCL
 HOST-SUFFIX,tcltech.com,TCL
 HOST-SUFFIX,leiniao.com,TCL
+HOST-SUFFIX,my7v.com,TCL
+HOST-SUFFIX,ads-uo.api.leiniao.com,TCL
+HOST-SUFFIX,ads-ut.api.leiniao.com,TCL
+HOST-SUFFIX,ads.api.my7v.com,TCL
+HOST-SUFFIX,euads-o.api.leiniao.com,TCL
+HOST-SUFFIX,hwads-t.api.my7v.com,TCL
+HOST-SUFFIX,testads.api.my7v.com,TCL
