@@ -234,6 +234,7 @@ HOST-SUFFIX,steamchina.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstore.val.manlaxy.com,GEOLOCATION-!CN@CN
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xboxlive.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,yostar.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,amazonprimevideo.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,amazonprimevideo.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,ggpht.cn,GEOLOCATION-!CN@CN
