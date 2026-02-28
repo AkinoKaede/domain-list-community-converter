@@ -128,6 +128,7 @@ HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,CATEGORY-COMPANIES@CN
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,amp-api-edge-lb.itunes-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,amp-api-edge.apps.apple.com,CATEGORY-COMPANIES@CN
+HOST,amp-api-edge.music.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api-search-edge.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api.music.apple.com,CATEGORY-COMPANIES@CN
@@ -158,6 +159,8 @@ HOST,js-cdn.music.apple.com,CATEGORY-COMPANIES@CN
 HOST,km.support.apple.com,CATEGORY-COMPANIES@CN
 HOST,maps.apple.com,CATEGORY-COMPANIES@CN
 HOST,misc-assets.itunes.apple.com,CATEGORY-COMPANIES@CN
+HOST,musicstatus.music.apple.com,CATEGORY-COMPANIES@CN
+HOST,mvod.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,myapp.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,np-edge.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,osxapps.itunes.apple.com,CATEGORY-COMPANIES@CN
@@ -170,6 +173,7 @@ HOST,se2.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,search.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,sf-api-token-service.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,sp.itunes.apple.com,CATEGORY-COMPANIES@CN
+HOST,speedysub.music.apple.com,CATEGORY-COMPANIES@CN
 HOST,streamingaudio.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,su.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,sync.itunes.apple.com,CATEGORY-COMPANIES@CN

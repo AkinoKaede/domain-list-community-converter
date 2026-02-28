@@ -71,6 +71,7 @@ HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,APPLE@CN
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,APPLE@CN
 HOST,amp-api-edge-lb.itunes-apple.com.akadns.net,APPLE@CN
 HOST,amp-api-edge.apps.apple.com,APPLE@CN
+HOST,amp-api-edge.music.apple.com,APPLE@CN
 HOST,amp-api-search-edge.apps.apple.com,APPLE@CN
 HOST,amp-api.apps.apple.com,APPLE@CN
 HOST,amp-api.music.apple.com,APPLE@CN
@@ -101,6 +102,8 @@ HOST,js-cdn.music.apple.com,APPLE@CN
 HOST,km.support.apple.com,APPLE@CN
 HOST,maps.apple.com,APPLE@CN
 HOST,misc-assets.itunes.apple.com,APPLE@CN
+HOST,musicstatus.music.apple.com,APPLE@CN
+HOST,mvod.itunes.apple.com,APPLE@CN
 HOST,myapp.itunes.apple.com,APPLE@CN
 HOST,np-edge.itunes.apple.com,APPLE@CN
 HOST,osxapps.itunes.apple.com,APPLE@CN
@@ -113,6 +116,7 @@ HOST,se2.itunes.apple.com,APPLE@CN
 HOST,search.itunes.apple.com,APPLE@CN
 HOST,sf-api-token-service.itunes.apple.com,APPLE@CN
 HOST,sp.itunes.apple.com,APPLE@CN
+HOST,speedysub.music.apple.com,APPLE@CN
 HOST,streamingaudio.itunes.apple.com,APPLE@CN
 HOST,su.itunes.apple.com,APPLE@CN
 HOST,sync.itunes.apple.com,APPLE@CN

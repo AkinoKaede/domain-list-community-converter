@@ -498,6 +498,7 @@ HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,GEOLOCATION-!CN@CN
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,amp-api-edge-lb.itunes-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN@CN
+HOST,amp-api-edge.music.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api.music.apple.com,GEOLOCATION-!CN@CN
@@ -528,6 +529,8 @@ HOST,js-cdn.music.apple.com,GEOLOCATION-!CN@CN
 HOST,km.support.apple.com,GEOLOCATION-!CN@CN
 HOST,maps.apple.com,GEOLOCATION-!CN@CN
 HOST,misc-assets.itunes.apple.com,GEOLOCATION-!CN@CN
+HOST,musicstatus.music.apple.com,GEOLOCATION-!CN@CN
+HOST,mvod.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,myapp.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,np-edge.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,osxapps.itunes.apple.com,GEOLOCATION-!CN@CN
@@ -540,6 +543,7 @@ HOST,se2.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,search.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,sf-api-token-service.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,sp.itunes.apple.com,GEOLOCATION-!CN@CN
+HOST,speedysub.music.apple.com,GEOLOCATION-!CN@CN
 HOST,streamingaudio.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,su.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,sync.itunes.apple.com,GEOLOCATION-!CN@CN

@@ -88,6 +88,7 @@ HOST-SUFFIX,turn.livekit.cloud,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,perplexity.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,perplexity.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,pplx.ai,CATEGORY-AI-CHAT-!CN
+HOST,ppl-ai-file-upload.s3.amazonaws.com,CATEGORY-AI-CHAT-!CN
 HOST,pplx-res.cloudinary.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,poe.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,poecdn.net,CATEGORY-AI-CHAT-!CN

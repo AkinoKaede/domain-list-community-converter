@@ -88,6 +88,7 @@ HOST-SUFFIX,turn.livekit.cloud,GEOLOCATION-!CN
 HOST-SUFFIX,perplexity.ai,GEOLOCATION-!CN
 HOST-SUFFIX,perplexity.com,GEOLOCATION-!CN
 HOST-SUFFIX,pplx.ai,GEOLOCATION-!CN
+HOST,ppl-ai-file-upload.s3.amazonaws.com,GEOLOCATION-!CN
 HOST,pplx-res.cloudinary.com,GEOLOCATION-!CN
 HOST-SUFFIX,poe.com,GEOLOCATION-!CN
 HOST-SUFFIX,poecdn.net,GEOLOCATION-!CN
@@ -18725,6 +18726,7 @@ HOST-SUFFIX,courier-push-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,amp-api-edge-lb.itunes-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN
+HOST,amp-api-edge.music.apple.com,GEOLOCATION-!CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api.music.apple.com,GEOLOCATION-!CN
@@ -18755,6 +18757,8 @@ HOST,js-cdn.music.apple.com,GEOLOCATION-!CN
 HOST,km.support.apple.com,GEOLOCATION-!CN
 HOST,maps.apple.com,GEOLOCATION-!CN
 HOST,misc-assets.itunes.apple.com,GEOLOCATION-!CN
+HOST,musicstatus.music.apple.com,GEOLOCATION-!CN
+HOST,mvod.itunes.apple.com,GEOLOCATION-!CN
 HOST,myapp.itunes.apple.com,GEOLOCATION-!CN
 HOST,np-edge.itunes.apple.com,GEOLOCATION-!CN
 HOST,osxapps.itunes.apple.com,GEOLOCATION-!CN
@@ -18767,6 +18771,7 @@ HOST,se2.itunes.apple.com,GEOLOCATION-!CN
 HOST,search.itunes.apple.com,GEOLOCATION-!CN
 HOST,sf-api-token-service.itunes.apple.com,GEOLOCATION-!CN
 HOST,sp.itunes.apple.com,GEOLOCATION-!CN
+HOST,speedysub.music.apple.com,GEOLOCATION-!CN
 HOST,streamingaudio.itunes.apple.com,GEOLOCATION-!CN
 HOST,su.itunes.apple.com,GEOLOCATION-!CN
 HOST,sync.itunes.apple.com,GEOLOCATION-!CN
@@ -22945,6 +22950,7 @@ HOST-SUFFIX,yandexadexchange.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexcloud.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexcom.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexmetrica.com,GEOLOCATION-!CN
+HOST-SUFFIX,yandexwebcache.net,GEOLOCATION-!CN
 HOST-SUFFIX,yandexwebcache.org,GEOLOCATION-!CN
 HOST-SUFFIX,yastat.net,GEOLOCATION-!CN
 HOST-SUFFIX,yastatic-net.ru,GEOLOCATION-!CN
