@@ -327,8 +327,6 @@ DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,illusion.co.jp
-DOMAIN-SUFFIX,illusion.jp
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,lowiro.com
@@ -1125,6 +1123,7 @@ DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,chobit.cc
 DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsite.jp
@@ -1477,6 +1476,7 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
