@@ -596,6 +596,7 @@ HOST-SUFFIX,supercachenode.com,CN
 HOST-SUFFIX,ultracachenode.com,CN
 HOST-SUFFIX,woaihuoshan.com,CN
 HOST-SUFFIX,wohst8.com,CN
+HOST-SUFFIX,douyinpay.com,CN
 HOST-SUFFIX,douyu.com,CN
 HOST-SUFFIX,douyu.tv,CN
 HOST-SUFFIX,douyucdn.cn,CN
@@ -1755,11 +1756,13 @@ HOST-SUFFIX,taikanglife.com,CN
 HOST-SUFFIX,taikangzhijia.com,CN
 HOST-SUFFIX,tkhealthcare.com,CN
 HOST-SUFFIX,cc-pay.cn,CN
+HOST-SUFFIX,helipay.com,CN
 HOST-SUFFIX,hsqh.net,CN
 HOST-SUFFIX,lu.com,CN
 HOST-SUFFIX,lufax.com,CN
 HOST-SUFFIX,lufaxcdn.com,CN
 HOST-SUFFIX,pospal.cn,CN
+HOST-SUFFIX,shfft.com,CN
 HOST-SUFFIX,bsclink.cn,CN
 HOST-SUFFIX,qingcdn.com,CN
 HOST-SUFFIX,trpcdn.net,CN
@@ -2826,7 +2829,10 @@ HOST-SUFFIX,jianshu.io,CN
 HOST-SUFFIX,jianshuapi.com,CN
 HOST-SUFFIX,jinshuju.net,CN
 HOST-SUFFIX,jinshujucdn.com,CN
+HOST-SUFFIX,calorietech.com,CN
 HOST-SUFFIX,gotokeep.com,CN
+HOST-SUFFIX,keep.com,CN
+HOST-SUFFIX,keep.com.cn,CN
 HOST-SUFFIX,keepcdn.com,CN
 HOST-SUFFIX,lagou.com,CN
 HOST-SUFFIX,lgstatic.com,CN
