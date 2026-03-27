@@ -15611,6 +15611,8 @@ HOST,ntp7.aliyun.com,GEOLOCATION-!CN
 HOST,time.amazonaws.cn,GEOLOCATION-!CN
 HOST,time.izatcloud.net,GEOLOCATION-!CN
 HOST,time.xtracloud.net,GEOLOCATION-!CN
+HOST,izattime.qcomgeo2.com,GEOLOCATION-!CN
+HOST,xtratime.qcomgeo2.com,GEOLOCATION-!CN
 HOST,ntp.tencent.com,GEOLOCATION-!CN
 HOST,ntp1.tencent.com,GEOLOCATION-!CN
 HOST,ntp2.tencent.com,GEOLOCATION-!CN
@@ -22467,9 +22469,11 @@ HOST-SUFFIX,meetsmartbook.com,GEOLOCATION-!CN
 HOST-SUFFIX,patenttruth.org,GEOLOCATION-!CN
 HOST-SUFFIX,pixtronix.com,GEOLOCATION-!CN
 HOST-SUFFIX,qceventscenter.com.cn,GEOLOCATION-!CN
+HOST-SUFFIX,qcomgeo2.com,GEOLOCATION-!CN
 HOST-SUFFIX,qctconnect.com,GEOLOCATION-!CN
 HOST-SUFFIX,qprize.com,GEOLOCATION-!CN
 HOST-SUFFIX,qualcomm-email.com,GEOLOCATION-!CN
+HOST-SUFFIX,qualcomm-inc.com,GEOLOCATION-!CN
 HOST-SUFFIX,qualcomm.cn,GEOLOCATION-!CN
 HOST-SUFFIX,qualcomm.cn.cdn.cloudflare.net,GEOLOCATION-!CN
 HOST-SUFFIX,qualcomm.co.id,GEOLOCATION-!CN

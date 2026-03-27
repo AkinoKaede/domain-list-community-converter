@@ -2837,6 +2837,8 @@ HOST,ntp7.aliyun.com,CN
 HOST,time.amazonaws.cn,CN
 HOST,time.izatcloud.net,CN
 HOST,time.xtracloud.net,CN
+HOST,izattime.qcomgeo2.com,CN
+HOST,xtratime.qcomgeo2.com,CN
 HOST,ntp.tencent.com,CN
 HOST,ntp1.tencent.com,CN
 HOST,ntp2.tencent.com,CN

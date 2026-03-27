@@ -9,6 +9,8 @@ HOST,ntp7.aliyun.com,CATEGORY-NTP-CN
 HOST,time.amazonaws.cn,CATEGORY-NTP-CN
 HOST,time.izatcloud.net,CATEGORY-NTP-CN
 HOST,time.xtracloud.net,CATEGORY-NTP-CN
+HOST,izattime.qcomgeo2.com,CATEGORY-NTP-CN
+HOST,xtratime.qcomgeo2.com,CATEGORY-NTP-CN
 HOST,ntp.tencent.com,CATEGORY-NTP-CN
 HOST,ntp1.tencent.com,CATEGORY-NTP-CN
 HOST,ntp2.tencent.com,CATEGORY-NTP-CN
