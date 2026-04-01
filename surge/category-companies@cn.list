@@ -391,6 +391,13 @@ DOMAIN,www.dell.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,redirector.c.play.google.com
 DOMAIN,pki-goog.l.google.com

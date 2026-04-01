@@ -917,6 +917,17 @@ HOST,uplaypc-s-ubisoft.cdn.ubi.com,CATEGORY-GAMES
 HOST-SUFFIX,vrchat.cloud,CATEGORY-GAMES
 HOST-SUFFIX,vrchat.com,CATEGORY-GAMES
 HOST-SUFFIX,vrchat.net,CATEGORY-GAMES
+HOST-SUFFIX,masteroforion.com,CATEGORY-GAMES
+HOST-SUFFIX,wargaming.com,CATEGORY-GAMES
+HOST-SUFFIX,wargaming.net,CATEGORY-GAMES
+HOST-SUFFIX,wgcdn.co,CATEGORY-GAMES
+HOST-SUFFIX,wgcrowd.io,CATEGORY-GAMES
+HOST-SUFFIX,worldoftanks.com,CATEGORY-GAMES
+HOST-SUFFIX,worldoftanks.eu,CATEGORY-GAMES
+HOST-SUFFIX,worldofwarplanes.com,CATEGORY-GAMES
+HOST-SUFFIX,worldofwarships.com,CATEGORY-GAMES
+HOST-SUFFIX,wotblitz.com,CATEGORY-GAMES
+HOST-SUFFIX,wowsblitz.com,CATEGORY-GAMES
 HOST,datarouter.apps.netherrealm.com,CATEGORY-GAMES
 HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,CATEGORY-GAMES
 HOST-SUFFIX,warnerbrosgames.com,CATEGORY-GAMES

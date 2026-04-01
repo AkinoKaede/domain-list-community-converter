@@ -1,0 +1,7 @@
+HOST-SUFFIX,alphassl.com,GMO-INTERNET@CN
+HOST-SUFFIX,easy-signing.com,GMO-INTERNET@CN
+HOST-SUFFIX,globalsign.cn,GMO-INTERNET@CN
+HOST-SUFFIX,globalsign.com,GMO-INTERNET@CN
+HOST-SUFFIX,globalsigncdn.com,GMO-INTERNET@CN
+HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,GMO-INTERNET@CN
+HOST,crl.globalsign.net,GMO-INTERNET@CN
