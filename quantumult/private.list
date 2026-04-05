@@ -119,7 +119,6 @@ HOST-SUFFIX,router.ctc,PRIVATE
 HOST-SUFFIX,plex.direct,PRIVATE
 HOST-SUFFIX,localhost.sec.qq.com,PRIVATE
 HOST-SUFFIX,localhost.ptlogin2.qq.com,PRIVATE
-HOST-SUFFIX,test.steampowered.com,PRIVATE
 HOST-SUFFIX,tendawifi.com,PRIVATE
 HOST-SUFFIX,tplinkwifi.net,PRIVATE
 HOST,tplogin.cn,PRIVATE

@@ -9,6 +9,9 @@ HOST,connectivitycheck.platform.hihonorcloud.com,CONNECTIVITY-CHECK
 HOST,connectivitycheck.platform.hicloud.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,networkcheck.kde.org,CONNECTIVITY-CHECK
 HOST,connect.rom.miui.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,ipv6check-http.steamserver.net,CONNECTIVITY-CHECK
+HOST-SUFFIX,ipv6check-udp.steamserver.net,CONNECTIVITY-CHECK
+HOST-SUFFIX,test.steampowered.com,CONNECTIVITY-CHECK
 HOST,connectivity-check.ubuntu.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,msftconnecttest.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,msftncsi.com,CONNECTIVITY-CHECK

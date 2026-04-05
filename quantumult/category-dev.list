@@ -45,6 +45,7 @@ HOST,appleworldwidedeveloper.sc.omtrdc.net,CATEGORY-DEV
 HOST,p-events-delivery.akamaized.net,CATEGORY-DEV
 HOST-SUFFIX,archlinux.org,CATEGORY-DEV
 HOST-SUFFIX,archlinuxarm.org,CATEGORY-DEV
+HOST-SUFFIX,pkgbuild.com,CATEGORY-DEV
 HOST-SUFFIX,archlinuxcn.org,CATEGORY-DEV
 HOST-SUFFIX,bootstrapcdn.com,CATEGORY-DEV
 HOST-SUFFIX,getbootstrap.com,CATEGORY-DEV

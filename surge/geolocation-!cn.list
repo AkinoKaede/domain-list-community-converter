@@ -2492,6 +2492,7 @@ DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,cdnjs.com
+DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.pro
@@ -6121,6 +6122,7 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,last.fm
 DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
@@ -16266,6 +16268,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,pkgbuild.com
 DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,getbootstrap.com
