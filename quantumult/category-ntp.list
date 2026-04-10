@@ -100,6 +100,11 @@ HOST,ntp4.ntp-servers.net,CATEGORY-NTP
 HOST,ntp5.ntp-servers.net,CATEGORY-NTP
 HOST,ntp6.ntp-servers.net,CATEGORY-NTP
 HOST,ntp7.ntp-servers.net,CATEGORY-NTP
+HOST,ntp.time.nl,CATEGORY-NTP
+HOST,ntp1.time.nl,CATEGORY-NTP
+HOST,ntp2.time.nl,CATEGORY-NTP
+HOST,ntppool1.time.nl,CATEGORY-NTP
+HOST,ntppool2.time.nl,CATEGORY-NTP
 HOST-SUFFIX,clock.isc.org,CATEGORY-NTP
 HOST-SUFFIX,ntp.fiord.ru,CATEGORY-NTP
 HOST-SUFFIX,ntp.nat.ms,CATEGORY-NTP

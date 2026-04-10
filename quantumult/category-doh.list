@@ -9,15 +9,11 @@ HOST,dns.bebasid.com,CATEGORY-DOH
 HOST,antivirus.bebasid.com,CATEGORY-DOH
 HOST,internetsehat.bebasid.com,CATEGORY-DOH
 HOST,dns.cfiec.net,CATEGORY-DOH
-HOST,doh.opendns.com,CATEGORY-DOH
-HOST,doh.familyshield.opendns.com,CATEGORY-DOH
-HOST,doh.sandbox.opendns.com,CATEGORY-DOH
+HOST-SUFFIX,opendns.com,CATEGORY-DOH
 HOST,doh.cleanbrowsing.org,CATEGORY-DOH
 HOST,one.one.one.one,CATEGORY-DOH
 HOST,dns.cloudflare.com,CATEGORY-DOH
-HOST,cloudflare-dns.com,CATEGORY-DOH
-HOST,security.cloudflare-dns.com,CATEGORY-DOH
-HOST,family.cloudflare-dns.com,CATEGORY-DOH
+HOST-SUFFIX,cloudflare-dns.com,CATEGORY-DOH
 HOST,freedns.controld.com,CATEGORY-DOH
 HOST,dns.decloudus.com,CATEGORY-DOH
 HOST,futuredns.eu.org,CATEGORY-DOH
@@ -56,8 +52,7 @@ HOST,base.dns.mullvad.net,CATEGORY-DOH
 HOST,extended.dns.mullvad.net,CATEGORY-DOH
 HOST,family.dns.mullvad.net,CATEGORY-DOH
 HOST,all.dns.mullvad.net,CATEGORY-DOH
-HOST,dns.nextdns.io,CATEGORY-DOH
-HOST,anycast.dns.nextdns.io,CATEGORY-DOH
+HOST-SUFFIX,nextdns.io,CATEGORY-DOH
 HOST,ada.openbld.net,CATEGORY-DOH
 HOST,ric.openbld.net,CATEGORY-DOH
 HOST,dns.quad9.net,CATEGORY-DOH
