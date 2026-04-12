@@ -1,6 +1,7 @@
 HOST-SUFFIX,sbermarketing.ru,CATEGORY-BANK-RU@ADS
-HOST,clickstream.sberbank.ru,CATEGORY-BANK-RU@ADS
-HOST,error-tracking.megamarket.tech,CATEGORY-BANK-RU@ADS
-HOST,sentry.sberauto.com,CATEGORY-BANK-RU@ADS
-HOST,tracing-http.megamarket.tech,CATEGORY-BANK-RU@ADS
-HOST,visor.sberbank.ru,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,ads.neon.click,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,error-tracking.megamarket.tech,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,sentry.sberauto.com,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,tracing-http.megamarket.tech,CATEGORY-BANK-RU@ADS
+HOST-SUFFIX,visor.sberbank.ru,CATEGORY-BANK-RU@ADS

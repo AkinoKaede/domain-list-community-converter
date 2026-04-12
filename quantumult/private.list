@@ -126,3 +126,5 @@ HOST,miwifi.com,PRIVATE
 HOST,www.miwifi.com,PRIVATE
 HOST-SUFFIX,zte.home,PRIVATE
 HOST-SUFFIX,ts.net,PRIVATE
+HOST,local.adguard.org,PRIVATE
+HOST-SUFFIX,kis.v2.scr.kaspersky-labs.com,PRIVATE

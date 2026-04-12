@@ -1,0 +1,13 @@
+HOST-SUFFIX,ads-gate.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,ads-media.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,ads.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-api.wb.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-api-sandbox.wb.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-media-api.wb.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-api.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-api-sandbox.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,advert-media-api.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,analytics-stage.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,analytics.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,sentry.wb.ru,WILDBERRIES@ADS
+HOST-SUFFIX,web-analytics.wildberries.ru,WILDBERRIES@ADS

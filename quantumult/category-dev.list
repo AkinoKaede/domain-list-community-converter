@@ -138,11 +138,12 @@ HOST-SUFFIX,yogalayout.com,CATEGORY-DEV
 HOST,developers.facebook.com,CATEGORY-DEV
 HOST-SUFFIX,fastlane.ci,CATEGORY-DEV
 HOST-SUFFIX,fastlane.tools,CATEGORY-DEV
-HOST-SUFFIX,getfedora.org,CATEGORY-DEV
 HOST-SUFFIX,fedoraforum.org,CATEGORY-DEV
+HOST-SUFFIX,fedorainfracloud.org,CATEGORY-DEV
+HOST-SUFFIX,fedoramagazine.org,CATEGORY-DEV
 HOST-SUFFIX,fedorapeople.org,CATEGORY-DEV
 HOST-SUFFIX,fedoraproject.org,CATEGORY-DEV
-HOST-SUFFIX,fedoramagazine.org,CATEGORY-DEV
+HOST-SUFFIX,getfedora.org,CATEGORY-DEV
 HOST-SUFFIX,firebase.com,CATEGORY-DEV
 HOST-SUFFIX,firebase.io,CATEGORY-DEV
 HOST-SUFFIX,firebaseapp.com,CATEGORY-DEV
