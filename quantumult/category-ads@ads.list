@@ -195,6 +195,7 @@ HOST-SUFFIX,partnerad.l.google.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,urchin.com,CATEGORY-ADS@ADS
 HOST,analytics.google.com,CATEGORY-ADS@ADS
 HOST,sentry.hetzner.company,CATEGORY-ADS@ADS
+HOST-SUFFIX,dt.dbankcloud.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,click.hunantv.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,da.hunantv.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,da.mgtv.com,CATEGORY-ADS@ADS
@@ -242,8 +243,9 @@ HOST-SUFFIX,api-ru.mindbox.cloud,CATEGORY-ADS@ADS
 HOST-SUFFIX,api-staging.mindbox.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,api.mindbox.cloud,CATEGORY-ADS@ADS
 HOST-SUFFIX,api.mindbox.ru,CATEGORY-ADS@ADS
-HOST-SUFFIX,api.e.mindbox.ru,CATEGORY-ADS@ADS
-HOST-SUFFIX,api.s.mindbox.ru,CATEGORY-ADS@ADS
+HOST-SUFFIX,e.mindbox.ru,CATEGORY-ADS@ADS
+HOST-SUFFIX,g.mindbox.ru,CATEGORY-ADS@ADS
+HOST-SUFFIX,s.mindbox.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,sentry.mindbox.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,sentry.popmechanic.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,a.youdao.com,CATEGORY-ADS@ADS
@@ -296,10 +298,12 @@ HOST-SUFFIX,s.360.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,s.so.360.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,s.union.360.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,samsungads.com,CATEGORY-ADS@ADS
+HOST-SUFFIX,neon.click,CATEGORY-ADS@ADS
 HOST-SUFFIX,sbermarketing.ru,CATEGORY-ADS@ADS
-HOST-SUFFIX,ads.neon.click,CATEGORY-ADS@ADS
+HOST-SUFFIX,ads.sber.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,error-tracking.megamarket.tech,CATEGORY-ADS@ADS
+HOST-SUFFIX,metrics.21-school.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,sentry.sberauto.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,tracing-http.megamarket.tech,CATEGORY-ADS@ADS
 HOST-SUFFIX,visor.sberbank.ru,CATEGORY-ADS@ADS
@@ -429,6 +433,8 @@ HOST-SUFFIX,advert-api-sandbox.wildberries.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,advert-media-api.wildberries.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,analytics-stage.wildberries.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,analytics.wildberries.ru,CATEGORY-ADS@ADS
+HOST-SUFFIX,marketing-info.wildberries.ru,CATEGORY-ADS@ADS
+HOST-SUFFIX,marketplace-sentry.wb.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,sentry.wb.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,web-analytics.wildberries.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,ads.x5media.ru,CATEGORY-ADS@ADS

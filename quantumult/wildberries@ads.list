@@ -9,5 +9,7 @@ HOST-SUFFIX,advert-api-sandbox.wildberries.ru,WILDBERRIES@ADS
 HOST-SUFFIX,advert-media-api.wildberries.ru,WILDBERRIES@ADS
 HOST-SUFFIX,analytics-stage.wildberries.ru,WILDBERRIES@ADS
 HOST-SUFFIX,analytics.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,marketing-info.wildberries.ru,WILDBERRIES@ADS
+HOST-SUFFIX,marketplace-sentry.wb.ru,WILDBERRIES@ADS
 HOST-SUFFIX,sentry.wb.ru,WILDBERRIES@ADS
 HOST-SUFFIX,web-analytics.wildberries.ru,WILDBERRIES@ADS

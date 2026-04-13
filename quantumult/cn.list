@@ -40,6 +40,7 @@ HOST-SUFFIX,xn--5tzm5g,CN
 HOST-SUFFIX,xn--8y0a063a,CN
 HOST-SUFFIX,xn--rhqv96g,CN
 HOST-SUFFIX,xn--nyqy26a,CN
+HOST-SUFFIX,12365auto.com,CN
 HOST-SUFFIX,autohome.com,CN
 HOST-SUFFIX,autohome.com.cn,CN
 HOST-SUFFIX,autohome.tel,CN
@@ -1321,6 +1322,8 @@ HOST-SUFFIX,cztv.com,CN
 HOST-SUFFIX,cztvcdn.com,CN
 HOST-SUFFIX,cztvcloud.com,CN
 HOST-SUFFIX,zjstv.com,CN
+HOST-SUFFIX,daheapp.com,CN
+HOST-SUFFIX,dahebao.cn,CN
 HOST-SUFFIX,dutenews.com,CN
 HOST-SUFFIX,dzh.com.cn,CN
 HOST-SUFFIX,gw.com.cn,CN
@@ -2259,11 +2262,14 @@ HOST-SUFFIX,haodf.com,CN
 HOST-SUFFIX,hdfimg.com,CN
 HOST-SUFFIX,jsehealth.com,CN
 HOST-SUFFIX,mingxuan.store,CN
+HOST-SUFFIX,12315.cn,CN
+HOST-SUFFIX,12321.cn,CN
 HOST-SUFFIX,gov.cn,CN
 HOST-SUFFIX,cma.cn,CN
 HOST-SUFFIX,conac.cn,CN
 HOST-SUFFIX,nmc.cn,CN
 HOST-SUFFIX,piyao.org.cn,CN
+HOST-SUFFIX,zgbznet.com.cn,CN
 HOST-SUFFIX,airchina.com.cn,CN
 HOST-SUFFIX,airchinacargo.com,CN
 HOST-SUFFIX,hainanairlines.com,CN
@@ -2641,7 +2647,9 @@ HOST-SUFFIX,xinghuo.xfyun.cn,CN
 HOST-SUFFIX,hailuoai.com,CN
 HOST-SUFFIX,minimaxi.com,CN
 HOST-SUFFIX,xingyeai.com,CN
+HOST-SUFFIX,codebuddy.cn,CN
 HOST-SUFFIX,hunyuan.tencent.com,CN
+HOST-SUFFIX,yuanqi.tencent.com,CN
 HOST-SUFFIX,baichuan-ai.com,CN
 HOST-SUFFIX,botvip.cn,CN
 HOST-SUFFIX,liblib.art,CN
@@ -2658,6 +2666,8 @@ HOST-SUFFIX,xiezuocat.com,CN
 HOST-SUFFIX,aispeech.com,CN
 HOST-SUFFIX,dui.ai,CN
 HOST-SUFFIX,duiopen.com,CN
+HOST-SUFFIX,clawhub-mirror.com,CN
+HOST-SUFFIX,skillhub.cn,CN
 HOST-SUFFIX,asklink.com,CN
 HOST-SUFFIX,easytier.cn,CN
 HOST-SUFFIX,feihengip.com,CN
@@ -4157,6 +4167,7 @@ HOST-SUFFIX,kq7.com,CN
 HOST-SUFFIX,ksord.com,CN
 HOST-SUFFIX,kuaaa.com,CN
 HOST-SUFFIX,kuaihou.com,CN
+HOST-SUFFIX,kuaiji.com,CN
 HOST-SUFFIX,kuaizhan.com,CN
 HOST-SUFFIX,kuqin.com,CN
 HOST-SUFFIX,kuyiso.com,CN

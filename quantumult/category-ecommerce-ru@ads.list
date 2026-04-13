@@ -30,5 +30,7 @@ HOST-SUFFIX,advert-api-sandbox.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS
 HOST-SUFFIX,advert-media-api.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS
 HOST-SUFFIX,analytics-stage.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS
 HOST-SUFFIX,analytics.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS
+HOST-SUFFIX,marketing-info.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS
+HOST-SUFFIX,marketplace-sentry.wb.ru,CATEGORY-ECOMMERCE-RU@ADS
 HOST-SUFFIX,sentry.wb.ru,CATEGORY-ECOMMERCE-RU@ADS
 HOST-SUFFIX,web-analytics.wildberries.ru,CATEGORY-ECOMMERCE-RU@ADS

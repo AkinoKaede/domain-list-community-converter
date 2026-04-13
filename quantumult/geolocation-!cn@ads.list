@@ -1,9 +1,11 @@
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,neon.click,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,sbermarketing.ru,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,ads.neon.click,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,ads.sber.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,error-tracking.megamarket.tech,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,metrics.21-school.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,sentry.sberauto.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,tracing-http.megamarket.tech,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,visor.sberbank.ru,GEOLOCATION-!CN@ADS
@@ -41,6 +43,8 @@ HOST-SUFFIX,advert-api-sandbox.wildberries.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advert-media-api.wildberries.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,analytics-stage.wildberries.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,analytics.wildberries.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,marketing-info.wildberries.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,marketplace-sentry.wb.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,sentry.wb.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,web-analytics.wildberries.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ad.games.dmm.com,GEOLOCATION-!CN@ADS
@@ -164,8 +168,9 @@ HOST-SUFFIX,api-ru.mindbox.cloud,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,api-staging.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,api.mindbox.cloud,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,api.mindbox.ru,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,api.e.mindbox.ru,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,api.s.mindbox.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,e.mindbox.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,g.mindbox.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,s.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,sentry.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,sentry.popmechanic.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,samsungads.com,GEOLOCATION-!CN@ADS

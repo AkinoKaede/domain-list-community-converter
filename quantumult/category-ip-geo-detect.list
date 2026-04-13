@@ -132,6 +132,8 @@ HOST-SUFFIX,whoisxmlapi.com,CATEGORY-IP-GEO-DETECT
 HOST-SUFFIX,wieistmeineip.de,CATEGORY-IP-GEO-DETECT
 HOST-SUFFIX,wtfismyip.com,CATEGORY-IP-GEO-DETECT
 HOST,checkip.amazonaws.com,CATEGORY-IP-GEO-DETECT
+HOST,checkip.dyndns.org,CATEGORY-IP-GEO-DETECT
+HOST,checkip.dyn.com,CATEGORY-IP-GEO-DETECT
 HOST,ip.comss.net,CATEGORY-IP-GEO-DETECT
 HOST,ipv4-check-perf.radar.cloudflare.com,CATEGORY-IP-GEO-DETECT
 HOST,ipv6-check-perf.radar.cloudflare.com,CATEGORY-IP-GEO-DETECT

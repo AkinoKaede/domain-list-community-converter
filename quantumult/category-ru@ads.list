@@ -30,6 +30,8 @@ HOST-SUFFIX,advert-api-sandbox.wildberries.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,advert-media-api.wildberries.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,analytics-stage.wildberries.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,analytics.wildberries.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,marketing-info.wildberries.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,marketplace-sentry.wb.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,sentry.wb.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,web-analytics.wildberries.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,ads.x5media.ru,CATEGORY-RU@ADS
@@ -50,8 +52,9 @@ HOST-SUFFIX,api-ru.mindbox.cloud,CATEGORY-RU@ADS
 HOST-SUFFIX,api-staging.mindbox.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,api.mindbox.cloud,CATEGORY-RU@ADS
 HOST-SUFFIX,api.mindbox.ru,CATEGORY-RU@ADS
-HOST-SUFFIX,api.e.mindbox.ru,CATEGORY-RU@ADS
-HOST-SUFFIX,api.s.mindbox.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,e.mindbox.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,g.mindbox.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,s.mindbox.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,sentry.mindbox.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,sentry.popmechanic.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,adfox.ru,CATEGORY-RU@ADS
@@ -96,10 +99,12 @@ HOST-SUFFIX,pix.yandex.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,pixel.yandex.net,CATEGORY-RU@ADS
 HOST-SUFFIX,report.ap.yandex-net.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,yabs.yandex.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,neon.click,CATEGORY-RU@ADS
 HOST-SUFFIX,sbermarketing.ru,CATEGORY-RU@ADS
-HOST-SUFFIX,ads.neon.click,CATEGORY-RU@ADS
+HOST-SUFFIX,ads.sber.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,error-tracking.megamarket.tech,CATEGORY-RU@ADS
+HOST-SUFFIX,metrics.21-school.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,sentry.sberauto.com,CATEGORY-RU@ADS
 HOST-SUFFIX,tracing-http.megamarket.tech,CATEGORY-RU@ADS
 HOST-SUFFIX,visor.sberbank.ru,CATEGORY-RU@ADS

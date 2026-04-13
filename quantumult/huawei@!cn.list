@@ -42,3 +42,5 @@ HOST-SUFFIX,ru-northwest-201.myhuaweicloud.com,HUAWEI@!CN
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com,HUAWEI@!CN
 HOST-SUFFIX,tr-west-1.myhuaweicloud.com,HUAWEI@!CN
 HOST-SUFFIX,us-east-1.myhuaweicloud.com,HUAWEI@!CN
+HOST-SUFFIX,dbankcloud.ru,HUAWEI@!CN
+HOST-SUFFIX,dt.dbankcloud.ru,HUAWEI@!CN

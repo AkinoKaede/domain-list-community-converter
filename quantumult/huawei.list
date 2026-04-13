@@ -319,6 +319,7 @@ HOST-SUFFIX,dbankcdn.cn,HUAWEI
 HOST-SUFFIX,dbankcdn.com,HUAWEI
 HOST-SUFFIX,dbankcloud.cn,HUAWEI
 HOST-SUFFIX,dbankcloud.com,HUAWEI
+HOST-SUFFIX,dbankcloud.ru,HUAWEI
 HOST-SUFFIX,dbankedge.cn,HUAWEI
 HOST-SUFFIX,dbankedge.net,HUAWEI
 HOST-SUFFIX,hicloud.com,HUAWEI
@@ -337,3 +338,4 @@ HOST-SUFFIX,hwtrip.com,HUAWEI
 HOST-SUFFIX,shanhaitujian.com,HUAWEI
 HOST-SUFFIX,vmall.com,HUAWEI
 HOST-SUFFIX,vmallres.com,HUAWEI
+HOST-SUFFIX,dt.dbankcloud.ru,HUAWEI
