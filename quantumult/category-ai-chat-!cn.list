@@ -64,6 +64,7 @@ HOST,antigravity-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,antigravity.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,antigravity.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,antigravity-unleash.goog,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,stitch.withgoogle.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,groq.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.space,CATEGORY-AI-CHAT-!CN

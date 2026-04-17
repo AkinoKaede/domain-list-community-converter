@@ -150,6 +150,7 @@ HOST,top-staging.mail.ru,MAILRU
 HOST,whiteline.mail.ru,MAILRU
 HOST,xray.mail.ru,MAILRU
 HOST-SUFFIX,appsmail.ru,MAILRU
+HOST-SUFFIX,attachmail.ru,MAILRU
 HOST-SUFFIX,attachmy.com,MAILRU
 HOST-SUFFIX,bizmrg.com,MAILRU
 HOST-SUFFIX,cdnmail.ru,MAILRU
@@ -167,6 +168,7 @@ HOST-SUFFIX,bk.ru,MAILRU
 HOST-SUFFIX,inbox.ru,MAILRU
 HOST-SUFFIX,internet.ru,MAILRU
 HOST-SUFFIX,list.ru,MAILRU
+HOST-SUFFIX,xmail.ru,MAILRU
 HOST-SUFFIX,cups.online,MAILRU
 HOST-SUFFIX,gamescup.ru,MAILRU
 HOST-SUFFIX,mlbootcamp.ru,MAILRU
@@ -267,6 +269,7 @@ HOST-SUFFIX,dahlmessenger.com,MAILRU
 HOST-SUFFIX,telega.info,MAILRU
 HOST-SUFFIX,telega.me,MAILRU
 HOST-SUFFIX,tusco.ru,MAILRU
+HOST-SUFFIX,uma.media,MAILRU
 HOST-SUFFIX,viqeo.tv,MAILRU
 HOST-SUFFIX,viqeotv.com,MAILRU
 HOST-SUFFIX,vkplay-arena.ru,MAILRU

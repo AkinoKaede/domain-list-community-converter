@@ -1,9 +1,9 @@
-HOST-SUFFIX,neon.click,SBER@ADS
-HOST-SUFFIX,sbermarketing.ru,SBER@ADS
 HOST-SUFFIX,ads.sber.ru,SBER@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,SBER@ADS
-HOST-SUFFIX,error-tracking.megamarket.tech,SBER@ADS
-HOST-SUFFIX,metrics.21-school.ru,SBER@ADS
-HOST-SUFFIX,sentry.sberauto.com,SBER@ADS
-HOST-SUFFIX,tracing-http.megamarket.tech,SBER@ADS
-HOST-SUFFIX,visor.sberbank.ru,SBER@ADS
+HOST-SUFFIX,neon.click,SBER@ADS
+HOST-SUFFIX,sbermarketing.ru,SBER@ADS
+HOST,error-tracking.megamarket.tech,SBER@ADS
+HOST,metrics.21-school.ru,SBER@ADS
+HOST,sentry.sberauto.com,SBER@ADS
+HOST,tracing-http.megamarket.tech,SBER@ADS
+HOST,visor.sberbank.ru,SBER@ADS

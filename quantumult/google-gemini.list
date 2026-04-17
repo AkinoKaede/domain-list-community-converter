@@ -34,3 +34,4 @@ HOST,antigravity-pa.googleapis.com,GOOGLE-GEMINI
 HOST,antigravity.googleapis.com,GOOGLE-GEMINI
 HOST-SUFFIX,antigravity.google,GOOGLE-GEMINI
 HOST-SUFFIX,antigravity-unleash.goog,GOOGLE-GEMINI
+HOST-SUFFIX,stitch.withgoogle.com,GOOGLE-GEMINI

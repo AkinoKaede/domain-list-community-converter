@@ -147,6 +147,7 @@ HOST,antigravity-pa.googleapis.com,GOOGLE
 HOST,antigravity.googleapis.com,GOOGLE
 HOST-SUFFIX,antigravity.google,GOOGLE
 HOST-SUFFIX,antigravity-unleash.goog,GOOGLE
+HOST-SUFFIX,stitch.withgoogle.com,GOOGLE
 HOST-SUFFIX,googleplay.com,GOOGLE
 HOST-SUFFIX,play-fe.googleapis.com,GOOGLE
 HOST-SUFFIX,play-games.googleusercontent.com,GOOGLE

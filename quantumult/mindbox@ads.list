@@ -1,10 +1,10 @@
-HOST-SUFFIX,api-js.mindbox.ru,MINDBOX@ADS
-HOST-SUFFIX,api-ru.mindbox.cloud,MINDBOX@ADS
-HOST-SUFFIX,api-staging.mindbox.ru,MINDBOX@ADS
-HOST-SUFFIX,api.mindbox.cloud,MINDBOX@ADS
-HOST-SUFFIX,api.mindbox.ru,MINDBOX@ADS
 HOST-SUFFIX,e.mindbox.ru,MINDBOX@ADS
 HOST-SUFFIX,g.mindbox.ru,MINDBOX@ADS
 HOST-SUFFIX,s.mindbox.ru,MINDBOX@ADS
-HOST-SUFFIX,sentry.mindbox.ru,MINDBOX@ADS
-HOST-SUFFIX,sentry.popmechanic.ru,MINDBOX@ADS
+HOST,api-js.mindbox.ru,MINDBOX@ADS
+HOST,api-ru.mindbox.cloud,MINDBOX@ADS
+HOST,api-staging.mindbox.ru,MINDBOX@ADS
+HOST,api.mindbox.cloud,MINDBOX@ADS
+HOST,api.mindbox.ru,MINDBOX@ADS
+HOST,sentry.mindbox.ru,MINDBOX@ADS
+HOST,sentry.popmechanic.ru,MINDBOX@ADS
