@@ -513,6 +513,8 @@ HOST-SUFFIX,web-instagram.net,META
 HOST-SUFFIX,wwwinstagram.com,META
 HOST-SUFFIX,graph.instagram.com,META
 HOST-SUFFIX,graph-fallback.instagram.com,META
+HOST-SUFFIX,manus.im,META
+HOST-SUFFIX,manuscdn.com,META
 HOST-SUFFIX,fbmessenger.com,META
 HOST-SUFFIX,m.me,META
 HOST-SUFFIX,messenger.com,META
