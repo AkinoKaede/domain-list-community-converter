@@ -2627,8 +2627,12 @@ HOST-SUFFIX,yoma.cn,CN
 HOST-SUFFIX,miaibox.com,CN
 HOST-SUFFIX,xiaoaiassist.com,CN
 HOST-SUFFIX,xiaomimimo.com,CN
+HOST-SUFFIX,liblib.art,CN
+HOST-SUFFIX,liblib.cloud,CN
+HOST-SUFFIX,liblib.tv,CN
 HOST-SUFFIX,rwkv.cn,CN
 HOST-SUFFIX,rwkv.com,CN
+HOST-SUFFIX,tapnow.top,CN
 HOST-SUFFIX,qianwen.aliyun.com,CN
 HOST-SUFFIX,qianwen.com,CN
 HOST-SUFFIX,qwen.ai,CN
@@ -2653,8 +2657,6 @@ HOST-SUFFIX,codebuddy.cn,CN
 HOST-SUFFIX,hunyuan.tencent.com,CN
 HOST-SUFFIX,yuanqi.tencent.com,CN
 HOST-SUFFIX,baichuan-ai.com,CN
-HOST-SUFFIX,botvip.cn,CN
-HOST-SUFFIX,liblib.art,CN
 HOST-SUFFIX,cueme.cn,CN
 HOST,cueme-api.quark.cn,CN
 HOST-SUFFIX,n.cn,CN
