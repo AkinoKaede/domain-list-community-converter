@@ -2214,6 +2214,7 @@ HOST,streamingaudio.itunes.apple.com,CATEGORY-COMPANIES
 HOST,su.itunes.apple.com,CATEGORY-COMPANIES
 HOST,sync.itunes.apple.com,CATEGORY-COMPANIES
 HOST,tf-feedback.itunes.apple.com,CATEGORY-COMPANIES
+HOST,universal-activity-service.itunes.apple.com,CATEGORY-COMPANIES
 HOST,upp.itunes.apple.com,CATEGORY-COMPANIES
 HOST,www.support.apple.com,CATEGORY-COMPANIES
 HOST,a1.mzstatic.com,CATEGORY-COMPANIES
@@ -6624,8 +6625,6 @@ HOST-SUFFIX,web-instagram.net,CATEGORY-COMPANIES
 HOST-SUFFIX,wwwinstagram.com,CATEGORY-COMPANIES
 HOST-SUFFIX,graph.instagram.com,CATEGORY-COMPANIES
 HOST-SUFFIX,graph-fallback.instagram.com,CATEGORY-COMPANIES
-HOST-SUFFIX,manus.im,CATEGORY-COMPANIES
-HOST-SUFFIX,manuscdn.com,CATEGORY-COMPANIES
 HOST-SUFFIX,fbmessenger.com,CATEGORY-COMPANIES
 HOST-SUFFIX,m.me,CATEGORY-COMPANIES
 HOST-SUFFIX,messenger.com,CATEGORY-COMPANIES

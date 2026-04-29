@@ -19306,6 +19306,7 @@ HOST,streamingaudio.itunes.apple.com,GEOLOCATION-!CN
 HOST,su.itunes.apple.com,GEOLOCATION-!CN
 HOST,sync.itunes.apple.com,GEOLOCATION-!CN
 HOST,tf-feedback.itunes.apple.com,GEOLOCATION-!CN
+HOST,universal-activity-service.itunes.apple.com,GEOLOCATION-!CN
 HOST,upp.itunes.apple.com,GEOLOCATION-!CN
 HOST,www.support.apple.com,GEOLOCATION-!CN
 HOST,a1.mzstatic.com,GEOLOCATION-!CN
