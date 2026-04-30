@@ -1,3 +1,4 @@
 HOST-SUFFIX,themoviedb.org,TMDB
 HOST-SUFFIX,tmdb.org,TMDB
 HOST,tmdb-image-prod.b-cdn.net,TMDB
+HOST,tmdb-web-image-prod.b-cdn.net,TMDB

@@ -6714,6 +6714,7 @@ HOST-SUFFIX,analytics.tiktok.com,GEOLOCATION-!CN
 HOST-SUFFIX,themoviedb.org,GEOLOCATION-!CN
 HOST-SUFFIX,tmdb.org,GEOLOCATION-!CN
 HOST,tmdb-image-prod.b-cdn.net,GEOLOCATION-!CN
+HOST,tmdb-web-image-prod.b-cdn.net,GEOLOCATION-!CN
 HOST-SUFFIX,thetvdb.com,GEOLOCATION-!CN
 HOST-SUFFIX,dogatch.jp,GEOLOCATION-!CN
 HOST-SUFFIX,gorin.jp,GEOLOCATION-!CN
