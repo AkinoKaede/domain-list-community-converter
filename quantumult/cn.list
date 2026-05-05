@@ -707,6 +707,7 @@ HOST-SUFFIX,kuaishouzt.com,CN
 HOST-SUFFIX,kwaicdn.com,CN
 HOST-SUFFIX,kwaizt.com,CN
 HOST-SUFFIX,kwimgs.com,CN
+HOST-SUFFIX,viviv.com,CN
 HOST-SUFFIX,wsukwai.com,CN
 HOST-SUFFIX,yximgs.com,CN
 HOST-SUFFIX,adbkwai.com,CN
@@ -974,6 +975,10 @@ HOST-SUFFIX,imcoming.com,CN
 HOST-SUFFIX,imcome.net,CN
 HOST-SUFFIX,meican.com,CN
 HOST-SUFFIX,meicanstatic.com,CN
+HOST-SUFFIX,nongfuspring.com,CN
+HOST-SUFFIX,yst.com.cn,CN
+HOST-SUFFIX,wahaha.com.cn,CN
+HOST-SUFFIX,whhhealth.com,CN
 HOST-SUFFIX,56laile.com,CN
 HOST-SUFFIX,800best.cn,CN
 HOST-SUFFIX,800best.com,CN
@@ -1314,6 +1319,7 @@ HOST-SUFFIX,cqhlw.cn,CN
 HOST-SUFFIX,cqliving.com,CN
 HOST-SUFFIX,cqnews.net,CN
 HOST-SUFFIX,cqsjb.com,CN
+HOST-SUFFIX,cqn.com.cn,CN
 HOST-SUFFIX,cs.com.cn,CN
 HOST-SUFFIX,ctdsb.net,CN
 HOST,ctdsb.clouddiffuse.xyz,CN
@@ -1386,6 +1392,7 @@ HOST-SUFFIX,miercn.com,CN
 HOST-SUFFIX,mydrivers.com,CN
 HOST-SUFFIX,nanyuenews.com,CN
 HOST-SUFFIX,nbd.com.cn,CN
+HOST-SUFFIX,neweekly.com.cn,CN
 HOST-SUFFIX,news.cn,CN
 HOST-SUFFIX,xinhuanet.com,CN
 HOST-SUFFIX,xinhuaxmt.com,CN
@@ -2267,10 +2274,12 @@ HOST-SUFFIX,mingxuan.store,CN
 HOST-SUFFIX,12315.cn,CN
 HOST-SUFFIX,12321.cn,CN
 HOST-SUFFIX,gov.cn,CN
+HOST-SUFFIX,acftu.org,CN
 HOST-SUFFIX,cma.cn,CN
 HOST-SUFFIX,conac.cn,CN
 HOST-SUFFIX,nmc.cn,CN
 HOST-SUFFIX,piyao.org.cn,CN
+HOST-SUFFIX,redcross.org.cn,CN
 HOST-SUFFIX,zgbznet.com.cn,CN
 HOST-SUFFIX,airchina.com.cn,CN
 HOST-SUFFIX,airchinacargo.com,CN
@@ -2405,6 +2414,8 @@ HOST-SUFFIX,baicizhan.com,CN
 HOST-SUFFIX,baicizhan.org,CN
 HOST-SUFFIX,bczcdn.com,CN
 HOST-SUFFIX,bczeducation.cn,CN
+HOST-SUFFIX,banxiaoer.com,CN
+HOST-SUFFIX,banxiaoer.net,CN
 HOST-SUFFIX,biyehome.net,CN
 HOST-SUFFIX,burningvocabulary.cn,CN
 HOST-SUFFIX,burningvocabulary.com,CN
@@ -2450,7 +2461,10 @@ HOST-SUFFIX,saduck.top,CN
 HOST-SUFFIX,unipus.cn,CN
 HOST-SUFFIX,weilaiyunxiao.com,CN
 HOST-SUFFIX,winyoungreading.com,CN
+HOST-SUFFIX,wjwai.com,CN
+HOST-SUFFIX,zysn.net,CN
 HOST-SUFFIX,x-cloud.cc,CN
+HOST-SUFFIX,xiyouyingyu.com,CN
 HOST-SUFFIX,xkw.com,CN
 HOST-SUFFIX,zxxk.com,CN
 HOST-SUFFIX,yunzhuxue.com,CN
@@ -2458,8 +2472,6 @@ HOST-SUFFIX,ystbds.com,CN
 HOST-SUFFIX,zhan.com,CN
 HOST-SUFFIX,zhihuishu.com,CN
 HOST-SUFFIX,zjzs.net,CN
-HOST-SUFFIX,banxiaoer.com,CN
-HOST-SUFFIX,banxiaoer.net,CN
 HOST-SUFFIX,leetcode.cn,CN
 HOST-SUFFIX,leetcode-cn.com,CN
 HOST-SUFFIX,lingkou.xyz,CN
@@ -3376,6 +3388,7 @@ HOST-SUFFIX,kingsoft.com,CN
 HOST-SUFFIX,ks-live.com,CN
 HOST-SUFFIX,ksmobile.com,CN
 HOST-SUFFIX,ksosoft.com,CN
+HOST-SUFFIX,kcdnvip.com,CN
 HOST-SUFFIX,ks-cdn.com,CN
 HOST-SUFFIX,ks-cdn1.com,CN
 HOST-SUFFIX,ksyun.com,CN

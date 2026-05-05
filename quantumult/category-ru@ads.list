@@ -176,9 +176,9 @@ HOST,metrics.21-school.ru,CATEGORY-RU@ADS
 HOST,sentry.sberauto.com,CATEGORY-RU@ADS
 HOST,tracing-http.megamarket.tech,CATEGORY-RU@ADS
 HOST,visor.sberbank.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,a.mts.ru,CATEGORY-RU@ADS
+HOST-SUFFIX,obs.mts.ru,CATEGORY-RU@ADS
+HOST,sentry.iptv.rt.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,roistat.com,CATEGORY-RU@ADS
-HOST-SUFFIX,envybox.io,CATEGORY-RU@ADS
 HOST-SUFFIX,flocktory.com,CATEGORY-RU@ADS
-HOST-SUFFIX,saas-support.com,CATEGORY-RU@ADS
 HOST-SUFFIX,targetads.io,CATEGORY-RU@ADS
-HOST-SUFFIX,whitesaas.com,CATEGORY-RU@ADS
