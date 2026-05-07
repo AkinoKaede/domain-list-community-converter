@@ -487,6 +487,8 @@ HOST-SUFFIX,7k7k.com,CN
 HOST-SUFFIX,9xgame.com,CN
 HOST-SUFFIX,arcaea.cn,CN
 HOST-SUFFIX,astral-vector.com,CN
+HOST,end-api.shallow.ink,CN
+HOST,end.shallow.ink,CN
 HOST-SUFFIX,feihuo.com,CN
 HOST-SUFFIX,forevernine.com,CN
 HOST-SUFFIX,fxt365.com,CN
@@ -2187,6 +2189,7 @@ HOST-SUFFIX,dmall.com,CN
 HOST-SUFFIX,dmallcdn.com,CN
 HOST-SUFFIX,geilicdn.com,CN
 HOST-SUFFIX,weidian.com,CN
+HOST-SUFFIX,huotan.net,CN
 HOST-SUFFIX,jmstatic.com,CN
 HOST-SUFFIX,jumei.com,CN
 HOST-SUFFIX,kongfz.com,CN
@@ -4711,12 +4714,9 @@ HOST-SUFFIX,zuowen8.com,CN
 HOST-SUFFIX,zuowenwang.net,CN
 HOST-SUFFIX,zysou.com,CN
 HOST-SUFFIX,zztfly.com,CN
-HOST-SUFFIX,fm3838.com,CN
-HOST-SUFFIX,larsonlimited.com,CN
+HOST-SUFFIX,azz.net,CN
 HOST-SUFFIX,runsheng.com,CN
 HOST-SUFFIX,vzuu.com,CN
-HOST-SUFFIX,zoom3g.com,CN
-HOST-SUFFIX,zoomyou.cn,CN
 HOST-SUFFIX,kujiale.com,CN
 HOST-SUFFIX,jsw118.com,CN
 HOST-SUFFIX,sxcxldjy.com,CN

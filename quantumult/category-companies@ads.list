@@ -152,8 +152,9 @@ HOST-SUFFIX,graph-fallback.instagram.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,graph.whatsapp.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,graph.whatsapp.net,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,bingads.com,CATEGORY-COMPANIES@ADS
+HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-COMPANIES@ADS
+HOST,copilot-telemetry.githubusercontent.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,collector.github.com,CATEGORY-COMPANIES@ADS
-HOST-SUFFIX,copilot-telemetry.githubusercontent.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,browser.events.data.msn.cn,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,browser.events.data.msn.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,clarity.ms,CATEGORY-COMPANIES@ADS

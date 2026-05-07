@@ -1,3 +1,5 @@
+HOST,copilot-telemetry-service.githubusercontent.com,GEOLOCATION-!CN@ADS
+HOST,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.sber.ru,GEOLOCATION-!CN@ADS
@@ -91,7 +93,6 @@ HOST,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,iads.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,unityads.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertising.adobe.com,GEOLOCATION-!CN@ADS
