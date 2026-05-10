@@ -121,6 +121,10 @@ DOMAIN,api.carrotquest.io
 DOMAIN,api.carrottrack.app
 DOMAIN,api.dashly.app
 DOMAIN,api.dashlytrack.app
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
 DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,ad.games.dmm.com

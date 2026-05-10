@@ -5,7 +5,15 @@ HOST-SUFFIX,dzeninfra.ru,MAILRU
 HOST-SUFFIX,apiok.ru,MAILRU
 HOST-SUFFIX,insideok.ru,MAILRU
 HOST-SUFFIX,odkl.ru,MAILRU
+HOST-SUFFIX,odnoklasniki.by,MAILRU
+HOST-SUFFIX,odnoklasniki.ua,MAILRU
+HOST-SUFFIX,odnoklassniki.am,MAILRU
+HOST-SUFFIX,odnoklassniki.by,MAILRU
+HOST-SUFFIX,odnoklassniki.co.ee,MAILRU
+HOST-SUFFIX,odnoklassniki.eu,MAILRU
+HOST-SUFFIX,odnoklassniki.lv,MAILRU
 HOST-SUFFIX,odnoklassniki.ru,MAILRU
+HOST-SUFFIX,odnoklassniki.tj,MAILRU
 HOST-SUFFIX,ok.me,MAILRU
 HOST-SUFFIX,ok.ru,MAILRU
 HOST-SUFFIX,okl.lt,MAILRU
@@ -96,6 +104,10 @@ HOST-SUFFIX,vkvideo.ru,MAILRU
 HOST-SUFFIX,yclients.com,MAILRU
 HOST-SUFFIX,xn--80asgb.xn--p1ai,MAILRU
 HOST-SUFFIX,xn--e1aigb.xn--p1ai,MAILRU
+HOST-SUFFIX,justveryok.com,MAILRU
+HOST-SUFFIX,keyboardmen.com,MAILRU
+HOST-SUFFIX,rabbitcounter.com,MAILRU
+HOST-SUFFIX,sayeasy.eu,MAILRU
 HOST-SUFFIX,ad.mail.ru,MAILRU
 HOST-SUFFIX,ads.viqeo.tv,MAILRU
 HOST-SUFFIX,adsadvisor.io,MAILRU

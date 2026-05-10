@@ -70,6 +70,10 @@ HOST-SUFFIX,statis.api.3g.youku.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,v6-adashx.ut.youku.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,yk-ssp.ad.youku.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,ykad-data.youku.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,logger.qmai.cn,GEOLOCATION-CN@ADS
+HOST-SUFFIX,tracking.mcdonalds.com.cn,GEOLOCATION-CN@ADS
+HOST-SUFFIX,trackingprd.hwwt8.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,trackserver.shuxinyc.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,v6-adashx.ut.cainiao.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,ad.cctv.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,inte.sogou.com,GEOLOCATION-CN@ADS

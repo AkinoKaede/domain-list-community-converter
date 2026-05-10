@@ -128,6 +128,10 @@ HOST,api.carrotquest.io,CATEGORY-ADS-ALL
 HOST,api.carrottrack.app,CATEGORY-ADS-ALL
 HOST,api.dashly.app,CATEGORY-ADS-ALL
 HOST,api.dashlytrack.app,CATEGORY-ADS-ALL
+HOST-SUFFIX,logger.qmai.cn,CATEGORY-ADS-ALL
+HOST-SUFFIX,tracking.mcdonalds.com.cn,CATEGORY-ADS-ALL
+HOST-SUFFIX,trackingprd.hwwt8.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,trackserver.shuxinyc.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.cctv.com,CATEGORY-ADS-ALL
 HOST,disney.my.sentry.io,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.games.dmm.com,CATEGORY-ADS-ALL

@@ -70,6 +70,10 @@ HOST-SUFFIX,statis.api.3g.youku.com,CN@ADS
 HOST-SUFFIX,v6-adashx.ut.youku.com,CN@ADS
 HOST-SUFFIX,yk-ssp.ad.youku.com,CN@ADS
 HOST-SUFFIX,ykad-data.youku.com,CN@ADS
+HOST-SUFFIX,logger.qmai.cn,CN@ADS
+HOST-SUFFIX,tracking.mcdonalds.com.cn,CN@ADS
+HOST-SUFFIX,trackingprd.hwwt8.com,CN@ADS
+HOST-SUFFIX,trackserver.shuxinyc.com,CN@ADS
 HOST-SUFFIX,v6-adashx.ut.cainiao.com,CN@ADS
 HOST-SUFFIX,ad.cctv.com,CN@ADS
 HOST-SUFFIX,inte.sogou.com,CN@ADS
