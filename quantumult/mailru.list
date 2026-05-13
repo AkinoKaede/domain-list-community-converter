@@ -82,6 +82,7 @@ HOST-SUFFIX,hrtek.ru,MAILRU
 HOST-SUFFIX,koddobra.ru,MAILRU
 HOST-SUFFIX,lovina.app,MAILRU
 HOST-SUFFIX,mail.ru,MAILRU
+HOST-SUFFIX,mcs.st,MAILRU
 HOST-SUFFIX,mediumquality.ru,MAILRU
 HOST-SUFFIX,memealerts.com,MAILRU
 HOST-SUFFIX,movika.com,MAILRU
@@ -94,6 +95,7 @@ HOST-SUFFIX,vk-apps.ru,MAILRU
 HOST-SUFFIX,vk-records.ru,MAILRU
 HOST-SUFFIX,vk-stadium.ru,MAILRU
 HOST-SUFFIX,vk.company,MAILRU
+HOST-SUFFIX,vk.kz,MAILRU
 HOST-SUFFIX,vk.team,MAILRU
 HOST-SUFFIX,vkclips.app,MAILRU
 HOST-SUFFIX,vkcs.cloud,MAILRU
@@ -101,6 +103,7 @@ HOST-SUFFIX,vkfest.ru,MAILRU
 HOST-SUFFIX,vkgo.app,MAILRU
 HOST-SUFFIX,vklive.app,MAILRU
 HOST-SUFFIX,vkvideo.ru,MAILRU
+HOST-SUFFIX,vkworkspace.kz,MAILRU
 HOST-SUFFIX,yclients.com,MAILRU
 HOST-SUFFIX,xn--80asgb.xn--p1ai,MAILRU
 HOST-SUFFIX,xn--e1aigb.xn--p1ai,MAILRU
@@ -284,6 +287,8 @@ HOST-SUFFIX,tusco.ru,MAILRU
 HOST-SUFFIX,uma.media,MAILRU
 HOST-SUFFIX,viqeo.tv,MAILRU
 HOST-SUFFIX,viqeotv.com,MAILRU
+HOST-SUFFIX,vkcloud-static.kz,MAILRU
+HOST-SUFFIX,vkcloud.kz,MAILRU
 HOST-SUFFIX,vkplay-arena.ru,MAILRU
 HOST-SUFFIX,vkplay.ru,MAILRU
 HOST-SUFFIX,vkplay.live,MAILRU

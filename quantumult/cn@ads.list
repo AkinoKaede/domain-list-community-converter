@@ -26,12 +26,6 @@ HOST-SUFFIX,ja.gamersky.com,CN@ADS
 HOST-SUFFIX,ja1.gamersky.com,CN@ADS
 HOST-SUFFIX,ja2.gamersky.com,CN@ADS
 HOST-SUFFIX,wmbd.gamersky.com,CN@ADS
-HOST-SUFFIX,click.hunantv.com,CN@ADS
-HOST-SUFFIX,da.hunantv.com,CN@ADS
-HOST-SUFFIX,da.mgtv.com,CN@ADS
-HOST-SUFFIX,log.hunantv.com,CN@ADS
-HOST-SUFFIX,log.v2.hunantv.com,CN@ADS
-HOST-SUFFIX,res.hunantv.com,CN@ADS
 HOST-SUFFIX,adbkwai.com,CN@ADS
 HOST-SUFFIX,adkwai.com,CN@ADS
 HOST-SUFFIX,adukwai.com,CN@ADS
@@ -70,6 +64,12 @@ HOST-SUFFIX,statis.api.3g.youku.com,CN@ADS
 HOST-SUFFIX,v6-adashx.ut.youku.com,CN@ADS
 HOST-SUFFIX,yk-ssp.ad.youku.com,CN@ADS
 HOST-SUFFIX,ykad-data.youku.com,CN@ADS
+HOST-SUFFIX,click.hunantv.com,CN@ADS
+HOST-SUFFIX,da.hunantv.com,CN@ADS
+HOST-SUFFIX,da.mgtv.com,CN@ADS
+HOST-SUFFIX,log.hunantv.com,CN@ADS
+HOST-SUFFIX,log.v2.hunantv.com,CN@ADS
+HOST-SUFFIX,res.hunantv.com,CN@ADS
 HOST-SUFFIX,logger.qmai.cn,CN@ADS
 HOST-SUFFIX,tracking.mcdonalds.com.cn,CN@ADS
 HOST-SUFFIX,trackingprd.hwwt8.com,CN@ADS

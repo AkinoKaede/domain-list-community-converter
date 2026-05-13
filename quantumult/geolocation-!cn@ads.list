@@ -11,6 +11,7 @@ HOST,metrics.21-school.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.sberauto.com,GEOLOCATION-!CN@ADS
 HOST,tracing-http.megamarket.tech,GEOLOCATION-!CN@ADS
 HOST,visor.sberbank.ru,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,adsgram.ai,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN@ADS
 HOST,ad.ozone.ru,GEOLOCATION-!CN@ADS
