@@ -16797,6 +16797,7 @@ HOST,appleworldwidedeveloper.sc.omtrdc.net,GEOLOCATION-!CN
 HOST,p-events-delivery.akamaized.net,GEOLOCATION-!CN
 HOST-SUFFIX,archlinux.de,GEOLOCATION-!CN
 HOST-SUFFIX,archlinux.org,GEOLOCATION-!CN
+HOST-SUFFIX,archlinux.page,GEOLOCATION-!CN
 HOST-SUFFIX,archlinuxarm.org,GEOLOCATION-!CN
 HOST-SUFFIX,pkgbuild.com,GEOLOCATION-!CN
 HOST-SUFFIX,archlinuxcn.org,GEOLOCATION-!CN
