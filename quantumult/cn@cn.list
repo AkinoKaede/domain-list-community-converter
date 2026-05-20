@@ -24,6 +24,7 @@ HOST-SUFFIX,cloudflarestoragegw.com,CN@CN
 HOST-SUFFIX,a2z.org.cn,CN@CN
 HOST-SUFFIX,amazonaws.cn,CN@CN
 HOST-SUFFIX,amazonaws.com.cn,CN@CN
+HOST-SUFFIX,amazonwebservices.cn,CN@CN
 HOST-SUFFIX,amazonwebservices.com.cn,CN@CN
 HOST-SUFFIX,amazonworkdocs.cn,CN@CN
 HOST-SUFFIX,amazonworkdocs.com.cn,CN@CN

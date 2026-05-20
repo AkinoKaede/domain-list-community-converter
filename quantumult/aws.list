@@ -1,6 +1,7 @@
 HOST-SUFFIX,a2z.org.cn,AWS
 HOST-SUFFIX,amazonaws.cn,AWS
 HOST-SUFFIX,amazonaws.com.cn,AWS
+HOST-SUFFIX,amazonwebservices.cn,AWS
 HOST-SUFFIX,amazonwebservices.com.cn,AWS
 HOST-SUFFIX,amazonworkdocs.cn,AWS
 HOST-SUFFIX,amazonworkdocs.com.cn,AWS

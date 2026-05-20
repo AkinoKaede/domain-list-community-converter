@@ -24,6 +24,7 @@ HOST-SUFFIX,cloudflarestoragegw.com,GEOLOCATION-CN@CN
 HOST-SUFFIX,a2z.org.cn,GEOLOCATION-CN@CN
 HOST-SUFFIX,amazonaws.cn,GEOLOCATION-CN@CN
 HOST-SUFFIX,amazonaws.com.cn,GEOLOCATION-CN@CN
+HOST-SUFFIX,amazonwebservices.cn,GEOLOCATION-CN@CN
 HOST-SUFFIX,amazonwebservices.com.cn,GEOLOCATION-CN@CN
 HOST-SUFFIX,amazonworkdocs.cn,GEOLOCATION-CN@CN
 HOST-SUFFIX,amazonworkdocs.com.cn,GEOLOCATION-CN@CN
