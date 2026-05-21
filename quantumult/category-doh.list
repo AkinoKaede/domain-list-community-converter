@@ -95,6 +95,8 @@ HOST,secondary.dns.seia.io,CATEGORY-DOH
 HOST,common.dot.dns.yandex.net,CATEGORY-DOH
 HOST,safe.dot.dns.yandex.net,CATEGORY-DOH
 HOST,family.dot.dns.yandex.net,CATEGORY-DOH
+HOST,dns.shaw.ca,CATEGORY-DOH
+HOST,doh.xfinity.com,CATEGORY-DOH
 HOST,doh.nl.ahadns.net,CATEGORY-DOH
 HOST,doh.la.ahadns.net,CATEGORY-DOH
 HOST,dns.arapurayil.com,CATEGORY-DOH
