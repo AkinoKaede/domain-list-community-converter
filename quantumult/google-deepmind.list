@@ -15,6 +15,7 @@ HOST-SUFFIX,aistudio.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,bard.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,gemini.google.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,gemini.gstatic.com,GOOGLE-DEEPMIND
 HOST,cloudaicompanion.googleapis.com,GOOGLE-DEEPMIND
 HOST,cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND

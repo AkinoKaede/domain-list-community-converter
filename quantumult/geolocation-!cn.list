@@ -50,6 +50,7 @@ HOST-SUFFIX,aistudio.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,bard.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,gemini.google,GEOLOCATION-!CN
 HOST-SUFFIX,gemini.google.com,GEOLOCATION-!CN
+HOST-SUFFIX,gemini.gstatic.com,GEOLOCATION-!CN
 HOST,cloudaicompanion.googleapis.com,GEOLOCATION-!CN
 HOST,cloudcode-pa.googleapis.com,GEOLOCATION-!CN
 HOST,daily-cloudcode-pa.googleapis.com,GEOLOCATION-!CN
@@ -22613,6 +22614,7 @@ HOST-SUFFIX,radar.imgsmail.ru,GEOLOCATION-!CN
 HOST-SUFFIX,relap.mail.ru,GEOLOCATION-!CN
 HOST-SUFFIX,target.my.com,GEOLOCATION-!CN
 HOST-SUFFIX,top-fwz1.mail.ru,GEOLOCATION-!CN
+HOST-SUFFIX,trace-flow.ru,GEOLOCATION-!CN
 HOST-SUFFIX,tracker-api.my.com,GEOLOCATION-!CN
 HOST-SUFFIX,tracker.my.com,GEOLOCATION-!CN
 HOST,1l-hit.mail.ru,GEOLOCATION-!CN

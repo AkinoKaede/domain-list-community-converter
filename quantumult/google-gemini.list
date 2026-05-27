@@ -15,6 +15,7 @@ HOST-SUFFIX,aistudio.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,bard.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.google,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.google.com,GOOGLE-GEMINI
+HOST-SUFFIX,gemini.gstatic.com,GOOGLE-GEMINI
 HOST,cloudaicompanion.googleapis.com,GOOGLE-GEMINI
 HOST,cloudcode-pa.googleapis.com,GOOGLE-GEMINI
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-GEMINI

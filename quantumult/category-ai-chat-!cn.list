@@ -50,6 +50,7 @@ HOST-SUFFIX,aistudio.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,bard.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.google.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,gemini.gstatic.com,CATEGORY-AI-CHAT-!CN
 HOST,cloudaicompanion.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
