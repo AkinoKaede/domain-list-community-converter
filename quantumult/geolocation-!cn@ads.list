@@ -242,6 +242,10 @@ HOST,api.mindbox.cloud,GEOLOCATION-!CN@ADS
 HOST,api.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.popmechanic.ru,GEOLOCATION-!CN@ADS
+HOST,ads-img.mozilla.org,GEOLOCATION-!CN@ADS
+HOST,ads.mozilla.org,GEOLOCATION-!CN@ADS
+HOST,incoming.telemetry.mozilla.org,GEOLOCATION-!CN@ADS
+HOST,incoming-telemetry.thunderbird.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,a.mts.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,obs.mts.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.iptv.rt.ru,GEOLOCATION-!CN@ADS

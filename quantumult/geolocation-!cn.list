@@ -23426,6 +23426,10 @@ HOST-SUFFIX,mozillafoundation.org,GEOLOCATION-!CN
 HOST-SUFFIX,mzl.la,GEOLOCATION-!CN
 HOST-SUFFIX,seamonkey-project.org,GEOLOCATION-!CN
 HOST-SUFFIX,thunderbird.net,GEOLOCATION-!CN
+HOST,ads-img.mozilla.org,GEOLOCATION-!CN
+HOST,ads.mozilla.org,GEOLOCATION-!CN
+HOST,incoming.telemetry.mozilla.org,GEOLOCATION-!CN
+HOST,incoming-telemetry.thunderbird.net,GEOLOCATION-!CN
 HOST-SUFFIX,msi.cn,GEOLOCATION-!CN
 HOST-SUFFIX,msi.com,GEOLOCATION-!CN
 HOST-SUFFIX,mts-ws.net,GEOLOCATION-!CN

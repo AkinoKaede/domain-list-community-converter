@@ -22,3 +22,7 @@ HOST-SUFFIX,mozillafoundation.org,MOZILLA
 HOST-SUFFIX,mzl.la,MOZILLA
 HOST-SUFFIX,seamonkey-project.org,MOZILLA
 HOST-SUFFIX,thunderbird.net,MOZILLA
+HOST,ads-img.mozilla.org,MOZILLA
+HOST,ads.mozilla.org,MOZILLA
+HOST,incoming.telemetry.mozilla.org,MOZILLA
+HOST,incoming-telemetry.thunderbird.net,MOZILLA

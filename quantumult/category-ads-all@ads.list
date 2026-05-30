@@ -307,6 +307,10 @@ HOST,api.mindbox.cloud,CATEGORY-ADS-ALL@ADS
 HOST,api.mindbox.ru,CATEGORY-ADS-ALL@ADS
 HOST,sentry.mindbox.ru,CATEGORY-ADS-ALL@ADS
 HOST,sentry.popmechanic.ru,CATEGORY-ADS-ALL@ADS
+HOST,ads-img.mozilla.org,CATEGORY-ADS-ALL@ADS
+HOST,ads.mozilla.org,CATEGORY-ADS-ALL@ADS
+HOST,incoming.telemetry.mozilla.org,CATEGORY-ADS-ALL@ADS
+HOST,incoming-telemetry.thunderbird.net,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,a.mts.ru,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,obs.mts.ru,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,a.youdao.com,CATEGORY-ADS-ALL@ADS
