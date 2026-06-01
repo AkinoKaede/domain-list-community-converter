@@ -1,5 +1,6 @@
 HOST-SUFFIX,firefox.com,MOZILLA
 HOST-SUFFIX,firefoxusercontent.com,MOZILLA
+HOST,mozilla-ohttp.fastly-edge.com,MOZILLA
 HOST-SUFFIX,developer.allizom.org,MOZILLA
 HOST-SUFFIX,developer.mozilla.org,MOZILLA
 HOST-SUFFIX,mdn.allizom.net,MOZILLA

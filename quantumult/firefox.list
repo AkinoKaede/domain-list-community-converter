@@ -1,2 +1,3 @@
 HOST-SUFFIX,firefox.com,FIREFOX
 HOST-SUFFIX,firefoxusercontent.com,FIREFOX
+HOST,mozilla-ohttp.fastly-edge.com,FIREFOX
