@@ -1229,9 +1229,13 @@ HOST-SUFFIX,zygbdszt.net.cn,CN
 HOST-SUFFIX,ad.cctv.com,CN
 HOST-SUFFIX,chinanews.com,CN
 HOST-SUFFIX,chinanews.com.cn,CN
+HOST-SUFFIX,chinaqw.com,CN
 HOST-SUFFIX,cns.com.cn,CN
+HOST-SUFFIX,cnsimg.net,CN
 HOST-SUFFIX,ecns.cn,CN
 HOST-SUFFIX,inewsweek.cn,CN
+HOST-SUFFIX,jwview.com,CN
+HOST-SUFFIX,xinmeng.info,CN
 HOST-SUFFIX,coolbuy.com,CN
 HOST-SUFFIX,ifanr.cn,CN
 HOST-SUFFIX,ifanr.com,CN
@@ -1453,6 +1457,7 @@ HOST-SUFFIX,nanyuenews.com,CN
 HOST-SUFFIX,nbd.com.cn,CN
 HOST-SUFFIX,neweekly.com.cn,CN
 HOST-SUFFIX,news.cn,CN
+HOST-SUFFIX,newsimg.cn,CN
 HOST-SUFFIX,xinhuanet.com,CN
 HOST-SUFFIX,xinhuaxmt.com,CN
 HOST-SUFFIX,ofweek.com,CN
@@ -2298,6 +2303,7 @@ HOST-SUFFIX,mala.cn,CN
 HOST-SUFFIX,mcbbs.net,CN
 HOST-SUFFIX,pcbeta.com,CN
 HOST-SUFFIX,right.com.cn,CN
+HOST-SUFFIX,tianya.net,CN
 HOST-SUFFIX,touying.com,CN
 HOST-SUFFIX,txrjy.com,CN
 HOST-SUFFIX,uiwow.com,CN
@@ -2348,6 +2354,7 @@ HOST-SUFFIX,nmc.cn,CN
 HOST-SUFFIX,piyao.org.cn,CN
 HOST-SUFFIX,redcross.org.cn,CN
 HOST-SUFFIX,zgbznet.com.cn,CN
+HOST-SUFFIX,zgjx.cn,CN
 HOST-SUFFIX,airchina.com.cn,CN
 HOST-SUFFIX,airchinacargo.com,CN
 HOST-SUFFIX,hainanairlines.com,CN
