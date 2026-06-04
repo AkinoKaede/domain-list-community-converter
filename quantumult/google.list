@@ -669,7 +669,6 @@ HOST-SUFFIX,0emm.com,GOOGLE
 HOST-SUFFIX,1e100.net,GOOGLE
 HOST-SUFFIX,1ucrs.com,GOOGLE
 HOST-SUFFIX,466453.com,GOOGLE
-HOST-SUFFIX,abc.xyz,GOOGLE
 HOST-SUFFIX,adgoogle.net,GOOGLE
 HOST-SUFFIX,admeld.com,GOOGLE
 HOST-SUFFIX,angulardart.org,GOOGLE
@@ -807,7 +806,6 @@ HOST-SUFFIX,gstatic.cn,GOOGLE
 HOST-SUFFIX,gstatic.com,GOOGLE
 HOST-SUFFIX,gstaticcnapps.cn,GOOGLE
 HOST-SUFFIX,gsuite.com,GOOGLE
-HOST-SUFFIX,gv.com,GOOGLE
 HOST-SUFFIX,gvt0.com,GOOGLE
 HOST-SUFFIX,gvt1.com,GOOGLE
 HOST-SUFFIX,gvt2.com,GOOGLE
@@ -897,6 +895,7 @@ HOST-SUFFIX,stxmosquitoproject.com,GOOGLE
 HOST-SUFFIX,stxmosquitoproject.net,GOOGLE
 HOST-SUFFIX,stxmosquitoproject.org,GOOGLE
 HOST-SUFFIX,synergyse.com,GOOGLE
+HOST-SUFFIX,tenor.com,GOOGLE
 HOST-SUFFIX,tensorflow.org,GOOGLE
 HOST-SUFFIX,tfhub.dev,GOOGLE
 HOST-SUFFIX,thecleversense.com,GOOGLE
@@ -912,13 +911,11 @@ HOST-SUFFIX,useplannr.com,GOOGLE
 HOST-SUFFIX,usvimosquito.com,GOOGLE
 HOST-SUFFIX,usvimosquitoproject.com,GOOGLE
 HOST-SUFFIX,velostrata.com,GOOGLE
-HOST-SUFFIX,verily.com,GOOGLE
 HOST-SUFFIX,verilylifesciences.com,GOOGLE
 HOST-SUFFIX,verilystudyhub.com,GOOGLE
 HOST-SUFFIX,verilystudywatch.com,GOOGLE
 HOST-SUFFIX,verilystudywatch.org,GOOGLE
 HOST-SUFFIX,wallet.com,GOOGLE
-HOST-SUFFIX,waymo.com,GOOGLE
 HOST-SUFFIX,waze.com,GOOGLE
 HOST-SUFFIX,web.app,GOOGLE
 HOST-SUFFIX,web.dev,GOOGLE

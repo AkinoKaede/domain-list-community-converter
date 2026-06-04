@@ -1,4 +1,10 @@
+HOST-SUFFIX,ads.service.kugou.com,TENCENT@ADS
+HOST-SUFFIX,adserviceretry.kglink.cn,TENCENT@ADS
+HOST-SUFFIX,adserviceretry.kugou.com,TENCENT@ADS
 HOST-SUFFIX,badjs.weixinbridge.com,TENCENT@ADS
+HOST-SUFFIX,adbehavior.ximalaya.com,TENCENT@ADS
+HOST-SUFFIX,adse.wsa.ximalaya.com,TENCENT@ADS
+HOST-SUFFIX,adse.ximalaya.com,TENCENT@ADS
 HOST-SUFFIX,ad.browser.qq.com,TENCENT@ADS
 HOST-SUFFIX,ad.qq.com,TENCENT@ADS
 HOST-SUFFIX,ad.qun.qq.com,TENCENT@ADS

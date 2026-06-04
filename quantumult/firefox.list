@@ -1,3 +1,6 @@
+HOST-SUFFIX,extendfirefox.com,FIREFOX
 HOST-SUFFIX,firefox.com,FIREFOX
+HOST-SUFFIX,firefox.hu,FIREFOX
+HOST-SUFFIX,firefoxtweetmachine.com,FIREFOX
 HOST-SUFFIX,firefoxusercontent.com,FIREFOX
 HOST,mozilla-ohttp.fastly-edge.com,FIREFOX
