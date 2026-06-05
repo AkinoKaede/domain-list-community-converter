@@ -202,6 +202,9 @@ HOST-SUFFIX,soku.com,ALIBABA
 HOST-SUFFIX,tudou.com,ALIBABA
 HOST-SUFFIX,ykimg.com,ALIBABA
 HOST-SUFFIX,youku.com,ALIBABA
+HOST-SUFFIX,youku.tv,ALIBABA
+HOST-SUFFIX,youkuhonor.com,ALIBABA
+HOST-SUFFIX,youkuplay.com,ALIBABA
 HOST-SUFFIX,ad.api.3g.youku.com,ALIBABA
 HOST-SUFFIX,ad.api.mobile.youku.com,ALIBABA
 HOST-SUFFIX,ad.mobile.youku.com,ALIBABA

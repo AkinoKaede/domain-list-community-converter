@@ -1,0 +1,13 @@
+HOST-SUFFIX,ads.service.kugou.com,TENCENT-TME@ADS
+HOST-SUFFIX,adserviceretry.kglink.cn,TENCENT-TME@ADS
+HOST-SUFFIX,adserviceretry.kugou.com,TENCENT-TME@ADS
+HOST-SUFFIX,adbehavior.ximalaya.com,TENCENT-TME@ADS
+HOST-SUFFIX,adse.wsa.ximalaya.com,TENCENT-TME@ADS
+HOST-SUFFIX,adse.ximalaya.com,TENCENT-TME@ADS
+HOST-SUFFIX,ad.tencentmusic.com,TENCENT-TME@ADS
+HOST-SUFFIX,adstats.tencentmusic.com,TENCENT-TME@ADS
+HOST-SUFFIX,monitor.music.qq.com,TENCENT-TME@ADS
+HOST-SUFFIX,report.tencentmusic.com,TENCENT-TME@ADS
+HOST-SUFFIX,stat.y.qq.com,TENCENT-TME@ADS
+HOST-SUFFIX,tmead.y.qq.com,TENCENT-TME@ADS
+HOST-SUFFIX,tmeadcomm.y.qq.com,TENCENT-TME@ADS
