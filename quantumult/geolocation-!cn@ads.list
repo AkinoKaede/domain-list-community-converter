@@ -14,6 +14,7 @@ HOST,visor.sberbank.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adsgram.ai,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN@ADS
+HOST,stats.avito.ru,GEOLOCATION-!CN@ADS
 HOST,ad.ozone.ru,GEOLOCATION-!CN@ADS
 HOST,adv.ozon.ru,GEOLOCATION-!CN@ADS
 HOST,agency-adv.ozon.ru,GEOLOCATION-!CN@ADS
@@ -290,6 +291,7 @@ HOST,clck.yandex.com,GEOLOCATION-!CN@ADS
 HOST,clck.yandex.net,GEOLOCATION-!CN@ADS
 HOST,clck.yango.com,GEOLOCATION-!CN@ADS
 HOST,informer.yandex.ru,GEOLOCATION-!CN@ADS
+HOST,log.strm.yandex.ru,GEOLOCATION-!CN@ADS
 HOST,mc.yandex.com,GEOLOCATION-!CN@ADS
 HOST,mc.yandex.net,GEOLOCATION-!CN@ADS
 HOST,mc.yango.com,GEOLOCATION-!CN@ADS

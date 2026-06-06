@@ -39,6 +39,7 @@ HOST-SUFFIX,api-adservices.apple.com,CATEGORY-ADS
 HOST-SUFFIX,iadsdk.apple.com,CATEGORY-ADS
 HOST-SUFFIX,iad.apple.com,CATEGORY-ADS
 HOST-SUFFIX,qwapi.com,CATEGORY-ADS
+HOST,stats.avito.ru,CATEGORY-ADS
 HOST-SUFFIX,adscdn.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,adx.xiaodutv.com,CATEGORY-ADS
 HOST-SUFFIX,afd.baidu.com,CATEGORY-ADS
@@ -562,6 +563,7 @@ HOST,clck.yandex.com,CATEGORY-ADS
 HOST,clck.yandex.net,CATEGORY-ADS
 HOST,clck.yango.com,CATEGORY-ADS
 HOST,informer.yandex.ru,CATEGORY-ADS
+HOST,log.strm.yandex.ru,CATEGORY-ADS
 HOST,mc.yandex.com,CATEGORY-ADS
 HOST,mc.yandex.net,CATEGORY-ADS
 HOST,mc.yango.com,CATEGORY-ADS
@@ -639,6 +641,7 @@ HOST-SUFFIX,click.ali213.net,CATEGORY-ADS
 HOST-SUFFIX,pbmp.ali213.net,CATEGORY-ADS
 HOST-SUFFIX,applovin.com,CATEGORY-ADS
 HOST-SUFFIX,applvn.com,CATEGORY-ADS
+HOST-SUFFIX,appsflyersdk.com,CATEGORY-ADS
 HOST,pinggai0.caixin.com,CATEGORY-ADS
 HOST,pinggai1.caixin.com,CATEGORY-ADS
 HOST,pinggai2.caixin.com,CATEGORY-ADS
@@ -669,6 +672,7 @@ HOST-SUFFIX,g1.tagtic.cn,CATEGORY-ADS
 HOST-SUFFIX,xy-log.tagtic.cn,CATEGORY-ADS
 HOST-SUFFIX,ad.unimhk.com,CATEGORY-ADS
 HOST-SUFFIX,das-rpt-log.ucloud.cn,CATEGORY-ADS
+HOST,logs.ads.vungle.com,CATEGORY-ADS
 HOST-SUFFIX,telecome.cn,CATEGORY-ADS
 HOST-SUFFIX,unioncom.cc,CATEGORY-ADS
 HOST-SUFFIX,yfanads.cn,CATEGORY-ADS

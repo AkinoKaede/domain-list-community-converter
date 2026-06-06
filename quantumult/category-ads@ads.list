@@ -32,6 +32,7 @@ HOST-SUFFIX,api-adservices.apple.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,iadsdk.apple.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,iad.apple.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,qwapi.com,CATEGORY-ADS@ADS
+HOST,stats.avito.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,adscdn.baidu.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,adx.xiaodutv.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,afd.baidu.com,CATEGORY-ADS@ADS
@@ -555,6 +556,7 @@ HOST,clck.yandex.com,CATEGORY-ADS@ADS
 HOST,clck.yandex.net,CATEGORY-ADS@ADS
 HOST,clck.yango.com,CATEGORY-ADS@ADS
 HOST,informer.yandex.ru,CATEGORY-ADS@ADS
+HOST,log.strm.yandex.ru,CATEGORY-ADS@ADS
 HOST,mc.yandex.com,CATEGORY-ADS@ADS
 HOST,mc.yandex.net,CATEGORY-ADS@ADS
 HOST,mc.yango.com,CATEGORY-ADS@ADS

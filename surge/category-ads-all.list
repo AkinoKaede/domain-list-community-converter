@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
+DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,afd.baidu.com
@@ -562,6 +563,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
@@ -639,6 +641,7 @@ DOMAIN-SUFFIX,click.ali213.net
 DOMAIN-SUFFIX,pbmp.ali213.net
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,pinggai0.caixin.com
 DOMAIN,pinggai1.caixin.com
 DOMAIN,pinggai2.caixin.com
@@ -669,6 +672,7 @@ DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,xy-log.tagtic.cn
 DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
+DOMAIN,logs.ads.vungle.com
 DOMAIN-SUFFIX,telecome.cn
 DOMAIN-SUFFIX,unioncom.cc
 DOMAIN-SUFFIX,yfanads.cn

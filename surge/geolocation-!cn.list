@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,cici.com
@@ -3413,6 +3414,7 @@ DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,zapper.fi
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o3t.ru
@@ -7319,6 +7321,7 @@ DOMAIN-SUFFIX,ptt3.cc
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,reddit.com
@@ -24508,6 +24511,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com

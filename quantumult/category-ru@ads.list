@@ -1,3 +1,4 @@
+HOST,stats.avito.ru,CATEGORY-RU@ADS
 HOST,ad.ozone.ru,CATEGORY-RU@ADS
 HOST,adv.ozon.ru,CATEGORY-RU@ADS
 HOST,agency-adv.ozon.ru,CATEGORY-RU@ADS
@@ -163,6 +164,7 @@ HOST,clck.yandex.com,CATEGORY-RU@ADS
 HOST,clck.yandex.net,CATEGORY-RU@ADS
 HOST,clck.yango.com,CATEGORY-RU@ADS
 HOST,informer.yandex.ru,CATEGORY-RU@ADS
+HOST,log.strm.yandex.ru,CATEGORY-RU@ADS
 HOST,mc.yandex.com,CATEGORY-RU@ADS
 HOST,mc.yandex.net,CATEGORY-RU@ADS
 HOST,mc.yango.com,CATEGORY-RU@ADS

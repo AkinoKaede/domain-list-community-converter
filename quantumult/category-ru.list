@@ -26,6 +26,7 @@ HOST-SUFFIX,winline.ru,CATEGORY-RU
 HOST-SUFFIX,winlinebet.ru,CATEGORY-RU
 HOST-SUFFIX,avito.ru,CATEGORY-RU
 HOST-SUFFIX,avito.st,CATEGORY-RU
+HOST,stats.avito.ru,CATEGORY-RU
 HOST-SUFFIX,ewisdom.us.kg,CATEGORY-RU
 HOST-SUFFIX,o3.ru,CATEGORY-RU
 HOST-SUFFIX,o3t.ru,CATEGORY-RU
@@ -1382,6 +1383,7 @@ HOST,clck.yandex.com,CATEGORY-RU
 HOST,clck.yandex.net,CATEGORY-RU
 HOST,clck.yango.com,CATEGORY-RU
 HOST,informer.yandex.ru,CATEGORY-RU
+HOST,log.strm.yandex.ru,CATEGORY-RU
 HOST,mc.yandex.com,CATEGORY-RU
 HOST,mc.yandex.net,CATEGORY-RU
 HOST,mc.yango.com,CATEGORY-RU
