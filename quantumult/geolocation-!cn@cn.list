@@ -81,9 +81,7 @@ HOST,certs-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,certs.apple.com,GEOLOCATION-!CN@CN
 HOST,crl-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,crl.apple.com,GEOLOCATION-!CN@CN
-HOST,ocsp-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp.apple.com,GEOLOCATION-!CN@CN
-HOST,ocsp2-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,ocsp2.apple.com,GEOLOCATION-!CN@CN
 HOST,valid.apple.com,GEOLOCATION-!CN@CN
 HOST,valid.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
@@ -725,6 +723,7 @@ HOST,cds.apple.com,GEOLOCATION-!CN@CN
 HOST,cds.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,cdsassets.apple.com,GEOLOCATION-!CN@CN
 HOST,cl2-cn.apple.com,GEOLOCATION-!CN@CN
+HOST,cl2.apple.com.edgekey.net.globalredir.akadns.net,GEOLOCATION-!CN@CN
 HOST,cl4-cn.apple.com,GEOLOCATION-!CN@CN
 HOST,clientflow.apple.com,GEOLOCATION-!CN@CN
 HOST,clientflow.apple.com.akadns.net,GEOLOCATION-!CN@CN
@@ -742,6 +741,7 @@ HOST,experiments.apple.com,GEOLOCATION-!CN@CN
 HOST,gs-loc-cn.apple.com,GEOLOCATION-!CN@CN
 HOST,gs-loc.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp10-ssl-cn.ls.apple.com,GEOLOCATION-!CN@CN
+HOST,gsp11-cn.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp12-cn.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp13-cn.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp4-cn.ls.apple.com,GEOLOCATION-!CN@CN
@@ -759,8 +759,6 @@ HOST,gspe79-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,guzzoni-apple-com.v.aaplimg.com,GEOLOCATION-!CN@CN
 HOST,guzzoni.apple.com,GEOLOCATION-!CN@CN
 HOST,guzzoni.smoot.apple.com,GEOLOCATION-!CN@CN
-HOST,icloud-cdn.icloud.com.akadns.net,GEOLOCATION-!CN@CN
-HOST,icloud.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,images.apple.com.edgekey.net.globalredir.akadns.net,GEOLOCATION-!CN@CN
 HOST,init-kt.apple.com,GEOLOCATION-!CN@CN
 HOST,init-p01md-lb.push-apple.com.akadns.net,GEOLOCATION-!CN@CN
@@ -787,12 +785,10 @@ HOST,oscdn.apple.com,GEOLOCATION-!CN@CN
 HOST,oscdn.origin-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,osxapps.itunes.g.aaplimg.com,GEOLOCATION-!CN@CN
 HOST,pancake.apple.com,GEOLOCATION-!CN@CN
-HOST,pancake.cdn-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,pba0.apple.com,GEOLOCATION-!CN@CN
 HOST,probe.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,prod-support.apple-support.akadns.net,GEOLOCATION-!CN@CN
 HOST,publicassets.cdn-apple.com,GEOLOCATION-!CN@CN
-HOST,reserve-prime.apple.com,GEOLOCATION-!CN@CN
 HOST,seed-sequoia.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,seed-swallow.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,seed.siri.apple.com,GEOLOCATION-!CN@CN

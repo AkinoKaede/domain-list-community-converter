@@ -39,9 +39,7 @@ HOST,certs-lb.apple.com.akadns.net,APPLE
 HOST,certs.apple.com,APPLE
 HOST,crl-lb.apple.com.akadns.net,APPLE
 HOST,crl.apple.com,APPLE
-HOST,ocsp-lb.apple.com.akadns.net,APPLE
 HOST,ocsp.apple.com,APPLE
-HOST,ocsp2-lb.apple.com.akadns.net,APPLE
 HOST,ocsp2.apple.com,APPLE
 HOST,valid.apple.com,APPLE
 HOST,valid.origin-apple.com.akadns.net,APPLE
@@ -1701,6 +1699,7 @@ HOST,cds.apple.com,APPLE
 HOST,cds.apple.com.akadns.net,APPLE
 HOST,cdsassets.apple.com,APPLE
 HOST,cl2-cn.apple.com,APPLE
+HOST,cl2.apple.com.edgekey.net.globalredir.akadns.net,APPLE
 HOST,cl4-cn.apple.com,APPLE
 HOST,clientflow.apple.com,APPLE
 HOST,clientflow.apple.com.akadns.net,APPLE
@@ -1718,6 +1717,7 @@ HOST,experiments.apple.com,APPLE
 HOST,gs-loc-cn.apple.com,APPLE
 HOST,gs-loc.apple.com,APPLE
 HOST,gsp10-ssl-cn.ls.apple.com,APPLE
+HOST,gsp11-cn.ls.apple.com,APPLE
 HOST,gsp12-cn.ls.apple.com,APPLE
 HOST,gsp13-cn.ls.apple.com,APPLE
 HOST,gsp4-cn.ls.apple.com,APPLE
@@ -1735,8 +1735,6 @@ HOST,gspe79-cn-ssl.ls.apple.com,APPLE
 HOST,guzzoni-apple-com.v.aaplimg.com,APPLE
 HOST,guzzoni.apple.com,APPLE
 HOST,guzzoni.smoot.apple.com,APPLE
-HOST,icloud-cdn.icloud.com.akadns.net,APPLE
-HOST,icloud.cdn-apple.com,APPLE
 HOST,images.apple.com.edgekey.net.globalredir.akadns.net,APPLE
 HOST,init-kt.apple.com,APPLE
 HOST,init-p01md-lb.push-apple.com.akadns.net,APPLE
@@ -1763,12 +1761,10 @@ HOST,oscdn.apple.com,APPLE
 HOST,oscdn.origin-apple.com.akadns.net,APPLE
 HOST,osxapps.itunes.g.aaplimg.com,APPLE
 HOST,pancake.apple.com,APPLE
-HOST,pancake.cdn-apple.com.akadns.net,APPLE
 HOST,pba0.apple.com,APPLE
 HOST,probe.siri.apple.com,APPLE
 HOST,prod-support.apple-support.akadns.net,APPLE
 HOST,publicassets.cdn-apple.com,APPLE
-HOST,reserve-prime.apple.com,APPLE
 HOST,seed-sequoia.siri.apple.com,APPLE
 HOST,seed-swallow.siri.apple.com,APPLE
 HOST,seed.siri.apple.com,APPLE

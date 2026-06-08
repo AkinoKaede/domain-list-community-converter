@@ -1,0 +1,9 @@
+HOST-SUFFIX,captive.apple.com,CONNECTIVITY-CHECK@CN
+HOST,connectivitycheck.platform.hihonorcloud.com,CONNECTIVITY-CHECK@CN
+HOST,connectivitycheck.platform.hicloud.com,CONNECTIVITY-CHECK@CN
+HOST,connect.rom.miui.com,CONNECTIVITY-CHECK@CN
+HOST,conn1.oppomobile.com,CONNECTIVITY-CHECK@CN
+HOST,conn2.oppomobile.com,CONNECTIVITY-CHECK@CN
+HOST,www.qualcomm.cn,CONNECTIVITY-CHECK@CN
+HOST,connectivity.samsung.com.cn,CONNECTIVITY-CHECK@CN
+HOST,wifi.vivo.com.cn,CONNECTIVITY-CHECK@CN

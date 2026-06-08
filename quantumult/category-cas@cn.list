@@ -2,9 +2,7 @@ HOST,certs-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,certs.apple.com,CATEGORY-CAS@CN
 HOST,crl-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,crl.apple.com,CATEGORY-CAS@CN
-HOST,ocsp-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,ocsp.apple.com,CATEGORY-CAS@CN
-HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-CAS@CN
 HOST,ocsp2.apple.com,CATEGORY-CAS@CN
 HOST,valid.apple.com,CATEGORY-CAS@CN
 HOST,valid.origin-apple.com.akadns.net,CATEGORY-CAS@CN
@@ -32,5 +30,3 @@ HOST-SUFFIX,sectigochina.com,CATEGORY-CAS@CN
 HOST-SUFFIX,sectigochina.com.cdn.cloudflare.net,CATEGORY-CAS@CN
 HOST-SUFFIX,trust-provider.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,sslcom.cn,CATEGORY-CAS@CN
-HOST-SUFFIX,yahoo.cn,CATEGORY-CAS@CN
-HOST-SUFFIX,yahoo.com.cn,CATEGORY-CAS@CN

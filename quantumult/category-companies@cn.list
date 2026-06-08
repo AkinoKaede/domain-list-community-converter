@@ -187,9 +187,7 @@ HOST,certs-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,certs.apple.com,CATEGORY-COMPANIES@CN
 HOST,crl-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,crl.apple.com,CATEGORY-COMPANIES@CN
-HOST,ocsp-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,ocsp.apple.com,CATEGORY-COMPANIES@CN
-HOST,ocsp2-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,ocsp2.apple.com,CATEGORY-COMPANIES@CN
 HOST,valid.apple.com,CATEGORY-COMPANIES@CN
 HOST,valid.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
@@ -362,6 +360,7 @@ HOST,cds.apple.com,CATEGORY-COMPANIES@CN
 HOST,cds.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,cdsassets.apple.com,CATEGORY-COMPANIES@CN
 HOST,cl2-cn.apple.com,CATEGORY-COMPANIES@CN
+HOST,cl2.apple.com.edgekey.net.globalredir.akadns.net,CATEGORY-COMPANIES@CN
 HOST,cl4-cn.apple.com,CATEGORY-COMPANIES@CN
 HOST,clientflow.apple.com,CATEGORY-COMPANIES@CN
 HOST,clientflow.apple.com.akadns.net,CATEGORY-COMPANIES@CN
@@ -379,6 +378,7 @@ HOST,experiments.apple.com,CATEGORY-COMPANIES@CN
 HOST,gs-loc-cn.apple.com,CATEGORY-COMPANIES@CN
 HOST,gs-loc.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp10-ssl-cn.ls.apple.com,CATEGORY-COMPANIES@CN
+HOST,gsp11-cn.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp12-cn.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp13-cn.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp4-cn.ls.apple.com,CATEGORY-COMPANIES@CN
@@ -396,8 +396,6 @@ HOST,gspe79-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,guzzoni-apple-com.v.aaplimg.com,CATEGORY-COMPANIES@CN
 HOST,guzzoni.apple.com,CATEGORY-COMPANIES@CN
 HOST,guzzoni.smoot.apple.com,CATEGORY-COMPANIES@CN
-HOST,icloud-cdn.icloud.com.akadns.net,CATEGORY-COMPANIES@CN
-HOST,icloud.cdn-apple.com,CATEGORY-COMPANIES@CN
 HOST,images.apple.com.edgekey.net.globalredir.akadns.net,CATEGORY-COMPANIES@CN
 HOST,init-kt.apple.com,CATEGORY-COMPANIES@CN
 HOST,init-p01md-lb.push-apple.com.akadns.net,CATEGORY-COMPANIES@CN
@@ -424,12 +422,10 @@ HOST,oscdn.apple.com,CATEGORY-COMPANIES@CN
 HOST,oscdn.origin-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,osxapps.itunes.g.aaplimg.com,CATEGORY-COMPANIES@CN
 HOST,pancake.apple.com,CATEGORY-COMPANIES@CN
-HOST,pancake.cdn-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,pba0.apple.com,CATEGORY-COMPANIES@CN
 HOST,probe.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,prod-support.apple-support.akadns.net,CATEGORY-COMPANIES@CN
 HOST,publicassets.cdn-apple.com,CATEGORY-COMPANIES@CN
-HOST,reserve-prime.apple.com,CATEGORY-COMPANIES@CN
 HOST,seed-sequoia.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,seed-swallow.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,seed.siri.apple.com,CATEGORY-COMPANIES@CN
