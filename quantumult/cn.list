@@ -1431,6 +1431,8 @@ HOST-SUFFIX,eastday.com,CN
 HOST-SUFFIX,eeo.com.cn,CN
 HOST-SUFFIX,expreview.com,CN
 HOST-SUFFIX,freebuf.com,CN
+HOST-SUFFIX,geekbang.org,CN
+HOST-SUFFIX,infoq.cn,CN
 HOST-SUFFIX,geekpark.net,CN
 HOST-SUFFIX,gmw.com,CN
 HOST-SUFFIX,guancha.cn,CN
@@ -4397,9 +4399,6 @@ HOST-SUFFIX,imgcdc.com,CN
 HOST-SUFFIX,imooc.com,CN
 HOST-SUFFIX,indienova.com,CN
 HOST-SUFFIX,infini-fantasy.com,CN
-HOST-SUFFIX,infoq.com,CN
-HOST-SUFFIX,infoqstatic.com,CN
-HOST-SUFFIX,ip-cdn.com,CN
 HOST-SUFFIX,iranshao.com,CN
 HOST-SUFFIX,irs01.com,CN
 HOST-SUFFIX,istoreos.com,CN

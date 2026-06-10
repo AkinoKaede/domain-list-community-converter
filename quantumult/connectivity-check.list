@@ -7,7 +7,6 @@ HOST-SUFFIX,detectportal.firefox.com,CONNECTIVITY-CHECK
 HOST,nmcheck.gnome.org,CONNECTIVITY-CHECK
 HOST,connectivitycheck.gstatic.com,CONNECTIVITY-CHECK
 HOST,www.gstatic.com,CONNECTIVITY-CHECK
-HOST,www.google.com,CONNECTIVITY-CHECK
 HOST,connectivitycheck.platform.hihonorcloud.com,CONNECTIVITY-CHECK
 HOST,connectivitycheck.platform.hicloud.com,CONNECTIVITY-CHECK
 HOST,networkcheck.kde.org,CONNECTIVITY-CHECK
