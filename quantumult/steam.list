@@ -12,7 +12,9 @@ HOST-SUFFIX,steamserver.net,STEAM
 HOST-SUFFIX,steamstatic.com,STEAM
 HOST-SUFFIX,steamusercontent.com,STEAM
 HOST-SUFFIX,underlords.com,STEAM
+HOST-SUFFIX,valve.net,STEAM
 HOST-SUFFIX,valvesoftware.com,STEAM
+HOST-SUFFIX,dota2.com,STEAM
 HOST-SUFFIX,edge.steam-dns.top.comcast.net,STEAM
 HOST,steamcommunity-a.akamaihd.net.edgesuite.net,STEAM
 HOST-SUFFIX,steam.apac.qtlglb.com,STEAM
