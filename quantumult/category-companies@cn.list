@@ -1,6 +1,8 @@
 HOST-SUFFIX,acer.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,adobedc.cn,CATEGORY-COMPANIES@CN
+HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES@CN
+HOST,update.crashlytics.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.play.google.com,CATEGORY-COMPANIES@CN
 HOST,pki-goog.l.google.com,CATEGORY-COMPANIES@CN
 HOST,c.pki.goog,CATEGORY-COMPANIES@CN
@@ -16,10 +18,13 @@ HOST-SUFFIX,gkecnapps.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,googlecnapps.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gstatic.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gstaticcnapps.cn,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,265.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES@CN
+HOST,recaptcha-cn.net,CATEGORY-COMPANIES@CN
+HOST,recaptcha.net,CATEGORY-COMPANIES@CN
+HOST,www.recaptcha-cn.net,CATEGORY-COMPANIES@CN
 HOST,www.recaptcha.net,CATEGORY-COMPANIES@CN
-HOST,265.com,CATEGORY-COMPANIES@CN
 HOST,2mdn-cn.net,CATEGORY-COMPANIES@CN
 HOST,2mdn.net,CATEGORY-COMPANIES@CN
 HOST,admob-cn.com,CATEGORY-COMPANIES@CN
@@ -44,7 +49,6 @@ HOST,clickserver.googleads.com,CATEGORY-COMPANIES@CN
 HOST,clientservices.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,cn.widevine.com,CATEGORY-COMPANIES@CN
 HOST,connectivitycheck.gstatic.com,CATEGORY-COMPANIES@CN
-HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,csi.gstatic.com,CATEGORY-COMPANIES@CN
 HOST,dartsearch-cn.net,CATEGORY-COMPANIES@CN
 HOST,dg-meta.video.google.com,CATEGORY-COMPANIES@CN
@@ -93,8 +97,6 @@ HOST,prod-databe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,prod.databe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,qiao-cn.com,CATEGORY-COMPANIES@CN
 HOST,qpx.googleflights.net,CATEGORY-COMPANIES@CN
-HOST,recaptcha-cn.net,CATEGORY-COMPANIES@CN
-HOST,recaptcha.net,CATEGORY-COMPANIES@CN
 HOST,redirector.bdn.dev,CATEGORY-COMPANIES@CN
 HOST,redirector.c.chat.google.com,CATEGORY-COMPANIES@CN
 HOST,redirector.c.mail.google.com,CATEGORY-COMPANIES@CN
@@ -115,7 +117,6 @@ HOST,staging-databe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,staging.databe.floonet.goog,CATEGORY-COMPANIES@CN
 HOST,tac.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,tools.google.com,CATEGORY-COMPANIES@CN
-HOST,update.crashlytics.com,CATEGORY-COMPANIES@CN
 HOST,update.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,wear.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,www-google-analytics.l.google.com,CATEGORY-COMPANIES@CN

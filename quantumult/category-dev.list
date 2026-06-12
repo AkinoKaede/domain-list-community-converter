@@ -149,10 +149,12 @@ HOST-SUFFIX,fedoramagazine.org,CATEGORY-DEV
 HOST-SUFFIX,fedorapeople.org,CATEGORY-DEV
 HOST-SUFFIX,fedoraproject.org,CATEGORY-DEV
 HOST-SUFFIX,getfedora.org,CATEGORY-DEV
+HOST-SUFFIX,crashlytics.com,CATEGORY-DEV
 HOST-SUFFIX,firebase.com,CATEGORY-DEV
 HOST-SUFFIX,firebase.io,CATEGORY-DEV
 HOST-SUFFIX,firebaseapp.com,CATEGORY-DEV
 HOST-SUFFIX,firebaseio.com,CATEGORY-DEV
+HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-DEV
 HOST,firebase-settings.crashlytics.com,CATEGORY-DEV
 HOST,firebase.google.com,CATEGORY-DEV
 HOST,firebase.googleapis.com,CATEGORY-DEV
@@ -166,6 +168,7 @@ HOST,firebaselogging-pa.googleapis.com,CATEGORY-DEV
 HOST,firebaselogging.googleapis.com,CATEGORY-DEV
 HOST,firebaseperusertopics-pa.googleapis.com,CATEGORY-DEV
 HOST,firebaseremoteconfig.googleapis.com,CATEGORY-DEV
+HOST,update.crashlytics.com,CATEGORY-DEV
 HOST-SUFFIX,flathub.org,CATEGORY-DEV
 HOST-SUFFIX,flatpak.org,CATEGORY-DEV
 HOST-SUFFIX,flutter.dev,CATEGORY-DEV
@@ -486,7 +489,14 @@ HOST-SUFFIX,tildaapi.com,CATEGORY-DEV
 HOST-SUFFIX,tildacdn.com,CATEGORY-DEV
 HOST-SUFFIX,unity.com,CATEGORY-DEV
 HOST-SUFFIX,unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,analytics.cloud.unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,api2.amplitude.com,CATEGORY-DEV
+HOST-SUFFIX,config.uca.cloud.unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,cdp.cloud.unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,prd-lender.cdp.internal.unity3d.com,CATEGORY-DEV
 HOST-SUFFIX,iads.unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,perf.cloud.unity3d.com,CATEGORY-DEV
+HOST-SUFFIX,perf-events.cloud.unity3d.com,CATEGORY-DEV
 HOST-SUFFIX,unityads.unity3d.com,CATEGORY-DEV
 HOST-SUFFIX,v8.dev,CATEGORY-DEV
 HOST-SUFFIX,v8project.org,CATEGORY-DEV

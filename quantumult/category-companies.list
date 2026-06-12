@@ -372,10 +372,12 @@ HOST-SUFFIX,dartlang.org,CATEGORY-COMPANIES
 HOST-SUFFIX,dartpad.dev,CATEGORY-COMPANIES
 HOST-SUFFIX,fastlane.ci,CATEGORY-COMPANIES
 HOST-SUFFIX,fastlane.tools,CATEGORY-COMPANIES
+HOST-SUFFIX,crashlytics.com,CATEGORY-COMPANIES
 HOST-SUFFIX,firebase.com,CATEGORY-COMPANIES
 HOST-SUFFIX,firebase.io,CATEGORY-COMPANIES
 HOST-SUFFIX,firebaseapp.com,CATEGORY-COMPANIES
 HOST-SUFFIX,firebaseio.com,CATEGORY-COMPANIES
+HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES
 HOST,firebase.google.com,CATEGORY-COMPANIES
 HOST,firebase.googleapis.com,CATEGORY-COMPANIES
@@ -389,6 +391,7 @@ HOST,firebaselogging-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,firebaselogging.googleapis.com,CATEGORY-COMPANIES
 HOST,firebaseperusertopics-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,firebaseremoteconfig.googleapis.com,CATEGORY-COMPANIES
+HOST,update.crashlytics.com,CATEGORY-COMPANIES
 HOST-SUFFIX,flutter.dev,CATEGORY-COMPANIES
 HOST-SUFFIX,flutterapp.com,CATEGORY-COMPANIES
 HOST-SUFFIX,pub.dev,CATEGORY-COMPANIES
@@ -1285,10 +1288,13 @@ HOST-SUFFIX,pagead.l.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,partnerad.l.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,urchin.com,CATEGORY-COMPANIES
 HOST,analytics.google.com,CATEGORY-COMPANIES
+HOST-SUFFIX,265.com,CATEGORY-COMPANIES
 HOST-SUFFIX,gvt1-cn.com,CATEGORY-COMPANIES
 HOST-SUFFIX,gvt2-cn.com,CATEGORY-COMPANIES
+HOST,recaptcha-cn.net,CATEGORY-COMPANIES
+HOST,recaptcha.net,CATEGORY-COMPANIES
+HOST,www.recaptcha-cn.net,CATEGORY-COMPANIES
 HOST,www.recaptcha.net,CATEGORY-COMPANIES
-HOST,265.com,CATEGORY-COMPANIES
 HOST,2mdn-cn.net,CATEGORY-COMPANIES
 HOST,2mdn.net,CATEGORY-COMPANIES
 HOST,admob-cn.com,CATEGORY-COMPANIES
@@ -1313,7 +1319,6 @@ HOST,clickserver.googleads.com,CATEGORY-COMPANIES
 HOST,clientservices.googleapis.com,CATEGORY-COMPANIES
 HOST,cn.widevine.com,CATEGORY-COMPANIES
 HOST,connectivitycheck.gstatic.com,CATEGORY-COMPANIES
-HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,csi.gstatic.com,CATEGORY-COMPANIES
 HOST,dartsearch-cn.net,CATEGORY-COMPANIES
 HOST,dg-meta.video.google.com,CATEGORY-COMPANIES
@@ -1362,8 +1367,6 @@ HOST,prod-databe.floonet.goog,CATEGORY-COMPANIES
 HOST,prod.databe.floonet.goog,CATEGORY-COMPANIES
 HOST,qiao-cn.com,CATEGORY-COMPANIES
 HOST,qpx.googleflights.net,CATEGORY-COMPANIES
-HOST,recaptcha-cn.net,CATEGORY-COMPANIES
-HOST,recaptcha.net,CATEGORY-COMPANIES
 HOST,redirector.bdn.dev,CATEGORY-COMPANIES
 HOST,redirector.c.chat.google.com,CATEGORY-COMPANIES
 HOST,redirector.c.mail.google.com,CATEGORY-COMPANIES
@@ -1384,7 +1387,6 @@ HOST,staging-databe.floonet.goog,CATEGORY-COMPANIES
 HOST,staging.databe.floonet.goog,CATEGORY-COMPANIES
 HOST,tac.googleapis.com,CATEGORY-COMPANIES
 HOST,tools.google.com,CATEGORY-COMPANIES
-HOST,update.crashlytics.com,CATEGORY-COMPANIES
 HOST,update.googleapis.com,CATEGORY-COMPANIES
 HOST,wear.googleapis.com,CATEGORY-COMPANIES
 HOST,www-google-analytics.l.google.com,CATEGORY-COMPANIES

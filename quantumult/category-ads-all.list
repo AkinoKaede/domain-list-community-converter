@@ -477,7 +477,14 @@ HOST-SUFFIX,ugdtimg.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,wit.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,tdsdk.cpatrk.net,CATEGORY-ADS-ALL
 HOST-SUFFIX,ads-twitter.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,analytics.cloud.unity3d.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,api2.amplitude.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,config.uca.cloud.unity3d.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,cdp.cloud.unity3d.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,prd-lender.cdp.internal.unity3d.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,iads.unity3d.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,perf.cloud.unity3d.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,perf-events.cloud.unity3d.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,unityads.unity3d.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ads.unitychina.cn,CATEGORY-ADS-ALL
 HOST-SUFFIX,splash-ads.cdn.unity.cn,CATEGORY-ADS-ALL

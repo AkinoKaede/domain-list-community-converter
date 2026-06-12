@@ -95,7 +95,14 @@ HOST,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,analytics.cloud.unity3d.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,api2.amplitude.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,config.uca.cloud.unity3d.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,cdp.cloud.unity3d.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,prd-lender.cdp.internal.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,iads.unity3d.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,perf.cloud.unity3d.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,perf-events.cloud.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,unityads.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,advertising.adobe.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,tubemogul.com,GEOLOCATION-!CN@ADS

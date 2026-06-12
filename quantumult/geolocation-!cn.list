@@ -3318,6 +3318,7 @@ HOST-SUFFIX,okex.com,GEOLOCATION-!CN
 HOST-SUFFIX,okx-dns.com,GEOLOCATION-!CN
 HOST-SUFFIX,okx-dns1.com,GEOLOCATION-!CN
 HOST-SUFFIX,okx-dns2.com,GEOLOCATION-!CN
+HOST-SUFFIX,okx.ac,GEOLOCATION-!CN
 HOST-SUFFIX,okx.cab,GEOLOCATION-!CN
 HOST-SUFFIX,okx.com,GEOLOCATION-!CN
 HOST-SUFFIX,okx.com.cdn.cloudflare.net,GEOLOCATION-!CN
@@ -17146,10 +17147,12 @@ HOST-SUFFIX,fedoramagazine.org,GEOLOCATION-!CN
 HOST-SUFFIX,fedorapeople.org,GEOLOCATION-!CN
 HOST-SUFFIX,fedoraproject.org,GEOLOCATION-!CN
 HOST-SUFFIX,getfedora.org,GEOLOCATION-!CN
+HOST-SUFFIX,crashlytics.com,GEOLOCATION-!CN
 HOST-SUFFIX,firebase.com,GEOLOCATION-!CN
 HOST-SUFFIX,firebase.io,GEOLOCATION-!CN
 HOST-SUFFIX,firebaseapp.com,GEOLOCATION-!CN
 HOST-SUFFIX,firebaseio.com,GEOLOCATION-!CN
+HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN
 HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN
 HOST,firebase.google.com,GEOLOCATION-!CN
 HOST,firebase.googleapis.com,GEOLOCATION-!CN
@@ -17163,6 +17166,7 @@ HOST,firebaselogging-pa.googleapis.com,GEOLOCATION-!CN
 HOST,firebaselogging.googleapis.com,GEOLOCATION-!CN
 HOST,firebaseperusertopics-pa.googleapis.com,GEOLOCATION-!CN
 HOST,firebaseremoteconfig.googleapis.com,GEOLOCATION-!CN
+HOST,update.crashlytics.com,GEOLOCATION-!CN
 HOST-SUFFIX,flathub.org,GEOLOCATION-!CN
 HOST-SUFFIX,flatpak.org,GEOLOCATION-!CN
 HOST-SUFFIX,flutter.dev,GEOLOCATION-!CN
@@ -17477,7 +17481,14 @@ HOST-SUFFIX,tildaapi.com,GEOLOCATION-!CN
 HOST-SUFFIX,tildacdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,unity.com,GEOLOCATION-!CN
 HOST-SUFFIX,unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,analytics.cloud.unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,api2.amplitude.com,GEOLOCATION-!CN
+HOST-SUFFIX,config.uca.cloud.unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,cdp.cloud.unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,prd-lender.cdp.internal.unity3d.com,GEOLOCATION-!CN
 HOST-SUFFIX,iads.unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,perf.cloud.unity3d.com,GEOLOCATION-!CN
+HOST-SUFFIX,perf-events.cloud.unity3d.com,GEOLOCATION-!CN
 HOST-SUFFIX,unityads.unity3d.com,GEOLOCATION-!CN
 HOST-SUFFIX,v8.dev,GEOLOCATION-!CN
 HOST-SUFFIX,v8project.org,GEOLOCATION-!CN
@@ -18540,10 +18551,13 @@ HOST-SUFFIX,pagead.l.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,partnerad.l.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,urchin.com,GEOLOCATION-!CN
 HOST,analytics.google.com,GEOLOCATION-!CN
+HOST-SUFFIX,265.com,GEOLOCATION-!CN
 HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN
 HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN
+HOST,recaptcha-cn.net,GEOLOCATION-!CN
+HOST,recaptcha.net,GEOLOCATION-!CN
+HOST,www.recaptcha-cn.net,GEOLOCATION-!CN
 HOST,www.recaptcha.net,GEOLOCATION-!CN
-HOST,265.com,GEOLOCATION-!CN
 HOST,2mdn-cn.net,GEOLOCATION-!CN
 HOST,2mdn.net,GEOLOCATION-!CN
 HOST,admob-cn.com,GEOLOCATION-!CN
@@ -18568,7 +18582,6 @@ HOST,clickserver.googleads.com,GEOLOCATION-!CN
 HOST,clientservices.googleapis.com,GEOLOCATION-!CN
 HOST,cn.widevine.com,GEOLOCATION-!CN
 HOST,connectivitycheck.gstatic.com,GEOLOCATION-!CN
-HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN
 HOST,csi.gstatic.com,GEOLOCATION-!CN
 HOST,dartsearch-cn.net,GEOLOCATION-!CN
 HOST,dg-meta.video.google.com,GEOLOCATION-!CN
@@ -18617,8 +18630,6 @@ HOST,prod-databe.floonet.goog,GEOLOCATION-!CN
 HOST,prod.databe.floonet.goog,GEOLOCATION-!CN
 HOST,qiao-cn.com,GEOLOCATION-!CN
 HOST,qpx.googleflights.net,GEOLOCATION-!CN
-HOST,recaptcha-cn.net,GEOLOCATION-!CN
-HOST,recaptcha.net,GEOLOCATION-!CN
 HOST,redirector.bdn.dev,GEOLOCATION-!CN
 HOST,redirector.c.chat.google.com,GEOLOCATION-!CN
 HOST,redirector.c.mail.google.com,GEOLOCATION-!CN
@@ -18639,7 +18650,6 @@ HOST,staging-databe.floonet.goog,GEOLOCATION-!CN
 HOST,staging.databe.floonet.goog,GEOLOCATION-!CN
 HOST,tac.googleapis.com,GEOLOCATION-!CN
 HOST,tools.google.com,GEOLOCATION-!CN
-HOST,update.crashlytics.com,GEOLOCATION-!CN
 HOST,update.googleapis.com,GEOLOCATION-!CN
 HOST,wear.googleapis.com,GEOLOCATION-!CN
 HOST,www-google-analytics.l.google.com,GEOLOCATION-!CN

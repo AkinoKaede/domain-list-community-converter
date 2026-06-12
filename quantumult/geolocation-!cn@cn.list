@@ -377,7 +377,9 @@ HOST-SUFFIX,swiftui.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,swiftui.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,researchkit.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,researchkit.com.cn,GEOLOCATION-!CN@CN
+HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN@CN
 HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN@CN
+HOST,update.crashlytics.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,cdn.jetbrains.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,download-cdn.jetbrains.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.cn,GEOLOCATION-!CN@CN
@@ -393,10 +395,13 @@ HOST-SUFFIX,gkecnapps.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,googlecnapps.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstatic.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gstaticcnapps.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,265.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gvt1-cn.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,gvt2-cn.com,GEOLOCATION-!CN@CN
+HOST,recaptcha-cn.net,GEOLOCATION-!CN@CN
+HOST,recaptcha.net,GEOLOCATION-!CN@CN
+HOST,www.recaptcha-cn.net,GEOLOCATION-!CN@CN
 HOST,www.recaptcha.net,GEOLOCATION-!CN@CN
-HOST,265.com,GEOLOCATION-!CN@CN
 HOST,2mdn-cn.net,GEOLOCATION-!CN@CN
 HOST,2mdn.net,GEOLOCATION-!CN@CN
 HOST,admob-cn.com,GEOLOCATION-!CN@CN
@@ -421,7 +426,6 @@ HOST,clickserver.googleads.com,GEOLOCATION-!CN@CN
 HOST,clientservices.googleapis.com,GEOLOCATION-!CN@CN
 HOST,cn.widevine.com,GEOLOCATION-!CN@CN
 HOST,connectivitycheck.gstatic.com,GEOLOCATION-!CN@CN
-HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN@CN
 HOST,csi.gstatic.com,GEOLOCATION-!CN@CN
 HOST,dartsearch-cn.net,GEOLOCATION-!CN@CN
 HOST,dg-meta.video.google.com,GEOLOCATION-!CN@CN
@@ -470,8 +474,6 @@ HOST,prod-databe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,prod.databe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,qiao-cn.com,GEOLOCATION-!CN@CN
 HOST,qpx.googleflights.net,GEOLOCATION-!CN@CN
-HOST,recaptcha-cn.net,GEOLOCATION-!CN@CN
-HOST,recaptcha.net,GEOLOCATION-!CN@CN
 HOST,redirector.bdn.dev,GEOLOCATION-!CN@CN
 HOST,redirector.c.chat.google.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.mail.google.com,GEOLOCATION-!CN@CN
@@ -492,7 +494,6 @@ HOST,staging-databe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,staging.databe.floonet.goog,GEOLOCATION-!CN@CN
 HOST,tac.googleapis.com,GEOLOCATION-!CN@CN
 HOST,tools.google.com,GEOLOCATION-!CN@CN
-HOST,update.crashlytics.com,GEOLOCATION-!CN@CN
 HOST,update.googleapis.com,GEOLOCATION-!CN@CN
 HOST,wear.googleapis.com,GEOLOCATION-!CN@CN
 HOST,www-google-analytics.l.google.com,GEOLOCATION-!CN@CN

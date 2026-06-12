@@ -83,10 +83,12 @@ HOST-SUFFIX,dartlang.org,ALPHABET
 HOST-SUFFIX,dartpad.dev,ALPHABET
 HOST-SUFFIX,fastlane.ci,ALPHABET
 HOST-SUFFIX,fastlane.tools,ALPHABET
+HOST-SUFFIX,crashlytics.com,ALPHABET
 HOST-SUFFIX,firebase.com,ALPHABET
 HOST-SUFFIX,firebase.io,ALPHABET
 HOST-SUFFIX,firebaseapp.com,ALPHABET
 HOST-SUFFIX,firebaseio.com,ALPHABET
+HOST,crashlyticsreports-pa.googleapis.com,ALPHABET
 HOST,firebase-settings.crashlytics.com,ALPHABET
 HOST,firebase.google.com,ALPHABET
 HOST,firebase.googleapis.com,ALPHABET
@@ -100,6 +102,7 @@ HOST,firebaselogging-pa.googleapis.com,ALPHABET
 HOST,firebaselogging.googleapis.com,ALPHABET
 HOST,firebaseperusertopics-pa.googleapis.com,ALPHABET
 HOST,firebaseremoteconfig.googleapis.com,ALPHABET
+HOST,update.crashlytics.com,ALPHABET
 HOST-SUFFIX,flutter.dev,ALPHABET
 HOST-SUFFIX,flutterapp.com,ALPHABET
 HOST-SUFFIX,pub.dev,ALPHABET
@@ -996,10 +999,13 @@ HOST-SUFFIX,pagead.l.google.com,ALPHABET
 HOST-SUFFIX,partnerad.l.google.com,ALPHABET
 HOST-SUFFIX,urchin.com,ALPHABET
 HOST,analytics.google.com,ALPHABET
+HOST-SUFFIX,265.com,ALPHABET
 HOST-SUFFIX,gvt1-cn.com,ALPHABET
 HOST-SUFFIX,gvt2-cn.com,ALPHABET
+HOST,recaptcha-cn.net,ALPHABET
+HOST,recaptcha.net,ALPHABET
+HOST,www.recaptcha-cn.net,ALPHABET
 HOST,www.recaptcha.net,ALPHABET
-HOST,265.com,ALPHABET
 HOST,2mdn-cn.net,ALPHABET
 HOST,2mdn.net,ALPHABET
 HOST,admob-cn.com,ALPHABET
@@ -1024,7 +1030,6 @@ HOST,clickserver.googleads.com,ALPHABET
 HOST,clientservices.googleapis.com,ALPHABET
 HOST,cn.widevine.com,ALPHABET
 HOST,connectivitycheck.gstatic.com,ALPHABET
-HOST,crashlyticsreports-pa.googleapis.com,ALPHABET
 HOST,csi.gstatic.com,ALPHABET
 HOST,dartsearch-cn.net,ALPHABET
 HOST,dg-meta.video.google.com,ALPHABET
@@ -1073,8 +1078,6 @@ HOST,prod-databe.floonet.goog,ALPHABET
 HOST,prod.databe.floonet.goog,ALPHABET
 HOST,qiao-cn.com,ALPHABET
 HOST,qpx.googleflights.net,ALPHABET
-HOST,recaptcha-cn.net,ALPHABET
-HOST,recaptcha.net,ALPHABET
 HOST,redirector.bdn.dev,ALPHABET
 HOST,redirector.c.chat.google.com,ALPHABET
 HOST,redirector.c.mail.google.com,ALPHABET
@@ -1095,7 +1098,6 @@ HOST,staging-databe.floonet.goog,ALPHABET
 HOST,staging.databe.floonet.goog,ALPHABET
 HOST,tac.googleapis.com,ALPHABET
 HOST,tools.google.com,ALPHABET
-HOST,update.crashlytics.com,ALPHABET
 HOST,update.googleapis.com,ALPHABET
 HOST,wear.googleapis.com,ALPHABET
 HOST,www-google-analytics.l.google.com,ALPHABET

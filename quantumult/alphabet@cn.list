@@ -1,4 +1,6 @@
+HOST,crashlyticsreports-pa.googleapis.com,ALPHABET@CN
 HOST,firebase-settings.crashlytics.com,ALPHABET@CN
+HOST,update.crashlytics.com,ALPHABET@CN
 HOST,redirector.c.play.google.com,ALPHABET@CN
 HOST,pki-goog.l.google.com,ALPHABET@CN
 HOST,c.pki.goog,ALPHABET@CN
@@ -14,10 +16,13 @@ HOST-SUFFIX,gkecnapps.cn,ALPHABET@CN
 HOST-SUFFIX,googlecnapps.cn,ALPHABET@CN
 HOST-SUFFIX,gstatic.cn,ALPHABET@CN
 HOST-SUFFIX,gstaticcnapps.cn,ALPHABET@CN
+HOST-SUFFIX,265.com,ALPHABET@CN
 HOST-SUFFIX,gvt1-cn.com,ALPHABET@CN
 HOST-SUFFIX,gvt2-cn.com,ALPHABET@CN
+HOST,recaptcha-cn.net,ALPHABET@CN
+HOST,recaptcha.net,ALPHABET@CN
+HOST,www.recaptcha-cn.net,ALPHABET@CN
 HOST,www.recaptcha.net,ALPHABET@CN
-HOST,265.com,ALPHABET@CN
 HOST,2mdn-cn.net,ALPHABET@CN
 HOST,2mdn.net,ALPHABET@CN
 HOST,admob-cn.com,ALPHABET@CN
@@ -42,7 +47,6 @@ HOST,clickserver.googleads.com,ALPHABET@CN
 HOST,clientservices.googleapis.com,ALPHABET@CN
 HOST,cn.widevine.com,ALPHABET@CN
 HOST,connectivitycheck.gstatic.com,ALPHABET@CN
-HOST,crashlyticsreports-pa.googleapis.com,ALPHABET@CN
 HOST,csi.gstatic.com,ALPHABET@CN
 HOST,dartsearch-cn.net,ALPHABET@CN
 HOST,dg-meta.video.google.com,ALPHABET@CN
@@ -91,8 +95,6 @@ HOST,prod-databe.floonet.goog,ALPHABET@CN
 HOST,prod.databe.floonet.goog,ALPHABET@CN
 HOST,qiao-cn.com,ALPHABET@CN
 HOST,qpx.googleflights.net,ALPHABET@CN
-HOST,recaptcha-cn.net,ALPHABET@CN
-HOST,recaptcha.net,ALPHABET@CN
 HOST,redirector.bdn.dev,ALPHABET@CN
 HOST,redirector.c.chat.google.com,ALPHABET@CN
 HOST,redirector.c.mail.google.com,ALPHABET@CN
@@ -113,7 +115,6 @@ HOST,staging-databe.floonet.goog,ALPHABET@CN
 HOST,staging.databe.floonet.goog,ALPHABET@CN
 HOST,tac.googleapis.com,ALPHABET@CN
 HOST,tools.google.com,ALPHABET@CN
-HOST,update.crashlytics.com,ALPHABET@CN
 HOST,update.googleapis.com,ALPHABET@CN
 HOST,wear.googleapis.com,ALPHABET@CN
 HOST,www-google-analytics.l.google.com,ALPHABET@CN

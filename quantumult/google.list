@@ -83,10 +83,12 @@ HOST-SUFFIX,dartlang.org,GOOGLE
 HOST-SUFFIX,dartpad.dev,GOOGLE
 HOST-SUFFIX,fastlane.ci,GOOGLE
 HOST-SUFFIX,fastlane.tools,GOOGLE
+HOST-SUFFIX,crashlytics.com,GOOGLE
 HOST-SUFFIX,firebase.com,GOOGLE
 HOST-SUFFIX,firebase.io,GOOGLE
 HOST-SUFFIX,firebaseapp.com,GOOGLE
 HOST-SUFFIX,firebaseio.com,GOOGLE
+HOST,crashlyticsreports-pa.googleapis.com,GOOGLE
 HOST,firebase-settings.crashlytics.com,GOOGLE
 HOST,firebase.google.com,GOOGLE
 HOST,firebase.googleapis.com,GOOGLE
@@ -100,6 +102,7 @@ HOST,firebaselogging-pa.googleapis.com,GOOGLE
 HOST,firebaselogging.googleapis.com,GOOGLE
 HOST,firebaseperusertopics-pa.googleapis.com,GOOGLE
 HOST,firebaseremoteconfig.googleapis.com,GOOGLE
+HOST,update.crashlytics.com,GOOGLE
 HOST-SUFFIX,flutter.dev,GOOGLE
 HOST-SUFFIX,flutterapp.com,GOOGLE
 HOST-SUFFIX,pub.dev,GOOGLE
@@ -996,10 +999,13 @@ HOST-SUFFIX,pagead.l.google.com,GOOGLE
 HOST-SUFFIX,partnerad.l.google.com,GOOGLE
 HOST-SUFFIX,urchin.com,GOOGLE
 HOST,analytics.google.com,GOOGLE
+HOST-SUFFIX,265.com,GOOGLE
 HOST-SUFFIX,gvt1-cn.com,GOOGLE
 HOST-SUFFIX,gvt2-cn.com,GOOGLE
+HOST,recaptcha-cn.net,GOOGLE
+HOST,recaptcha.net,GOOGLE
+HOST,www.recaptcha-cn.net,GOOGLE
 HOST,www.recaptcha.net,GOOGLE
-HOST,265.com,GOOGLE
 HOST,2mdn-cn.net,GOOGLE
 HOST,2mdn.net,GOOGLE
 HOST,admob-cn.com,GOOGLE
@@ -1024,7 +1030,6 @@ HOST,clickserver.googleads.com,GOOGLE
 HOST,clientservices.googleapis.com,GOOGLE
 HOST,cn.widevine.com,GOOGLE
 HOST,connectivitycheck.gstatic.com,GOOGLE
-HOST,crashlyticsreports-pa.googleapis.com,GOOGLE
 HOST,csi.gstatic.com,GOOGLE
 HOST,dartsearch-cn.net,GOOGLE
 HOST,dg-meta.video.google.com,GOOGLE
@@ -1073,8 +1078,6 @@ HOST,prod-databe.floonet.goog,GOOGLE
 HOST,prod.databe.floonet.goog,GOOGLE
 HOST,qiao-cn.com,GOOGLE
 HOST,qpx.googleflights.net,GOOGLE
-HOST,recaptcha-cn.net,GOOGLE
-HOST,recaptcha.net,GOOGLE
 HOST,redirector.bdn.dev,GOOGLE
 HOST,redirector.c.chat.google.com,GOOGLE
 HOST,redirector.c.mail.google.com,GOOGLE
@@ -1095,7 +1098,6 @@ HOST,staging-databe.floonet.goog,GOOGLE
 HOST,staging.databe.floonet.goog,GOOGLE
 HOST,tac.googleapis.com,GOOGLE
 HOST,tools.google.com,GOOGLE
-HOST,update.crashlytics.com,GOOGLE
 HOST,update.googleapis.com,GOOGLE
 HOST,wear.googleapis.com,GOOGLE
 HOST,www-google-analytics.l.google.com,GOOGLE
