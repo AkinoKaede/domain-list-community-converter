@@ -586,6 +586,7 @@ HOST-SUFFIX,huoshanxiaoshipin.net,CN
 HOST-SUFFIX,huoshanzhibo.cn,CN
 HOST-SUFFIX,huoshanzhibo.com,CN
 HOST-SUFFIX,huoshanzhibo.net,CN
+HOST-SUFFIX,hypercachenode.com,CN
 HOST-SUFFIX,idouyinliving.com,CN
 HOST-SUFFIX,idouyinpic.com,CN
 HOST-SUFFIX,idouyinstatic.com,CN
@@ -3471,7 +3472,6 @@ HOST-SUFFIX,cpro.baidu.com,CN
 HOST-SUFFIX,cpro.baidustatic.com,CN
 HOST-SUFFIX,cpu.baidu.com,CN
 HOST-SUFFIX,cstm.baidu.com,CN
-HOST-SUFFIX,dlswbr.baidu.com,CN
 HOST-SUFFIX,drmcmm.baidu.com,CN
 HOST-SUFFIX,duiwai.baidu.com,CN
 HOST-SUFFIX,dup.baidustatic.com,CN
@@ -3489,7 +3489,6 @@ HOST-SUFFIX,hm.baidu.com,CN
 HOST-SUFFIX,hmma.baidu.com,CN
 HOST-SUFFIX,imgstat.baidu.com,CN
 HOST-SUFFIX,iwanad.baidu.com,CN
-HOST-SUFFIX,miao.baidu.com,CN
 HOST-SUFFIX,miaowu.baidu.com,CN
 HOST-SUFFIX,mipcache.bdstatic.com,CN
 HOST-SUFFIX,mobads.baidu.com,CN

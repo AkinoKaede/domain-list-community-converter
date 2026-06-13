@@ -152,7 +152,6 @@ HOST-SUFFIX,cpro.baidu.com,CN@ADS
 HOST-SUFFIX,cpro.baidustatic.com,CN@ADS
 HOST-SUFFIX,cpu.baidu.com,CN@ADS
 HOST-SUFFIX,cstm.baidu.com,CN@ADS
-HOST-SUFFIX,dlswbr.baidu.com,CN@ADS
 HOST-SUFFIX,drmcmm.baidu.com,CN@ADS
 HOST-SUFFIX,duiwai.baidu.com,CN@ADS
 HOST-SUFFIX,dup.baidustatic.com,CN@ADS
@@ -170,7 +169,6 @@ HOST-SUFFIX,hm.baidu.com,CN@ADS
 HOST-SUFFIX,hmma.baidu.com,CN@ADS
 HOST-SUFFIX,imgstat.baidu.com,CN@ADS
 HOST-SUFFIX,iwanad.baidu.com,CN@ADS
-HOST-SUFFIX,miao.baidu.com,CN@ADS
 HOST-SUFFIX,miaowu.baidu.com,CN@ADS
 HOST-SUFFIX,mipcache.bdstatic.com,CN@ADS
 HOST-SUFFIX,mobads.baidu.com,CN@ADS

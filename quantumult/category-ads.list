@@ -53,7 +53,6 @@ HOST-SUFFIX,cpro.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,cpro.baidustatic.com,CATEGORY-ADS
 HOST-SUFFIX,cpu.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,cstm.baidu.com,CATEGORY-ADS
-HOST-SUFFIX,dlswbr.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,drmcmm.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,duiwai.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,dup.baidustatic.com,CATEGORY-ADS
@@ -71,7 +70,6 @@ HOST-SUFFIX,hm.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,hmma.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,imgstat.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,iwanad.baidu.com,CATEGORY-ADS
-HOST-SUFFIX,miao.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,miaowu.baidu.com,CATEGORY-ADS
 HOST-SUFFIX,mipcache.bdstatic.com,CATEGORY-ADS
 HOST-SUFFIX,mobads.baidu.com,CATEGORY-ADS
