@@ -80,9 +80,6 @@ HOST-SUFFIX,herogame.com,CATEGORY-GAMES
 HOST-SUFFIX,heroesports.com,CATEGORY-GAMES
 HOST-SUFFIX,shyxhy.com,CATEGORY-GAMES
 HOST-SUFFIX,yingxiong.com,CATEGORY-GAMES
-HOST-SUFFIX,kurogames.com,CATEGORY-GAMES
-HOST-SUFFIX,kurogames.net,CATEGORY-GAMES
-HOST-SUFFIX,aki-game.com,CATEGORY-GAMES
 HOST-SUFFIX,mhystatic.com,CATEGORY-GAMES
 HOST-SUFFIX,mhyurl.cn,CATEGORY-GAMES
 HOST-SUFFIX,mihayo.com,CATEGORY-GAMES
@@ -864,6 +861,7 @@ HOST,steamusercontent-a.akamaihd.net,CATEGORY-GAMES
 HOST,steamuserimages-a.akamaihd.net,CATEGORY-GAMES
 HOST,steamvideo-a.akamaihd.net,CATEGORY-GAMES
 HOST,steamcloudsweden.blob.core.windows.net,CATEGORY-GAMES
+HOST,steamugcquincy.blob.core.windows.net,CATEGORY-GAMES
 HOST-SUFFIX,csgo.wmsj.cn,CATEGORY-GAMES
 HOST-SUFFIX,dota2.wmsj.cn,CATEGORY-GAMES
 HOST-SUFFIX,wmsjsteam.com,CATEGORY-GAMES

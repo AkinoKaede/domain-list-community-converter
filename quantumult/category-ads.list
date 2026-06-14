@@ -239,6 +239,7 @@ HOST-SUFFIX,e.kuaishou.cn,CATEGORY-ADS
 HOST-SUFFIX,e.kuaishou.com,CATEGORY-ADS
 HOST,log-sdk.gifshow.com,CATEGORY-ADS
 HOST,wlog.kuaishou.com,CATEGORY-ADS
+HOST-SUFFIX,kurogames-ads.com,CATEGORY-ADS
 HOST-SUFFIX,apple.www.letv.com,CATEGORY-ADS
 HOST-SUFFIX,ark.letv.com,CATEGORY-ADS
 HOST-SUFFIX,dc.letv.com,CATEGORY-ADS

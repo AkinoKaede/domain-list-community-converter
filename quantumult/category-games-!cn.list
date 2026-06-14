@@ -637,6 +637,7 @@ HOST,steamusercontent-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,steamuserimages-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,steamvideo-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,steamcloudsweden.blob.core.windows.net,CATEGORY-GAMES-!CN
+HOST,steamugcquincy.blob.core.windows.net,CATEGORY-GAMES-!CN
 HOST-SUFFIX,csgo.wmsj.cn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,dota2.wmsj.cn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,wmsjsteam.com,CATEGORY-GAMES-!CN
