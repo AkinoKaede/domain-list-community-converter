@@ -1,3 +1,11 @@
+HOST-SUFFIX,inte.sogou.com,TENCENT@ADS
+HOST-SUFFIX,inte.sogoucdn.com,TENCENT@ADS
+HOST-SUFFIX,lu.sogou.com,TENCENT@ADS
+HOST-SUFFIX,lu.sogoucdn.com,TENCENT@ADS
+HOST-SUFFIX,pb.i.sogou.com,TENCENT@ADS
+HOST-SUFFIX,theta.sogoucdn.com,TENCENT@ADS
+HOST-SUFFIX,uranus.sogou.com,TENCENT@ADS
+HOST-SUFFIX,wuliao.epro.sogou.com,TENCENT@ADS
 HOST-SUFFIX,badjs.weixinbridge.com,TENCENT@ADS
 HOST-SUFFIX,ads.service.kugou.com,TENCENT@ADS
 HOST-SUFFIX,adserviceretry.kglink.cn,TENCENT@ADS
