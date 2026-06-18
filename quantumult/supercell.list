@@ -13,10 +13,11 @@ HOST-SUFFIX,mo.co,SUPERCELL
 HOST-SUFFIX,seeurlpcl.com,SUPERCELL
 HOST-SUFFIX,squadbusters.com,SUPERCELL
 HOST-SUFFIX,supercell.com,SUPERCELL
-HOST-SUFFIX,supercell.helpshift.com,SUPERCELL
 HOST-SUFFIX,supercell.net,SUPERCELL
 HOST-SUFFIX,supercellcreators.com,SUPERCELL
 HOST-SUFFIX,supercellgames.com,SUPERCELL
 HOST-SUFFIX,supercellid.com,SUPERCELL
 HOST-SUFFIX,supercellstore.com,SUPERCELL
 HOST-SUFFIX,supr.cl,SUPERCELL
+HOST,supercell.helpshift.com,SUPERCELL
+HOST,supercell.zendesk.com,SUPERCELL

@@ -5,8 +5,8 @@ HOST-SUFFIX,researchkit.com.cn,CATEGORY-DEV@CN
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-DEV@CN
 HOST,firebase-settings.crashlytics.com,CATEGORY-DEV@CN
 HOST,update.crashlytics.com,CATEGORY-DEV@CN
+HOST-SUFFIX,jetbrains.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,cdn.jetbrains.com,CATEGORY-DEV@CN
-HOST-SUFFIX,download-cdn.jetbrains.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,reactorms.com.cn,CATEGORY-DEV@CN

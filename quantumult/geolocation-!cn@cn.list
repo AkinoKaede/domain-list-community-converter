@@ -376,8 +376,8 @@ HOST-SUFFIX,researchkit.com.cn,GEOLOCATION-!CN@CN
 HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN@CN
 HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN@CN
 HOST,update.crashlytics.com,GEOLOCATION-!CN@CN
+HOST-SUFFIX,jetbrains.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,cdn.jetbrains.com,GEOLOCATION-!CN@CN
-HOST-SUFFIX,download-cdn.jetbrains.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reactorms.com.cn,GEOLOCATION-!CN@CN
