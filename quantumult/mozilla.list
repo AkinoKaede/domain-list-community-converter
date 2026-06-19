@@ -65,7 +65,9 @@ HOST-SUFFIX,opentimetable.jp,MOZILLA
 HOST-SUFFIX,popcornjs.org,MOZILLA
 HOST-SUFFIX,publicsuffix.org,MOZILLA
 HOST-SUFFIX,seamonkey-project.org,MOZILLA
+HOST-SUFFIX,tb.pro,MOZILLA
 HOST-SUFFIX,thunderbird.net,MOZILLA
+HOST-SUFFIX,thundermail.com,MOZILLA
 HOST-SUFFIX,webmademovies.org,MOZILLA
 HOST,ads-img.mozilla.org,MOZILLA
 HOST,ads.mozilla.org,MOZILLA
