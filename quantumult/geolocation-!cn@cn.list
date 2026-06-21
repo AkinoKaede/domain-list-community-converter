@@ -190,13 +190,6 @@ HOST-SUFFIX,oreilly.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,pearson.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,bluearchive-cn.com,GEOLOCATION-!CN@CN
 HOST,gog.qtlglb.com,GEOLOCATION-!CN@CN
-HOST,gogalaxy.gog-statics.com,GEOLOCATION-!CN@CN
-HOST,menu-static.gog-statics.com,GEOLOCATION-!CN@CN
-HOST,productcard.gog-statics.com,GEOLOCATION-!CN@CN
-HOST,static-login.gog-statics.com,GEOLOCATION-!CN@CN
-HOST,www4-static.gog-statics.com,GEOLOCATION-!CN@CN
-HOST,gog-cdn-fastly.gog.com,GEOLOCATION-!CN@CN
-HOST,gog-cdn.akamaized.net,GEOLOCATION-!CN@CN
 HOST-SUFFIX,legendofzelda.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,legendofzelda.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,miitomo.com.cn,GEOLOCATION-!CN@CN

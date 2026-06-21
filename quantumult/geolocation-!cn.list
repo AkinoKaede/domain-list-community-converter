@@ -5720,12 +5720,7 @@ HOST-SUFFIX,seagroup.com,GEOLOCATION-!CN
 HOST-SUFFIX,gog.com,GEOLOCATION-!CN
 HOST-SUFFIX,gog-statics.com,GEOLOCATION-!CN
 HOST,gog.qtlglb.com,GEOLOCATION-!CN
-HOST,gogalaxy.gog-statics.com,GEOLOCATION-!CN
-HOST,menu-static.gog-statics.com,GEOLOCATION-!CN
-HOST,productcard.gog-statics.com,GEOLOCATION-!CN
-HOST,static-login.gog-statics.com,GEOLOCATION-!CN
-HOST,www4-static.gog-statics.com,GEOLOCATION-!CN
-HOST,gog-cdn-fastly.gog.com,GEOLOCATION-!CN
+HOST,gog-cdn-lumen.secure2.footprint.net,GEOLOCATION-!CN
 HOST,gog-cdn.akamaized.net,GEOLOCATION-!CN
 HOST-SUFFIX,genshinimpact.com,GEOLOCATION-!CN
 HOST-SUFFIX,honkaiimpact3.com,GEOLOCATION-!CN

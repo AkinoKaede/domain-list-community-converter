@@ -284,12 +284,7 @@ HOST-SUFFIX,seagroup.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,gog.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,gog-statics.com,CATEGORY-GAMES-!CN
 HOST,gog.qtlglb.com,CATEGORY-GAMES-!CN
-HOST,gogalaxy.gog-statics.com,CATEGORY-GAMES-!CN
-HOST,menu-static.gog-statics.com,CATEGORY-GAMES-!CN
-HOST,productcard.gog-statics.com,CATEGORY-GAMES-!CN
-HOST,static-login.gog-statics.com,CATEGORY-GAMES-!CN
-HOST,www4-static.gog-statics.com,CATEGORY-GAMES-!CN
-HOST,gog-cdn-fastly.gog.com,CATEGORY-GAMES-!CN
+HOST,gog-cdn-lumen.secure2.footprint.net,CATEGORY-GAMES-!CN
 HOST,gog-cdn.akamaized.net,CATEGORY-GAMES-!CN
 HOST-SUFFIX,genshinimpact.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,honkaiimpact3.com,CATEGORY-GAMES-!CN
