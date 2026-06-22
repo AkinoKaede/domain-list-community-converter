@@ -23,7 +23,6 @@ HOST,o.pki.goog,CATEGORY-CAS@CN
 HOST,crl.pki.goog,CATEGORY-CAS@CN
 HOST,crls.pki.goog,CATEGORY-CAS@CN
 HOST,ocsp.pki.goog,CATEGORY-CAS@CN
-HOST,www.microsoft.com,CATEGORY-CAS@CN
 HOST-SUFFIX,oemssl.cn,CATEGORY-CAS@CN
 HOST-SUFFIX,oemssl.cn.cdn.cloudflare.net,CATEGORY-CAS@CN
 HOST-SUFFIX,sectigochina.com,CATEGORY-CAS@CN

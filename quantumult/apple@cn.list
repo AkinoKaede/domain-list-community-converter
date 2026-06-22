@@ -232,6 +232,7 @@ HOST,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,APPLE@CN
 HOST,itunes-apple.com.akadns.net,APPLE@CN
 HOST,itunes.apple.com,APPLE@CN
 HOST,itunesconnect.apple.com,APPLE@CN
+HOST,mensura.cdn-apple.com,APPLE@CN
 HOST,mesu-cdn.apple.com.akadns.net,APPLE@CN
 HOST,mesu-china.apple.com.akadns.net,APPLE@CN
 HOST,mesu.apple.com,APPLE@CN

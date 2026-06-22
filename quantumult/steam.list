@@ -41,7 +41,9 @@ HOST,steamuserimages-a.akamaihd.net,STEAM
 HOST,steamvideo-a.akamaihd.net,STEAM
 HOST,steamcloudsweden.blob.core.windows.net,STEAM
 HOST,steamugcquincy.blob.core.windows.net,STEAM
+HOST-SUFFIX,csgo.com.cn,STEAM
 HOST-SUFFIX,csgo.wmsj.cn,STEAM
+HOST-SUFFIX,dota2.com.cn,STEAM
 HOST-SUFFIX,dota2.wmsj.cn,STEAM
 HOST-SUFFIX,wmsjsteam.com,STEAM
 HOST-SUFFIX,client-update.queniuqe.com,STEAM

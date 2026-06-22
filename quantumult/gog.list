@@ -1,5 +1,8 @@
 HOST-SUFFIX,gog.com,GOG
+HOST-SUFFIX,gog-services.com,GOG
 HOST-SUFFIX,gog-statics.com,GOG
+HOST-SUFFIX,gogalaxy.com,GOG
 HOST,gog.qtlglb.com,GOG
 HOST,gog-cdn-lumen.secure2.footprint.net,GOG
 HOST,gog-cdn.akamaized.net,GOG
+HOST-SUFFIX,insights-collector.gog.com,GOG

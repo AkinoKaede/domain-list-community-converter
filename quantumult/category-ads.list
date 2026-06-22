@@ -152,6 +152,7 @@ HOST-SUFFIX,ja.gamersky.com,CATEGORY-ADS
 HOST-SUFFIX,ja1.gamersky.com,CATEGORY-ADS
 HOST-SUFFIX,ja2.gamersky.com,CATEGORY-ADS
 HOST-SUFFIX,wmbd.gamersky.com,CATEGORY-ADS
+HOST-SUFFIX,insights-collector.gog.com,CATEGORY-ADS
 HOST-SUFFIX,2mdn-cn.net,CATEGORY-ADS
 HOST-SUFFIX,2mdn.net,CATEGORY-ADS
 HOST-SUFFIX,admob-cn.com,CATEGORY-ADS
@@ -317,6 +318,7 @@ HOST,incoming.telemetry.mozilla.org,CATEGORY-ADS
 HOST,incoming-telemetry.thunderbird.net,CATEGORY-ADS
 HOST-SUFFIX,a.mts.ru,CATEGORY-ADS
 HOST-SUFFIX,obs.mts.ru,CATEGORY-ADS
+HOST-SUFFIX,youdaoads.com,CATEGORY-ADS
 HOST-SUFFIX,a.youdao.com,CATEGORY-ADS
 HOST-SUFFIX,admusicpic.music.126.net,CATEGORY-ADS
 HOST-SUFFIX,ads.music.126.net,CATEGORY-ADS

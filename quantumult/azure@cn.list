@@ -17,6 +17,7 @@ HOST-SUFFIX,azure-connectedvehicles-stage.cn,AZURE@CN
 HOST-SUFFIX,azure-connectedvehicles.cn,AZURE@CN
 HOST-SUFFIX,azure-devices-provisioning.cn,AZURE@CN
 HOST-SUFFIX,azure-devices.cn,AZURE@CN
+HOST-SUFFIX,azure-mobile.cn,AZURE@CN
 HOST-SUFFIX,azure.cn,AZURE@CN
 HOST-SUFFIX,azurecr-test.cn,AZURE@CN
 HOST-SUFFIX,azurecr.cn,AZURE@CN
@@ -48,9 +49,12 @@ HOST-SUFFIX,mschcdn.com,AZURE@CN
 HOST-SUFFIX,msftcloudes.cn,AZURE@CN
 HOST-SUFFIX,msidentity.cn,AZURE@CN
 HOST-SUFFIX,msidlabpbmc.cn,AZURE@CN
+HOST-SUFFIX,sovcloud-mx.cn,AZURE@CN
+HOST-SUFFIX,sovcloud-static.cn,AZURE@CN
+HOST-SUFFIX,sovcloud-usercontent.cn,AZURE@CN
+HOST-SUFFIX,sovcloud.cn,AZURE@CN
 HOST-SUFFIX,trafficmanager.cn,AZURE@CN
 HOST-SUFFIX,trustcenter.cn,AZURE@CN
-HOST-SUFFIX,unity3dcloud.cn,AZURE@CN
 HOST-SUFFIX,windowsazure.cn,AZURE@CN
 HOST-SUFFIX,windowsazurestatus.cn,AZURE@CN
 HOST-SUFFIX,azchcdna.com,AZURE@CN

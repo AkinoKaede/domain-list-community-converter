@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
@@ -317,6 +318,7 @@ DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,admusicpic.music.126.net
 DOMAIN-SUFFIX,ads.music.126.net

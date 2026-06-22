@@ -21,6 +21,7 @@ HOST-SUFFIX,azure-devices-int.net,AZURE
 HOST-SUFFIX,azure-devices-provisioning.cn,AZURE
 HOST-SUFFIX,azure-devices.cn,AZURE
 HOST-SUFFIX,azure-devices.net,AZURE
+HOST-SUFFIX,azure-mobile.cn,AZURE
 HOST-SUFFIX,azure-mobile.net,AZURE
 HOST-SUFFIX,azure-sphere.com,AZURE
 HOST-SUFFIX,azure-test.net,AZURE
@@ -98,11 +99,14 @@ HOST-SUFFIX,msn.net,AZURE
 HOST-SUFFIX,playfab.com,AZURE
 HOST-SUFFIX,playfabapi.com,AZURE
 HOST-SUFFIX,serverlesslibrary.net,AZURE
+HOST-SUFFIX,sovcloud-mx.cn,AZURE
+HOST-SUFFIX,sovcloud-static.cn,AZURE
+HOST-SUFFIX,sovcloud-usercontent.cn,AZURE
+HOST-SUFFIX,sovcloud.cn,AZURE
 HOST-SUFFIX,trafficmanager.cn,AZURE
 HOST-SUFFIX,trafficmanager.net,AZURE
 HOST-SUFFIX,trustcenter.cn,AZURE
 HOST-SUFFIX,tryfunctions.com,AZURE
-HOST-SUFFIX,unity3dcloud.cn,AZURE
 HOST-SUFFIX,windowsazure.cn,AZURE
 HOST-SUFFIX,windowsazure.com,AZURE
 HOST-SUFFIX,windowsazurestatus.cn,AZURE

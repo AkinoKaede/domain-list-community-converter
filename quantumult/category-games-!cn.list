@@ -282,10 +282,13 @@ HOST-SUFFIX,garena.vn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,garenanow.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,seagroup.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,gog.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,gog-services.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,gog-statics.com,CATEGORY-GAMES-!CN
+HOST-SUFFIX,gogalaxy.com,CATEGORY-GAMES-!CN
 HOST,gog.qtlglb.com,CATEGORY-GAMES-!CN
 HOST,gog-cdn-lumen.secure2.footprint.net,CATEGORY-GAMES-!CN
 HOST,gog-cdn.akamaized.net,CATEGORY-GAMES-!CN
+HOST-SUFFIX,insights-collector.gog.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,genshinimpact.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,honkaiimpact3.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,honkaistarrail.com,CATEGORY-GAMES-!CN
@@ -634,7 +637,9 @@ HOST,steamuserimages-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,steamvideo-a.akamaihd.net,CATEGORY-GAMES-!CN
 HOST,steamcloudsweden.blob.core.windows.net,CATEGORY-GAMES-!CN
 HOST,steamugcquincy.blob.core.windows.net,CATEGORY-GAMES-!CN
+HOST-SUFFIX,csgo.com.cn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,csgo.wmsj.cn,CATEGORY-GAMES-!CN
+HOST-SUFFIX,dota2.com.cn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,dota2.wmsj.cn,CATEGORY-GAMES-!CN
 HOST-SUFFIX,wmsjsteam.com,CATEGORY-GAMES-!CN
 HOST-SUFFIX,client-update.queniuqe.com,CATEGORY-GAMES-!CN
