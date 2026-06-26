@@ -6,3 +6,7 @@ HOST-SUFFIX,alibabacloud.com.my,ALIBABACLOUD
 HOST-SUFFIX,alibabacloud.com.sg,ALIBABACLOUD
 HOST-SUFFIX,alibabacloud.com.tw,ALIBABACLOUD
 HOST-SUFFIX,alicloud.com,ALIBABACLOUD
+HOST,account-cn.alibabacloud.com,ALIBABACLOUD
+HOST,api.alibabacloud.com,ALIBABACLOUD
+HOST,cn.alibabacloud.com,ALIBABACLOUD
+HOST,status.alibabacloud.com,ALIBABACLOUD

@@ -10,4 +10,5 @@ HOST-SUFFIX,cdn.jetbrains.com,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,microsoftreactor.com.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,reactorms.com.cn,CATEGORY-DEV@CN
+HOST,download.visualstudio.microsoft.com,CATEGORY-DEV@CN
 HOST,cdn.ampproject.org,CATEGORY-DEV@CN

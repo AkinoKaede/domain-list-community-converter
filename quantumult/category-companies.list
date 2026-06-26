@@ -287,6 +287,10 @@ HOST-SUFFIX,alibabacloud.com.my,CATEGORY-COMPANIES
 HOST-SUFFIX,alibabacloud.com.sg,CATEGORY-COMPANIES
 HOST-SUFFIX,alibabacloud.com.tw,CATEGORY-COMPANIES
 HOST-SUFFIX,alicloud.com,CATEGORY-COMPANIES
+HOST,account-cn.alibabacloud.com,CATEGORY-COMPANIES
+HOST,api.alibabacloud.com,CATEGORY-COMPANIES
+HOST,cn.alibabacloud.com,CATEGORY-COMPANIES
+HOST,status.alibabacloud.com,CATEGORY-COMPANIES
 HOST-SUFFIX,android,CATEGORY-COMPANIES
 HOST-SUFFIX,android.com,CATEGORY-COMPANIES
 HOST-SUFFIX,androidify.com,CATEGORY-COMPANIES
@@ -7452,7 +7456,6 @@ HOST,collaborateppe.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,ctldl.windowsupdate.com,CATEGORY-COMPANIES
 HOST,developer.microsoft.com,CATEGORY-COMPANIES
 HOST,download.microsoft.com,CATEGORY-COMPANIES
-HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES
 HOST,dreamspark.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,dreamsparkuat.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,f.c2r.ts.cdn.office.net,CATEGORY-COMPANIES

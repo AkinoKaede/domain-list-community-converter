@@ -375,9 +375,14 @@ HOST-SUFFIX,cdn.jetbrains.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reactorms.com.cn,GEOLOCATION-!CN@CN
+HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN@CN
 HOST,cdn.ampproject.org,GEOLOCATION-!CN@CN
 HOST-SUFFIX,acer.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,adobedc.cn,GEOLOCATION-!CN@CN
+HOST,account-cn.alibabacloud.com,GEOLOCATION-!CN@CN
+HOST,api.alibabacloud.com,GEOLOCATION-!CN@CN
+HOST,cn.alibabacloud.com,GEOLOCATION-!CN@CN
+HOST,status.alibabacloud.com,GEOLOCATION-!CN@CN
 HOST,redirector.c.play.google.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,google.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,g.cn,GEOLOCATION-!CN@CN
@@ -1021,7 +1026,6 @@ HOST,collaborateppe.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,ctldl.windowsupdate.com,GEOLOCATION-!CN@CN
 HOST,developer.microsoft.com,GEOLOCATION-!CN@CN
 HOST,download.microsoft.com,GEOLOCATION-!CN@CN
-HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN@CN
 HOST,dreamspark.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,dreamsparkuat.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,f.c2r.ts.cdn.office.net,GEOLOCATION-!CN@CN

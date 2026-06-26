@@ -1,3 +1,4 @@
 HOST-SUFFIX,microsoftreactor.cn,MICROSOFT-DEV@CN
 HOST-SUFFIX,microsoftreactor.com.cn,MICROSOFT-DEV@CN
 HOST-SUFFIX,reactorms.com.cn,MICROSOFT-DEV@CN
+HOST,download.visualstudio.microsoft.com,MICROSOFT-DEV@CN

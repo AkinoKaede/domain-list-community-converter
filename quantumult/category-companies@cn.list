@@ -1,5 +1,9 @@
 HOST-SUFFIX,acer.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,adobedc.cn,CATEGORY-COMPANIES@CN
+HOST,account-cn.alibabacloud.com,CATEGORY-COMPANIES@CN
+HOST,api.alibabacloud.com,CATEGORY-COMPANIES@CN
+HOST,cn.alibabacloud.com,CATEGORY-COMPANIES@CN
+HOST,status.alibabacloud.com,CATEGORY-COMPANIES@CN
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-COMPANIES@CN
 HOST,firebase-settings.crashlytics.com,CATEGORY-COMPANIES@CN
 HOST,update.crashlytics.com,CATEGORY-COMPANIES@CN
@@ -724,6 +728,7 @@ HOST,emoi-cncdn.bing.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,microsoftreactor.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,microsoftreactor.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,reactorms.com.cn,CATEGORY-COMPANIES@CN
+HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,microsoftnews.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,msn.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,xboxlive.cn,CATEGORY-COMPANIES@CN
@@ -776,7 +781,6 @@ HOST,collaborateppe.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,ctldl.windowsupdate.com,CATEGORY-COMPANIES@CN
 HOST,developer.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,download.microsoft.com,CATEGORY-COMPANIES@CN
-HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,dreamspark.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,dreamsparkuat.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,f.c2r.ts.cdn.office.net,CATEGORY-COMPANIES@CN

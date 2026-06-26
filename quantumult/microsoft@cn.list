@@ -99,6 +99,7 @@ HOST,emoi-cncdn.bing.com,MICROSOFT@CN
 HOST-SUFFIX,microsoftreactor.cn,MICROSOFT@CN
 HOST-SUFFIX,microsoftreactor.com.cn,MICROSOFT@CN
 HOST-SUFFIX,reactorms.com.cn,MICROSOFT@CN
+HOST,download.visualstudio.microsoft.com,MICROSOFT@CN
 HOST-SUFFIX,microsoftnews.cn,MICROSOFT@CN
 HOST-SUFFIX,msn.cn,MICROSOFT@CN
 HOST-SUFFIX,xboxlive.cn,MICROSOFT@CN
@@ -151,7 +152,6 @@ HOST,collaborateppe.download.prss.microsoft.com,MICROSOFT@CN
 HOST,ctldl.windowsupdate.com,MICROSOFT@CN
 HOST,developer.microsoft.com,MICROSOFT@CN
 HOST,download.microsoft.com,MICROSOFT@CN
-HOST,download.visualstudio.microsoft.com,MICROSOFT@CN
 HOST,dreamspark.download.prss.microsoft.com,MICROSOFT@CN
 HOST,dreamsparkuat.download.prss.microsoft.com,MICROSOFT@CN
 HOST,f.c2r.ts.cdn.office.net,MICROSOFT@CN

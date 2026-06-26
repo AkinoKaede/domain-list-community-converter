@@ -10,6 +10,10 @@ HOST-SUFFIX,alibabacloud.com.my,ALIBABA
 HOST-SUFFIX,alibabacloud.com.sg,ALIBABA
 HOST-SUFFIX,alibabacloud.com.tw,ALIBABA
 HOST-SUFFIX,alicloud.com,ALIBABA
+HOST,account-cn.alibabacloud.com,ALIBABA
+HOST,api.alibabacloud.com,ALIBABA
+HOST,cn.alibabacloud.com,ALIBABA
+HOST,status.alibabacloud.com,ALIBABA
 HOST-SUFFIX,9game.cn,ALIBABA
 HOST-SUFFIX,aligames.com,ALIBABA
 HOST-SUFFIX,jiaoyimao.cn,ALIBABA
@@ -57,6 +61,9 @@ HOST-SUFFIX,kunlunvi.com,ALIBABA
 HOST-SUFFIX,kunlunwe.com,ALIBABA
 HOST-SUFFIX,mxhichina.com,ALIBABA
 HOST-SUFFIX,myalicdn.com,ALIBABA
+HOST-SUFFIX,ap-southeast-1.aliyuncs.com,ALIBABA
+HOST-SUFFIX,cn-hangzhou.aliyuncs.com,ALIBABA
+HOST-SUFFIX,cn-shanghai.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-ap-northeast-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-ap-northeast-2.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-ap-south-1.aliyuncs.com,ALIBABA

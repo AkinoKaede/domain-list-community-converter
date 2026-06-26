@@ -17990,6 +17990,10 @@ HOST-SUFFIX,alibabacloud.com.my,GEOLOCATION-!CN
 HOST-SUFFIX,alibabacloud.com.sg,GEOLOCATION-!CN
 HOST-SUFFIX,alibabacloud.com.tw,GEOLOCATION-!CN
 HOST-SUFFIX,alicloud.com,GEOLOCATION-!CN
+HOST,account-cn.alibabacloud.com,GEOLOCATION-!CN
+HOST,api.alibabacloud.com,GEOLOCATION-!CN
+HOST,cn.alibabacloud.com,GEOLOCATION-!CN
+HOST,status.alibabacloud.com,GEOLOCATION-!CN
 HOST-SUFFIX,blogger.com,GEOLOCATION-!CN
 HOST-SUFFIX,blogblog.com,GEOLOCATION-!CN
 HOST-SUFFIX,blogspot.ae,GEOLOCATION-!CN
@@ -23678,7 +23682,6 @@ HOST,collaborateppe.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,ctldl.windowsupdate.com,GEOLOCATION-!CN
 HOST,developer.microsoft.com,GEOLOCATION-!CN
 HOST,download.microsoft.com,GEOLOCATION-!CN
-HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN
 HOST,dreamspark.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,dreamsparkuat.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,f.c2r.ts.cdn.office.net,GEOLOCATION-!CN
