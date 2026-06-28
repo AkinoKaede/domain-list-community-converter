@@ -796,6 +796,7 @@ HOST-SUFFIX,appleicloud.cn,APPLE
 HOST-SUFFIX,applemx-icloud.com,APPLE
 HOST-SUFFIX,icloud-apple.cn,APPLE
 HOST-SUFFIX,icloud-content.com,APPLE
+HOST-SUFFIX,icloud-content.com.cn,APPLE
 HOST-SUFFIX,icloud-isupport.com,APPLE
 HOST-SUFFIX,icloud-sandbox.com,APPLE
 HOST-SUFFIX,icloud.ch,APPLE
@@ -1359,6 +1360,7 @@ HOST-SUFFIX,apple-hk.com,APPLE
 HOST-SUFFIX,apple-ibooks.cn,APPLE
 HOST-SUFFIX,apple-inc.net,APPLE
 HOST-SUFFIX,apple-livephotoskit.com,APPLE
+HOST-SUFFIX,apple-mapkit.com,APPLE
 HOST-SUFFIX,apple-maps.cn,APPLE
 HOST-SUFFIX,apple-online.com,APPLE
 HOST-SUFFIX,apple-usa.net,APPLE
@@ -1421,6 +1423,7 @@ HOST-SUFFIX,applepremiumresellers.com.au,APPLE
 HOST-SUFFIX,applereach.com,APPLE
 HOST-SUFFIX,applereach.net,APPLE
 HOST-SUFFIX,apples-msk.ru,APPLE
+HOST-SUFFIX,appleschoolcontent.com,APPLE
 HOST-SUFFIX,applescreensavers.com,APPLE
 HOST-SUFFIX,applescript.info,APPLE
 HOST-SUFFIX,appleshare.info,APPLE
@@ -1440,6 +1443,8 @@ HOST-SUFFIX,appmediagroup.com,APPLE
 HOST-SUFFIX,appule.com,APPLE
 HOST-SUFFIX,appye.com,APPLE
 HOST-SUFFIX,apyle.com,APPLE
+HOST-SUFFIX,apzones.com,APPLE
+HOST-SUFFIX,axm-usercontent-apple.com,APPLE
 HOST-SUFFIX,beddit.tv,APPLE
 HOST-SUFFIX,braeburncapital.com,APPLE
 HOST-SUFFIX,burstly.net,APPLE

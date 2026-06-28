@@ -706,6 +706,7 @@ HOST-SUFFIX,chrome.com,ALPHABET
 HOST-SUFFIX,chromebook.com,ALPHABET
 HOST-SUFFIX,chromecast.com,ALPHABET
 HOST-SUFFIX,chromeos.dev,ALPHABET
+HOST-SUFFIX,chromestatus.com,ALPHABET
 HOST-SUFFIX,chromium.org,ALPHABET
 HOST-SUFFIX,chronicle.security,ALPHABET
 HOST-SUFFIX,chroniclesec.com,ALPHABET
