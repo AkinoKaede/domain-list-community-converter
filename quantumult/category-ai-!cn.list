@@ -91,12 +91,14 @@ HOST-SUFFIX,openai.com,CATEGORY-AI-!CN
 HOST-SUFFIX,sora.com,CATEGORY-AI-!CN
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,CATEGORY-AI-!CN
 HOST,openaiapi-site.azureedge.net,CATEGORY-AI-!CN
+HOST,openaiassets.blob.core.windows.net,CATEGORY-AI-!CN
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,CATEGORY-AI-!CN
 HOST,openaicom.imgix.net,CATEGORY-AI-!CN
 HOST,openaicomproductionae4b.blob.core.windows.net,CATEGORY-AI-!CN
 HOST,production-openaicom-storage.azureedge.net,CATEGORY-AI-!CN
-HOST,o33249.ingest.sentry.io,CATEGORY-AI-!CN
 HOST,browser-intake-datadoghq.com,CATEGORY-AI-!CN
+HOST,o33249.ingest.sentry.io,CATEGORY-AI-!CN
+HOST,openai.qualtrics.com,CATEGORY-AI-!CN
 HOST-SUFFIX,chatgpt.livekit.cloud,CATEGORY-AI-!CN
 HOST-SUFFIX,host.livekit.cloud,CATEGORY-AI-!CN
 HOST-SUFFIX,turn.livekit.cloud,CATEGORY-AI-!CN
@@ -121,6 +123,8 @@ HOST-SUFFIX,coderabbit.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,coderabbit.gallery.vsassets.io,CATEGORY-AI-!CN
 HOST-SUFFIX,cohere.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,cohere.com,CATEGORY-AI-!CN
+HOST-SUFFIX,copilot.com,CATEGORY-AI-!CN
+HOST-SUFFIX,copilot.microsoft.com,CATEGORY-AI-!CN
 HOST-SUFFIX,clipdrop.co,CATEGORY-AI-!CN
 HOST-SUFFIX,jasper.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,agentclientprotocol.com,CATEGORY-AI-!CN
@@ -128,7 +132,6 @@ HOST-SUFFIX,anythingllm.com,CATEGORY-AI-!CN
 HOST-SUFFIX,arena.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,chutes.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,clawhub.ai,CATEGORY-AI-!CN
-HOST-SUFFIX,copilot.microsoft.com,CATEGORY-AI-!CN
 HOST-SUFFIX,crewai.com,CATEGORY-AI-!CN
 HOST-SUFFIX,devin.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,diabrowser.com,CATEGORY-AI-!CN

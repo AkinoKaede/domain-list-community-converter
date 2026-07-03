@@ -1,4 +1,5 @@
 HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-AI-!CN@ADS
 HOST,copilot-telemetry.githubusercontent.com,CATEGORY-AI-!CN@ADS
-HOST,o33249.ingest.sentry.io,CATEGORY-AI-!CN@ADS
 HOST,browser-intake-datadoghq.com,CATEGORY-AI-!CN@ADS
+HOST,o33249.ingest.sentry.io,CATEGORY-AI-!CN@ADS
+HOST,openai.qualtrics.com,CATEGORY-AI-!CN@ADS

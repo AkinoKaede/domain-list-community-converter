@@ -12,7 +12,6 @@ HOST-SUFFIX,bingsandbox.com,BING
 HOST-SUFFIX,bingvisualsearch.com,BING
 HOST-SUFFIX,bingworld.com,BING
 HOST-SUFFIX,bluehatnights.com,BING
-HOST-SUFFIX,copilot.microsoft.com,BING
 HOST-SUFFIX,dictate.ms,BING
 HOST-SUFFIX,flipwithsurface.com,BING
 HOST-SUFFIX,masalladeloslimites.com,BING
@@ -27,6 +26,8 @@ HOST-SUFFIX,office365love.com,BING
 HOST-SUFFIX,office365tw.com,BING
 HOST-SUFFIX,renovacionoffice.com,BING
 HOST-SUFFIX,sprinklesapp.com,BING
+HOST-SUFFIX,copilot.com,BING
+HOST-SUFFIX,copilot.microsoft.com,BING
 HOST,location.microsoft.com,BING
 HOST-SUFFIX,cn.bing.com,BING
 HOST-SUFFIX,cn.bing.net,BING

@@ -1,2 +1,3 @@
-HOST,o33249.ingest.sentry.io,OPENAI@ADS
 HOST,browser-intake-datadoghq.com,OPENAI@ADS
+HOST,o33249.ingest.sentry.io,OPENAI@ADS
+HOST,openai.qualtrics.com,OPENAI@ADS

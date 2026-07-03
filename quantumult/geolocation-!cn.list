@@ -91,12 +91,14 @@ HOST-SUFFIX,openai.com,GEOLOCATION-!CN
 HOST-SUFFIX,sora.com,GEOLOCATION-!CN
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,GEOLOCATION-!CN
 HOST,openaiapi-site.azureedge.net,GEOLOCATION-!CN
+HOST,openaiassets.blob.core.windows.net,GEOLOCATION-!CN
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,GEOLOCATION-!CN
 HOST,openaicom.imgix.net,GEOLOCATION-!CN
 HOST,openaicomproductionae4b.blob.core.windows.net,GEOLOCATION-!CN
 HOST,production-openaicom-storage.azureedge.net,GEOLOCATION-!CN
-HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN
+HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN
+HOST,openai.qualtrics.com,GEOLOCATION-!CN
 HOST-SUFFIX,chatgpt.livekit.cloud,GEOLOCATION-!CN
 HOST-SUFFIX,host.livekit.cloud,GEOLOCATION-!CN
 HOST-SUFFIX,turn.livekit.cloud,GEOLOCATION-!CN
@@ -121,6 +123,8 @@ HOST-SUFFIX,coderabbit.ai,GEOLOCATION-!CN
 HOST-SUFFIX,coderabbit.gallery.vsassets.io,GEOLOCATION-!CN
 HOST-SUFFIX,cohere.ai,GEOLOCATION-!CN
 HOST-SUFFIX,cohere.com,GEOLOCATION-!CN
+HOST-SUFFIX,copilot.com,GEOLOCATION-!CN
+HOST-SUFFIX,copilot.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,clipdrop.co,GEOLOCATION-!CN
 HOST-SUFFIX,jasper.ai,GEOLOCATION-!CN
 HOST-SUFFIX,agentclientprotocol.com,GEOLOCATION-!CN
@@ -128,7 +132,6 @@ HOST-SUFFIX,anythingllm.com,GEOLOCATION-!CN
 HOST-SUFFIX,arena.ai,GEOLOCATION-!CN
 HOST-SUFFIX,chutes.ai,GEOLOCATION-!CN
 HOST-SUFFIX,clawhub.ai,GEOLOCATION-!CN
-HOST-SUFFIX,copilot.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,crewai.com,GEOLOCATION-!CN
 HOST-SUFFIX,devin.ai,GEOLOCATION-!CN
 HOST-SUFFIX,diabrowser.com,GEOLOCATION-!CN
@@ -23352,7 +23355,6 @@ HOST-SUFFIX,bingsandbox.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingvisualsearch.com,GEOLOCATION-!CN
 HOST-SUFFIX,bingworld.com,GEOLOCATION-!CN
 HOST-SUFFIX,bluehatnights.com,GEOLOCATION-!CN
-HOST-SUFFIX,copilot.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,dictate.ms,GEOLOCATION-!CN
 HOST-SUFFIX,flipwithsurface.com,GEOLOCATION-!CN
 HOST-SUFFIX,masalladeloslimites.com,GEOLOCATION-!CN
@@ -23367,6 +23369,8 @@ HOST-SUFFIX,office365love.com,GEOLOCATION-!CN
 HOST-SUFFIX,office365tw.com,GEOLOCATION-!CN
 HOST-SUFFIX,renovacionoffice.com,GEOLOCATION-!CN
 HOST-SUFFIX,sprinklesapp.com,GEOLOCATION-!CN
+HOST-SUFFIX,copilot.com,GEOLOCATION-!CN
+HOST-SUFFIX,copilot.microsoft.com,GEOLOCATION-!CN
 HOST,location.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,cn.bing.com,GEOLOCATION-!CN
 HOST-SUFFIX,cn.bing.net,GEOLOCATION-!CN

@@ -1,7 +1,8 @@
 HOST,copilot-telemetry-service.githubusercontent.com,GEOLOCATION-!CN@ADS
 HOST,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
-HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
+HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
+HOST,openai.qualtrics.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.sber.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,neon.click,GEOLOCATION-!CN@ADS

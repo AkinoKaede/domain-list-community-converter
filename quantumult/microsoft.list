@@ -160,7 +160,6 @@ HOST-SUFFIX,bingsandbox.com,MICROSOFT
 HOST-SUFFIX,bingvisualsearch.com,MICROSOFT
 HOST-SUFFIX,bingworld.com,MICROSOFT
 HOST-SUFFIX,bluehatnights.com,MICROSOFT
-HOST-SUFFIX,copilot.microsoft.com,MICROSOFT
 HOST-SUFFIX,dictate.ms,MICROSOFT
 HOST-SUFFIX,flipwithsurface.com,MICROSOFT
 HOST-SUFFIX,masalladeloslimites.com,MICROSOFT
@@ -175,6 +174,8 @@ HOST-SUFFIX,office365love.com,MICROSOFT
 HOST-SUFFIX,office365tw.com,MICROSOFT
 HOST-SUFFIX,renovacionoffice.com,MICROSOFT
 HOST-SUFFIX,sprinklesapp.com,MICROSOFT
+HOST-SUFFIX,copilot.com,MICROSOFT
+HOST-SUFFIX,copilot.microsoft.com,MICROSOFT
 HOST,location.microsoft.com,MICROSOFT
 HOST-SUFFIX,cn.bing.com,MICROSOFT
 HOST-SUFFIX,cn.bing.net,MICROSOFT

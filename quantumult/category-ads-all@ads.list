@@ -325,8 +325,9 @@ HOST-SUFFIX,iadmusicmat.music.126.net,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,iadmusicmatvideo.music.126.net,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,sentry.music.163.com,CATEGORY-ADS-ALL@ADS
 HOST-SUFFIX,adsgram.ai,CATEGORY-ADS-ALL@ADS
-HOST,o33249.ingest.sentry.io,CATEGORY-ADS-ALL@ADS
 HOST,browser-intake-datadoghq.com,CATEGORY-ADS-ALL@ADS
+HOST,o33249.ingest.sentry.io,CATEGORY-ADS-ALL@ADS
+HOST,openai.qualtrics.com,CATEGORY-ADS-ALL@ADS
 HOST,ad.ozone.ru,CATEGORY-ADS-ALL@ADS
 HOST,adv.ozon.ru,CATEGORY-ADS-ALL@ADS
 HOST,agency-adv.ozon.ru,CATEGORY-ADS-ALL@ADS
