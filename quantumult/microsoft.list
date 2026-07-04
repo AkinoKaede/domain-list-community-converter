@@ -13,6 +13,7 @@ HOST-SUFFIX,azk8s.cn,MICROSOFT
 HOST-SUFFIX,aznbcontent.cn,MICROSOFT
 HOST-SUFFIX,aztask.cn,MICROSOFT
 HOST-SUFFIX,azure-api.cn,MICROSOFT
+HOST-SUFFIX,azure-api.net,MICROSOFT
 HOST-SUFFIX,azure-apihub.cn,MICROSOFT
 HOST-SUFFIX,azure-automation.cn,MICROSOFT
 HOST-SUFFIX,azure-connectedvehicles-stage.cn,MICROSOFT
@@ -61,6 +62,7 @@ HOST-SUFFIX,azuresandbox.cn,MICROSOFT
 HOST-SUFFIX,azureserviceprofiler.com,MICROSOFT
 HOST-SUFFIX,azuresmartspaces.net,MICROSOFT
 HOST-SUFFIX,azurestackvalidation.com,MICROSOFT
+HOST-SUFFIX,azurestaticapps.net,MICROSOFT
 HOST-SUFFIX,azurewebsites.net,MICROSOFT
 HOST-SUFFIX,b2clogin.cn,MICROSOFT
 HOST-SUFFIX,b3itech.cn,MICROSOFT
@@ -174,6 +176,7 @@ HOST-SUFFIX,office365love.com,MICROSOFT
 HOST-SUFFIX,office365tw.com,MICROSOFT
 HOST-SUFFIX,renovacionoffice.com,MICROSOFT
 HOST-SUFFIX,sprinklesapp.com,MICROSOFT
+HOST-SUFFIX,copilot.cloud.microsoft,MICROSOFT
 HOST-SUFFIX,copilot.com,MICROSOFT
 HOST-SUFFIX,copilot.microsoft.com,MICROSOFT
 HOST,location.microsoft.com,MICROSOFT

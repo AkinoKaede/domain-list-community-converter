@@ -13,6 +13,7 @@ HOST-SUFFIX,azk8s.cn,AZURE
 HOST-SUFFIX,aznbcontent.cn,AZURE
 HOST-SUFFIX,aztask.cn,AZURE
 HOST-SUFFIX,azure-api.cn,AZURE
+HOST-SUFFIX,azure-api.net,AZURE
 HOST-SUFFIX,azure-apihub.cn,AZURE
 HOST-SUFFIX,azure-automation.cn,AZURE
 HOST-SUFFIX,azure-connectedvehicles-stage.cn,AZURE
@@ -61,6 +62,7 @@ HOST-SUFFIX,azuresandbox.cn,AZURE
 HOST-SUFFIX,azureserviceprofiler.com,AZURE
 HOST-SUFFIX,azuresmartspaces.net,AZURE
 HOST-SUFFIX,azurestackvalidation.com,AZURE
+HOST-SUFFIX,azurestaticapps.net,AZURE
 HOST-SUFFIX,azurewebsites.net,AZURE
 HOST-SUFFIX,b2clogin.cn,AZURE
 HOST-SUFFIX,b3itech.cn,AZURE
