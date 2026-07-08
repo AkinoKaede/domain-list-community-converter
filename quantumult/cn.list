@@ -93,6 +93,7 @@ HOST-SUFFIX,aloys233.top,CN
 HOST-SUFFIX,fanmingming.com,CN
 HOST-SUFFIX,huangyuhui.net,CN
 HOST-SUFFIX,lg3000.top,CN
+HOST-SUFFIX,lovestu.com,CN
 HOST-SUFFIX,misaka-net.top,CN
 HOST-SUFFIX,moliranran.com,CN
 HOST-SUFFIX,mryys.cn,CN
@@ -106,6 +107,7 @@ HOST-SUFFIX,tai3.cn,CN
 HOST-SUFFIX,tianhw.top,CN
 HOST-SUFFIX,topwd.top,CN
 HOST-SUFFIX,vtdd.vip,CN
+HOST-SUFFIX,xrbk.cn,CN
 HOST-SUFFIX,zway.top,CN
 HOST-SUFFIX,aixcoder.com,CN
 HOST-SUFFIX,nnthink.com,CN
@@ -388,6 +390,13 @@ HOST-SUFFIX,bilibiligame.net,CN
 HOST-SUFFIX,biligame.co,CN
 HOST-SUFFIX,biligame.com,CN
 HOST-SUFFIX,biligame.net,CN
+HOST-SUFFIX,17173.com,CN
+HOST-SUFFIX,17173cdn.com,CN
+HOST-SUFFIX,changyou.com,CN
+HOST-SUFFIX,cy.com,CN
+HOST-SUFFIX,playcool.com,CN
+HOST-SUFFIX,yeyou.com,CN
+HOST-SUFFIX,yeyoucdn.com,CN
 HOST-SUFFIX,cowlevel.net,CN
 HOST-SUFFIX,cdncl.net,CN
 HOST-SUFFIX,hero.com,CN
@@ -520,9 +529,6 @@ HOST-SUFFIX,arcaea.cn,CN
 HOST-SUFFIX,astral-vector.com,CN
 HOST-SUFFIX,66rpg.com,CN
 HOST-SUFFIX,cgyouxi.com,CN
-HOST-SUFFIX,changyou.com,CN
-HOST-SUFFIX,cy.com,CN
-HOST-SUFFIX,playcool.com,CN
 HOST,end-api.shallow.ink,CN
 HOST,end.shallow.ink,CN
 HOST-SUFFIX,feihuo.com,CN
@@ -540,10 +546,18 @@ HOST-SUFFIX,longtugame.com,CN
 HOST-SUFFIX,morefreegame.com,CN
 HOST-SUFFIX,nalrer.cn,CN
 HOST-SUFFIX,tuyoo.com,CN
+HOST-SUFFIX,nikkigames.cn,CN
+HOST-SUFFIX,nikkigames.com.cn,CN
+HOST-SUFFIX,papegames.cn,CN
+HOST-SUFFIX,papegames.com,CN
 HOST-SUFFIX,phira.cn,CN
 HOST-SUFFIX,sdo.com,CN
 HOST-SUFFIX,shengqugames.com,CN
 HOST-SUFFIX,zjshulong.com,CN
+HOST-SUFFIX,tanwan.com,CN
+HOST-SUFFIX,twyx.cn,CN
+HOST-SUFFIX,twyxh.com,CN
+HOST-SUFFIX,zx.com,CN
 HOST-SUFFIX,tgpro.top,CN
 HOST-SUFFIX,tgprocs.net,CN
 HOST-SUFFIX,winegame.net,CN
@@ -1011,6 +1025,7 @@ HOST-SUFFIX,pipi.cn,CN
 HOST-SUFFIX,sfacg.com,CN
 HOST-SUFFIX,shuhai.com,CN
 HOST-SUFFIX,tadu.com,CN
+HOST-SUFFIX,vistopia.com.cn,CN
 HOST-SUFFIX,vsread.com,CN
 HOST-SUFFIX,xinlishumeng.com,CN
 HOST-SUFFIX,xyys.com,CN
@@ -1022,8 +1037,6 @@ HOST-SUFFIX,zhulang.com,CN
 HOST-SUFFIX,zongheng.com,CN
 HOST-SUFFIX,tgbus.com,CN
 HOST-SUFFIX,vgtime.com,CN
-HOST-SUFFIX,17173.com,CN
-HOST-SUFFIX,17173cdn.com,CN
 HOST-SUFFIX,18183.com,CN
 HOST-SUFFIX,3dmgame.com,CN
 HOST-SUFFIX,ali213.net,CN
@@ -2083,6 +2096,7 @@ HOST-SUFFIX,chuangcache.com,CN
 HOST-SUFFIX,chuangcdn.com,CN
 HOST-SUFFIX,dfyun.com.cn,CN
 HOST-SUFFIX,funcdn.com,CN
+HOST-SUFFIX,hydun.com,CN
 HOST-SUFFIX,jiashule.com,CN
 HOST-SUFFIX,jiasule.com,CN
 HOST-SUFFIX,a2z.org.cn,CN
@@ -2277,6 +2291,7 @@ HOST-SUFFIX,pkoplink.com,CN
 HOST-SUFFIX,suufun.com,CN
 HOST-SUFFIX,suu-fun.com,CN
 HOST-SUFFIX,chinamcloud.com,CN
+HOST-SUFFIX,cjyun.org,CN
 HOST-SUFFIX,cnwza.cn,CN
 HOST-SUFFIX,govwza.cn,CN
 HOST-SUFFIX,rainyun.com,CN
@@ -2955,6 +2970,10 @@ HOST-SUFFIX,tongyi.aliyun.com,CN
 HOST-SUFFIX,tongyi.com,CN
 HOST-SUFFIX,antafu.com,CN
 HOST-SUFFIX,antaq.com,CN
+HOST-SUFFIX,aorizon.cn,CN
+HOST-SUFFIX,happyhorse.cn,CN
+HOST-SUFFIX,happyshrimp.cn,CN
+HOST-SUFFIX,sleeplesshorizon.cn,CN
 HOST-SUFFIX,yiyan.baidu.com,CN
 HOST-SUFFIX,dumate.cn,CN
 HOST-SUFFIX,miaoda.cn,CN

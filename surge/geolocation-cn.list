@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,huangyuhui.net
 DOMAIN-SUFFIX,lg3000.top
+DOMAIN-SUFFIX,lovestu.com
 DOMAIN-SUFFIX,misaka-net.top
 DOMAIN-SUFFIX,moliranran.com
 DOMAIN-SUFFIX,mryys.cn
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,tai3.cn
 DOMAIN-SUFFIX,tianhw.top
 DOMAIN-SUFFIX,topwd.top
 DOMAIN-SUFFIX,vtdd.vip
+DOMAIN-SUFFIX,xrbk.cn
 DOMAIN-SUFFIX,zway.top
 DOMAIN-SUFFIX,aixcoder.com
 DOMAIN-SUFFIX,nnthink.com
@@ -339,6 +341,13 @@ DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com
 DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,cdncl.net
 DOMAIN-SUFFIX,hero.com
@@ -471,9 +480,6 @@ DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,astral-vector.com
 DOMAIN-SUFFIX,66rpg.com
 DOMAIN-SUFFIX,cgyouxi.com
-DOMAIN-SUFFIX,changyou.com
-DOMAIN-SUFFIX,cy.com
-DOMAIN-SUFFIX,playcool.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN-SUFFIX,feihuo.com
@@ -491,10 +497,18 @@ DOMAIN-SUFFIX,longtugame.com
 DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,tuyoo.com
+DOMAIN-SUFFIX,nikkigames.cn
+DOMAIN-SUFFIX,nikkigames.com.cn
+DOMAIN-SUFFIX,papegames.cn
+DOMAIN-SUFFIX,papegames.com
 DOMAIN-SUFFIX,phira.cn
 DOMAIN-SUFFIX,sdo.com
 DOMAIN-SUFFIX,shengqugames.com
 DOMAIN-SUFFIX,zjshulong.com
+DOMAIN-SUFFIX,tanwan.com
+DOMAIN-SUFFIX,twyx.cn
+DOMAIN-SUFFIX,twyxh.com
+DOMAIN-SUFFIX,zx.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,winegame.net
@@ -962,6 +976,7 @@ DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,tadu.com
+DOMAIN-SUFFIX,vistopia.com.cn
 DOMAIN-SUFFIX,vsread.com
 DOMAIN-SUFFIX,xinlishumeng.com
 DOMAIN-SUFFIX,xyys.com
@@ -973,8 +988,6 @@ DOMAIN-SUFFIX,zhulang.com
 DOMAIN-SUFFIX,zongheng.com
 DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,vgtime.com
-DOMAIN-SUFFIX,17173.com
-DOMAIN-SUFFIX,17173cdn.com
 DOMAIN-SUFFIX,18183.com
 DOMAIN-SUFFIX,3dmgame.com
 DOMAIN-SUFFIX,ali213.net
@@ -2034,6 +2047,7 @@ DOMAIN-SUFFIX,chuangcache.com
 DOMAIN-SUFFIX,chuangcdn.com
 DOMAIN-SUFFIX,dfyun.com.cn
 DOMAIN-SUFFIX,funcdn.com
+DOMAIN-SUFFIX,hydun.com
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,a2z.org.cn
@@ -2228,6 +2242,7 @@ DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,suufun.com
 DOMAIN-SUFFIX,suu-fun.com
 DOMAIN-SUFFIX,chinamcloud.com
+DOMAIN-SUFFIX,cjyun.org
 DOMAIN-SUFFIX,cnwza.cn
 DOMAIN-SUFFIX,govwza.cn
 DOMAIN-SUFFIX,rainyun.com
@@ -2906,6 +2921,10 @@ DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaq.com
+DOMAIN-SUFFIX,aorizon.cn
+DOMAIN-SUFFIX,happyhorse.cn
+DOMAIN-SUFFIX,happyshrimp.cn
+DOMAIN-SUFFIX,sleeplesshorizon.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
 DOMAIN-SUFFIX,dumate.cn
 DOMAIN-SUFFIX,miaoda.cn

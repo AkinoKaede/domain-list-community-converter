@@ -2,11 +2,8 @@ HOST-SUFFIX,sina,SINA
 HOST-SUFFIX,weibo,SINA
 HOST-SUFFIX,xn--9krt00a,SINA
 HOST-SUFFIX,97973.com,SINA
-HOST-SUFFIX,hk.weibo.com,SINA
-HOST-SUFFIX,my.weibo.com,SINA
-HOST-SUFFIX,overseas.weibo.com,SINA
+HOST-SUFFIX,krcom.cn,SINA
 HOST-SUFFIX,picself.cn,SINA
-HOST-SUFFIX,sg.weibo.com,SINA
 HOST-SUFFIX,sina.cn,SINA
 HOST-SUFFIX,sina.com,SINA
 HOST-SUFFIX,sina.com.cn,SINA
@@ -18,9 +15,6 @@ HOST-SUFFIX,sinaimg.com,SINA
 HOST-SUFFIX,sinajs.cn,SINA
 HOST-SUFFIX,sinajs.com,SINA
 HOST-SUFFIX,t.cn,SINA
-HOST-SUFFIX,th.weibo.com,SINA
-HOST-SUFFIX,tw.weibo.com,SINA
-HOST-SUFFIX,us.weibo.com,SINA
 HOST-SUFFIX,videoself.cn,SINA
 HOST-SUFFIX,wbimg.cn,SINA
 HOST-SUFFIX,wbimg.com,SINA
@@ -31,6 +25,13 @@ HOST-SUFFIX,weibo.com.cn,SINA
 HOST-SUFFIX,weibocdn.com,SINA
 HOST-SUFFIX,weibopay.com,SINA
 HOST-SUFFIX,xhaiwai.com,SINA
+HOST-SUFFIX,hk.weibo.com,SINA
+HOST-SUFFIX,my.weibo.com,SINA
+HOST-SUFFIX,overseas.weibo.com,SINA
+HOST-SUFFIX,sg.weibo.com,SINA
+HOST-SUFFIX,th.weibo.com,SINA
+HOST-SUFFIX,tw.weibo.com,SINA
+HOST-SUFFIX,us.weibo.com,SINA
 HOST-SUFFIX,ad.sina.com.cn,SINA
 HOST-SUFFIX,ad.us.sinaimg.cn,SINA
 HOST-SUFFIX,adbox.sina.com.cn,SINA
