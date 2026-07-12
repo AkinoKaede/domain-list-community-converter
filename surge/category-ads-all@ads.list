@@ -305,6 +305,7 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,ad.api.moji.com
 DOMAIN,ads-img.mozilla.org
 DOMAIN,ads.mozilla.org
 DOMAIN,incoming.telemetry.mozilla.org

@@ -312,6 +312,7 @@ HOST,api.mindbox.cloud,CATEGORY-ADS
 HOST,api.mindbox.ru,CATEGORY-ADS
 HOST,sentry.mindbox.ru,CATEGORY-ADS
 HOST,sentry.popmechanic.ru,CATEGORY-ADS
+HOST-SUFFIX,ad.api.moji.com,CATEGORY-ADS
 HOST,ads-img.mozilla.org,CATEGORY-ADS
 HOST,ads.mozilla.org,CATEGORY-ADS
 HOST,incoming.telemetry.mozilla.org,CATEGORY-ADS
@@ -586,7 +587,6 @@ HOST-SUFFIX,51y5.net,CATEGORY-ADS
 HOST-SUFFIX,a.adtng.com,CATEGORY-ADS
 HOST-SUFFIX,aaxads.com,CATEGORY-ADS
 HOST-SUFFIX,ad-srv.net,CATEGORY-ADS
-HOST-SUFFIX,ad.api.moji.com,CATEGORY-ADS
 HOST-SUFFIX,ad.wang502.com,CATEGORY-ADS
 HOST-SUFFIX,adbutter.net,CATEGORY-ADS
 HOST-SUFFIX,addthisedge.com,CATEGORY-ADS

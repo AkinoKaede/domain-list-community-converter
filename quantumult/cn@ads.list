@@ -129,6 +129,7 @@ HOST-SUFFIX,httpdns.volcengineapi.com,CN@ADS
 HOST-SUFFIX,httpdns.yunxindns.com,CN@ADS
 HOST-SUFFIX,httpdns.zhihu.com,CN@ADS
 HOST-SUFFIX,httpdns.zybang.com,CN@ADS
+HOST-SUFFIX,ad.api.moji.com,CN@ADS
 HOST-SUFFIX,tdsdk.cpatrk.net,CN@ADS
 HOST-SUFFIX,syh.zybang.com,CN@ADS
 HOST-SUFFIX,adscdn.baidu.com,CN@ADS
