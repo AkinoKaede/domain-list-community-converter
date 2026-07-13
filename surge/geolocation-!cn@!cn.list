@@ -57,3 +57,6 @@ DOMAIN,alt4-mtalk.google.com
 DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,mtalk.google.com
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,espressif.com

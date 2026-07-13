@@ -57,3 +57,6 @@ HOST,alt4-mtalk.google.com,GEOLOCATION-!CN@!CN
 HOST,alt5-mtalk.google.com,GEOLOCATION-!CN@!CN
 HOST,alt6-mtalk.google.com,GEOLOCATION-!CN@!CN
 HOST,mtalk.google.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,esp32.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,esp8266.com,GEOLOCATION-!CN@!CN
+HOST-SUFFIX,espressif.com,GEOLOCATION-!CN@!CN

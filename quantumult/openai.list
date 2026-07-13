@@ -1,5 +1,6 @@
 HOST-SUFFIX,chat.com,OPENAI
 HOST-SUFFIX,chatgpt.com,OPENAI
+HOST-SUFFIX,chatgpt.site,OPENAI
 HOST-SUFFIX,crixet.com,OPENAI
 HOST-SUFFIX,oaistatic.com,OPENAI
 HOST-SUFFIX,oaistatsig.com,OPENAI
