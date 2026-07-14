@@ -244,7 +244,6 @@ HOST,stun.sippeer.dk,CATEGORY-STUN
 HOST,stun.sipthor.net,CATEGORY-STUN
 HOST,stun.siptraffic.com,CATEGORY-STUN
 HOST,stun.siptrunk.com,CATEGORY-STUN
-HOST,stun.sipus,CATEGORY-STUN
 HOST,stun.skydrone.aero,CATEGORY-STUN
 HOST,stun.skylink.ru,CATEGORY-STUN
 HOST,stun.sma.de,CATEGORY-STUN
@@ -265,7 +264,6 @@ HOST,stun.ssl7.net,CATEGORY-STUN
 HOST,stun.stochastix.de,CATEGORY-STUN
 HOST,stun.streamnow.ch,CATEGORY-STUN
 HOST,stun.stunprotocol.org,CATEGORY-STUN
-HOST,stun.stunprotocol.prg,CATEGORY-STUN
 HOST,stun.symform.com,CATEGORY-STUN
 HOST,stun.symplicity.com,CATEGORY-STUN
 HOST,stun.sysadminman.net,CATEGORY-STUN
