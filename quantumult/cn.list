@@ -240,6 +240,7 @@ HOST-SUFFIX,openvela.com,CN
 HOST-SUFFIX,php.cn,CN
 HOST-SUFFIX,pingcode.com,CN
 HOST-SUFFIX,tipdm.org,CN
+HOST-SUFFIX,weboss.hk,CN
 HOST-SUFFIX,zuidaima.com,CN
 HOST-SUFFIX,analog.com,CN
 HOST-SUFFIX,arrow.cn,CN
@@ -1026,6 +1027,12 @@ HOST-SUFFIX,mtime.cn,CN
 HOST-SUFFIX,mtime.com,CN
 HOST-SUFFIX,pearvideo.com,CN
 HOST-SUFFIX,pipi.cn,CN
+HOST-SUFFIX,rrmj.plus,CN
+HOST-SUFFIX,rrsp.app,CN
+HOST-SUFFIX,rrsp.com.cn,CN
+HOST-SUFFIX,qwapp.top,CN
+HOST-SUFFIX,qwdjapp.com,CN
+HOST-SUFFIX,yichengwlkj.com,CN
 HOST-SUFFIX,sfacg.com,CN
 HOST-SUFFIX,shuhai.com,CN
 HOST-SUFFIX,tadu.com,CN
@@ -2750,8 +2757,10 @@ HOST-SUFFIX,offcn.com,CN
 HOST-SUFFIX,zggqzp.com,CN
 HOST-SUFFIX,zgjsks.com,CN
 HOST-SUFFIX,zgsydw.com,CN
+HOST-SUFFIX,gaojidata.com,CN
 HOST-SUFFIX,gk100.com,CN
 HOST-SUFFIX,guojibk.com,CN
+HOST-SUFFIX,gzasc.com,CN
 HOST-SUFFIX,huatu.com,CN
 HOST-SUFFIX,sydw8.com,CN
 HOST-SUFFIX,ictbda.cn,CN
@@ -4889,7 +4898,6 @@ HOST-SUFFIX,qudong.com,CN
 HOST-SUFFIX,qugame.com,CN
 HOST-SUFFIX,qunjielong.com,CN
 HOST-SUFFIX,rockyenglish.com,CN
-HOST-SUFFIX,rrmj.plus,CN
 HOST-SUFFIX,rtbasia.com,CN
 HOST-SUFFIX,ruan8.com,CN
 HOST-SUFFIX,ruiwen.com,CN
