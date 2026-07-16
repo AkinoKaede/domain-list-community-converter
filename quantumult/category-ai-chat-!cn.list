@@ -63,6 +63,7 @@ HOST-SUFFIX,jules.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,jules.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,labs.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,labs.google.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,flow.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aisandbox-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aicode.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,aida.googleapis.com,CATEGORY-AI-CHAT-!CN
@@ -124,6 +125,7 @@ HOST-SUFFIX,coderabbit.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,coderabbit.gallery.vsassets.io,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cohere.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,cohere.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,copilot-stg.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,copilot.cloud.microsoft,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,copilot.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,copilot.microsoft.com,CATEGORY-AI-CHAT-!CN

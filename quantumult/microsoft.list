@@ -47,6 +47,7 @@ HOST-SUFFIX,azuredns-prd.info,MICROSOFT
 HOST-SUFFIX,azuredns-prd.org,MICROSOFT
 HOST-SUFFIX,azureedge-test.net,MICROSOFT
 HOST-SUFFIX,azureedge.net,MICROSOFT
+HOST-SUFFIX,azureedge.us,MICROSOFT
 HOST-SUFFIX,azurefd.net,MICROSOFT
 HOST-SUFFIX,azurehdinsight.cn,MICROSOFT
 HOST-SUFFIX,azureiotcentral.com,MICROSOFT
@@ -176,6 +177,7 @@ HOST-SUFFIX,office365love.com,MICROSOFT
 HOST-SUFFIX,office365tw.com,MICROSOFT
 HOST-SUFFIX,renovacionoffice.com,MICROSOFT
 HOST-SUFFIX,sprinklesapp.com,MICROSOFT
+HOST-SUFFIX,copilot-stg.com,MICROSOFT
 HOST-SUFFIX,copilot.cloud.microsoft,MICROSOFT
 HOST-SUFFIX,copilot.com,MICROSOFT
 HOST-SUFFIX,copilot.microsoft.com,MICROSOFT
