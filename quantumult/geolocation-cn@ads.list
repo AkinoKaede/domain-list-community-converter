@@ -100,6 +100,7 @@ HOST-SUFFIX,doh.iqiyi.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,hdns.ksyun.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,kuaishou.httpdns.pro,GEOLOCATION-CN@ADS
 HOST-SUFFIX,httpdns.meituan.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,httpdnsmultiapivip.meituan.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,httpdnsvip.meituan.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,httpdns-sdk.n.netease.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,httpdns.music.163.com,GEOLOCATION-CN@ADS

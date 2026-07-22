@@ -18,6 +18,7 @@ HOST-SUFFIX,doh.iqiyi.com,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,hdns.ksyun.com,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,kuaishou.httpdns.pro,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,httpdns.meituan.com,CATEGORY-HTTPDNS-CN
+HOST-SUFFIX,httpdnsmultiapivip.meituan.com,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,httpdnsvip.meituan.com,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,httpdns-sdk.n.netease.com,CATEGORY-HTTPDNS-CN
 HOST-SUFFIX,httpdns.music.163.com,CATEGORY-HTTPDNS-CN

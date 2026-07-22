@@ -100,6 +100,7 @@ HOST-SUFFIX,doh.iqiyi.com,CN@ADS
 HOST-SUFFIX,hdns.ksyun.com,CN@ADS
 HOST-SUFFIX,kuaishou.httpdns.pro,CN@ADS
 HOST-SUFFIX,httpdns.meituan.com,CN@ADS
+HOST-SUFFIX,httpdnsmultiapivip.meituan.com,CN@ADS
 HOST-SUFFIX,httpdnsvip.meituan.com,CN@ADS
 HOST-SUFFIX,httpdns-sdk.n.netease.com,CN@ADS
 HOST-SUFFIX,httpdns.music.163.com,CN@ADS
