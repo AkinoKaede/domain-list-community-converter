@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,windsurf.build
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,youmind.com
@@ -169,6 +170,7 @@ DOMAIN-SUFFIX,pubmatic.co.jp
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
@@ -1632,15 +1634,16 @@ DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sberbank-tele.com
+DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
-DOMAIN-SUFFIX,sberindex.ru
-DOMAIN-SUFFIX,sberbankaktivno.ru
-DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberleasing.ru
 DOMAIN-SUFFIX,sberlogistics.ru
 DOMAIN-SUFFIX,sbermegamarket.ru
@@ -5442,6 +5445,7 @@ DOMAIN-SUFFIX,snowmiku.com
 DOMAIN-SUFFIX,bowlroll.net
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,kinopoisk.ru
@@ -5459,6 +5463,7 @@ DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
@@ -21586,6 +21591,7 @@ DOMAIN-SUFFIX,bwh89.net
 DOMAIN-SUFFIX,bwhstatus.com
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.ru
+DOMAIN-SUFFIX,blurams.app
 DOMAIN-SUFFIX,blurams.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,cfblob.com
