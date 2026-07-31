@@ -152,6 +152,7 @@ HOST-SUFFIX,eleme.io,ALIBABA
 HOST-SUFFIX,elemecdn.cn,ALIBABA
 HOST-SUFFIX,elemecdn.com,ALIBABA
 HOST-SUFFIX,elenet.me,ALIBABA
+HOST-SUFFIX,fengniaojipei.net,ALIBABA
 HOST-SUFFIX,adashx.ut.ele.me,ALIBABA
 HOST-SUFFIX,h-adashx.ut.ele.me,ALIBABA
 HOST-SUFFIX,v6-adashx.ut.ele.me,ALIBABA
@@ -212,7 +213,6 @@ HOST-SUFFIX,w.cnzz.com,ALIBABA
 HOST-SUFFIX,z.gds.cnzz.com,ALIBABA
 HOST-SUFFIX,9xsecndns.cn,ALIBABA
 HOST-SUFFIX,kumiao.com,ALIBABA
-HOST-SUFFIX,mmstat.com,ALIBABA
 HOST-SUFFIX,soku.com,ALIBABA
 HOST-SUFFIX,tudou.com,ALIBABA
 HOST-SUFFIX,ykimg.com,ALIBABA
@@ -220,6 +220,7 @@ HOST-SUFFIX,youku.com,ALIBABA
 HOST-SUFFIX,youku.tv,ALIBABA
 HOST-SUFFIX,youkuhonor.com,ALIBABA
 HOST-SUFFIX,youkuplay.com,ALIBABA
+HOST,ykimg.alicdn.com,ALIBABA
 HOST-SUFFIX,ad.api.3g.youku.com,ALIBABA
 HOST-SUFFIX,ad.api.mobile.youku.com,ALIBABA
 HOST-SUFFIX,ad.mobile.youku.com,ALIBABA
@@ -250,9 +251,12 @@ HOST-SUFFIX,alibaba-inc.com,ALIBABA
 HOST-SUFFIX,alibaba.com,ALIBABA
 HOST-SUFFIX,alibabacapital.com,ALIBABA
 HOST-SUFFIX,alibabachengdun.com,ALIBABA
+HOST-SUFFIX,alibabachengdun.net,ALIBABA
 HOST-SUFFIX,alibabacorp.com,ALIBABA
 HOST-SUFFIX,alibabadesign.com,ALIBABA
 HOST-SUFFIX,alibabadoctor.com,ALIBABA
+HOST-SUFFIX,alibabafonts.com,ALIBABA
+HOST-SUFFIX,alibabafoundation.com,ALIBABA
 HOST-SUFFIX,alibabafuturehotel.com,ALIBABA
 HOST-SUFFIX,alibabagroup.com,ALIBABA
 HOST-SUFFIX,alibabapictures.com,ALIBABA
@@ -291,6 +295,7 @@ HOST-SUFFIX,aliwork.com,ALIBABA
 HOST-SUFFIX,alixiaomi.com,ALIBABA
 HOST-SUFFIX,alizhaopin.com,ALIBABA
 HOST-SUFFIX,alyms.cn,ALIBABA
+HOST-SUFFIX,alysm.cn,ALIBABA
 HOST-SUFFIX,asczwa.com,ALIBABA
 HOST-SUFFIX,asczxcefsv.com,ALIBABA
 HOST-SUFFIX,asmlink.cn,ALIBABA
@@ -310,6 +315,8 @@ HOST-SUFFIX,dratio.com,ALIBABA
 HOST-SUFFIX,emas-poc.com,ALIBABA
 HOST-SUFFIX,gongyi.xin,ALIBABA
 HOST-SUFFIX,hupan.com,ALIBABA
+HOST-SUFFIX,hzchengdun.com,ALIBABA
+HOST-SUFFIX,hzchengdun.net,ALIBABA
 HOST-SUFFIX,ialicdn.com,ALIBABA
 HOST-SUFFIX,iconfont.cn,ALIBABA
 HOST-SUFFIX,ics.design,ALIBABA
@@ -326,6 +333,7 @@ HOST-SUFFIX,mdeer.com,ALIBABA
 HOST-SUFFIX,mei.com,ALIBABA
 HOST-SUFFIX,miaostreet.com,ALIBABA
 HOST-SUFFIX,miaoya.cn,ALIBABA
+HOST-SUFFIX,mmstat.com,ALIBABA
 HOST-SUFFIX,mshare.cc,ALIBABA
 HOST-SUFFIX,nic.xin,ALIBABA
 HOST-SUFFIX,philanthropy.xin,ALIBABA
@@ -343,6 +351,7 @@ HOST-SUFFIX,tanx.com,ALIBABA
 HOST-SUFFIX,ttpod.com,ALIBABA
 HOST-SUFFIX,xin.xin,ALIBABA
 HOST-SUFFIX,xinlingshou.cn,ALIBABA
+HOST-SUFFIX,xixikf.cn,ALIBABA
 HOST-SUFFIX,yowhale.com,ALIBABA
 HOST-SUFFIX,yunos-inc.com,ALIBABA
 HOST-SUFFIX,yunos.com,ALIBABA
@@ -371,6 +380,7 @@ HOST-SUFFIX,antfin.com,ALIBABA
 HOST-SUFFIX,antgroup.com,ALIBABA
 HOST-SUFFIX,antgroup-inc.cn,ALIBABA
 HOST-SUFFIX,sm.cn,ALIBABA
+HOST-SUFFIX,yisou.com,ALIBABA
 HOST-SUFFIX,1688.com,ALIBABA
 HOST-SUFFIX,duanqu.com,ALIBABA
 HOST-SUFFIX,etao.com,ALIBABA
@@ -384,11 +394,13 @@ HOST-SUFFIX,taobao.org,ALIBABA
 HOST-SUFFIX,taobaocdn.com,ALIBABA
 HOST-SUFFIX,taobizhong.com,ALIBABA
 HOST-SUFFIX,taopiaopiao.com,ALIBABA
+HOST-SUFFIX,taotian.com,ALIBABA
 HOST-SUFFIX,tb.cn,ALIBABA
 HOST-SUFFIX,tbcache.com,ALIBABA
 HOST-SUFFIX,tbcdn.cn,ALIBABA
 HOST-SUFFIX,tburl.in,ALIBABA
 HOST-SUFFIX,tmall.com,ALIBABA
+HOST-SUFFIX,tmall.hk,ALIBABA
 HOST-SUFFIX,tmall.ru,ALIBABA
 HOST-SUFFIX,tmalltv.com,ALIBABA
 HOST-SUFFIX,tmjl.ai,ALIBABA

@@ -812,6 +812,7 @@ HOST-SUFFIX,volcdns-test.net,BYTEDANCE
 HOST-SUFFIX,voleai.com,BYTEDANCE
 HOST-SUFFIX,wtturl.cn,BYTEDANCE
 HOST-SUFFIX,xsgtvacct.com,BYTEDANCE
+HOST-SUFFIX,yhgfb-cn-static.com,BYTEDANCE
 HOST-SUFFIX,zijieapi.cn,BYTEDANCE
 HOST-SUFFIX,zijieapi.com,BYTEDANCE
 HOST-SUFFIX,zijieapi.net,BYTEDANCE
@@ -911,12 +912,14 @@ HOST-SUFFIX,rsproxy.cn,BYTEDANCE
 HOST-SUFFIX,ad.toutiao.com,BYTEDANCE
 HOST-SUFFIX,bds.snssdk.com,BYTEDANCE
 HOST-SUFFIX,byteadverts.com,BYTEDANCE
+HOST-SUFFIX,csjplatform.com,BYTEDANCE
 HOST-SUFFIX,ctobsnssdk.com,BYTEDANCE
 HOST-SUFFIX,dig.bdurl.net,BYTEDANCE
 HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE
 HOST-SUFFIX,i.snssdk.com,BYTEDANCE
 HOST-SUFFIX,log.zijieapi.com,BYTEDANCE
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE
+HOST-SUFFIX,pangle.cn,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE
 HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE
 HOST-SUFFIX,pangolin-hl.snssdk.com,BYTEDANCE

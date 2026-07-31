@@ -4,6 +4,7 @@ HOST-SUFFIX,firefox.hu,MOZILLA
 HOST-SUFFIX,firefoxtweetmachine.com,MOZILLA
 HOST-SUFFIX,firefoxusercontent.com,MOZILLA
 HOST,mozilla-ohttp.fastly-edge.com,MOZILLA
+HOST,mozilla.map.fastly.net,MOZILLA
 HOST-SUFFIX,developer.allizom.org,MOZILLA
 HOST-SUFFIX,developer.mozilla.org,MOZILLA
 HOST-SUFFIX,mdn.allizom.net,MOZILLA

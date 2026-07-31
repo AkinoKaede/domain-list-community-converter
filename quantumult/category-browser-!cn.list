@@ -7,6 +7,7 @@ HOST-SUFFIX,firefox.hu,CATEGORY-BROWSER-!CN
 HOST-SUFFIX,firefoxtweetmachine.com,CATEGORY-BROWSER-!CN
 HOST-SUFFIX,firefoxusercontent.com,CATEGORY-BROWSER-!CN
 HOST,mozilla-ohttp.fastly-edge.com,CATEGORY-BROWSER-!CN
+HOST,mozilla.map.fastly.net,CATEGORY-BROWSER-!CN
 HOST-SUFFIX,torproject.org,CATEGORY-BROWSER-!CN
 HOST-SUFFIX,chrome,CATEGORY-BROWSER-!CN
 HOST-SUFFIX,chrome.com,CATEGORY-BROWSER-!CN

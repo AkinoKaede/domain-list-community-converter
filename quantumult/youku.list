@@ -1,6 +1,5 @@
 HOST-SUFFIX,9xsecndns.cn,YOUKU
 HOST-SUFFIX,kumiao.com,YOUKU
-HOST-SUFFIX,mmstat.com,YOUKU
 HOST-SUFFIX,soku.com,YOUKU
 HOST-SUFFIX,tudou.com,YOUKU
 HOST-SUFFIX,ykimg.com,YOUKU
@@ -8,6 +7,7 @@ HOST-SUFFIX,youku.com,YOUKU
 HOST-SUFFIX,youku.tv,YOUKU
 HOST-SUFFIX,youkuhonor.com,YOUKU
 HOST-SUFFIX,youkuplay.com,YOUKU
+HOST,ykimg.alicdn.com,YOUKU
 HOST-SUFFIX,ad.api.3g.youku.com,YOUKU
 HOST-SUFFIX,ad.api.mobile.youku.com,YOUKU
 HOST-SUFFIX,ad.mobile.youku.com,YOUKU

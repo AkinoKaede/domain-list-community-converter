@@ -17,12 +17,14 @@ HOST-SUFFIX,analytics.tiktok.com,BYTEDANCE@ADS
 HOST-SUFFIX,ad.toutiao.com,BYTEDANCE@ADS
 HOST-SUFFIX,bds.snssdk.com,BYTEDANCE@ADS
 HOST-SUFFIX,byteadverts.com,BYTEDANCE@ADS
+HOST-SUFFIX,csjplatform.com,BYTEDANCE@ADS
 HOST-SUFFIX,ctobsnssdk.com,BYTEDANCE@ADS
 HOST-SUFFIX,dig.bdurl.net,BYTEDANCE@ADS
 HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE@ADS
 HOST-SUFFIX,i.snssdk.com,BYTEDANCE@ADS
 HOST-SUFFIX,log.zijieapi.com,BYTEDANCE@ADS
 HOST-SUFFIX,mcs.snssdk.com,BYTEDANCE@ADS
+HOST-SUFFIX,pangle.cn,BYTEDANCE@ADS
 HOST-SUFFIX,pangolin-dsp-toutiao-b.com,BYTEDANCE@ADS
 HOST-SUFFIX,pangolin-dsp-toutiao.com,BYTEDANCE@ADS
 HOST-SUFFIX,pangolin-hl.snssdk.com,BYTEDANCE@ADS

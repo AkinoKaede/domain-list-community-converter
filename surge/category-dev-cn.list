@@ -31,8 +31,6 @@ DOMAIN-SUFFIX,iteye.com
 DOMAIN-SUFFIX,kaifayun.com
 DOMAIN-SUFFIX,programmer.com.cn
 DOMAIN-SUFFIX,programmer.net.cn
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,goproxy.cn
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,bisheng.cn
@@ -73,6 +71,8 @@ DOMAIN,p9-juejin.byteimg.com
 DOMAIN-SUFFIX,dengguobi.com
 DOMAIN-SUFFIX,houyicaiji.com
 DOMAIN-SUFFIX,jinglingbiaozhu.com
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,tracup.com
