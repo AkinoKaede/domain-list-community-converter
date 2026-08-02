@@ -21,6 +21,7 @@ HOST,cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST,notebooklm-pa.googleapis.com,GOOGLE-DEEPMIND
 HOST,notebooklm.googleapis.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,notebook.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,notebooklm.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,notebooklm.google.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,jules.google,GOOGLE-DEEPMIND

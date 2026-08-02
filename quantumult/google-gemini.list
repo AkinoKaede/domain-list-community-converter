@@ -21,6 +21,7 @@ HOST,cloudcode-pa.googleapis.com,GOOGLE-GEMINI
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-GEMINI
 HOST,notebooklm-pa.googleapis.com,GOOGLE-GEMINI
 HOST,notebooklm.googleapis.com,GOOGLE-GEMINI
+HOST-SUFFIX,notebook.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,notebooklm.google,GOOGLE-GEMINI
 HOST-SUFFIX,notebooklm.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,jules.google,GOOGLE-GEMINI

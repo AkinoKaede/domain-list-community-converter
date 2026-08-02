@@ -123,6 +123,7 @@ HOST-SUFFIX,adwords-community.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwords.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adwordsexpress.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,analytics-alv.google.com,GEOLOCATION-!CN@ADS
+HOST-SUFFIX,app-ads-services.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-analytics-services.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-analytics-services-att.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,app-measurement-cn.com,GEOLOCATION-!CN@ADS

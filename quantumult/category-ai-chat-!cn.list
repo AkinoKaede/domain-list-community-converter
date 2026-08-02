@@ -57,6 +57,7 @@ HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,notebooklm-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,notebooklm.googleapis.com,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,notebook.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,jules.google,CATEGORY-AI-CHAT-!CN
@@ -78,6 +79,9 @@ HOST-SUFFIX,groq.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,hf.space,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,huggingface.co,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,grazie.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,grazie.aws.intellij.net,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,jetbrains.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,liveperson.net,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,lpsnmedia.net,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,manus.im,CATEGORY-AI-CHAT-!CN

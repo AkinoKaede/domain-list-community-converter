@@ -137,6 +137,7 @@ HOST,cloudcode-pa.googleapis.com,GOOGLE
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE
 HOST,notebooklm-pa.googleapis.com,GOOGLE
 HOST,notebooklm.googleapis.com,GOOGLE
+HOST-SUFFIX,notebook.google.com,GOOGLE
 HOST-SUFFIX,notebooklm.google,GOOGLE
 HOST-SUFFIX,notebooklm.google.com,GOOGLE
 HOST-SUFFIX,jules.google,GOOGLE
@@ -672,6 +673,7 @@ HOST-SUFFIX,0emm.com,GOOGLE
 HOST-SUFFIX,1e100.net,GOOGLE
 HOST-SUFFIX,1ucrs.com,GOOGLE
 HOST-SUFFIX,466453.com,GOOGLE
+HOST-SUFFIX,actifio.com,GOOGLE
 HOST-SUFFIX,adgoogle.net,GOOGLE
 HOST-SUFFIX,admeld.com,GOOGLE
 HOST-SUFFIX,angulardart.org,GOOGLE
@@ -855,6 +857,7 @@ HOST-SUFFIX,onefifteen.org,GOOGLE
 HOST-SUFFIX,oneworldmanystories.com,GOOGLE
 HOST-SUFFIX,openthread.io,GOOGLE
 HOST-SUFFIX,openweave.io,GOOGLE
+HOST-SUFFIX,openxla.org,GOOGLE
 HOST-SUFFIX,orbitera.com,GOOGLE
 HOST-SUFFIX,page.link,GOOGLE
 HOST-SUFFIX,pagespeedmobilizer.com,GOOGLE
@@ -963,6 +966,7 @@ HOST-SUFFIX,adwords-community.com,GOOGLE
 HOST-SUFFIX,adwords.com,GOOGLE
 HOST-SUFFIX,adwordsexpress.com,GOOGLE
 HOST-SUFFIX,analytics-alv.google.com,GOOGLE
+HOST-SUFFIX,app-ads-services.com,GOOGLE
 HOST-SUFFIX,app-analytics-services.com,GOOGLE
 HOST-SUFFIX,app-analytics-services-att.com,GOOGLE
 HOST-SUFFIX,app-measurement-cn.com,GOOGLE

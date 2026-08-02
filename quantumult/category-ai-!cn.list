@@ -57,6 +57,7 @@ HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm.googleapis.com,CATEGORY-AI-!CN
+HOST-SUFFIX,notebook.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,jules.google,CATEGORY-AI-!CN
@@ -78,6 +79,9 @@ HOST-SUFFIX,groq.com,CATEGORY-AI-!CN
 HOST-SUFFIX,hf.co,CATEGORY-AI-!CN
 HOST-SUFFIX,hf.space,CATEGORY-AI-!CN
 HOST-SUFFIX,huggingface.co,CATEGORY-AI-!CN
+HOST-SUFFIX,grazie.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,grazie.aws.intellij.net,CATEGORY-AI-!CN
+HOST-SUFFIX,jetbrains.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,liveperson.net,CATEGORY-AI-!CN
 HOST-SUFFIX,lpsnmedia.net,CATEGORY-AI-!CN
 HOST-SUFFIX,manus.im,CATEGORY-AI-!CN
