@@ -136,6 +136,9 @@ HOST,init.gc-lb.apple.com.akadns.net,APPLE@CN
 HOST,init.gc.apple.com,APPLE@CN
 HOST,km.support.apple.com,APPLE@CN
 HOST,maps.apple.com,APPLE@CN
+HOST,tj-pod1-smp-device.apple.com,APPLE@CN
+HOST,tj-pod2-smp-device.apple.com,APPLE@CN
+HOST,tj-pod3-smp-device.apple.com,APPLE@CN
 HOST,www.support.apple.com,APPLE@CN
 HOST,a1.mzstatic.com,APPLE@CN
 HOST,a2.mzstatic.com,APPLE@CN
@@ -280,7 +283,6 @@ HOST,swdist.apple.com.akadns.net,APPLE@CN
 HOST,swscan-cdn.apple.com.akadns.net,APPLE@CN
 HOST,swscan.apple.com,APPLE@CN
 HOST,sylvan.apple.com,APPLE@CN
-HOST,tj-pod1-smp-device.apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com,APPLE@CN
 HOST,updates-http.cdn-apple.com.akadns.net,APPLE@CN
 HOST,updates.cdn-apple.com,APPLE@CN

@@ -675,6 +675,9 @@ HOST,init.gc-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,init.gc.apple.com,GEOLOCATION-!CN@CN
 HOST,km.support.apple.com,GEOLOCATION-!CN@CN
 HOST,maps.apple.com,GEOLOCATION-!CN@CN
+HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
+HOST,tj-pod2-smp-device.apple.com,GEOLOCATION-!CN@CN
+HOST,tj-pod3-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,www.support.apple.com,GEOLOCATION-!CN@CN
 HOST,a1.mzstatic.com,GEOLOCATION-!CN@CN
 HOST,a2.mzstatic.com,GEOLOCATION-!CN@CN
@@ -819,7 +822,6 @@ HOST,swdist.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,swscan-cdn.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,swscan.apple.com,GEOLOCATION-!CN@CN
 HOST,sylvan.apple.com,GEOLOCATION-!CN@CN
-HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,updates-http.cdn-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,updates.cdn-apple.com,GEOLOCATION-!CN@CN

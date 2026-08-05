@@ -3359,6 +3359,9 @@ HOST,init.gc-lb.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,init.gc.apple.com,CATEGORY-COMPANIES
 HOST,km.support.apple.com,CATEGORY-COMPANIES
 HOST,maps.apple.com,CATEGORY-COMPANIES
+HOST,tj-pod1-smp-device.apple.com,CATEGORY-COMPANIES
+HOST,tj-pod2-smp-device.apple.com,CATEGORY-COMPANIES
+HOST,tj-pod3-smp-device.apple.com,CATEGORY-COMPANIES
 HOST,www.support.apple.com,CATEGORY-COMPANIES
 HOST,a1.mzstatic.com,CATEGORY-COMPANIES
 HOST,a2.mzstatic.com,CATEGORY-COMPANIES
@@ -3503,7 +3506,6 @@ HOST,swdist.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,swscan-cdn.apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,swscan.apple.com,CATEGORY-COMPANIES
 HOST,sylvan.apple.com,CATEGORY-COMPANIES
-HOST,tj-pod1-smp-device.apple.com,CATEGORY-COMPANIES
 HOST,updates-http.cdn-apple.com,CATEGORY-COMPANIES
 HOST,updates-http.cdn-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,updates.cdn-apple.com,CATEGORY-COMPANIES
