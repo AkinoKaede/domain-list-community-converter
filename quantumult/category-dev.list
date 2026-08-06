@@ -26,6 +26,16 @@ HOST-SUFFIX,macruby.com,CATEGORY-DEV
 HOST-SUFFIX,macruby.net,CATEGORY-DEV
 HOST-SUFFIX,macruby.org,CATEGORY-DEV
 HOST-SUFFIX,apple-mapkit.com,CATEGORY-DEV
+HOST,cdn.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn1.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn2.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn3.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn4.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn-cn.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn-cn1.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn-cn2.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn-cn3.apple-mapkit.com,CATEGORY-DEV
+HOST,cdn-cn4.apple-mapkit.com,CATEGORY-DEV
 HOST-SUFFIX,playgrounds-cdn.apple.com,CATEGORY-DEV
 HOST-SUFFIX,carekit.org,CATEGORY-DEV
 HOST-SUFFIX,researchandcare.org,CATEGORY-DEV

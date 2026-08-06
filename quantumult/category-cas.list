@@ -165,8 +165,6 @@ HOST,oneocsp.microsoft.com,CATEGORY-CAS
 HOST,www.microsoft.com,CATEGORY-CAS
 HOST-SUFFIX,secom.co.jp,CATEGORY-CAS
 HOST-SUFFIX,secomtrust.net,CATEGORY-CAS
-HOST-SUFFIX,cybertrust.co.jp,CATEGORY-CAS
-HOST-SUFFIX,cybertrust.ne.jp,CATEGORY-CAS
 HOST-SUFFIX,managedpki.ne.jp,CATEGORY-CAS
 HOST-SUFFIX,enterprisessl.com,CATEGORY-CAS
 HOST-SUFFIX,hackerguardian.com,CATEGORY-CAS

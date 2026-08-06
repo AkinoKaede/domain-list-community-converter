@@ -113,9 +113,11 @@ HOST-SUFFIX,cloudflare-esni.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare-gateway.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare-quic.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare-terms-of-service-abuse.com,CATEGORY-CDN-!CN
+HOST-SUFFIX,cloudflare.app,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare.dev,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare.net,CATEGORY-CDN-!CN
+HOST-SUFFIX,cloudflare.pay,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflare.tv,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflareaccess.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,cloudflareapps.com,CATEGORY-CDN-!CN
@@ -162,7 +164,6 @@ HOST-SUFFIX,fastly.io,CATEGORY-CDN-!CN
 HOST-SUFFIX,fastly.net,CATEGORY-CDN-!CN
 HOST-SUFFIX,fastlylabs.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,fastlylb.net,CATEGORY-CDN-!CN
-HOST-SUFFIX,zencdn.net,CATEGORY-CDN-!CN
 HOST-SUFFIX,imgix.com,CATEGORY-CDN-!CN
 HOST-SUFFIX,imgix.net,CATEGORY-CDN-!CN
 HOST-SUFFIX,esm.run,CATEGORY-CDN-!CN

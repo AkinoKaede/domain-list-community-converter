@@ -30,9 +30,11 @@ HOST-SUFFIX,cloudflare-esni.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-gateway.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-quic.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare-terms-of-service-abuse.com,CLOUDFLARE
+HOST-SUFFIX,cloudflare.app,CLOUDFLARE
 HOST-SUFFIX,cloudflare.com,CLOUDFLARE
 HOST-SUFFIX,cloudflare.dev,CLOUDFLARE
 HOST-SUFFIX,cloudflare.net,CLOUDFLARE
+HOST-SUFFIX,cloudflare.pay,CLOUDFLARE
 HOST-SUFFIX,cloudflare.tv,CLOUDFLARE
 HOST-SUFFIX,cloudflareaccess.com,CLOUDFLARE
 HOST-SUFFIX,cloudflareapps.com,CLOUDFLARE

@@ -1,3 +1,8 @@
+HOST-SUFFIX,att.tv,ATT
+HOST-SUFFIX,atttvnow.com,ATT
+HOST-SUFFIX,attwatchtv.com,ATT
+HOST-SUFFIX,dtvce.com,ATT
+HOST-SUFFIX,nettyinternet.com,ATT
 HOST-SUFFIX,accbusiness.com,ATT
 HOST-SUFFIX,atandt.com,ATT
 HOST-SUFFIX,att-bundles.com,ATT
@@ -9,7 +14,6 @@ HOST-SUFFIX,att.cn,ATT
 HOST-SUFFIX,att.com,ATT
 HOST-SUFFIX,att.jobs,ATT
 HOST-SUFFIX,att.net,ATT
-HOST-SUFFIX,att.tv,ATT
 HOST-SUFFIX,attalascom.com,ATT
 HOST-SUFFIX,attbelieves.com,ATT
 HOST-SUFFIX,attbusiness.net,ATT
@@ -31,7 +35,6 @@ HOST-SUFFIX,attspecial.com,ATT
 HOST-SUFFIX,attssl.com,ATT
 HOST-SUFFIX,attstadium.com,ATT
 HOST-SUFFIX,attsuppliers.com,ATT
-HOST-SUFFIX,atttvnow.com,ATT
 HOST-SUFFIX,attuverseoffers.com,ATT
 HOST-SUFFIX,attuverseonline.com,ATT
 HOST-SUFFIX,attvoip.com,ATT
@@ -49,7 +52,6 @@ HOST-SUFFIX,enterprisepaging.com,ATT
 HOST-SUFFIX,itcanwait.com,ATT
 HOST-SUFFIX,mymmode.com,ATT
 HOST-SUFFIX,naturalvoices.com,ATT
-HOST-SUFFIX,nettyinternet.com,ATT
 HOST-SUFFIX,openapiplatform.com,ATT
 HOST-SUFFIX,openapiservice.com,ATT
 HOST-SUFFIX,patentgold.net,ATT

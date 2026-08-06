@@ -1324,6 +1324,7 @@ HOST-SUFFIX,36dianping.com,CN
 HOST-SUFFIX,36kr.com,CN
 HOST-SUFFIX,36krcdn.com,CN
 HOST-SUFFIX,36krcnd.com,CN
+HOST-SUFFIX,adx.36kr.com,CN
 HOST-SUFFIX,cctv.cn,CN
 HOST-SUFFIX,cctv.com,CN
 HOST-SUFFIX,cctv4g.com,CN
@@ -3644,6 +3645,14 @@ HOST-SUFFIX,sinopec.com,CN
 HOST-SUFFIX,sinopecgroup.com,CN
 HOST-SUFFIX,sinopecnews.com.cn,CN
 HOST-SUFFIX,sinopecsales.com,CN
+HOST-SUFFIX,95598.cn,CN
+HOST-SUFFIX,95598pay.com,CN
+HOST-SUFFIX,echargenet.com,CN
+HOST-SUFFIX,esgcc.com.cn,CN
+HOST-SUFFIX,sgcc.com.cn,CN
+HOST-SUFFIX,csg.cn,CN
+HOST-SUFFIX,ecsg.com.cn,CN
+HOST-SUFFIX,poweremarket.com,CN
 HOST-SUFFIX,1tyy.cn,CN
 HOST-SUFFIX,bbdc.cn,CN
 HOST-SUFFIX,beingfine.cn,CN
@@ -3822,6 +3831,11 @@ HOST-SUFFIX,djiops.com,CN
 HOST-SUFFIX,djiservice.org,CN
 HOST-SUFFIX,skypixel.com,CN
 HOST-SUFFIX,robomaster.com,CN
+HOST-SUFFIX,focuschina.com,CN
+HOST-SUFFIX,made-in-china.com,CN
+HOST-SUFFIX,micstatic.com,CN
+HOST-SUFFIX,trademessenger.com,CN
+HOST-SUFFIX,vemic.com,CN
 HOST-SUFFIX,gree.cn,CN
 HOST-SUFFIX,gree.com,CN
 HOST-SUFFIX,gree.com.cn,CN

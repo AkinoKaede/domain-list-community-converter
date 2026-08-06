@@ -1,5 +1,15 @@
 HOST-SUFFIX,swiftui.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,swiftui.com.cn,CATEGORY-DEV@CN
+HOST,cdn.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn1.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn2.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn3.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn4.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn-cn.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn-cn1.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn-cn2.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn-cn3.apple-mapkit.com,CATEGORY-DEV@CN
+HOST,cdn-cn4.apple-mapkit.com,CATEGORY-DEV@CN
 HOST-SUFFIX,researchkit.cn,CATEGORY-DEV@CN
 HOST-SUFFIX,researchkit.com.cn,CATEGORY-DEV@CN
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-DEV@CN
