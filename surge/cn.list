@@ -675,7 +675,10 @@ DOMAIN-SUFFIX,supercachenode.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinpay.com
+DOMAIN-SUFFIX,ulpay.com
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
@@ -2075,7 +2078,6 @@ DOMAIN-SUFFIX,baicaf.com
 DOMAIN-SUFFIX,cc-pay.cn
 DOMAIN-SUFFIX,51106.cn
 DOMAIN-SUFFIX,chengquan.cn
-DOMAIN-SUFFIX,cqtk.com.cn
 DOMAIN-SUFFIX,daikuan.com
 DOMAIN-SUFFIX,dulupay.com
 DOMAIN-SUFFIX,helipay.com
@@ -2669,8 +2671,6 @@ DOMAIN-SUFFIX,piyao.org.cn
 DOMAIN-SUFFIX,redcross.org.cn
 DOMAIN-SUFFIX,zgbznet.com.cn
 DOMAIN-SUFFIX,zgjx.cn
-DOMAIN-SUFFIX,airchina.com.cn
-DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,hainanairlines.com
 DOMAIN-SUFFIX,hnacargo.com
 DOMAIN-SUFFIX,hnair.com
@@ -2697,6 +2697,14 @@ DOMAIN-SUFFIX,tianjin-air.com
 DOMAIN-SUFFIX,tibetairlines.com.cn
 DOMAIN-SUFFIX,urumqi-air.com
 DOMAIN-SUFFIX,xiamenair.com
+DOMAIN-SUFFIX,bmac.com.cn
+DOMAIN-SUFFIX,cqtk.com.cn
+DOMAIN-SUFFIX,ruubypay.com
+DOMAIN-SUFFIX,sctcd.com
+DOMAIN-SUFFIX,sptcc.com
+DOMAIN-SUFFIX,shenzhentong.com
+DOMAIN-SUFFIX,nfcos.cn
+DOMAIN-SUFFIX,snowballtech.com
 DOMAIN-SUFFIX,caac.gov.cn
 DOMAIN-SUFFIX,travelsky.com.cn
 DOMAIN-SUFFIX,travelskymobile.cn
@@ -2708,7 +2716,6 @@ DOMAIN-SUFFIX,variflight.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,95306.cn
 DOMAIN-SUFFIX,ccrgt.com
-DOMAIN-SUFFIX,bmac.com.cn
 DOMAIN-SUFFIX,chelaile.net.cn
 DOMAIN-SUFFIX,133.cn
 DOMAIN-SUFFIX,gtgjtrip.com

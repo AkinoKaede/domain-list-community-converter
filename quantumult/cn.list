@@ -675,7 +675,10 @@ HOST-SUFFIX,supercachenode.com,CN
 HOST-SUFFIX,ultracachenode.com,CN
 HOST-SUFFIX,woaihuoshan.com,CN
 HOST-SUFFIX,wohst8.com,CN
+HOST-SUFFIX,douyinec.com,CN
 HOST-SUFFIX,douyinpay.com,CN
+HOST-SUFFIX,ulpay.com,CN
+HOST-SUFFIX,lifexue.com,CN
 HOST-SUFFIX,open-douyin.com,CN
 HOST-SUFFIX,douyu.com,CN
 HOST-SUFFIX,douyu.tv,CN
@@ -2075,7 +2078,6 @@ HOST-SUFFIX,baicaf.com,CN
 HOST-SUFFIX,cc-pay.cn,CN
 HOST-SUFFIX,51106.cn,CN
 HOST-SUFFIX,chengquan.cn,CN
-HOST-SUFFIX,cqtk.com.cn,CN
 HOST-SUFFIX,daikuan.com,CN
 HOST-SUFFIX,dulupay.com,CN
 HOST-SUFFIX,helipay.com,CN
@@ -2669,8 +2671,6 @@ HOST-SUFFIX,piyao.org.cn,CN
 HOST-SUFFIX,redcross.org.cn,CN
 HOST-SUFFIX,zgbznet.com.cn,CN
 HOST-SUFFIX,zgjx.cn,CN
-HOST-SUFFIX,airchina.com.cn,CN
-HOST-SUFFIX,airchinacargo.com,CN
 HOST-SUFFIX,hainanairlines.com,CN
 HOST-SUFFIX,hnacargo.com,CN
 HOST-SUFFIX,hnair.com,CN
@@ -2697,6 +2697,14 @@ HOST-SUFFIX,tianjin-air.com,CN
 HOST-SUFFIX,tibetairlines.com.cn,CN
 HOST-SUFFIX,urumqi-air.com,CN
 HOST-SUFFIX,xiamenair.com,CN
+HOST-SUFFIX,bmac.com.cn,CN
+HOST-SUFFIX,cqtk.com.cn,CN
+HOST-SUFFIX,ruubypay.com,CN
+HOST-SUFFIX,sctcd.com,CN
+HOST-SUFFIX,sptcc.com,CN
+HOST-SUFFIX,shenzhentong.com,CN
+HOST-SUFFIX,nfcos.cn,CN
+HOST-SUFFIX,snowballtech.com,CN
 HOST-SUFFIX,caac.gov.cn,CN
 HOST-SUFFIX,travelsky.com.cn,CN
 HOST-SUFFIX,travelskymobile.cn,CN
@@ -2708,7 +2716,6 @@ HOST-SUFFIX,variflight.com,CN
 HOST-SUFFIX,12306.cn,CN
 HOST-SUFFIX,95306.cn,CN
 HOST-SUFFIX,ccrgt.com,CN
-HOST-SUFFIX,bmac.com.cn,CN
 HOST-SUFFIX,chelaile.net.cn,CN
 HOST-SUFFIX,133.cn,CN
 HOST-SUFFIX,gtgjtrip.com,CN
