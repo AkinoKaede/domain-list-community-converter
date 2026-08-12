@@ -8,7 +8,9 @@ HOST,blzddistkr1-a.akamaihd.net,BLIZZARD
 HOST,bnetcmsus-a.akamaihd.net,BLIZZARD
 HOST,bnetproduct-a.akamaihd.net,BLIZZARD
 HOST,bnetshopus.akamaized.net,BLIZZARD
+HOST-SUFFIX,diablo.com,BLIZZARD
 HOST-SUFFIX,diablo3.com,BLIZZARD
+HOST-SUFFIX,diablo4.com,BLIZZARD
 HOST-SUFFIX,diabloimmortal.com,BLIZZARD
 HOST-SUFFIX,firesidegatherings.com,BLIZZARD
 HOST-SUFFIX,playhearthstone.com,BLIZZARD
