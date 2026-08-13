@@ -1,0 +1,12 @@
+HOST-SUFFIX,nix.dev,NIXOS
+HOST-SUFFIX,nix.store,NIXOS
+HOST-SUFFIX,nixcon.org,NIXOS
+HOST-SUFFIX,nixcon2017.org,NIXOS
+HOST-SUFFIX,nixlang.com,NIXOS
+HOST-SUFFIX,nixos.org,NIXOS
+HOST-SUFFIX,nixpkgs.org,NIXOS
+HOST,nix-community.github.io,NIXOS
+HOST-SUFFIX,builtwithnix.org,NIXOS
+HOST-SUFFIX,mynixos.com,NIXOS
+HOST-SUFFIX,nix-community.org,NIXOS
+HOST-SUFFIX,nixos.wiki,NIXOS
