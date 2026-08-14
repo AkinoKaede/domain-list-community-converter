@@ -1,5 +1,7 @@
 HOST-SUFFIX,snapads.com,SNAP
 HOST-SUFFIX,sc-cdn.net,SNAP
+HOST-SUFFIX,sc-gw.com,SNAP
+HOST-SUFFIX,sc-static.net,SNAP
 HOST-SUFFIX,snap-dev.net,SNAP
 HOST-SUFFIX,snap.com,SNAP
 HOST-SUFFIX,snapchat.com,SNAP
