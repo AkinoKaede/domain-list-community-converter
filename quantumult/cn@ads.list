@@ -5,7 +5,6 @@ HOST-SUFFIX,splash-ads.unitychina.cn,CN@ADS
 HOST-SUFFIX,unityads.unity.cn,CN@ADS
 HOST-SUFFIX,unityads.unitychina.cn,CN@ADS
 HOST-SUFFIX,log-upload.mihoyo.com,CN@ADS
-HOST,apilog-web.acfun.cn,CN@ADS
 HOST,ads3-normal-hl.zijieapi.com,CN@ADS
 HOST,ads3-normal.zijieapi.com,CN@ADS
 HOST,ads5-normal-hl.zijieapi.com,CN@ADS
@@ -26,6 +25,7 @@ HOST-SUFFIX,ja.gamersky.com,CN@ADS
 HOST-SUFFIX,ja1.gamersky.com,CN@ADS
 HOST-SUFFIX,ja2.gamersky.com,CN@ADS
 HOST-SUFFIX,wmbd.gamersky.com,CN@ADS
+HOST,apilog-web.acfun.cn,CN@ADS
 HOST-SUFFIX,adbkwai.com,CN@ADS
 HOST-SUFFIX,adkwai.com,CN@ADS
 HOST-SUFFIX,adukwai.com,CN@ADS
