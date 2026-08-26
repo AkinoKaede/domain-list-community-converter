@@ -17050,6 +17050,7 @@ DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adtidy.net
 DOMAIN-SUFFIX,adtidy.org
@@ -24861,14 +24862,17 @@ DOMAIN-SUFFIX,yahoo.tm
 DOMAIN-SUFFIX,yahoo.tn
 DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,maktoob.com
 DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
