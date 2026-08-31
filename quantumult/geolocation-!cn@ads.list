@@ -98,7 +98,6 @@ HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,analytics.cloud.unity3d.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,api2.amplitude.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,config.uca.cloud.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,cdp.cloud.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,prd-lender.cdp.internal.unity3d.com,GEOLOCATION-!CN@ADS
