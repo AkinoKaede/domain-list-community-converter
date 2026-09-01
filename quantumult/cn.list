@@ -1900,6 +1900,8 @@ HOST-SUFFIX,kcbebank.com,CN
 HOST-SUFFIX,shrbank.com,CN
 HOST-SUFFIX,mybank.cn,CN
 HOST-SUFFIX,ms-bank.cn,CN
+HOST-SUFFIX,tctpwebankcdn.net,CN
+HOST-SUFFIX,wbweilicai.com,CN
 HOST-SUFFIX,webank.com,CN
 HOST-SUFFIX,webankcdn.net,CN
 HOST-SUFFIX,csxbank.com,CN
@@ -3101,6 +3103,7 @@ HOST-SUFFIX,zyh365.com,CN
 HOST-SUFFIX,askdiandian.com,CN
 HOST-SUFFIX,diandianlife.top,CN
 HOST-SUFFIX,deepseek.com,CN
+HOST-SUFFIX,deepseeksvc.com,CN
 HOST-SUFFIX,butterfly-static.cn,CN
 HOST-SUFFIX,butterflyai.cn,CN
 HOST-SUFFIX,coze-dns-01.com,CN
@@ -3184,6 +3187,7 @@ HOST-SUFFIX,hailuoai.com,CN
 HOST-SUFFIX,minimaxi.com,CN
 HOST-SUFFIX,xingyeai.com,CN
 HOST-SUFFIX,codebuddy.cn,CN
+HOST-SUFFIX,workbuddy.cn,CN
 HOST-SUFFIX,hunyuan.tencent.com,CN
 HOST-SUFFIX,yuanbao.tencent.com,CN
 HOST-SUFFIX,yuanqi.tencent.com,CN
@@ -4161,6 +4165,7 @@ HOST-SUFFIX,360os.com,CN
 HOST-SUFFIX,360panyun.cn,CN
 HOST-SUFFIX,360qhcdn.com,CN
 HOST-SUFFIX,360safe.com,CN
+HOST-SUFFIX,360scdn.com,CN
 HOST-SUFFIX,360shouji.com,CN
 HOST-SUFFIX,360so.com,CN
 HOST-SUFFIX,360sou.cn,CN

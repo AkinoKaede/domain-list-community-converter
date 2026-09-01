@@ -1,6 +1,7 @@
 HOST-SUFFIX,askdiandian.com,CATEGORY-AI-CN
 HOST-SUFFIX,diandianlife.top,CATEGORY-AI-CN
 HOST-SUFFIX,deepseek.com,CATEGORY-AI-CN
+HOST-SUFFIX,deepseeksvc.com,CATEGORY-AI-CN
 HOST-SUFFIX,butterfly-static.cn,CATEGORY-AI-CN
 HOST-SUFFIX,butterflyai.cn,CATEGORY-AI-CN
 HOST-SUFFIX,coze-dns-01.com,CATEGORY-AI-CN
@@ -84,6 +85,7 @@ HOST-SUFFIX,hailuoai.com,CATEGORY-AI-CN
 HOST-SUFFIX,minimaxi.com,CATEGORY-AI-CN
 HOST-SUFFIX,xingyeai.com,CATEGORY-AI-CN
 HOST-SUFFIX,codebuddy.cn,CATEGORY-AI-CN
+HOST-SUFFIX,workbuddy.cn,CATEGORY-AI-CN
 HOST-SUFFIX,hunyuan.tencent.com,CATEGORY-AI-CN
 HOST-SUFFIX,yuanbao.tencent.com,CATEGORY-AI-CN
 HOST-SUFFIX,yuanqi.tencent.com,CATEGORY-AI-CN

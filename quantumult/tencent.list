@@ -161,7 +161,9 @@ HOST-SUFFIX,tencentbyod.com,TENCENT
 HOST-SUFFIX,tencentcdb.cn,TENCENT
 HOST-SUFFIX,tencentcdb.com,TENCENT
 HOST-SUFFIX,tencentcdb.com.cn,TENCENT
+HOST-SUFFIX,tencentclb.cn,TENCENT
 HOST-SUFFIX,tencentclb.com,TENCENT
+HOST-SUFFIX,tencentclb.com.cn,TENCENT
 HOST-SUFFIX,tencentcloud-aiot.com,TENCENT
 HOST-SUFFIX,tencentcloudapi.com,TENCENT
 HOST-SUFFIX,tencentcloudclub.com,TENCENT
@@ -592,6 +594,8 @@ HOST-SUFFIX,tencent.com.cn,TENCENT
 HOST-SUFFIX,tencent.com.hk,TENCENT
 HOST-SUFFIX,tencent.net,TENCENT
 HOST-SUFFIX,tencent.net.cn,TENCENT
+HOST-SUFFIX,tencentmiying.com,TENCENT
+HOST-SUFFIX,tengmed.com,TENCENT
 HOST-SUFFIX,tenpay.com,TENCENT
 HOST-SUFFIX,tfogc.com,TENCENT
 HOST-SUFFIX,wechat.com,TENCENT

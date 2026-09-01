@@ -161,7 +161,9 @@ HOST-SUFFIX,tencentbyod.com,QCLOUD
 HOST-SUFFIX,tencentcdb.cn,QCLOUD
 HOST-SUFFIX,tencentcdb.com,QCLOUD
 HOST-SUFFIX,tencentcdb.com.cn,QCLOUD
+HOST-SUFFIX,tencentclb.cn,QCLOUD
 HOST-SUFFIX,tencentclb.com,QCLOUD
+HOST-SUFFIX,tencentclb.com.cn,QCLOUD
 HOST-SUFFIX,tencentcloud-aiot.com,QCLOUD
 HOST-SUFFIX,tencentcloudapi.com,QCLOUD
 HOST-SUFFIX,tencentcloudclub.com,QCLOUD
