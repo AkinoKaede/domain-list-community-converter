@@ -1,3 +1,4 @@
 HOST-SUFFIX,last.fm,LASTFM
 HOST,lastfm.freetls.fastly.net,LASTFM
+HOST,lastfm-img.freetls.fastly.net,LASTFM
 HOST,ws.audioscrobbler.com,LASTFM

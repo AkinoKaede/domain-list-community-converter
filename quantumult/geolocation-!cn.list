@@ -7026,6 +7026,7 @@ HOST-SUFFIX,kktv.me,GEOLOCATION-!CN
 HOST-SUFFIX,theater-kktv.cdn.hinet.net,GEOLOCATION-!CN
 HOST-SUFFIX,last.fm,GEOLOCATION-!CN
 HOST,lastfm.freetls.fastly.net,GEOLOCATION-!CN
+HOST,lastfm-img.freetls.fastly.net,GEOLOCATION-!CN
 HOST,ws.audioscrobbler.com,GEOLOCATION-!CN
 HOST-SUFFIX,litv.tv,GEOLOCATION-!CN
 HOST-SUFFIX,litvfreepc.akamaized.net,GEOLOCATION-!CN
