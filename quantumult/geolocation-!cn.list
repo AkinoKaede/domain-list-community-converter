@@ -2068,6 +2068,9 @@ HOST,standchartbank.tt.omtrdc.net,GEOLOCATION-!CN
 HOST-SUFFIX,link.com,GEOLOCATION-!CN
 HOST-SUFFIX,stripe-terminal-local-reader.net,GEOLOCATION-!CN
 HOST-SUFFIX,stripe.com,GEOLOCATION-!CN
+HOST-SUFFIX,stripe.dev,GEOLOCATION-!CN
+HOST-SUFFIX,stripe.events,GEOLOCATION-!CN
+HOST-SUFFIX,stripe.global,GEOLOCATION-!CN
 HOST-SUFFIX,stripe.network,GEOLOCATION-!CN
 HOST-SUFFIX,stripecdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,transferwise.com,GEOLOCATION-!CN
@@ -7283,6 +7286,7 @@ HOST-SUFFIX,tiktokcdn.com.edgesuite.net,GEOLOCATION-!CN
 HOST-SUFFIX,tiktokv.com.edgekey.net,GEOLOCATION-!CN
 HOST-SUFFIX,tiktokv.com.edgesuite.net,GEOLOCATION-!CN
 HOST,p16-tiktokcdn-com.akamaized.net,GEOLOCATION-!CN
+HOST,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com,GEOLOCATION-!CN
 HOST,roovza-launches.appsflyersdk.com,GEOLOCATION-!CN
 HOST,roovza.inapps.appsflyersdk.com,GEOLOCATION-!CN
 HOST,roovza.launches.appsflyersdk.com,GEOLOCATION-!CN
