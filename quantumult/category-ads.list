@@ -606,6 +606,7 @@ HOST,pixel.yandex.com,CATEGORY-ADS
 HOST,report.ap.yandex-net.ru,CATEGORY-ADS
 HOST-SUFFIX,crash2.zhihu.com,CATEGORY-ADS
 HOST-SUFFIX,zhihu-web-analytics.zhihu.com,CATEGORY-ADS
+HOST-SUFFIX,syh.zybang.com,CATEGORY-ADS
 HOST-SUFFIX,51.la,CATEGORY-ADS
 HOST-SUFFIX,51y5.net,CATEGORY-ADS
 HOST-SUFFIX,a.adtng.com,CATEGORY-ADS

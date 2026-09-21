@@ -7,6 +7,8 @@ HOST-SUFFIX,360buy.com.cn,JD
 HOST-SUFFIX,360buyimg.com,JD
 HOST-SUFFIX,360buyinternational.com,JD
 HOST-SUFFIX,360top.com,JD
+HOST-SUFFIX,51epei.com,JD
+HOST-SUFFIX,51yipei.com,JD
 HOST-SUFFIX,7fresh.com,JD
 HOST-SUFFIX,baitiao.com,JD
 HOST-SUFFIX,blackdragon.com,JD
@@ -90,6 +92,7 @@ HOST-SUFFIX,cloudyuxi.com,JD
 HOST-SUFFIX,cloudzhongshan.com,JD
 HOST-SUFFIX,cloudzhuhai.com,JD
 HOST-SUFFIX,dao123.com,JD
+HOST-SUFFIX,dd-advisor.com,JD
 HOST-SUFFIX,duiou.com.cn,JD
 HOST-SUFFIX,goselling.com,JD
 HOST-SUFFIX,healthjd.com,JD
@@ -140,6 +143,7 @@ HOST-SUFFIX,jd.hk,JD
 HOST-SUFFIX,jd.id,JD
 HOST-SUFFIX,jd.ru,JD
 HOST-SUFFIX,jd.shop,JD
+HOST-SUFFIX,jdallianz.com,JD
 HOST-SUFFIX,jdbusiness.com,JD
 HOST-SUFFIX,jdcache.com,JD
 HOST-SUFFIX,jdcdn.com,JD
@@ -185,6 +189,7 @@ HOST-SUFFIX,jdfw1.com,JD
 HOST-SUFFIX,jdgslb.com,JD
 HOST-SUFFIX,jdgslb.net,JD
 HOST-SUFFIX,jdh.com,JD
+HOST-SUFFIX,jdindustry.com,JD
 HOST-SUFFIX,jdjinrong.com,JD
 HOST-SUFFIX,jdl.cn,JD
 HOST-SUFFIX,jdl.com,JD
@@ -195,12 +200,15 @@ HOST-SUFFIX,jdpaydns.com,JD
 HOST-SUFFIX,jdwl.com,JD
 HOST-SUFFIX,jdx.com,JD
 HOST-SUFFIX,jhscm.com,JD
+HOST-SUFFIX,jingbantong.com,JD
 HOST-SUFFIX,jingdong.com,JD
 HOST-SUFFIX,jingdonghealth.cn,JD
 HOST-SUFFIX,jingdongjinrong.com,JD
 HOST-SUFFIX,jingpinhui.com,JD
 HOST-SUFFIX,jingxi.com,JD
+HOST-SUFFIX,jingxiaoling.com,JD
 HOST-SUFFIX,jkcsjd.com,JD
+HOST-SUFFIX,joyai.com,JD
 HOST-SUFFIX,joybuy.com,JD
 HOST-SUFFIX,joybuy.es,JD
 HOST-SUFFIX,linglonglife.com,JD
@@ -211,8 +219,8 @@ HOST-SUFFIX,missjia.net,JD
 HOST-SUFFIX,ocwms.com,JD
 HOST-SUFFIX,paidaojia.cn,JD
 HOST-SUFFIX,paipai.com,JD
-HOST-SUFFIX,prestodb.net.cn,JD
 HOST-SUFFIX,prestodb-china.com,JD
+HOST-SUFFIX,prestodb.net.cn,JD
 HOST-SUFFIX,qianxun.com,JD
 HOST-SUFFIX,qingzhouip.com,JD
 HOST-SUFFIX,sgsic.com,JD
@@ -226,11 +234,15 @@ HOST-SUFFIX,wuliujie.cn,JD
 HOST-SUFFIX,wuliujie.com,JD
 HOST-SUFFIX,xianjiqun.com,JD
 HOST-SUFFIX,xjoycity.com,JD
+HOST-SUFFIX,ybscjp.com,JD
 HOST-SUFFIX,yhd.com,JD
 HOST-SUFFIX,yihaodian.com,JD
 HOST-SUFFIX,yihaodianimg.com,JD
 HOST-SUFFIX,yiyaojd.com,JD
 HOST-SUFFIX,yizhitou.com,JD
+HOST-SUFFIX,yunpei.com,JD
+HOST-SUFFIX,yunxiu.com,JD
+HOST-SUFFIX,zhongyouex.com,JD
 HOST-SUFFIX,imdada.cn,JD
 HOST-SUFFIX,duolabao.com,JD
 HOST-SUFFIX,ads-union.jd.com,JD

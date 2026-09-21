@@ -161,14 +161,17 @@ HOST-SUFFIX,fedoraproject.org,CATEGORY-DEV
 HOST-SUFFIX,getfedora.org,CATEGORY-DEV
 HOST-SUFFIX,crashlytics.com,CATEGORY-DEV
 HOST-SUFFIX,firebase.com,CATEGORY-DEV
+HOST-SUFFIX,firebase.dev,CATEGORY-DEV
 HOST-SUFFIX,firebase.io,CATEGORY-DEV
 HOST-SUFFIX,firebaseapp.com,CATEGORY-DEV
 HOST-SUFFIX,firebaseio.com,CATEGORY-DEV
+HOST-SUFFIX,firebase.google.com,CATEGORY-DEV
 HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-DEV
 HOST,firebase-settings.crashlytics.com,CATEGORY-DEV
-HOST,firebase.google.com,CATEGORY-DEV
 HOST,firebase.googleapis.com,CATEGORY-DEV
 HOST,firebaseappcheck.googleapis.com,CATEGORY-DEV
+HOST,firebaseappdistribution.googleapis.com,CATEGORY-DEV
+HOST,firebaseapptesters.googleapis.com,CATEGORY-DEV
 HOST,firebasedynamiclinks-ipv4.googleapis.com,CATEGORY-DEV
 HOST,firebasedynamiclinks-ipv6.googleapis.com,CATEGORY-DEV
 HOST,firebasedynamiclinks.googleapis.com,CATEGORY-DEV
@@ -191,6 +194,8 @@ HOST-SUFFIX,framer.website,CATEGORY-DEV
 HOST-SUFFIX,framercanvas.com,CATEGORY-DEV
 HOST-SUFFIX,framerstatic.com,CATEGORY-DEV
 HOST-SUFFIX,framerusercontent.com,CATEGORY-DEV
+HOST-SUFFIX,codebuff.com,CATEGORY-DEV
+HOST-SUFFIX,freebuff.com,CATEGORY-DEV
 HOST-SUFFIX,fury.blog,CATEGORY-DEV
 HOST-SUFFIX,fury.co,CATEGORY-DEV
 HOST-SUFFIX,fury.dev,CATEGORY-DEV

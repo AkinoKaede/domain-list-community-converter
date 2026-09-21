@@ -57,6 +57,7 @@ HOST,cloudcode-pa.googleapis.com,GEOLOCATION-!CN
 HOST,daily-cloudcode-pa.googleapis.com,GEOLOCATION-!CN
 HOST,notebooklm-pa.googleapis.com,GEOLOCATION-!CN
 HOST,notebooklm.googleapis.com,GEOLOCATION-!CN
+HOST-SUFFIX,notebook.google,GEOLOCATION-!CN
 HOST-SUFFIX,notebook.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,notebooklm.google,GEOLOCATION-!CN
 HOST-SUFFIX,notebooklm.google.com,GEOLOCATION-!CN
@@ -65,6 +66,7 @@ HOST-SUFFIX,jules.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,labs.google,GEOLOCATION-!CN
 HOST-SUFFIX,labs.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,flow.google,GEOLOCATION-!CN
+HOST-SUFFIX,flow.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,aisandbox-pa.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,aicode.googleapis.com,GEOLOCATION-!CN
 HOST-SUFFIX,aida.googleapis.com,GEOLOCATION-!CN
@@ -7919,10 +7921,9 @@ HOST-SUFFIX,facebook.ca,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.cc,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.design,GEOLOCATION-!CN
-HOST-SUFFIX,facebook.net,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.hu,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.in,GEOLOCATION-!CN
-HOST-SUFFIX,fecebook.net,GEOLOCATION-!CN
+HOST-SUFFIX,facebook.net,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.nl,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.org,GEOLOCATION-!CN
 HOST-SUFFIX,facebook.se,GEOLOCATION-!CN
@@ -8129,6 +8130,7 @@ HOST-SUFFIX,fecbbok.com,GEOLOCATION-!CN
 HOST-SUFFIX,fecbooc.com,GEOLOCATION-!CN
 HOST-SUFFIX,fecbook.com,GEOLOCATION-!CN
 HOST-SUFFIX,feceboock.com,GEOLOCATION-!CN
+HOST-SUFFIX,fecebook.net,GEOLOCATION-!CN
 HOST-SUFFIX,feceboox.com,GEOLOCATION-!CN
 HOST-SUFFIX,fececbook.com,GEOLOCATION-!CN
 HOST-SUFFIX,feook.com,GEOLOCATION-!CN
@@ -8198,6 +8200,7 @@ HOST-SUFFIX,sportsfacebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,sportstream.com,GEOLOCATION-!CN
 HOST-SUFFIX,supportfacebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,terragraph.com,GEOLOCATION-!CN
+HOST-SUFFIX,tfbnw.net,GEOLOCATION-!CN
 HOST-SUFFIX,thefacebook.com,GEOLOCATION-!CN
 HOST-SUFFIX,thefacebook.net,GEOLOCATION-!CN
 HOST-SUFFIX,thefind.com,GEOLOCATION-!CN
@@ -16795,6 +16798,7 @@ HOST-SUFFIX,mcafee.com,GEOLOCATION-!CN
 HOST-SUFFIX,norton.com,GEOLOCATION-!CN
 HOST-SUFFIX,pandasecurity.com,GEOLOCATION-!CN
 HOST-SUFFIX,extendfirefox.com,GEOLOCATION-!CN
+HOST-SUFFIX,firefox-portal-detection.com,GEOLOCATION-!CN
 HOST-SUFFIX,firefox.com,GEOLOCATION-!CN
 HOST-SUFFIX,firefox.hu,GEOLOCATION-!CN
 HOST-SUFFIX,firefoxtweetmachine.com,GEOLOCATION-!CN
@@ -17580,14 +17584,17 @@ HOST-SUFFIX,fedoraproject.org,GEOLOCATION-!CN
 HOST-SUFFIX,getfedora.org,GEOLOCATION-!CN
 HOST-SUFFIX,crashlytics.com,GEOLOCATION-!CN
 HOST-SUFFIX,firebase.com,GEOLOCATION-!CN
+HOST-SUFFIX,firebase.dev,GEOLOCATION-!CN
 HOST-SUFFIX,firebase.io,GEOLOCATION-!CN
 HOST-SUFFIX,firebaseapp.com,GEOLOCATION-!CN
 HOST-SUFFIX,firebaseio.com,GEOLOCATION-!CN
+HOST-SUFFIX,firebase.google.com,GEOLOCATION-!CN
 HOST,crashlyticsreports-pa.googleapis.com,GEOLOCATION-!CN
 HOST,firebase-settings.crashlytics.com,GEOLOCATION-!CN
-HOST,firebase.google.com,GEOLOCATION-!CN
 HOST,firebase.googleapis.com,GEOLOCATION-!CN
 HOST,firebaseappcheck.googleapis.com,GEOLOCATION-!CN
+HOST,firebaseappdistribution.googleapis.com,GEOLOCATION-!CN
+HOST,firebaseapptesters.googleapis.com,GEOLOCATION-!CN
 HOST,firebasedynamiclinks-ipv4.googleapis.com,GEOLOCATION-!CN
 HOST,firebasedynamiclinks-ipv6.googleapis.com,GEOLOCATION-!CN
 HOST,firebasedynamiclinks.googleapis.com,GEOLOCATION-!CN
@@ -17610,6 +17617,8 @@ HOST-SUFFIX,framer.website,GEOLOCATION-!CN
 HOST-SUFFIX,framercanvas.com,GEOLOCATION-!CN
 HOST-SUFFIX,framerstatic.com,GEOLOCATION-!CN
 HOST-SUFFIX,framerusercontent.com,GEOLOCATION-!CN
+HOST-SUFFIX,codebuff.com,GEOLOCATION-!CN
+HOST-SUFFIX,freebuff.com,GEOLOCATION-!CN
 HOST-SUFFIX,fury.blog,GEOLOCATION-!CN
 HOST-SUFFIX,fury.co,GEOLOCATION-!CN
 HOST-SUFFIX,fury.dev,GEOLOCATION-!CN

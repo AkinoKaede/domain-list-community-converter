@@ -85,14 +85,17 @@ HOST-SUFFIX,fastlane.ci,ALPHABET
 HOST-SUFFIX,fastlane.tools,ALPHABET
 HOST-SUFFIX,crashlytics.com,ALPHABET
 HOST-SUFFIX,firebase.com,ALPHABET
+HOST-SUFFIX,firebase.dev,ALPHABET
 HOST-SUFFIX,firebase.io,ALPHABET
 HOST-SUFFIX,firebaseapp.com,ALPHABET
 HOST-SUFFIX,firebaseio.com,ALPHABET
+HOST-SUFFIX,firebase.google.com,ALPHABET
 HOST,crashlyticsreports-pa.googleapis.com,ALPHABET
 HOST,firebase-settings.crashlytics.com,ALPHABET
-HOST,firebase.google.com,ALPHABET
 HOST,firebase.googleapis.com,ALPHABET
 HOST,firebaseappcheck.googleapis.com,ALPHABET
+HOST,firebaseappdistribution.googleapis.com,ALPHABET
+HOST,firebaseapptesters.googleapis.com,ALPHABET
 HOST,firebasedynamiclinks-ipv4.googleapis.com,ALPHABET
 HOST,firebasedynamiclinks-ipv6.googleapis.com,ALPHABET
 HOST,firebasedynamiclinks.googleapis.com,ALPHABET
@@ -137,6 +140,7 @@ HOST,cloudcode-pa.googleapis.com,ALPHABET
 HOST,daily-cloudcode-pa.googleapis.com,ALPHABET
 HOST,notebooklm-pa.googleapis.com,ALPHABET
 HOST,notebooklm.googleapis.com,ALPHABET
+HOST-SUFFIX,notebook.google,ALPHABET
 HOST-SUFFIX,notebook.google.com,ALPHABET
 HOST-SUFFIX,notebooklm.google,ALPHABET
 HOST-SUFFIX,notebooklm.google.com,ALPHABET
@@ -145,6 +149,7 @@ HOST-SUFFIX,jules.google.com,ALPHABET
 HOST-SUFFIX,labs.google,ALPHABET
 HOST-SUFFIX,labs.google.com,ALPHABET
 HOST-SUFFIX,flow.google,ALPHABET
+HOST-SUFFIX,flow.google.com,ALPHABET
 HOST-SUFFIX,aisandbox-pa.googleapis.com,ALPHABET
 HOST-SUFFIX,aicode.googleapis.com,ALPHABET
 HOST-SUFFIX,aida.googleapis.com,ALPHABET

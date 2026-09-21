@@ -599,3 +599,4 @@ HOST,pixel.yandex.com,CATEGORY-ADS@ADS
 HOST,report.ap.yandex-net.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,crash2.zhihu.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,zhihu-web-analytics.zhihu.com,CATEGORY-ADS@ADS
+HOST-SUFFIX,syh.zybang.com,CATEGORY-ADS@ADS

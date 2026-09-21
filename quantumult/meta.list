@@ -94,10 +94,9 @@ HOST-SUFFIX,facebook.ca,META
 HOST-SUFFIX,facebook.cc,META
 HOST-SUFFIX,facebook.com,META
 HOST-SUFFIX,facebook.design,META
-HOST-SUFFIX,facebook.net,META
 HOST-SUFFIX,facebook.hu,META
 HOST-SUFFIX,facebook.in,META
-HOST-SUFFIX,fecebook.net,META
+HOST-SUFFIX,facebook.net,META
 HOST-SUFFIX,facebook.nl,META
 HOST-SUFFIX,facebook.org,META
 HOST-SUFFIX,facebook.se,META
@@ -304,6 +303,7 @@ HOST-SUFFIX,fecbbok.com,META
 HOST-SUFFIX,fecbooc.com,META
 HOST-SUFFIX,fecbook.com,META
 HOST-SUFFIX,feceboock.com,META
+HOST-SUFFIX,fecebook.net,META
 HOST-SUFFIX,feceboox.com,META
 HOST-SUFFIX,fececbook.com,META
 HOST-SUFFIX,feook.com,META
@@ -373,6 +373,7 @@ HOST-SUFFIX,sportsfacebook.com,META
 HOST-SUFFIX,sportstream.com,META
 HOST-SUFFIX,supportfacebook.com,META
 HOST-SUFFIX,terragraph.com,META
+HOST-SUFFIX,tfbnw.net,META
 HOST-SUFFIX,thefacebook.com,META
 HOST-SUFFIX,thefacebook.net,META
 HOST-SUFFIX,thefind.com,META

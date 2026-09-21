@@ -4,6 +4,7 @@ HOST,redirect.archlinux.org,CONNECTIVITY-CHECK
 HOST-SUFFIX,cp.cloudflare.com,CONNECTIVITY-CHECK
 HOST-SUFFIX,network-test.debian.org,CONNECTIVITY-CHECK
 HOST-SUFFIX,detectportal.firefox.com,CONNECTIVITY-CHECK
+HOST-SUFFIX,firefox-portal-detection.com,CONNECTIVITY-CHECK
 HOST,nmcheck.gnome.org,CONNECTIVITY-CHECK
 HOST,connectivitycheck.gstatic.com,CONNECTIVITY-CHECK
 HOST,www.gstatic.com,CONNECTIVITY-CHECK

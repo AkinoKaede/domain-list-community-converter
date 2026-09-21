@@ -57,6 +57,7 @@ HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm.googleapis.com,CATEGORY-AI-!CN
+HOST-SUFFIX,notebook.google,CATEGORY-AI-!CN
 HOST-SUFFIX,notebook.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google.com,CATEGORY-AI-!CN
@@ -65,6 +66,7 @@ HOST-SUFFIX,jules.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,labs.google,CATEGORY-AI-!CN
 HOST-SUFFIX,labs.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,flow.google,CATEGORY-AI-!CN
+HOST-SUFFIX,flow.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,aisandbox-pa.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,aicode.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,aida.googleapis.com,CATEGORY-AI-!CN
