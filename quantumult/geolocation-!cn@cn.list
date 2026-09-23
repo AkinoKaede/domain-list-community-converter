@@ -617,6 +617,7 @@ HOST-SUFFIX,yamaxun.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,z.cn,GEOLOCATION-!CN@CN
 HOST,images-cn.ssl-images-amazon.com,GEOLOCATION-!CN@CN
 HOST,images-cn-8.ssl-images-amazon.com,GEOLOCATION-!CN@CN
+HOST,drivers.amd.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,beats1.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,beats1.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,beats2.com.cn,GEOLOCATION-!CN@CN
