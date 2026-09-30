@@ -135,11 +135,14 @@ HOST-SUFFIX,bard.google.com,ALPHABET
 HOST-SUFFIX,gemini.google,ALPHABET
 HOST-SUFFIX,gemini.google.com,ALPHABET
 HOST-SUFFIX,gemini.gstatic.com,ALPHABET
+HOST,geminiweb-pa.clients.google.com,ALPHABET
+HOST,geminiweb-pa.clients6.google.com,ALPHABET
 HOST,cloudaicompanion.googleapis.com,ALPHABET
 HOST,cloudcode-pa.googleapis.com,ALPHABET
 HOST,daily-cloudcode-pa.googleapis.com,ALPHABET
 HOST,notebooklm-pa.googleapis.com,ALPHABET
 HOST,notebooklm.googleapis.com,ALPHABET
+HOST-SUFFIX,labstailwind.pa.googleapis.com,ALPHABET
 HOST-SUFFIX,notebook.google,ALPHABET
 HOST-SUFFIX,notebook.google.com,ALPHABET
 HOST-SUFFIX,notebooklm.google,ALPHABET

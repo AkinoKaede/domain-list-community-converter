@@ -52,11 +52,14 @@ HOST-SUFFIX,bard.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,gemini.gstatic.com,CATEGORY-AI-!CN
+HOST,geminiweb-pa.clients.google.com,CATEGORY-AI-!CN
+HOST,geminiweb-pa.clients6.google.com,CATEGORY-AI-!CN
 HOST,cloudaicompanion.googleapis.com,CATEGORY-AI-!CN
 HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm-pa.googleapis.com,CATEGORY-AI-!CN
 HOST,notebooklm.googleapis.com,CATEGORY-AI-!CN
+HOST-SUFFIX,labstailwind.pa.googleapis.com,CATEGORY-AI-!CN
 HOST-SUFFIX,notebook.google,CATEGORY-AI-!CN
 HOST-SUFFIX,notebook.google.com,CATEGORY-AI-!CN
 HOST-SUFFIX,notebooklm.google,CATEGORY-AI-!CN
@@ -142,6 +145,9 @@ HOST-SUFFIX,clipdrop.co,CATEGORY-AI-!CN
 HOST-SUFFIX,jasper.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,kimi.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,moonshot.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,meta.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,metaaivm.com,CATEGORY-AI-!CN
+HOST-SUFFIX,muse.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,agentclientprotocol.com,CATEGORY-AI-!CN
 HOST-SUFFIX,anythingllm.com,CATEGORY-AI-!CN
 HOST-SUFFIX,arena.ai,CATEGORY-AI-!CN
@@ -160,7 +166,6 @@ HOST-SUFFIX,kiro.dev,CATEGORY-AI-!CN
 HOST-SUFFIX,langchain.com,CATEGORY-AI-!CN
 HOST-SUFFIX,lmstudio.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,lovart.ai,CATEGORY-AI-!CN
-HOST-SUFFIX,meta.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,midjourney.com,CATEGORY-AI-!CN
 HOST-SUFFIX,minimax.io,CATEGORY-AI-!CN
 HOST-SUFFIX,mistral.ai,CATEGORY-AI-!CN
@@ -170,6 +175,7 @@ HOST-SUFFIX,novelai.net,CATEGORY-AI-!CN
 HOST-SUFFIX,ollama.com,CATEGORY-AI-!CN
 HOST-SUFFIX,openart.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,openclaw.ai,CATEGORY-AI-!CN
+HOST-SUFFIX,opencode.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,openrouter.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,openspec.dev,CATEGORY-AI-!CN
 HOST-SUFFIX,plannotator.ai,CATEGORY-AI-!CN
