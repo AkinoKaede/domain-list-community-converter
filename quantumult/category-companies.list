@@ -6740,8 +6740,6 @@ HOST-SUFFIX,whatsapp.net,CATEGORY-COMPANIES
 HOST-SUFFIX,whatsapp.org,CATEGORY-COMPANIES
 HOST-SUFFIX,whatsapp.tv,CATEGORY-COMPANIES
 HOST-SUFFIX,whatsappbrand.com,CATEGORY-COMPANIES
-HOST-SUFFIX,graph.whatsapp.com,CATEGORY-COMPANIES
-HOST-SUFFIX,graph.whatsapp.net,CATEGORY-COMPANIES
 HOST-SUFFIX,atmeta.com,CATEGORY-COMPANIES
 HOST-SUFFIX,llama.com,CATEGORY-COMPANIES
 HOST-SUFFIX,meta.ai,CATEGORY-COMPANIES
@@ -7002,6 +7000,7 @@ HOST,productionresultssa16.blob.core.windows.net,CATEGORY-COMPANIES
 HOST,productionresultssa17.blob.core.windows.net,CATEGORY-COMPANIES
 HOST,productionresultssa18.blob.core.windows.net,CATEGORY-COMPANIES
 HOST,productionresultssa19.blob.core.windows.net,CATEGORY-COMPANIES
+HOST-SUFFIX,cafe.github.com,CATEGORY-COMPANIES
 HOST-SUFFIX,collector.github.com,CATEGORY-COMPANIES
 HOST-SUFFIX,adaptivecards.io,CATEGORY-COMPANIES
 HOST-SUFFIX,api-extractor.com,CATEGORY-COMPANIES

@@ -333,8 +333,6 @@ HOST,sentry.popmechanic.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,ad.api.moji.com,CATEGORY-ADS@ADS
 HOST,ads-img.mozilla.org,CATEGORY-ADS@ADS
 HOST,ads.mozilla.org,CATEGORY-ADS@ADS
-HOST,incoming.telemetry.mozilla.org,CATEGORY-ADS@ADS
-HOST,incoming-telemetry.thunderbird.net,CATEGORY-ADS@ADS
 HOST-SUFFIX,a.mts.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,obs.mts.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,youdaoads.com,CATEGORY-ADS@ADS

@@ -252,6 +252,7 @@ HOST,productionresultssa16.blob.core.windows.net,MICROSOFT
 HOST,productionresultssa17.blob.core.windows.net,MICROSOFT
 HOST,productionresultssa18.blob.core.windows.net,MICROSOFT
 HOST,productionresultssa19.blob.core.windows.net,MICROSOFT
+HOST-SUFFIX,cafe.github.com,MICROSOFT
 HOST-SUFFIX,collector.github.com,MICROSOFT
 HOST-SUFFIX,adaptivecards.io,MICROSOFT
 HOST-SUFFIX,api-extractor.com,MICROSOFT

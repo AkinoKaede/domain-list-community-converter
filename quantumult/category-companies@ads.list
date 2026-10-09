@@ -152,12 +152,7 @@ HOST-SUFFIX,facebookads.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,pixel.facebook.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,graph.instagram.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,graph-fallback.instagram.com,CATEGORY-COMPANIES@ADS
-HOST-SUFFIX,graph.whatsapp.com,CATEGORY-COMPANIES@ADS
-HOST-SUFFIX,graph.whatsapp.net,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,bingads.com,CATEGORY-COMPANIES@ADS
-HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-COMPANIES@ADS
-HOST,copilot-telemetry.githubusercontent.com,CATEGORY-COMPANIES@ADS
-HOST-SUFFIX,collector.github.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,browser.events.data.msn.cn,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,browser.events.data.msn.com,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,clarity.ms,CATEGORY-COMPANIES@ADS
@@ -176,8 +171,6 @@ HOST,sentry.mindbox.ru,CATEGORY-COMPANIES@ADS
 HOST,sentry.popmechanic.ru,CATEGORY-COMPANIES@ADS
 HOST,ads-img.mozilla.org,CATEGORY-COMPANIES@ADS
 HOST,ads.mozilla.org,CATEGORY-COMPANIES@ADS
-HOST,incoming.telemetry.mozilla.org,CATEGORY-COMPANIES@ADS
-HOST,incoming-telemetry.thunderbird.net,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,a.mts.ru,CATEGORY-COMPANIES@ADS
 HOST-SUFFIX,obs.mts.ru,CATEGORY-COMPANIES@ADS
 HOST,sentry.iptv.rt.ru,CATEGORY-COMPANIES@ADS

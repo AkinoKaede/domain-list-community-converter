@@ -1,6 +1,3 @@
-HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-DEV@ADS
-HOST,copilot-telemetry.githubusercontent.com,CATEGORY-DEV@ADS
-HOST-SUFFIX,collector.github.com,CATEGORY-DEV@ADS
 HOST-SUFFIX,analytics.cloud.unity3d.com,CATEGORY-DEV@ADS
 HOST-SUFFIX,config.uca.cloud.unity3d.com,CATEGORY-DEV@ADS
 HOST-SUFFIX,cdp.cloud.unity3d.com,CATEGORY-DEV@ADS

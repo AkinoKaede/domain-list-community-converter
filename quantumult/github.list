@@ -61,4 +61,5 @@ HOST,productionresultssa16.blob.core.windows.net,GITHUB
 HOST,productionresultssa17.blob.core.windows.net,GITHUB
 HOST,productionresultssa18.blob.core.windows.net,GITHUB
 HOST,productionresultssa19.blob.core.windows.net,GITHUB
+HOST-SUFFIX,cafe.github.com,GITHUB
 HOST-SUFFIX,collector.github.com,GITHUB

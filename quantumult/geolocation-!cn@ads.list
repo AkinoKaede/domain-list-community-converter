@@ -1,5 +1,3 @@
-HOST,copilot-telemetry-service.githubusercontent.com,GEOLOCATION-!CN@ADS
-HOST,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@ADS
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,openai.qualtrics.com,GEOLOCATION-!CN@ADS
@@ -13,8 +11,6 @@ HOST,sentry.sberauto.com,GEOLOCATION-!CN@ADS
 HOST,tracing-http.megamarket.tech,GEOLOCATION-!CN@ADS
 HOST,visor.sberbank.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adsgram.ai,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,graph.whatsapp.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,graph.whatsapp.net,GEOLOCATION-!CN@ADS
 HOST,stats.avito.ru,GEOLOCATION-!CN@ADS
 HOST,ad.ozone.ru,GEOLOCATION-!CN@ADS
 HOST,adv.ozon.ru,GEOLOCATION-!CN@ADS
@@ -96,7 +92,6 @@ HOST,target.vk.com,GEOLOCATION-!CN@ADS
 HOST,ad-channel.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST,ad-display.diwodiwo.xyz,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,collector.xhamster.com,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,collector.github.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,analytics.cloud.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,config.uca.cloud.unity3d.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,cdp.cloud.unity3d.com,GEOLOCATION-!CN@ADS
@@ -255,8 +250,6 @@ HOST,sentry.mindbox.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.popmechanic.ru,GEOLOCATION-!CN@ADS
 HOST,ads-img.mozilla.org,GEOLOCATION-!CN@ADS
 HOST,ads.mozilla.org,GEOLOCATION-!CN@ADS
-HOST,incoming.telemetry.mozilla.org,GEOLOCATION-!CN@ADS
-HOST,incoming-telemetry.thunderbird.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,a.mts.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,obs.mts.ru,GEOLOCATION-!CN@ADS
 HOST,sentry.iptv.rt.ru,GEOLOCATION-!CN@ADS

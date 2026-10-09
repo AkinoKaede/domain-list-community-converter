@@ -340,8 +340,6 @@ HOST,sentry.popmechanic.ru,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.api.moji.com,CATEGORY-ADS-ALL
 HOST,ads-img.mozilla.org,CATEGORY-ADS-ALL
 HOST,ads.mozilla.org,CATEGORY-ADS-ALL
-HOST,incoming.telemetry.mozilla.org,CATEGORY-ADS-ALL
-HOST,incoming-telemetry.thunderbird.net,CATEGORY-ADS-ALL
 HOST-SUFFIX,a.mts.ru,CATEGORY-ADS-ALL
 HOST-SUFFIX,obs.mts.ru,CATEGORY-ADS-ALL
 HOST-SUFFIX,youdaoads.com,CATEGORY-ADS-ALL

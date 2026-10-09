@@ -1,0 +1,4 @@
+HOST,copilot-telemetry-service.githubusercontent.com,MICROSOFT@TELEMETRY
+HOST,copilot-telemetry.githubusercontent.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,cafe.github.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,collector.github.com,MICROSOFT@TELEMETRY
