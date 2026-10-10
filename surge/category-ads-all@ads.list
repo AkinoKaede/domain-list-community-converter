@@ -387,15 +387,12 @@ DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,ads.sber.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
 DOMAIN-SUFFIX,adbox.sina.com.cn
@@ -574,7 +571,6 @@ DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com

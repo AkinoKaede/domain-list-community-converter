@@ -3,12 +3,6 @@ HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
 HOST,openai.qualtrics.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.sber.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,neon.click,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,sbermarketing.ru,GEOLOCATION-!CN@ADS
-HOST,error-tracking.megamarket.tech,GEOLOCATION-!CN@ADS
-HOST,metrics.21-school.ru,GEOLOCATION-!CN@ADS
-HOST,sentry.sberauto.com,GEOLOCATION-!CN@ADS
-HOST,tracing-http.megamarket.tech,GEOLOCATION-!CN@ADS
 HOST,visor.sberbank.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,adsgram.ai,GEOLOCATION-!CN@ADS
 HOST,stats.avito.ru,GEOLOCATION-!CN@ADS
@@ -280,7 +274,6 @@ HOST-SUFFIX,metrika.yandex.net,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,metrika.yandex.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,webvisor.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,webvisor.org,GEOLOCATION-!CN@ADS
-HOST-SUFFIX,yabs.yandex.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,yads.tech,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,yandex-metrica.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,yandexmetrica.com,GEOLOCATION-!CN@ADS

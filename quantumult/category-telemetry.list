@@ -1,0 +1,6 @@
+HOST-SUFFIX,cafe.github.com,CATEGORY-TELEMETRY
+HOST-SUFFIX,collector.github.com,CATEGORY-TELEMETRY
+HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-TELEMETRY
+HOST,copilot-telemetry.githubusercontent.com,CATEGORY-TELEMETRY
+HOST,incoming.telemetry.mozilla.org,CATEGORY-TELEMETRY
+HOST,incoming-telemetry.thunderbird.net,CATEGORY-TELEMETRY

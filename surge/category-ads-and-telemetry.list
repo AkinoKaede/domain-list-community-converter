@@ -707,3 +707,9 @@ DOMAIN-SUFFIX,logs.chelaile.net.cn
 DOMAIN-SUFFIX,analytics.umetrip.com
 DOMAIN-SUFFIX,sensors.umetrip.com.cn
 DOMAIN-SUFFIX,pub.network
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net

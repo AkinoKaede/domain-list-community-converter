@@ -1,9 +1,3 @@
 HOST-SUFFIX,ads.sber.ru,CATEGORY-FINANCE@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-FINANCE@ADS
-HOST-SUFFIX,neon.click,CATEGORY-FINANCE@ADS
-HOST-SUFFIX,sbermarketing.ru,CATEGORY-FINANCE@ADS
-HOST,error-tracking.megamarket.tech,CATEGORY-FINANCE@ADS
-HOST,metrics.21-school.ru,CATEGORY-FINANCE@ADS
-HOST,sentry.sberauto.com,CATEGORY-FINANCE@ADS
-HOST,tracing-http.megamarket.tech,CATEGORY-FINANCE@ADS
 HOST,visor.sberbank.ru,CATEGORY-FINANCE@ADS

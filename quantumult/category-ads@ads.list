@@ -387,15 +387,12 @@ HOST-SUFFIX,s.union.360.cn,CATEGORY-ADS@ADS
 HOST,sentry.iptv.rt.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,samsungadhub.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,samsungads.com,CATEGORY-ADS@ADS
-HOST-SUFFIX,ads.sber.ru,CATEGORY-ADS@ADS
-HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,neon.click,CATEGORY-ADS@ADS
 HOST-SUFFIX,sbermarketing.ru,CATEGORY-ADS@ADS
 HOST,error-tracking.megamarket.tech,CATEGORY-ADS@ADS
 HOST,metrics.21-school.ru,CATEGORY-ADS@ADS
 HOST,sentry.sberauto.com,CATEGORY-ADS@ADS
 HOST,tracing-http.megamarket.tech,CATEGORY-ADS@ADS
-HOST,visor.sberbank.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,ad.sina.com.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,ad.us.sinaimg.cn,CATEGORY-ADS@ADS
 HOST-SUFFIX,adbox.sina.com.cn,CATEGORY-ADS@ADS
@@ -574,7 +571,6 @@ HOST-SUFFIX,metrika.yandex.net,CATEGORY-ADS@ADS
 HOST-SUFFIX,metrika.yandex.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,webvisor.com,CATEGORY-ADS@ADS
 HOST-SUFFIX,webvisor.org,CATEGORY-ADS@ADS
-HOST-SUFFIX,yabs.yandex.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,yads.tech,CATEGORY-ADS@ADS
 HOST-SUFFIX,yandex-metrica.ru,CATEGORY-ADS@ADS
 HOST-SUFFIX,yandexmetrica.com,CATEGORY-ADS@ADS

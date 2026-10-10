@@ -149,7 +149,6 @@ HOST-SUFFIX,metrika.yandex.net,CATEGORY-RU@ADS
 HOST-SUFFIX,metrika.yandex.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,webvisor.com,CATEGORY-RU@ADS
 HOST-SUFFIX,webvisor.org,CATEGORY-RU@ADS
-HOST-SUFFIX,yabs.yandex.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,yads.tech,CATEGORY-RU@ADS
 HOST-SUFFIX,yandex-metrica.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,yandexmetrica.com,CATEGORY-RU@ADS
@@ -172,12 +171,6 @@ HOST,pixel.yandex.com,CATEGORY-RU@ADS
 HOST,report.ap.yandex-net.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,ads.sber.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,CATEGORY-RU@ADS
-HOST-SUFFIX,neon.click,CATEGORY-RU@ADS
-HOST-SUFFIX,sbermarketing.ru,CATEGORY-RU@ADS
-HOST,error-tracking.megamarket.tech,CATEGORY-RU@ADS
-HOST,metrics.21-school.ru,CATEGORY-RU@ADS
-HOST,sentry.sberauto.com,CATEGORY-RU@ADS
-HOST,tracing-http.megamarket.tech,CATEGORY-RU@ADS
 HOST,visor.sberbank.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,a.mts.ru,CATEGORY-RU@ADS
 HOST-SUFFIX,obs.mts.ru,CATEGORY-RU@ADS
