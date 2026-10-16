@@ -1,6 +1,7 @@
 HOST-SUFFIX,playstation,SONY
 HOST-SUFFIX,playstation.com,SONY
 HOST-SUFFIX,playstation.net,SONY
+HOST-SUFFIX,playstationnetwork.com,SONY
 HOST-SUFFIX,sonyentertainmentnetwork.com,SONY
 HOST-SUFFIX,imageworks.com,SONY
 HOST-SUFFIX,motionpictureser.com,SONY
@@ -17,12 +18,14 @@ HOST-SUFFIX,wheelpop.com,SONY
 HOST-SUFFIX,wwtbam.com,SONY
 HOST-SUFFIX,yourfantasybeginsnow.com,SONY
 HOST-SUFFIX,sony,SONY
-HOST-SUFFIX,sonynetwork.co.jp,SONY
 HOST-SUFFIX,nuro.jp,SONY
 HOST-SUFFIX,so-net.ne.jp,SONY
+HOST-SUFFIX,sonynetwork.co.jp,SONY
 HOST-SUFFIX,sony-semicon.co.jp,SONY
 HOST-SUFFIX,sony-semicon.com,SONY
 HOST-SUFFIX,ginzasonypark.jp,SONY
+HOST-SUFFIX,scea.com,SONY
+HOST-SUFFIX,so-net.net.tw,SONY
 HOST-SUFFIX,sony-africa.com,SONY
 HOST-SUFFIX,sony-asia.com,SONY
 HOST-SUFFIX,sony-europe.com,SONY
@@ -65,6 +68,7 @@ HOST-SUFFIX,sony.com.ni,SONY
 HOST-SUFFIX,sony.com.pa,SONY
 HOST-SUFFIX,sony.com.pe,SONY
 HOST-SUFFIX,sony.com.ph,SONY
+HOST-SUFFIX,sony.com.py,SONY
 HOST-SUFFIX,sony.com.sg,SONY
 HOST-SUFFIX,sony.com.sv,SONY
 HOST-SUFFIX,sony.com.tr,SONY
@@ -105,11 +109,12 @@ HOST-SUFFIX,sonybuilding.jp,SONY
 HOST-SUFFIX,sonydesign.com,SONY
 HOST-SUFFIX,sonydna.com,SONY
 HOST-SUFFIX,sonyglobalsolutions.jp,SONY
+HOST-SUFFIX,sonyinteractive.com,SONY
 HOST-SUFFIX,sonykigyo.jp,SONY
 HOST-SUFFIX,sonylatvija.com,SONY
+HOST-SUFFIX,sonymusic.com.hk,SONY
 HOST-SUFFIX,sonypcl.jp,SONY
 HOST-SUFFIX,sonyprotechnosupport.co.jp,SONY
 HOST-SUFFIX,sonystoragemedia.co.jp,SONY
 HOST-SUFFIX,sonytc.co.jp,SONY
 HOST-SUFFIX,sovec.net,SONY
-HOST-SUFFIX,so-net.net.tw,SONY
