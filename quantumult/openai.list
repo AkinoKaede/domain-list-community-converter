@@ -6,6 +6,7 @@ HOST-SUFFIX,oaistatic.com,OPENAI
 HOST-SUFFIX,oaistatsig.com,OPENAI
 HOST-SUFFIX,oaiusercontent.com,OPENAI
 HOST-SUFFIX,openai.com,OPENAI
+HOST-SUFFIX,openai.org,OPENAI
 HOST-SUFFIX,sora.com,OPENAI
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,OPENAI
 HOST,openaiapi-site.azureedge.net,OPENAI

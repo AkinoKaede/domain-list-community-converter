@@ -878,6 +878,9 @@ HOST-SUFFIX,robloxlabs.com,CATEGORY-GAMES
 HOST-SUFFIX,rowblocks.com,CATEGORY-GAMES
 HOST-SUFFIX,rowblox.com,CATEGORY-GAMES
 HOST,d1unuk07s6td74.cloudfront.net,CATEGORY-GAMES
+HOST,d348twzf7a8p5.cloudfront.net,CATEGORY-GAMES
+HOST,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com,CATEGORY-GAMES
+HOST,doy2mn9upadnk.cloudfront.net,CATEGORY-GAMES
 HOST,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,CATEGORY-GAMES
 HOST,roblox-poc.global.ssl.fastly.net,CATEGORY-GAMES
 HOST,robloxcorp.s.llnwi.net,CATEGORY-GAMES
