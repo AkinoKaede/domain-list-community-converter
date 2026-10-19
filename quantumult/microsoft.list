@@ -366,9 +366,6 @@ HOST-SUFFIX,onedrive.net,MICROSOFT
 HOST-SUFFIX,onedrive.org,MICROSOFT
 HOST-SUFFIX,onedrive.live.com,MICROSOFT
 HOST-SUFFIX,storage.live.com,MICROSOFT
-HOST-SUFFIX,asobostudio.com,MICROSOFT
-HOST-SUFFIX,flightsimulator.com,MICROSOFT
-HOST,flightsimulator.azureedge.net,MICROSOFT
 HOST-SUFFIX,beth.games,MICROSOFT
 HOST-SUFFIX,bethesda.net,MICROSOFT
 HOST-SUFFIX,bethesdagamestudios.com,MICROSOFT

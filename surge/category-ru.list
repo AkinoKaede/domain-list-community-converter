@@ -245,6 +245,7 @@ DOMAIN-SUFFIX,pravilno-pishem.ru
 DOMAIN-SUFFIX,tak-pravilno.com
 DOMAIN-SUFFIX,altaiobr04.ru
 DOMAIN-SUFFIX,chelyabinsk-sgo-edu-74.ru
+DOMAIN-SUFFIX,hse.ru
 DOMAIN-SUFFIX,obr03.ru
 DOMAIN-SUFFIX,setevoygorodkrasnodar.ru
 DOMAIN-SUFFIX,sgo-egov66.ru
@@ -286,15 +287,16 @@ DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,opennet.ru
-DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,pikabu.ru
+DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,tischenko.su
 DOMAIN-SUFFIX,vc.ru
+DOMAIN-SUFFIX,yap.ru
 DOMAIN-SUFFIX,yapfiles.ru
 DOMAIN-SUFFIX,yaplakal.com
-DOMAIN-SUFFIX,yap.ru
 DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,government.ru
 DOMAIN-SUFFIX,gosuslugi.ru
@@ -437,6 +439,8 @@ DOMAIN-SUFFIX,surgut.ru
 DOMAIN-SUFFIX,yamal.ru
 DOMAIN-SUFFIX,yanao.ru
 DOMAIN-SUFFIX,zdrav10.ru
+DOMAIN-SUFFIX,mospat.ru
+DOMAIN-SUFFIX,patriarchia.ru
 DOMAIN-SUFFIX,jinrieluosi.cn
 DOMAIN-SUFFIX,pressria.ru
 DOMAIN-SUFFIX,rossiyasegodnya.com
@@ -579,6 +583,13 @@ DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
 DOMAIN-SUFFIX,eurasiadaily.su
+DOMAIN-SUFFIX,azbyka.ru
+DOMAIN-SUFFIX,posledovania.ru
+DOMAIN-SUFFIX,pravoslavie.ru
+DOMAIN-SUFFIX,webtypikon.ru
+DOMAIN-SUFFIX,xn--80adfddrquddgz.xn--p1ai
+DOMAIN-SUFFIX,pravmir.com
+DOMAIN-SUFFIX,pravmir.ru
 DOMAIN-SUFFIX,klinikabudzdorov.ru
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,emias.mos.ru
@@ -2038,6 +2049,10 @@ DOMAIN-SUFFIX,nbki.ru
 DOMAIN-SUFFIX,efin.ru
 DOMAIN-SUFFIX,banki.ru
 DOMAIN-SUFFIX,finuslugi.ru
+DOMAIN-SUFFIX,amt-insurance.com
+DOMAIN-SUFFIX,lexgarant.com
+DOMAIN-SUFFIX,renins.com
+DOMAIN-SUFFIX,renins.ru
 DOMAIN-SUFFIX,sistema-capital.com
 DOMAIN-SUFFIX,mironline.ru
 DOMAIN-SUFFIX,mirpayonline.ru
@@ -2067,6 +2082,7 @@ DOMAIN-SUFFIX,tvoyodbo.online
 DOMAIN-SUFFIX,kion.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,azbukainterneta.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rt.ru
@@ -2080,6 +2096,7 @@ DOMAIN-SUFFIX,dom.ru
 DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3ebra.net
 DOMAIN-SUFFIX,apptrackpets.com
+DOMAIN-SUFFIX,chat2desk.com
 DOMAIN-SUFFIX,flomni.com
 DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,gazfond-pn.ru
