@@ -1,2 +1,5 @@
 HOST-SUFFIX,kinopoisk.ru,KINOPOISK
 HOST-SUFFIX,kinopoisk-ru.clstorage.net,KINOPOISK
+HOST-SUFFIX,kp.yandex.net,KINOPOISK
+HOST,kp-config-smart-tv.akamaized.net,KINOPOISK
+HOST,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,KINOPOISK

@@ -1,5 +1,8 @@
 HOST-SUFFIX,kinopoisk.ru,YANDEX
 HOST-SUFFIX,kinopoisk-ru.clstorage.net,YANDEX
+HOST-SUFFIX,kp.yandex.net,YANDEX
+HOST,kp-config-smart-tv.akamaized.net,YANDEX
+HOST,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,YANDEX
 HOST-SUFFIX,yandex,YANDEX
 HOST-SUFFIX,xn--d1acpjx3f.xn--p1ai,YANDEX
 HOST-SUFFIX,berizaryad.ru,YANDEX
