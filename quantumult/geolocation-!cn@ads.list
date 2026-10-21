@@ -1,5 +1,6 @@
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@ADS
 HOST,o33249.ingest.sentry.io,GEOLOCATION-!CN@ADS
+HOST,o33249.ingest.us.sentry.io,GEOLOCATION-!CN@ADS
 HOST,openai.qualtrics.com,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,ads.sber.ru,GEOLOCATION-!CN@ADS
 HOST-SUFFIX,clickstream.sberbank.ru,GEOLOCATION-!CN@ADS
