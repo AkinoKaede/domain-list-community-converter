@@ -5,8 +5,15 @@ HOST-SUFFIX,ekahau.com,SPEEDTEST
 HOST-SUFFIX,ookla.com,SPEEDTEST
 HOST-SUFFIX,ooklaserver.net,SPEEDTEST
 HOST-SUFFIX,pingtest.net,SPEEDTEST
+HOST-SUFFIX,speedtest.app,SPEEDTEST
+HOST-SUFFIX,speedtest.cc,SPEEDTEST
 HOST-SUFFIX,speedtest.co,SPEEDTEST
+HOST-SUFFIX,speedtest.ee,SPEEDTEST
+HOST-SUFFIX,speedtest.in,SPEEDTEST
+HOST-SUFFIX,speedtest.me,SPEEDTEST
 HOST-SUFFIX,speedtest.net,SPEEDTEST
+HOST-SUFFIX,speedtest.ng,SPEEDTEST
+HOST-SUFFIX,speedtest.tv,SPEEDTEST
 HOST-SUFFIX,speedtestcustom.com,SPEEDTEST
 HOST-SUFFIX,webtest.net,SPEEDTEST
 HOST,www.speedtest.net.cdn.cloudflare.net,SPEEDTEST
