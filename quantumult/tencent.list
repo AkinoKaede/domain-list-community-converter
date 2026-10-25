@@ -420,7 +420,6 @@ HOST-SUFFIX,gcloudcstestonly.com,TENCENT
 HOST-SUFFIX,gclouddolphin.com,TENCENT
 HOST-SUFFIX,gcloudsdk.com,TENCENT
 HOST-SUFFIX,gcloudsvcs.com,TENCENT
-HOST-SUFFIX,gdtimg.com,TENCENT
 HOST-SUFFIX,goto-game.com,TENCENT
 HOST-SUFFIX,goto-game.mobi,TENCENT
 HOST-SUFFIX,goto-game.net.cn,TENCENT
@@ -677,6 +676,7 @@ HOST-SUFFIX,btrace.qq.com,TENCENT
 HOST-SUFFIX,bugly.qq.com,TENCENT
 HOST-SUFFIX,e.qq.com,TENCENT
 HOST-SUFFIX,gdt.qq.com,TENCENT
+HOST-SUFFIX,gdtimg.com,TENCENT
 HOST-SUFFIX,hq-tracking.qq.com,TENCENT
 HOST-SUFFIX,htrace.wetvinfo.com,TENCENT
 HOST-SUFFIX,isdspeed.qq.com,TENCENT
