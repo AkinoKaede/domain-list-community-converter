@@ -1,0 +1,4 @@
+HOST-SUFFIX,cloudflareinsights-cn.com,CATEGORY-TELEMETRY@CN
+HOST,crashlyticsreports-pa.googleapis.com,CATEGORY-TELEMETRY@CN
+HOST,firebase-settings.crashlytics.com,CATEGORY-TELEMETRY@CN
+HOST,update.crashlytics.com,CATEGORY-TELEMETRY@CN

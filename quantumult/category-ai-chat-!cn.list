@@ -66,6 +66,9 @@ HOST-SUFFIX,gemini.google.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,gemini.gstatic.com,CATEGORY-AI-CHAT-!CN
 HOST,geminiweb-pa.clients.google.com,CATEGORY-AI-CHAT-!CN
 HOST,geminiweb-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
+HOST,appsgenaiserver-pa.clients.google.com,CATEGORY-AI-CHAT-!CN
+HOST,appsgenaiserver-pa.clients6.google.com,CATEGORY-AI-CHAT-!CN
+HOST,appsgenaiserver-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,cloudaicompanion.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-AI-CHAT-!CN
@@ -166,8 +169,12 @@ HOST-SUFFIX,muse.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,agentclientprotocol.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,anythingllm.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,arena.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,artificialanalysis.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,chutes.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,clawhub.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,cline.bot,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,commandcode.ai,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,context7.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,crewai.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,devin.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,diabrowser.com,CATEGORY-AI-CHAT-!CN
@@ -187,6 +194,7 @@ HOST-SUFFIX,minimax.io,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,mistral.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,mozilla.ai,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,notegpt.io,CATEGORY-AI-CHAT-!CN
+HOST-SUFFIX,nousresearch.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,novelai.net,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,ollama.com,CATEGORY-AI-CHAT-!CN
 HOST-SUFFIX,openart.ai,CATEGORY-AI-CHAT-!CN

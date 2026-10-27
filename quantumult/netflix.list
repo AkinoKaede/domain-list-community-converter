@@ -21,4 +21,4 @@ HOST-SUFFIX,netflixdnstest7.com,NETFLIX
 HOST-SUFFIX,netflixdnstest8.com,NETFLIX
 HOST-SUFFIX,netflixdnstest9.com,NETFLIX
 HOST-SUFFIX,netflixdnstest10.com,NETFLIX
-HOST,netflix.com.edgesuite.net,NETFLIX
+HOST-SUFFIX,netflix.com.edgesuite.net,NETFLIX

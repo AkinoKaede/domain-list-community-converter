@@ -1,0 +1,3 @@
+HOST,browser-intake-datadoghq.com,OPENAI@TELEMETRY
+HOST,o33249.ingest.sentry.io,OPENAI@TELEMETRY
+HOST,o33249.ingest.us.sentry.io,OPENAI@TELEMETRY

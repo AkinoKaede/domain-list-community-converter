@@ -1,0 +1,12 @@
+HOST,log3-applog-hl.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,log3-applog.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,log5-applog-hl.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,log5-applog.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,rtlog3-applog-hl.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,rtlog3-applog.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,rtlog5-applog-hl.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST,rtlog5-applog.fqnovel.com,BYTEDANCE@TELEMETRY
+HOST-SUFFIX,volceapplog.com,BYTEDANCE@TELEMETRY
+HOST-SUFFIX,applogcdn.com,BYTEDANCE@TELEMETRY
+HOST-SUFFIX,extlog.snssdk.com,BYTEDANCE@TELEMETRY
+HOST-SUFFIX,log.zijieapi.com,BYTEDANCE@TELEMETRY

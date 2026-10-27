@@ -1,4 +1,17 @@
+HOST-SUFFIX,in.applicationinsights.azure.com,MICROSOFT@TELEMETRY
+HOST,dc.applicationinsights.azure.com,MICROSOFT@TELEMETRY
+HOST,live.applicationinsights.azure.com,MICROSOFT@TELEMETRY
 HOST,copilot-telemetry-service.githubusercontent.com,MICROSOFT@TELEMETRY
 HOST,copilot-telemetry.githubusercontent.com,MICROSOFT@TELEMETRY
 HOST-SUFFIX,cafe.github.com,MICROSOFT@TELEMETRY
 HOST-SUFFIX,collector.github.com,MICROSOFT@TELEMETRY
+HOST,dc.services.visualstudio.com,MICROSOFT@TELEMETRY
+HOST,rt.services.visualstudio.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,browser.events.data.msn.cn,MICROSOFT@TELEMETRY
+HOST-SUFFIX,browser.events.data.msn.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,applicationinsights.io,MICROSOFT@TELEMETRY
+HOST-SUFFIX,applicationinsights.net,MICROSOFT@TELEMETRY
+HOST-SUFFIX,aria.ms,MICROSOFT@TELEMETRY
+HOST-SUFFIX,data.microsoft.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,telemetry.microsoft.com,MICROSOFT@TELEMETRY
+HOST-SUFFIX,nelreports.net,MICROSOFT@TELEMETRY

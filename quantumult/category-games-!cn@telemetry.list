@@ -1,0 +1,3 @@
+HOST-SUFFIX,insights-collector.gog.com,CATEGORY-GAMES-!CN@TELEMETRY
+HOST-SUFFIX,log-upload-os.hoyoverse.com,CATEGORY-GAMES-!CN@TELEMETRY
+HOST,sentry.ppy.sh,CATEGORY-GAMES-!CN@TELEMETRY

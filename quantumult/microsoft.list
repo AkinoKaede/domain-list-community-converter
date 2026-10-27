@@ -80,6 +80,7 @@ HOST-SUFFIX,cosmosdb.net,MICROSOFT
 HOST-SUFFIX,devopsms.com,MICROSOFT
 HOST-SUFFIX,gotcosmos.com,MICROSOFT
 HOST-SUFFIX,hdinsightservices.cn,MICROSOFT
+HOST-SUFFIX,in.applicationinsights.azure.com,MICROSOFT
 HOST-SUFFIX,management-azure-devices-int.net,MICROSOFT
 HOST-SUFFIX,management-azure-devices-provisioning.cn,MICROSOFT
 HOST-SUFFIX,management-azure-devices.cn,MICROSOFT
@@ -134,6 +135,8 @@ HOST-SUFFIX,azchcdnr.com,MICROSOFT
 HOST-SUFFIX,azchcdns.com,MICROSOFT
 HOST,azure.microsoft.com,MICROSOFT
 HOST,azuremarketplace.microsoft.com,MICROSOFT
+HOST,dc.applicationinsights.azure.com,MICROSOFT
+HOST,live.applicationinsights.azure.com,MICROSOFT
 HOST-SUFFIX,azure-dns.cn,MICROSOFT
 HOST-SUFFIX,azure-dns.com,MICROSOFT
 HOST-SUFFIX,azure-dns.info,MICROSOFT
@@ -314,6 +317,7 @@ HOST-SUFFIX,vscodeedu.com,MICROSOFT
 HOST-SUFFIX,xamarin.com,MICROSOFT
 HOST,az764295.vo.msecnd.net,MICROSOFT
 HOST,bingsettingssearch.trafficmanager.net,MICROSOFT
+HOST,dc.services.visualstudio.com,MICROSOFT
 HOST,default.exp-tas.com,MICROSOFT
 HOST,developer.microsoft.com,MICROSOFT
 HOST,download.visualstudio.microsoft.com,MICROSOFT
@@ -323,6 +327,7 @@ HOST,poshtestgallery.cloudapp.net,MICROSOFT
 HOST,psg-int-centralus.cloudapp.net,MICROSOFT
 HOST,psg-int-eastus.cloudapp.net,MICROSOFT
 HOST,rink.hockeyapp.net,MICROSOFT
+HOST,rt.services.visualstudio.com,MICROSOFT
 HOST,vscode-sync-insiders.trafficmanager.net,MICROSOFT
 HOST,vscode-sync.trafficmanager.net,MICROSOFT
 HOST,vscode.blob.core.windows.net,MICROSOFT
@@ -477,6 +482,7 @@ HOST-SUFFIX,cortanaskills.com,MICROSOFT
 HOST-SUFFIX,crmdynint-gcc.com,MICROSOFT
 HOST-SUFFIX,crmdynint.com,MICROSOFT
 HOST-SUFFIX,crossborderexpansion.com,MICROSOFT
+HOST-SUFFIX,data.microsoft.com,MICROSOFT
 HOST-SUFFIX,docs.com,MICROSOFT
 HOST-SUFFIX,dynamics.cn,MICROSOFT
 HOST-SUFFIX,dynamics.com,MICROSOFT
@@ -664,6 +670,7 @@ HOST-SUFFIX,t-msedge.net,MICROSOFT
 HOST-SUFFIX,tailwindtraders.com,MICROSOFT
 HOST-SUFFIX,techhub.ms,MICROSOFT
 HOST-SUFFIX,tfsallin.net,MICROSOFT
+HOST-SUFFIX,telemetry.microsoft.com,MICROSOFT
 HOST-SUFFIX,translatetheweb.com,MICROSOFT
 HOST-SUFFIX,unlocklimitlesslearning.com,MICROSOFT
 HOST-SUFFIX,userpxt.io,MICROSOFT

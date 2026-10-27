@@ -408,6 +408,7 @@ HOST-SUFFIX,vscodeedu.com,CATEGORY-DEV
 HOST-SUFFIX,xamarin.com,CATEGORY-DEV
 HOST,az764295.vo.msecnd.net,CATEGORY-DEV
 HOST,bingsettingssearch.trafficmanager.net,CATEGORY-DEV
+HOST,dc.services.visualstudio.com,CATEGORY-DEV
 HOST,default.exp-tas.com,CATEGORY-DEV
 HOST,developer.microsoft.com,CATEGORY-DEV
 HOST,download.visualstudio.microsoft.com,CATEGORY-DEV
@@ -417,6 +418,7 @@ HOST,poshtestgallery.cloudapp.net,CATEGORY-DEV
 HOST,psg-int-centralus.cloudapp.net,CATEGORY-DEV
 HOST,psg-int-eastus.cloudapp.net,CATEGORY-DEV
 HOST,rink.hockeyapp.net,CATEGORY-DEV
+HOST,rt.services.visualstudio.com,CATEGORY-DEV
 HOST,vscode-sync-insiders.trafficmanager.net,CATEGORY-DEV
 HOST,vscode-sync.trafficmanager.net,CATEGORY-DEV
 HOST,vscode.blob.core.windows.net,CATEGORY-DEV

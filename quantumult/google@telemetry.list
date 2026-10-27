@@ -1,0 +1,5 @@
+HOST,crashlyticsreports-pa.googleapis.com,GOOGLE@TELEMETRY
+HOST,firebase-settings.crashlytics.com,GOOGLE@TELEMETRY
+HOST,firebaselogging-pa.googleapis.com,GOOGLE@TELEMETRY
+HOST,firebaselogging.googleapis.com,GOOGLE@TELEMETRY
+HOST,update.crashlytics.com,GOOGLE@TELEMETRY

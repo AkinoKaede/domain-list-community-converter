@@ -1,0 +1,5 @@
+HOST-SUFFIX,clickstream.sberbank.ru,SBER@TELEMETRY
+HOST,error-tracking.megamarket.tech,SBER@TELEMETRY
+HOST,metrics.21-school.ru,SBER@TELEMETRY
+HOST,sentry.sberauto.com,SBER@TELEMETRY
+HOST,tracing-http.megamarket.tech,SBER@TELEMETRY

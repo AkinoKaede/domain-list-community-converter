@@ -58,6 +58,7 @@ HOST-SUFFIX,vscodeedu.com,MICROSOFT-DEV
 HOST-SUFFIX,xamarin.com,MICROSOFT-DEV
 HOST,az764295.vo.msecnd.net,MICROSOFT-DEV
 HOST,bingsettingssearch.trafficmanager.net,MICROSOFT-DEV
+HOST,dc.services.visualstudio.com,MICROSOFT-DEV
 HOST,default.exp-tas.com,MICROSOFT-DEV
 HOST,developer.microsoft.com,MICROSOFT-DEV
 HOST,download.visualstudio.microsoft.com,MICROSOFT-DEV
@@ -67,6 +68,7 @@ HOST,poshtestgallery.cloudapp.net,MICROSOFT-DEV
 HOST,psg-int-centralus.cloudapp.net,MICROSOFT-DEV
 HOST,psg-int-eastus.cloudapp.net,MICROSOFT-DEV
 HOST,rink.hockeyapp.net,MICROSOFT-DEV
+HOST,rt.services.visualstudio.com,MICROSOFT-DEV
 HOST,vscode-sync-insiders.trafficmanager.net,MICROSOFT-DEV
 HOST,vscode-sync.trafficmanager.net,MICROSOFT-DEV
 HOST,vscode.blob.core.windows.net,MICROSOFT-DEV

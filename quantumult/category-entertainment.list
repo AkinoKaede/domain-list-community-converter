@@ -1630,7 +1630,7 @@ HOST-SUFFIX,netflixdnstest7.com,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,netflixdnstest8.com,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,netflixdnstest9.com,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,netflixdnstest10.com,CATEGORY-ENTERTAINMENT
-HOST,netflix.com.edgesuite.net,CATEGORY-ENTERTAINMENT
+HOST-SUFFIX,netflix.com.edgesuite.net,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,nico,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,nico.ms,CATEGORY-ENTERTAINMENT
 HOST-SUFFIX,nicochannel.jp,CATEGORY-ENTERTAINMENT
@@ -1759,9 +1759,9 @@ HOST,audio4-ak-spotify-com.akamaized.net,CATEGORY-ENTERTAINMENT
 HOST,cdn-spotify-experiments.conductrics.com,CATEGORY-ENTERTAINMENT
 HOST,heads-ak-spotify-com.akamaized.net,CATEGORY-ENTERTAINMENT
 HOST,heads4-ak-spotify-com.akamaized.net,CATEGORY-ENTERTAINMENT
-HOST,spotify.com.edgesuite.net,CATEGORY-ENTERTAINMENT
 HOST,spotify.map.fastly.net,CATEGORY-ENTERTAINMENT
 HOST,spotify.map.fastlylb.net,CATEGORY-ENTERTAINMENT
+HOST-SUFFIX,spotify.com.edgesuite.net,CATEGORY-ENTERTAINMENT
 HOST,adeventtracker.spotify.com,CATEGORY-ENTERTAINMENT
 HOST,adstudio-assets.scdn.co,CATEGORY-ENTERTAINMENT
 HOST,bloodhound.spotify.com,CATEGORY-ENTERTAINMENT

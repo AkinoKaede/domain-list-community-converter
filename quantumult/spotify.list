@@ -20,9 +20,9 @@ HOST,audio4-ak-spotify-com.akamaized.net,SPOTIFY
 HOST,cdn-spotify-experiments.conductrics.com,SPOTIFY
 HOST,heads-ak-spotify-com.akamaized.net,SPOTIFY
 HOST,heads4-ak-spotify-com.akamaized.net,SPOTIFY
-HOST,spotify.com.edgesuite.net,SPOTIFY
 HOST,spotify.map.fastly.net,SPOTIFY
 HOST,spotify.map.fastlylb.net,SPOTIFY
+HOST-SUFFIX,spotify.com.edgesuite.net,SPOTIFY
 HOST,adeventtracker.spotify.com,SPOTIFY
 HOST,adstudio-assets.scdn.co,SPOTIFY
 HOST,bloodhound.spotify.com,SPOTIFY

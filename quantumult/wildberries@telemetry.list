@@ -1,0 +1,5 @@
+HOST,analytics-stage.wildberries.ru,WILDBERRIES@TELEMETRY
+HOST,analytics.wildberries.ru,WILDBERRIES@TELEMETRY
+HOST,marketplace-sentry.wb.ru,WILDBERRIES@TELEMETRY
+HOST,sentry.wb.ru,WILDBERRIES@TELEMETRY
+HOST,web-analytics.wildberries.ru,WILDBERRIES@TELEMETRY

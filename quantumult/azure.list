@@ -80,6 +80,7 @@ HOST-SUFFIX,cosmosdb.net,AZURE
 HOST-SUFFIX,devopsms.com,AZURE
 HOST-SUFFIX,gotcosmos.com,AZURE
 HOST-SUFFIX,hdinsightservices.cn,AZURE
+HOST-SUFFIX,in.applicationinsights.azure.com,AZURE
 HOST-SUFFIX,management-azure-devices-int.net,AZURE
 HOST-SUFFIX,management-azure-devices-provisioning.cn,AZURE
 HOST-SUFFIX,management-azure-devices.cn,AZURE
@@ -134,6 +135,8 @@ HOST-SUFFIX,azchcdnr.com,AZURE
 HOST-SUFFIX,azchcdns.com,AZURE
 HOST,azure.microsoft.com,AZURE
 HOST,azuremarketplace.microsoft.com,AZURE
+HOST,dc.applicationinsights.azure.com,AZURE
+HOST,live.applicationinsights.azure.com,AZURE
 HOST-SUFFIX,azure-dns.cn,AZURE
 HOST-SUFFIX,azure-dns.com,AZURE
 HOST-SUFFIX,azure-dns.info,AZURE

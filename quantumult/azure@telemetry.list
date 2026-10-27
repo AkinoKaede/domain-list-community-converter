@@ -1,0 +1,3 @@
+HOST-SUFFIX,in.applicationinsights.azure.com,AZURE@TELEMETRY
+HOST,dc.applicationinsights.azure.com,AZURE@TELEMETRY
+HOST,live.applicationinsights.azure.com,AZURE@TELEMETRY

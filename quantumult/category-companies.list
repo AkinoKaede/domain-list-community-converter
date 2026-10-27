@@ -426,6 +426,9 @@ HOST-SUFFIX,gemini.google.com,CATEGORY-COMPANIES
 HOST-SUFFIX,gemini.gstatic.com,CATEGORY-COMPANIES
 HOST,geminiweb-pa.clients.google.com,CATEGORY-COMPANIES
 HOST,geminiweb-pa.clients6.google.com,CATEGORY-COMPANIES
+HOST,appsgenaiserver-pa.clients.google.com,CATEGORY-COMPANIES
+HOST,appsgenaiserver-pa.clients6.google.com,CATEGORY-COMPANIES
+HOST,appsgenaiserver-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,cloudaicompanion.googleapis.com,CATEGORY-COMPANIES
 HOST,cloudcode-pa.googleapis.com,CATEGORY-COMPANIES
 HOST,daily-cloudcode-pa.googleapis.com,CATEGORY-COMPANIES
@@ -6839,6 +6842,7 @@ HOST-SUFFIX,cosmosdb.net,CATEGORY-COMPANIES
 HOST-SUFFIX,devopsms.com,CATEGORY-COMPANIES
 HOST-SUFFIX,gotcosmos.com,CATEGORY-COMPANIES
 HOST-SUFFIX,hdinsightservices.cn,CATEGORY-COMPANIES
+HOST-SUFFIX,in.applicationinsights.azure.com,CATEGORY-COMPANIES
 HOST-SUFFIX,management-azure-devices-int.net,CATEGORY-COMPANIES
 HOST-SUFFIX,management-azure-devices-provisioning.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,management-azure-devices.cn,CATEGORY-COMPANIES
@@ -6893,6 +6897,8 @@ HOST-SUFFIX,azchcdnr.com,CATEGORY-COMPANIES
 HOST-SUFFIX,azchcdns.com,CATEGORY-COMPANIES
 HOST,azure.microsoft.com,CATEGORY-COMPANIES
 HOST,azuremarketplace.microsoft.com,CATEGORY-COMPANIES
+HOST,dc.applicationinsights.azure.com,CATEGORY-COMPANIES
+HOST,live.applicationinsights.azure.com,CATEGORY-COMPANIES
 HOST-SUFFIX,azure-dns.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,azure-dns.com,CATEGORY-COMPANIES
 HOST-SUFFIX,azure-dns.info,CATEGORY-COMPANIES
@@ -7073,6 +7079,7 @@ HOST-SUFFIX,vscodeedu.com,CATEGORY-COMPANIES
 HOST-SUFFIX,xamarin.com,CATEGORY-COMPANIES
 HOST,az764295.vo.msecnd.net,CATEGORY-COMPANIES
 HOST,bingsettingssearch.trafficmanager.net,CATEGORY-COMPANIES
+HOST,dc.services.visualstudio.com,CATEGORY-COMPANIES
 HOST,default.exp-tas.com,CATEGORY-COMPANIES
 HOST,developer.microsoft.com,CATEGORY-COMPANIES
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES
@@ -7082,6 +7089,7 @@ HOST,poshtestgallery.cloudapp.net,CATEGORY-COMPANIES
 HOST,psg-int-centralus.cloudapp.net,CATEGORY-COMPANIES
 HOST,psg-int-eastus.cloudapp.net,CATEGORY-COMPANIES
 HOST,rink.hockeyapp.net,CATEGORY-COMPANIES
+HOST,rt.services.visualstudio.com,CATEGORY-COMPANIES
 HOST,vscode-sync-insiders.trafficmanager.net,CATEGORY-COMPANIES
 HOST,vscode-sync.trafficmanager.net,CATEGORY-COMPANIES
 HOST,vscode.blob.core.windows.net,CATEGORY-COMPANIES
@@ -7236,6 +7244,7 @@ HOST-SUFFIX,cortanaskills.com,CATEGORY-COMPANIES
 HOST-SUFFIX,crmdynint-gcc.com,CATEGORY-COMPANIES
 HOST-SUFFIX,crmdynint.com,CATEGORY-COMPANIES
 HOST-SUFFIX,crossborderexpansion.com,CATEGORY-COMPANIES
+HOST-SUFFIX,data.microsoft.com,CATEGORY-COMPANIES
 HOST-SUFFIX,docs.com,CATEGORY-COMPANIES
 HOST-SUFFIX,dynamics.cn,CATEGORY-COMPANIES
 HOST-SUFFIX,dynamics.com,CATEGORY-COMPANIES
@@ -7423,6 +7432,7 @@ HOST-SUFFIX,t-msedge.net,CATEGORY-COMPANIES
 HOST-SUFFIX,tailwindtraders.com,CATEGORY-COMPANIES
 HOST-SUFFIX,techhub.ms,CATEGORY-COMPANIES
 HOST-SUFFIX,tfsallin.net,CATEGORY-COMPANIES
+HOST-SUFFIX,telemetry.microsoft.com,CATEGORY-COMPANIES
 HOST-SUFFIX,translatetheweb.com,CATEGORY-COMPANIES
 HOST-SUFFIX,unlocklimitlesslearning.com,CATEGORY-COMPANIES
 HOST-SUFFIX,userpxt.io,CATEGORY-COMPANIES

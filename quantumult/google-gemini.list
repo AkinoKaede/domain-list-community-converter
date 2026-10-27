@@ -18,6 +18,9 @@ HOST-SUFFIX,gemini.google.com,GOOGLE-GEMINI
 HOST-SUFFIX,gemini.gstatic.com,GOOGLE-GEMINI
 HOST,geminiweb-pa.clients.google.com,GOOGLE-GEMINI
 HOST,geminiweb-pa.clients6.google.com,GOOGLE-GEMINI
+HOST,appsgenaiserver-pa.clients.google.com,GOOGLE-GEMINI
+HOST,appsgenaiserver-pa.clients6.google.com,GOOGLE-GEMINI
+HOST,appsgenaiserver-pa.googleapis.com,GOOGLE-GEMINI
 HOST,cloudaicompanion.googleapis.com,GOOGLE-GEMINI
 HOST,cloudcode-pa.googleapis.com,GOOGLE-GEMINI
 HOST,daily-cloudcode-pa.googleapis.com,GOOGLE-GEMINI

@@ -66,6 +66,9 @@ HOST-SUFFIX,gemini.google.com,GEOLOCATION-!CN
 HOST-SUFFIX,gemini.gstatic.com,GEOLOCATION-!CN
 HOST,geminiweb-pa.clients.google.com,GEOLOCATION-!CN
 HOST,geminiweb-pa.clients6.google.com,GEOLOCATION-!CN
+HOST,appsgenaiserver-pa.clients.google.com,GEOLOCATION-!CN
+HOST,appsgenaiserver-pa.clients6.google.com,GEOLOCATION-!CN
+HOST,appsgenaiserver-pa.googleapis.com,GEOLOCATION-!CN
 HOST,cloudaicompanion.googleapis.com,GEOLOCATION-!CN
 HOST,cloudcode-pa.googleapis.com,GEOLOCATION-!CN
 HOST,daily-cloudcode-pa.googleapis.com,GEOLOCATION-!CN
@@ -166,8 +169,12 @@ HOST-SUFFIX,muse.ai,GEOLOCATION-!CN
 HOST-SUFFIX,agentclientprotocol.com,GEOLOCATION-!CN
 HOST-SUFFIX,anythingllm.com,GEOLOCATION-!CN
 HOST-SUFFIX,arena.ai,GEOLOCATION-!CN
+HOST-SUFFIX,artificialanalysis.ai,GEOLOCATION-!CN
 HOST-SUFFIX,chutes.ai,GEOLOCATION-!CN
 HOST-SUFFIX,clawhub.ai,GEOLOCATION-!CN
+HOST-SUFFIX,cline.bot,GEOLOCATION-!CN
+HOST-SUFFIX,commandcode.ai,GEOLOCATION-!CN
+HOST-SUFFIX,context7.com,GEOLOCATION-!CN
 HOST-SUFFIX,crewai.com,GEOLOCATION-!CN
 HOST-SUFFIX,devin.ai,GEOLOCATION-!CN
 HOST-SUFFIX,diabrowser.com,GEOLOCATION-!CN
@@ -187,6 +194,7 @@ HOST-SUFFIX,minimax.io,GEOLOCATION-!CN
 HOST-SUFFIX,mistral.ai,GEOLOCATION-!CN
 HOST-SUFFIX,mozilla.ai,GEOLOCATION-!CN
 HOST-SUFFIX,notegpt.io,GEOLOCATION-!CN
+HOST-SUFFIX,nousresearch.com,GEOLOCATION-!CN
 HOST-SUFFIX,novelai.net,GEOLOCATION-!CN
 HOST-SUFFIX,ollama.com,GEOLOCATION-!CN
 HOST-SUFFIX,openart.ai,GEOLOCATION-!CN
@@ -2150,6 +2158,7 @@ HOST-SUFFIX,schwab.com.sg,GEOLOCATION-!CN
 HOST-SUFFIX,schwabassetmanagement.com,GEOLOCATION-!CN
 HOST-SUFFIX,schwabcdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,schwabplan.com,GEOLOCATION-!CN
+HOST-SUFFIX,thinkorswim.com,GEOLOCATION-!CN
 HOST-SUFFIX,sc.com,GEOLOCATION-!CN
 HOST-SUFFIX,standardchartered.com,GEOLOCATION-!CN
 HOST,standchartbank.sc.omtrdc.net,GEOLOCATION-!CN
@@ -2164,6 +2173,7 @@ HOST-SUFFIX,stripe.network,GEOLOCATION-!CN
 HOST-SUFFIX,stripecdn.com,GEOLOCATION-!CN
 HOST-SUFFIX,transferwise.com,GEOLOCATION-!CN
 HOST-SUFFIX,wise.com,GEOLOCATION-!CN
+HOST-SUFFIX,firstrade.com,GEOLOCATION-!CN
 HOST-SUFFIX,fxcorporate.com,GEOLOCATION-!CN
 HOST-SUFFIX,jivara.global,GEOLOCATION-!CN
 HOST-SUFFIX,mql5.com,GEOLOCATION-!CN
@@ -7239,7 +7249,7 @@ HOST-SUFFIX,netflixdnstest7.com,GEOLOCATION-!CN
 HOST-SUFFIX,netflixdnstest8.com,GEOLOCATION-!CN
 HOST-SUFFIX,netflixdnstest9.com,GEOLOCATION-!CN
 HOST-SUFFIX,netflixdnstest10.com,GEOLOCATION-!CN
-HOST,netflix.com.edgesuite.net,GEOLOCATION-!CN
+HOST-SUFFIX,netflix.com.edgesuite.net,GEOLOCATION-!CN
 HOST-SUFFIX,nico,GEOLOCATION-!CN
 HOST-SUFFIX,nico.ms,GEOLOCATION-!CN
 HOST-SUFFIX,nicochannel.jp,GEOLOCATION-!CN
@@ -7368,9 +7378,9 @@ HOST,audio4-ak-spotify-com.akamaized.net,GEOLOCATION-!CN
 HOST,cdn-spotify-experiments.conductrics.com,GEOLOCATION-!CN
 HOST,heads-ak-spotify-com.akamaized.net,GEOLOCATION-!CN
 HOST,heads4-ak-spotify-com.akamaized.net,GEOLOCATION-!CN
-HOST,spotify.com.edgesuite.net,GEOLOCATION-!CN
 HOST,spotify.map.fastly.net,GEOLOCATION-!CN
 HOST,spotify.map.fastlylb.net,GEOLOCATION-!CN
+HOST-SUFFIX,spotify.com.edgesuite.net,GEOLOCATION-!CN
 HOST,adeventtracker.spotify.com,GEOLOCATION-!CN
 HOST,adstudio-assets.scdn.co,GEOLOCATION-!CN
 HOST,bloodhound.spotify.com,GEOLOCATION-!CN
@@ -16941,6 +16951,8 @@ HOST-SUFFIX,firefoxtweetmachine.com,GEOLOCATION-!CN
 HOST-SUFFIX,firefoxusercontent.com,GEOLOCATION-!CN
 HOST,mozilla-ohttp.fastly-edge.com,GEOLOCATION-!CN
 HOST,mozilla.map.fastly.net,GEOLOCATION-!CN
+HOST-SUFFIX,librewolf.dev,GEOLOCATION-!CN
+HOST-SUFFIX,librewolf.net,GEOLOCATION-!CN
 HOST-SUFFIX,chrome,GEOLOCATION-!CN
 HOST-SUFFIX,chrome.com,GEOLOCATION-!CN
 HOST-SUFFIX,chromium.org,GEOLOCATION-!CN
@@ -16955,7 +16967,6 @@ HOST-SUFFIX,floorp.app,GEOLOCATION-!CN
 HOST-SUFFIX,iridiumbrowser.de,GEOLOCATION-!CN
 HOST-SUFFIX,kiwibrowser.com,GEOLOCATION-!CN
 HOST-SUFFIX,kmeleonbrowser.org,GEOLOCATION-!CN
-HOST-SUFFIX,librewolf.net,GEOLOCATION-!CN
 HOST-SUFFIX,minbrowser.org,GEOLOCATION-!CN
 HOST-SUFFIX,netsurf-browser.org,GEOLOCATION-!CN
 HOST-SUFFIX,opera.com,GEOLOCATION-!CN
@@ -17433,33 +17444,6 @@ HOST-SUFFIX,startpage.com,GEOLOCATION-!CN
 HOST-SUFFIX,ixquick.com,GEOLOCATION-!CN
 HOST-SUFFIX,steemit.com,GEOLOCATION-!CN
 HOST-SUFFIX,svp-team.com,GEOLOCATION-!CN
-HOST-SUFFIX,ams2.test-ipv6.com,GEOLOCATION-!CN
-HOST-SUFFIX,fra.test-ipv6.com,GEOLOCATION-!CN
-HOST-SUFFIX,sixte.st,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.alpinedc.ch,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.arauc.br,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.belwue.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.carnet.hr,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.cl,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.com,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.cs.umd.edu,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.csclub.uwaterloo.ca,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.cz,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.epic.network,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.fratec.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.freerangecloud.com,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.go6.si,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.hu,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.is,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.iu13.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.ke.liquidtelecom.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.noroutetohost.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.roedu.net,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.se,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.sin.vr.org,GEOLOCATION-!CN
-HOST-SUFFIX,test-ipv6.ttk.ru,GEOLOCATION-!CN
-HOST-SUFFIX,testipv6.de,GEOLOCATION-!CN
-HOST-SUFFIX,testipv6.cn,GEOLOCATION-!CN
 HOST-SUFFIX,ctan.org,GEOLOCATION-!CN
 HOST-SUFFIX,latex-project.org,GEOLOCATION-!CN
 HOST-SUFFIX,miktex.org,GEOLOCATION-!CN
@@ -17959,6 +17943,7 @@ HOST-SUFFIX,vscodeedu.com,GEOLOCATION-!CN
 HOST-SUFFIX,xamarin.com,GEOLOCATION-!CN
 HOST,az764295.vo.msecnd.net,GEOLOCATION-!CN
 HOST,bingsettingssearch.trafficmanager.net,GEOLOCATION-!CN
+HOST,dc.services.visualstudio.com,GEOLOCATION-!CN
 HOST,default.exp-tas.com,GEOLOCATION-!CN
 HOST,developer.microsoft.com,GEOLOCATION-!CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN
@@ -17968,6 +17953,7 @@ HOST,poshtestgallery.cloudapp.net,GEOLOCATION-!CN
 HOST,psg-int-centralus.cloudapp.net,GEOLOCATION-!CN
 HOST,psg-int-eastus.cloudapp.net,GEOLOCATION-!CN
 HOST,rink.hockeyapp.net,GEOLOCATION-!CN
+HOST,rt.services.visualstudio.com,GEOLOCATION-!CN
 HOST,vscode-sync-insiders.trafficmanager.net,GEOLOCATION-!CN
 HOST,vscode-sync.trafficmanager.net,GEOLOCATION-!CN
 HOST,vscode.blob.core.windows.net,GEOLOCATION-!CN
@@ -23657,6 +23643,7 @@ HOST-SUFFIX,cosmosdb.net,GEOLOCATION-!CN
 HOST-SUFFIX,devopsms.com,GEOLOCATION-!CN
 HOST-SUFFIX,gotcosmos.com,GEOLOCATION-!CN
 HOST-SUFFIX,hdinsightservices.cn,GEOLOCATION-!CN
+HOST-SUFFIX,in.applicationinsights.azure.com,GEOLOCATION-!CN
 HOST-SUFFIX,management-azure-devices-int.net,GEOLOCATION-!CN
 HOST-SUFFIX,management-azure-devices-provisioning.cn,GEOLOCATION-!CN
 HOST-SUFFIX,management-azure-devices.cn,GEOLOCATION-!CN
@@ -23711,6 +23698,8 @@ HOST-SUFFIX,azchcdnr.com,GEOLOCATION-!CN
 HOST-SUFFIX,azchcdns.com,GEOLOCATION-!CN
 HOST,azure.microsoft.com,GEOLOCATION-!CN
 HOST,azuremarketplace.microsoft.com,GEOLOCATION-!CN
+HOST,dc.applicationinsights.azure.com,GEOLOCATION-!CN
+HOST,live.applicationinsights.azure.com,GEOLOCATION-!CN
 HOST-SUFFIX,azure-dns.cn,GEOLOCATION-!CN
 HOST-SUFFIX,azure-dns.com,GEOLOCATION-!CN
 HOST-SUFFIX,azure-dns.info,GEOLOCATION-!CN
@@ -23856,6 +23845,7 @@ HOST-SUFFIX,cortanaskills.com,GEOLOCATION-!CN
 HOST-SUFFIX,crmdynint-gcc.com,GEOLOCATION-!CN
 HOST-SUFFIX,crmdynint.com,GEOLOCATION-!CN
 HOST-SUFFIX,crossborderexpansion.com,GEOLOCATION-!CN
+HOST-SUFFIX,data.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,docs.com,GEOLOCATION-!CN
 HOST-SUFFIX,dynamics.cn,GEOLOCATION-!CN
 HOST-SUFFIX,dynamics.com,GEOLOCATION-!CN
@@ -24043,6 +24033,7 @@ HOST-SUFFIX,t-msedge.net,GEOLOCATION-!CN
 HOST-SUFFIX,tailwindtraders.com,GEOLOCATION-!CN
 HOST-SUFFIX,techhub.ms,GEOLOCATION-!CN
 HOST-SUFFIX,tfsallin.net,GEOLOCATION-!CN
+HOST-SUFFIX,telemetry.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,translatetheweb.com,GEOLOCATION-!CN
 HOST-SUFFIX,unlocklimitlesslearning.com,GEOLOCATION-!CN
 HOST-SUFFIX,userpxt.io,GEOLOCATION-!CN

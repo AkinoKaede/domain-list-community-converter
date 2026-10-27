@@ -1,0 +1,3 @@
+HOST-SUFFIX,analytics.cloud.unity3d.com,UNITY@TELEMETRY
+HOST-SUFFIX,perf.cloud.unity3d.com,UNITY@TELEMETRY
+HOST-SUFFIX,perf-events.cloud.unity3d.com,UNITY@TELEMETRY
