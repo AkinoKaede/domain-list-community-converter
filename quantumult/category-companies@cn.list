@@ -324,13 +324,15 @@ HOST,api-edge.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,communities.apple.com,CATEGORY-COMPANIES@CN
 HOST,discussionschinese.apple.com,CATEGORY-COMPANIES@CN
 HOST,fides-pol.apple.com,CATEGORY-COMPANIES@CN
-HOST,gspe11-2-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gspe12-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gspe85-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,init.gc-lb.apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,init.gc.apple.com,CATEGORY-COMPANIES@CN
 HOST,km.support.apple.com,CATEGORY-COMPANIES@CN
 HOST,maps.apple.com,CATEGORY-COMPANIES@CN
+HOST,sh-pod1-smp-device.apple.com,CATEGORY-COMPANIES@CN
+HOST,sh-pod2-smp-device.apple.com,CATEGORY-COMPANIES@CN
+HOST,sh-pod3-smp-device.apple.com,CATEGORY-COMPANIES@CN
 HOST,tj-pod1-smp-device.apple.com,CATEGORY-COMPANIES@CN
 HOST,tj-pod2-smp-device.apple.com,CATEGORY-COMPANIES@CN
 HOST,tj-pod3-smp-device.apple.com,CATEGORY-COMPANIES@CN
@@ -405,6 +407,7 @@ HOST,gsp4-cn.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,CATEGORY-COMPANIES@CN
 HOST,gsp5-cn.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gsp85-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
+HOST,gspe11-2-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gspe19-2-cn-ssl.ls-apple.com.akadns.net,CATEGORY-COMPANIES@CN
 HOST,gspe19-2-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,gspe19-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
@@ -444,7 +447,6 @@ HOST,seed-sequoia.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,seed-swallow.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,seed.siri.apple.com,CATEGORY-COMPANIES@CN
 HOST,sequoia.apple.com,CATEGORY-COMPANIES@CN
-HOST,sh-pod2-smp-device.apple.com,CATEGORY-COMPANIES@CN
 HOST,shazam-insights.cdn-apple.com,CATEGORY-COMPANIES@CN
 HOST,smp-device-content.apple.com,CATEGORY-COMPANIES@CN
 HOST,static.gc.apple.com,CATEGORY-COMPANIES@CN

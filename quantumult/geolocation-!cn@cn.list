@@ -676,13 +676,15 @@ HOST,api-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,communities.apple.com,GEOLOCATION-!CN@CN
 HOST,discussionschinese.apple.com,GEOLOCATION-!CN@CN
 HOST,fides-pol.apple.com,GEOLOCATION-!CN@CN
-HOST,gspe11-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gspe12-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gspe85-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,init.gc-lb.apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,init.gc.apple.com,GEOLOCATION-!CN@CN
 HOST,km.support.apple.com,GEOLOCATION-!CN@CN
 HOST,maps.apple.com,GEOLOCATION-!CN@CN
+HOST,sh-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
+HOST,sh-pod2-smp-device.apple.com,GEOLOCATION-!CN@CN
+HOST,sh-pod3-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,tj-pod2-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,tj-pod3-smp-device.apple.com,GEOLOCATION-!CN@CN
@@ -757,6 +759,7 @@ HOST,gsp4-cn.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,GEOLOCATION-!CN@CN
 HOST,gsp5-cn.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gsp85-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
+HOST,gspe11-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gspe19-2-cn-ssl.ls-apple.com.akadns.net,GEOLOCATION-!CN@CN
 HOST,gspe19-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,gspe19-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
@@ -796,7 +799,6 @@ HOST,seed-sequoia.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,seed-swallow.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,seed.siri.apple.com,GEOLOCATION-!CN@CN
 HOST,sequoia.apple.com,GEOLOCATION-!CN@CN
-HOST,sh-pod2-smp-device.apple.com,GEOLOCATION-!CN@CN
 HOST,shazam-insights.cdn-apple.com,GEOLOCATION-!CN@CN
 HOST,smp-device-content.apple.com,GEOLOCATION-!CN@CN
 HOST,static.gc.apple.com,GEOLOCATION-!CN@CN

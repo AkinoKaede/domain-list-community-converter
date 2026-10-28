@@ -165,6 +165,7 @@ HOST-SUFFIX,kimi.ai,GEOLOCATION-!CN
 HOST-SUFFIX,moonshot.ai,GEOLOCATION-!CN
 HOST-SUFFIX,meta.ai,GEOLOCATION-!CN
 HOST-SUFFIX,metaaivm.com,GEOLOCATION-!CN
+HOST-SUFFIX,metaaiusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,muse.ai,GEOLOCATION-!CN
 HOST-SUFFIX,agentclientprotocol.com,GEOLOCATION-!CN
 HOST-SUFFIX,anythingllm.com,GEOLOCATION-!CN
@@ -21013,13 +21014,15 @@ HOST,api-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,communities.apple.com,GEOLOCATION-!CN
 HOST,discussionschinese.apple.com,GEOLOCATION-!CN
 HOST,fides-pol.apple.com,GEOLOCATION-!CN
-HOST,gspe11-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN
 HOST,gspe12-cn-ssl.ls.apple.com,GEOLOCATION-!CN
 HOST,gspe85-cn-ssl.ls.apple.com,GEOLOCATION-!CN
 HOST,init.gc-lb.apple.com.akadns.net,GEOLOCATION-!CN
 HOST,init.gc.apple.com,GEOLOCATION-!CN
 HOST,km.support.apple.com,GEOLOCATION-!CN
 HOST,maps.apple.com,GEOLOCATION-!CN
+HOST,sh-pod1-smp-device.apple.com,GEOLOCATION-!CN
+HOST,sh-pod2-smp-device.apple.com,GEOLOCATION-!CN
+HOST,sh-pod3-smp-device.apple.com,GEOLOCATION-!CN
 HOST,tj-pod1-smp-device.apple.com,GEOLOCATION-!CN
 HOST,tj-pod2-smp-device.apple.com,GEOLOCATION-!CN
 HOST,tj-pod3-smp-device.apple.com,GEOLOCATION-!CN
@@ -21094,6 +21097,7 @@ HOST,gsp4-cn.ls.apple.com,GEOLOCATION-!CN
 HOST,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,GEOLOCATION-!CN
 HOST,gsp5-cn.ls.apple.com,GEOLOCATION-!CN
 HOST,gsp85-cn-ssl.ls.apple.com,GEOLOCATION-!CN
+HOST,gspe11-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN
 HOST,gspe19-2-cn-ssl.ls-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,gspe19-2-cn-ssl.ls.apple.com,GEOLOCATION-!CN
 HOST,gspe19-cn-ssl.ls.apple.com,GEOLOCATION-!CN
@@ -21133,7 +21137,6 @@ HOST,seed-sequoia.siri.apple.com,GEOLOCATION-!CN
 HOST,seed-swallow.siri.apple.com,GEOLOCATION-!CN
 HOST,seed.siri.apple.com,GEOLOCATION-!CN
 HOST,sequoia.apple.com,GEOLOCATION-!CN
-HOST,sh-pod2-smp-device.apple.com,GEOLOCATION-!CN
 HOST,shazam-insights.cdn-apple.com,GEOLOCATION-!CN
 HOST,smp-device-content.apple.com,GEOLOCATION-!CN
 HOST,static.gc.apple.com,GEOLOCATION-!CN
@@ -23559,6 +23562,7 @@ HOST-SUFFIX,atmeta.com,GEOLOCATION-!CN
 HOST-SUFFIX,llama.com,GEOLOCATION-!CN
 HOST-SUFFIX,meta.ai,GEOLOCATION-!CN
 HOST-SUFFIX,meta.com,GEOLOCATION-!CN
+HOST-SUFFIX,metaaiusercontent.com,GEOLOCATION-!CN
 HOST-SUFFIX,metaaivm.com,GEOLOCATION-!CN
 HOST-SUFFIX,muse.ai,GEOLOCATION-!CN
 HOST-SUFFIX,azure,GEOLOCATION-!CN
