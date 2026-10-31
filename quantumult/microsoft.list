@@ -163,6 +163,7 @@ HOST-SUFFIX,bingapis.com,MICROSOFT
 HOST-SUFFIX,bingapistatistics.com,MICROSOFT
 HOST-SUFFIX,bingparachute.com,MICROSOFT
 HOST-SUFFIX,bingsandbox.com,MICROSOFT
+HOST-SUFFIX,bingstatic.com,MICROSOFT
 HOST-SUFFIX,bingvisualsearch.com,MICROSOFT
 HOST-SUFFIX,bingworld.com,MICROSOFT
 HOST-SUFFIX,bluehatnights.com,MICROSOFT
@@ -596,6 +597,7 @@ HOST-SUFFIX,msftconnecttest.com,MICROSOFT
 HOST-SUFFIX,msfteducation.ca,MICROSOFT
 HOST-SUFFIX,msftncsi.com,MICROSOFT
 HOST-SUFFIX,msftnet.org,MICROSOFT
+HOST-SUFFIX,msftstatic.com,MICROSOFT
 HOST-SUFFIX,msgamesresearch.com,MICROSOFT
 HOST-SUFFIX,msgamestudios.com,MICROSOFT
 HOST-SUFFIX,mshome.net,MICROSOFT
