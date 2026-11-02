@@ -245,12 +245,14 @@ HOST-SUFFIX,pingcode.com,CN
 HOST-SUFFIX,tipdm.org,CN
 HOST-SUFFIX,weboss.hk,CN
 HOST-SUFFIX,zuidaima.com,CN
+HOST-SUFFIX,allwinnertech.com,CN
 HOST-SUFFIX,analog.com,CN
 HOST-SUFFIX,arrow.cn,CN
 HOST-SUFFIX,avermedia.cn,CN
 HOST-SUFFIX,boe.com,CN
 HOST-SUFFIX,boe.com.cn,CN
 HOST-SUFFIX,bouffalolab.com,CN
+HOST-SUFFIX,cambricon.com,CN
 HOST-SUFFIX,cxmt.com,CN
 HOST-SUFFIX,eda.cn,CN
 HOST-SUFFIX,elecfans.com,CN
@@ -319,6 +321,7 @@ HOST-SUFFIX,szlcsc.com,CN
 HOST-SUFFIX,zs-jlc.com,CN
 HOST-SUFFIX,zxhgroup.com,CN
 HOST-SUFFIX,listenai.com,CN
+HOST-SUFFIX,mthreads.com,CN
 HOST-SUFFIX,nanocorechip.com,CN
 HOST-SUFFIX,rock-chips.com,CN
 HOST-SUFFIX,seeed.cn,CN
@@ -327,6 +330,8 @@ HOST-SUFFIX,seeed.com.cn,CN
 HOST-SUFFIX,seeedstudio.com.cn,CN
 HOST-SUFFIX,sipeed.com,CN
 HOST-SUFFIX,maixhub.com,CN
+HOST-SUFFIX,southchip.com,CN
+HOST-SUFFIX,t-head.cn,CN
 HOST-SUFFIX,ti.com.cn,CN
 HOST-SUFFIX,wch.cn,CN
 HOST-SUFFIX,wch-ic.com,CN
@@ -1177,6 +1182,10 @@ HOST-SUFFIX,yihaikerry.net.cn,CN
 HOST-SUFFIX,luhua.cn,CN
 HOST-SUFFIX,shuanghui.net,CN
 HOST-SUFFIX,micun.com,CN
+HOST-SUFFIX,qiaqiafood.com,CN
+HOST-SUFFIX,busyming.com,CN
+HOST-SUFFIX,hnlshm.com,CN
+HOST-SUFFIX,zymls.com,CN
 HOST-SUFFIX,logger.qmai.cn,CN
 HOST-SUFFIX,tracking.mcdonalds.com.cn,CN
 HOST-SUFFIX,trackingprd.hwwt8.com,CN
@@ -3228,6 +3237,7 @@ HOST-SUFFIX,building.fun,CN
 HOST-SUFFIX,instreet.com,CN
 HOST-SUFFIX,doubao-dev.com,CN
 HOST-SUFFIX,doubao.com,CN
+HOST-SUFFIX,doubaoapps.com,CN
 HOST-SUFFIX,doubaocdn.com,CN
 HOST-SUFFIX,hi-butterfly.cn,CN
 HOST-SUFFIX,maoxiangai.com,CN
@@ -4517,6 +4527,7 @@ HOST-SUFFIX,gcable.com.cn,CN
 HOST-SUFFIX,sc96655.com,CN
 HOST-SUFFIX,isxtv.com,CN
 HOST-SUFFIX,sdgdwljt.com,CN
+HOST-SUFFIX,mnc015.mcc460.pub.3gppnetwork.org,CN
 HOST-SUFFIX,chinatowercom.cn,CN
 HOST-SUFFIX,china-tower.com,CN
 HOST-SUFFIX,tower.com.cn,CN
