@@ -7,7 +7,6 @@ HOST-SUFFIX,404.sb,CATEGORY-EMBY
 HOST-SUFFIX,4545.cf,CATEGORY-EMBY
 HOST-SUFFIX,blueseacdn.com,CATEGORY-EMBY
 HOST-SUFFIX,emby.ml,CATEGORY-EMBY
-HOST-SUFFIX,loseremby.org,CATEGORY-EMBY
 HOST-SUFFIX,plex.direct,CATEGORY-EMBY
 HOST,plex.llon.net,CATEGORY-EMBY
 HOST-SUFFIX,texon.fans,CATEGORY-EMBY
@@ -24,6 +23,7 @@ HOST,embyserver.ga,CATEGORY-EMBY
 HOST,emby.prprcloud.com,CATEGORY-EMBY
 HOST,emby.nyancat.net,CATEGORY-EMBY
 HOST,emby.plusmedia.site,CATEGORY-EMBY
+HOST,emby-sg.plusmedia.site,CATEGORY-EMBY
 HOST,emby-cf.plusmedia.site,CATEGORY-EMBY
 HOST,emby.xeton.dev,CATEGORY-EMBY
 HOST,jellyfin.xeton.dev,CATEGORY-EMBY
@@ -46,14 +46,6 @@ HOST,agasg.odysseyplus.site,CATEGORY-EMBY
 HOST,ru.odysseyplus.site,CATEGORY-EMBY
 HOST,line.emby.men,CATEGORY-EMBY
 HOST,emby.run,CATEGORY-EMBY
-HOST,emby.plusmedia.site,CATEGORY-EMBY
-HOST,emby-sg.plusmedia.site,CATEGORY-EMBY
-HOST,emby-cf.plusmedia.site,CATEGORY-EMBY
-HOST,emby.xeton.dev,CATEGORY-EMBY
-HOST,jellyfin.xeton.dev,CATEGORY-EMBY
-HOST,movie.xeton.dev,CATEGORY-EMBY
-HOST,servers.xeton.dev,CATEGORY-EMBY
-HOST,embyserver.ga,CATEGORY-EMBY
 HOST,jmsooo.com,CATEGORY-EMBY
 HOST,cf.jmsooo.com,CATEGORY-EMBY
 HOST,hk.jmsooo.com,CATEGORY-EMBY
