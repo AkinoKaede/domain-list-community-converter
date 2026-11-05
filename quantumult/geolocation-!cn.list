@@ -6179,6 +6179,10 @@ HOST-SUFFIX,playstation.com,GEOLOCATION-!CN
 HOST-SUFFIX,playstation.net,GEOLOCATION-!CN
 HOST-SUFFIX,playstationnetwork.com,GEOLOCATION-!CN
 HOST-SUFFIX,sonyentertainmentnetwork.com,GEOLOCATION-!CN
+HOST-SUFFIX,projectmoon.studio,GEOLOCATION-!CN
+HOST-SUFFIX,limbuscompany.global,GEOLOCATION-!CN
+HOST-SUFFIX,limbuscompanyapi.com,GEOLOCATION-!CN
+HOST-SUFFIX,limbuscompanycdn.org,GEOLOCATION-!CN
 HOST-SUFFIX,sekai.colorfulpalette.org,GEOLOCATION-!CN
 HOST-SUFFIX,pjsekai.sega.jp,GEOLOCATION-!CN
 HOST-SUFFIX,kraftonde.com,GEOLOCATION-!CN
@@ -6537,6 +6541,7 @@ HOST-SUFFIX,quiltmc.org,GEOLOCATION-!CN
 HOST-SUFFIX,r2modman.com,GEOLOCATION-!CN
 HOST-SUFFIX,rayark.download,GEOLOCATION-!CN
 HOST-SUFFIX,rayark.net,GEOLOCATION-!CN
+HOST-SUFFIX,skinswap.com,GEOLOCATION-!CN
 HOST-SUFFIX,speedrun.com,GEOLOCATION-!CN
 HOST-SUFFIX,spigotmc.org,GEOLOCATION-!CN
 HOST-SUFFIX,steamdb.info,GEOLOCATION-!CN
