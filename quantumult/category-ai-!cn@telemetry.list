@@ -1,3 +1,5 @@
+HOST,http-intake.logs.us5.datadoghq.com,CATEGORY-AI-!CN@TELEMETRY
+HOST,o1158394.ingest.us.sentry.io,CATEGORY-AI-!CN@TELEMETRY
 HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-AI-!CN@TELEMETRY
 HOST,copilot-telemetry.githubusercontent.com,CATEGORY-AI-!CN@TELEMETRY
 HOST,browser-intake-datadoghq.com,CATEGORY-AI-!CN@TELEMETRY

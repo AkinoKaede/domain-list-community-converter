@@ -200,3 +200,7 @@ HOST-SUFFIX,ads.api.my7v.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,euads-o.api.leiniao.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,hwads-t.api.my7v.com,GEOLOCATION-CN@ADS
 HOST-SUFFIX,testads.api.my7v.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,ads-api-o.api.leiniao.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,ads-o.res.leiniao.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,ads-api-t.my7v.com,GEOLOCATION-CN@ADS
+HOST-SUFFIX,isms-o.api.my7v.com,GEOLOCATION-CN@ADS

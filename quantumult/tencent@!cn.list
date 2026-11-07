@@ -61,6 +61,9 @@ HOST-SUFFIX,ca.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,ger.file.myqcloud.com,TENCENT@!CN
 HOST-SUFFIX,rumt-sg.com,TENCENT@!CN
 HOST-SUFFIX,rumt-us.com,TENCENT@!CN
+HOST-SUFFIX,tencentgames.com,TENCENT@!CN
+HOST-SUFFIX,levelinfinite.com,TENCENT@!CN
+HOST-SUFFIX,nikke-en.com,TENCENT@!CN
 HOST-SUFFIX,webnovel.com,TENCENT@!CN
 HOST-SUFFIX,tencent.co.id,TENCENT@!CN
 HOST-SUFFIX,tencent.com.hk,TENCENT@!CN

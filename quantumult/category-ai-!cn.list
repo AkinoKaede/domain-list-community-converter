@@ -17,6 +17,8 @@ HOST-SUFFIX,claudepages.dev,CATEGORY-AI-!CN
 HOST-SUFFIX,claudestudio.com,CATEGORY-AI-!CN
 HOST-SUFFIX,claudeusercontent.com,CATEGORY-AI-!CN
 HOST,servd-anthropic-website.b-cdn.net,CATEGORY-AI-!CN
+HOST,http-intake.logs.us5.datadoghq.com,CATEGORY-AI-!CN
+HOST,o1158394.ingest.us.sentry.io,CATEGORY-AI-!CN
 HOST-SUFFIX,cici.com,CATEGORY-AI-!CN
 HOST-SUFFIX,ciciai.com,CATEGORY-AI-!CN
 HOST-SUFFIX,ciciaicdn.com,CATEGORY-AI-!CN

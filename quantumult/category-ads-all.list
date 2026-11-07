@@ -451,6 +451,10 @@ HOST-SUFFIX,ads.api.my7v.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,euads-o.api.leiniao.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,hwads-t.api.my7v.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,testads.api.my7v.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,ads-api-o.api.leiniao.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,ads-o.res.leiniao.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,ads-api-t.my7v.com,CATEGORY-ADS-ALL
+HOST-SUFFIX,isms-o.api.my7v.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.browser.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.qq.com,CATEGORY-ADS-ALL
 HOST-SUFFIX,ad.qun.qq.com,CATEGORY-ADS-ALL

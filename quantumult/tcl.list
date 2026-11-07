@@ -10,3 +10,16 @@ HOST-SUFFIX,ads.api.my7v.com,TCL
 HOST-SUFFIX,euads-o.api.leiniao.com,TCL
 HOST-SUFFIX,hwads-t.api.my7v.com,TCL
 HOST-SUFFIX,testads.api.my7v.com,TCL
+HOST-SUFFIX,ads-api-o.api.leiniao.com,TCL
+HOST-SUFFIX,ads-o.res.leiniao.com,TCL
+HOST-SUFFIX,ads-api-t.my7v.com,TCL
+HOST-SUFFIX,isms-o.api.my7v.com,TCL
+HOST-SUFFIX,base.api.my7v.com,TCL
+HOST-SUFFIX,dc-conf-o.api.leiniao.com,TCL
+HOST-SUFFIX,dc-conf-t.api.leiniao.com,TCL
+HOST-SUFFIX,dc-o.api.leiniao.com,TCL
+HOST-SUFFIX,dc-t.api.leiniao.com,TCL
+HOST-SUFFIX,dc-uo.api.leiniao.com,TCL
+HOST-SUFFIX,dc-ut.api.leiniao.com,TCL
+HOST-SUFFIX,qms-report-o.api.leiniao.com,TCL
+HOST-SUFFIX,qms-report-t.api.leiniao.com,TCL

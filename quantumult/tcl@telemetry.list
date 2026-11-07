@@ -1,0 +1,9 @@
+HOST-SUFFIX,base.api.my7v.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-conf-o.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-conf-t.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-o.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-t.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-uo.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,dc-ut.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,qms-report-o.api.leiniao.com,TCL@TELEMETRY
+HOST-SUFFIX,qms-report-t.api.leiniao.com,TCL@TELEMETRY

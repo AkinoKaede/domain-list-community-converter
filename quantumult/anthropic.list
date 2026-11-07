@@ -17,3 +17,5 @@ HOST-SUFFIX,claudepages.dev,ANTHROPIC
 HOST-SUFFIX,claudestudio.com,ANTHROPIC
 HOST-SUFFIX,claudeusercontent.com,ANTHROPIC
 HOST,servd-anthropic-website.b-cdn.net,ANTHROPIC
+HOST,http-intake.logs.us5.datadoghq.com,ANTHROPIC
+HOST,o1158394.ingest.us.sentry.io,ANTHROPIC

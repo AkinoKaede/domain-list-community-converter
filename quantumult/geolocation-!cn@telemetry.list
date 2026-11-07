@@ -1,3 +1,5 @@
+HOST,http-intake.logs.us5.datadoghq.com,GEOLOCATION-!CN@TELEMETRY
+HOST,o1158394.ingest.us.sentry.io,GEOLOCATION-!CN@TELEMETRY
 HOST,copilot-telemetry-service.githubusercontent.com,GEOLOCATION-!CN@TELEMETRY
 HOST,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN@TELEMETRY
 HOST,browser-intake-datadoghq.com,GEOLOCATION-!CN@TELEMETRY

@@ -429,7 +429,6 @@ HOST-SUFFIX,hdyxgame.com,TENCENT
 HOST-SUFFIX,hkgcloudcs.com,TENCENT
 HOST-SUFFIX,ihappystudio.cn,TENCENT
 HOST-SUFFIX,ihappystudio.com,TENCENT
-HOST-SUFFIX,in.th,TENCENT
 HOST-SUFFIX,ludosuperstar.cn,TENCENT
 HOST-SUFFIX,ludoworld.net,TENCENT
 HOST-SUFFIX,mahjongai.net,TENCENT
@@ -496,6 +495,9 @@ HOST-SUFFIX,tcfmglobal.com,TENCENT
 HOST-SUFFIX,anticheatexpert.com,TENCENT
 HOST-SUFFIX,17roco.com,TENCENT
 HOST-SUFFIX,roco.qq.com,TENCENT
+HOST-SUFFIX,tencentgames.com,TENCENT
+HOST-SUFFIX,levelinfinite.com,TENCENT
+HOST-SUFFIX,nikke-en.com,TENCENT
 HOST-SUFFIX,fanxingliveshow.com,TENCENT
 HOST-SUFFIX,kgimg.com,TENCENT
 HOST-SUFFIX,kglink.cn,TENCENT

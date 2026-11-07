@@ -17,6 +17,8 @@ HOST-SUFFIX,claudepages.dev,GEOLOCATION-!CN
 HOST-SUFFIX,claudestudio.com,GEOLOCATION-!CN
 HOST-SUFFIX,claudeusercontent.com,GEOLOCATION-!CN
 HOST,servd-anthropic-website.b-cdn.net,GEOLOCATION-!CN
+HOST,http-intake.logs.us5.datadoghq.com,GEOLOCATION-!CN
+HOST,o1158394.ingest.us.sentry.io,GEOLOCATION-!CN
 HOST-SUFFIX,cici.com,GEOLOCATION-!CN
 HOST-SUFFIX,ciciai.com,GEOLOCATION-!CN
 HOST-SUFFIX,ciciaicdn.com,GEOLOCATION-!CN
@@ -7141,6 +7143,7 @@ HOST,pd.itunes.apple.com,GEOLOCATION-!CN
 HOST,play-edge.itunes.apple.com,GEOLOCATION-!CN
 HOST,play.itunes.apple.com,GEOLOCATION-!CN
 HOST,podcasts.itunes.apple.com,GEOLOCATION-!CN
+HOST,radio.itunes.apple.com,GEOLOCATION-!CN
 HOST,se-edge.itunes.apple.com,GEOLOCATION-!CN
 HOST,se2.itunes.apple.com,GEOLOCATION-!CN
 HOST,search.itunes.apple.com,GEOLOCATION-!CN

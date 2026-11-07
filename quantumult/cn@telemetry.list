@@ -28,3 +28,12 @@ HOST-SUFFIX,cloudflareinsights-cn.com,CN@TELEMETRY
 HOST-SUFFIX,meitustat.com,CN@TELEMETRY
 HOST-SUFFIX,fclog.baidu.com,CN@TELEMETRY
 HOST-SUFFIX,pimlog.baidu.com,CN@TELEMETRY
+HOST-SUFFIX,base.api.my7v.com,CN@TELEMETRY
+HOST-SUFFIX,dc-conf-o.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,dc-conf-t.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,dc-o.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,dc-t.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,dc-uo.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,dc-ut.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,qms-report-o.api.leiniao.com,CN@TELEMETRY
+HOST-SUFFIX,qms-report-t.api.leiniao.com,CN@TELEMETRY
