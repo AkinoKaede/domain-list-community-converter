@@ -207,6 +207,7 @@ HOST-SUFFIX,gitbook.io,CATEGORY-DEV
 HOST-SUFFIX,githubcopilot.com,CATEGORY-DEV
 HOST,copilot-proxy.githubusercontent.com,CATEGORY-DEV
 HOST,copilot-workspace.githubnext.com,CATEGORY-DEV
+HOST,production-copilot-host-westus.webpubsub.azure.com,CATEGORY-DEV
 HOST,copilotprodattachments.blob.core.windows.net,CATEGORY-DEV
 HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-DEV
 HOST,copilot-telemetry.githubusercontent.com,CATEGORY-DEV

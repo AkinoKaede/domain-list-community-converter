@@ -1,6 +1,7 @@
 HOST-SUFFIX,githubcopilot.com,GITHUB
 HOST,copilot-proxy.githubusercontent.com,GITHUB
 HOST,copilot-workspace.githubnext.com,GITHUB
+HOST,production-copilot-host-westus.webpubsub.azure.com,GITHUB
 HOST,copilotprodattachments.blob.core.windows.net,GITHUB
 HOST,copilot-telemetry-service.githubusercontent.com,GITHUB
 HOST,copilot-telemetry.githubusercontent.com,GITHUB

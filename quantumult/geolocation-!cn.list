@@ -45,6 +45,7 @@ HOST-SUFFIX,themeforest.net,GEOLOCATION-!CN
 HOST-SUFFIX,githubcopilot.com,GEOLOCATION-!CN
 HOST,copilot-proxy.githubusercontent.com,GEOLOCATION-!CN
 HOST,copilot-workspace.githubnext.com,GEOLOCATION-!CN
+HOST,production-copilot-host-westus.webpubsub.azure.com,GEOLOCATION-!CN
 HOST,copilotprodattachments.blob.core.windows.net,GEOLOCATION-!CN
 HOST,copilot-telemetry-service.githubusercontent.com,GEOLOCATION-!CN
 HOST,copilot-telemetry.githubusercontent.com,GEOLOCATION-!CN
@@ -145,6 +146,7 @@ HOST-SUFFIX,windsurf.build,GEOLOCATION-!CN
 HOST-SUFFIX,windsurf.com,GEOLOCATION-!CN
 HOST-SUFFIX,grok.com,GEOLOCATION-!CN
 HOST-SUFFIX,grok.x.com,GEOLOCATION-!CN
+HOST-SUFFIX,grokbot.com,GEOLOCATION-!CN
 HOST-SUFFIX,grokipedia.com,GEOLOCATION-!CN
 HOST-SUFFIX,x.ai,GEOLOCATION-!CN
 HOST-SUFFIX,youmind.ai,GEOLOCATION-!CN

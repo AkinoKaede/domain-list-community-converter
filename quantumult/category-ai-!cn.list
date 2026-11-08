@@ -45,6 +45,7 @@ HOST-SUFFIX,themeforest.net,CATEGORY-AI-!CN
 HOST-SUFFIX,githubcopilot.com,CATEGORY-AI-!CN
 HOST,copilot-proxy.githubusercontent.com,CATEGORY-AI-!CN
 HOST,copilot-workspace.githubnext.com,CATEGORY-AI-!CN
+HOST,production-copilot-host-westus.webpubsub.azure.com,CATEGORY-AI-!CN
 HOST,copilotprodattachments.blob.core.windows.net,CATEGORY-AI-!CN
 HOST,copilot-telemetry-service.githubusercontent.com,CATEGORY-AI-!CN
 HOST,copilot-telemetry.githubusercontent.com,CATEGORY-AI-!CN
@@ -145,6 +146,7 @@ HOST-SUFFIX,windsurf.build,CATEGORY-AI-!CN
 HOST-SUFFIX,windsurf.com,CATEGORY-AI-!CN
 HOST-SUFFIX,grok.com,CATEGORY-AI-!CN
 HOST-SUFFIX,grok.x.com,CATEGORY-AI-!CN
+HOST-SUFFIX,grokbot.com,CATEGORY-AI-!CN
 HOST-SUFFIX,grokipedia.com,CATEGORY-AI-!CN
 HOST-SUFFIX,x.ai,CATEGORY-AI-!CN
 HOST-SUFFIX,youmind.ai,CATEGORY-AI-!CN

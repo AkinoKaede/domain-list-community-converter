@@ -196,6 +196,7 @@ HOST,bj1.api.bing.com,MICROSOFT
 HOST-SUFFIX,githubcopilot.com,MICROSOFT
 HOST,copilot-proxy.githubusercontent.com,MICROSOFT
 HOST,copilot-workspace.githubnext.com,MICROSOFT
+HOST,production-copilot-host-westus.webpubsub.azure.com,MICROSOFT
 HOST,copilotprodattachments.blob.core.windows.net,MICROSOFT
 HOST,copilot-telemetry-service.githubusercontent.com,MICROSOFT
 HOST,copilot-telemetry.githubusercontent.com,MICROSOFT
