@@ -255,6 +255,7 @@ HOST-SUFFIX,googlecensorship.org,GEOLOCATION-!CN
 HOST-SUFFIX,googleplaycensorship.com,GEOLOCATION-!CN
 HOST-SUFFIX,greatfire.org,GEOLOCATION-!CN
 HOST-SUFFIX,greatfirevpn.com,GEOLOCATION-!CN
+HOST-SUFFIX,manyvoices.news,GEOLOCATION-!CN
 HOST-SUFFIX,pao-pao.net,GEOLOCATION-!CN
 HOST-SUFFIX,wikiunblocked.org,GEOLOCATION-!CN
 HOST-SUFFIX,haveibeenpwned.com,GEOLOCATION-!CN
