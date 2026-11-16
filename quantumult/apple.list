@@ -946,8 +946,10 @@ HOST,inappcheck.itunes.apple.com,APPLE
 HOST,init.itunes.apple.com,APPLE
 HOST,iosapps.itunes.apple.com,APPLE
 HOST,misc-assets.itunes.apple.com,APPLE
+HOST,musicstatus.itunes.apple.com,APPLE
 HOST,mvod.itunes.apple.com,APPLE
 HOST,myapp.itunes.apple.com,APPLE
+HOST,mzstorekit.itunes.apple.com,APPLE
 HOST,np-edge.itunes.apple.com,APPLE
 HOST,osxapps.itunes.apple.com,APPLE
 HOST,pd-nk.itunes.apple.com,APPLE
@@ -1658,11 +1660,13 @@ HOST,apple.com.akadns.net,APPLE
 HOST,configuration-lb.ls-apple.com.akadns.net,APPLE
 HOST,push-apple.com.akadns.net,APPLE
 HOST-SUFFIX,courier-push-apple.com.akadns.net,APPLE
+HOST-SUFFIX,captive.apple.com,APPLE
 HOST,amp-api-edge.apps.apple.com,APPLE
 HOST,amp-api-search-edge.apps.apple.com,APPLE
 HOST,amp-api.apps.apple.com,APPLE
 HOST,api-edge.apps.apple.com,APPLE
 HOST,communities.apple.com,APPLE
+HOST,configuration.ls.apple.com,APPLE
 HOST,discussionschinese.apple.com,APPLE
 HOST,fides-pol.apple.com,APPLE
 HOST,gspe12-cn-ssl.ls.apple.com,APPLE

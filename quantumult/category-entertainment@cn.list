@@ -66,8 +66,10 @@ HOST,inappcheck.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,init.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,iosapps.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,misc-assets.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
+HOST,musicstatus.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,mvod.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,myapp.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
+HOST,mzstorekit.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,np-edge.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,osxapps.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN
 HOST,pd-nk.itunes.apple.com,CATEGORY-ENTERTAINMENT@CN

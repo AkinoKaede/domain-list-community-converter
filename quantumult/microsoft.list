@@ -319,9 +319,11 @@ HOST-SUFFIX,vscodeedu.com,MICROSOFT
 HOST-SUFFIX,xamarin.com,MICROSOFT
 HOST,az764295.vo.msecnd.net,MICROSOFT
 HOST,bingsettingssearch.trafficmanager.net,MICROSOFT
+HOST,builds.dotnet.microsoft.com,MICROSOFT
 HOST,dc.services.visualstudio.com,MICROSOFT
 HOST,default.exp-tas.com,MICROSOFT
 HOST,developer.microsoft.com,MICROSOFT
+HOST,dotnetcli.trafficmanager.net,MICROSOFT
 HOST,download.visualstudio.microsoft.com,MICROSOFT
 HOST,dtlgalleryint.cloudapp.net,MICROSOFT
 HOST,packages.microsoft.com,MICROSOFT
@@ -330,9 +332,11 @@ HOST,psg-int-centralus.cloudapp.net,MICROSOFT
 HOST,psg-int-eastus.cloudapp.net,MICROSOFT
 HOST,rink.hockeyapp.net,MICROSOFT
 HOST,rt.services.visualstudio.com,MICROSOFT
+HOST,sundry-star-net-geo.trafficmanager.net,MICROSOFT
 HOST,vscode-sync-insiders.trafficmanager.net,MICROSOFT
 HOST,vscode-sync.trafficmanager.net,MICROSOFT
 HOST,vscode.blob.core.windows.net,MICROSOFT
+HOST,vscode.download.prss.microsoft.com,MICROSOFT
 HOST,vscode.search.windows.net,MICROSOFT
 HOST,vsmarketplacebadge.apphb.com,MICROSOFT
 HOST-SUFFIX,msocsp.com,MICROSOFT
@@ -758,6 +762,5 @@ HOST,surface.download.prss.microsoft.com,MICROSOFT
 HOST,surface.downloads.prss.microsoft.com,MICROSOFT
 HOST,vlportal.download.prss.microsoft.com,MICROSOFT
 HOST,volic.download.prss.microsoft.com,MICROSOFT
-HOST,vscode.download.prss.microsoft.com,MICROSOFT
 HOST,vz.download.prss.microsoft.com,MICROSOFT
 HOST,windbg.download.prss.microsoft.com,MICROSOFT

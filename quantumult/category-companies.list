@@ -2657,8 +2657,10 @@ HOST,inappcheck.itunes.apple.com,CATEGORY-COMPANIES
 HOST,init.itunes.apple.com,CATEGORY-COMPANIES
 HOST,iosapps.itunes.apple.com,CATEGORY-COMPANIES
 HOST,misc-assets.itunes.apple.com,CATEGORY-COMPANIES
+HOST,musicstatus.itunes.apple.com,CATEGORY-COMPANIES
 HOST,mvod.itunes.apple.com,CATEGORY-COMPANIES
 HOST,myapp.itunes.apple.com,CATEGORY-COMPANIES
+HOST,mzstorekit.itunes.apple.com,CATEGORY-COMPANIES
 HOST,np-edge.itunes.apple.com,CATEGORY-COMPANIES
 HOST,osxapps.itunes.apple.com,CATEGORY-COMPANIES
 HOST,pd-nk.itunes.apple.com,CATEGORY-COMPANIES
@@ -3369,11 +3371,13 @@ HOST,apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,configuration-lb.ls-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST,push-apple.com.akadns.net,CATEGORY-COMPANIES
 HOST-SUFFIX,courier-push-apple.com.akadns.net,CATEGORY-COMPANIES
+HOST-SUFFIX,captive.apple.com,CATEGORY-COMPANIES
 HOST,amp-api-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,amp-api-search-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,amp-api.apps.apple.com,CATEGORY-COMPANIES
 HOST,api-edge.apps.apple.com,CATEGORY-COMPANIES
 HOST,communities.apple.com,CATEGORY-COMPANIES
+HOST,configuration.ls.apple.com,CATEGORY-COMPANIES
 HOST,discussionschinese.apple.com,CATEGORY-COMPANIES
 HOST,fides-pol.apple.com,CATEGORY-COMPANIES
 HOST,gspe12-cn-ssl.ls.apple.com,CATEGORY-COMPANIES
@@ -7086,9 +7090,11 @@ HOST-SUFFIX,vscodeedu.com,CATEGORY-COMPANIES
 HOST-SUFFIX,xamarin.com,CATEGORY-COMPANIES
 HOST,az764295.vo.msecnd.net,CATEGORY-COMPANIES
 HOST,bingsettingssearch.trafficmanager.net,CATEGORY-COMPANIES
+HOST,builds.dotnet.microsoft.com,CATEGORY-COMPANIES
 HOST,dc.services.visualstudio.com,CATEGORY-COMPANIES
 HOST,default.exp-tas.com,CATEGORY-COMPANIES
 HOST,developer.microsoft.com,CATEGORY-COMPANIES
+HOST,dotnetcli.trafficmanager.net,CATEGORY-COMPANIES
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES
 HOST,dtlgalleryint.cloudapp.net,CATEGORY-COMPANIES
 HOST,packages.microsoft.com,CATEGORY-COMPANIES
@@ -7097,9 +7103,11 @@ HOST,psg-int-centralus.cloudapp.net,CATEGORY-COMPANIES
 HOST,psg-int-eastus.cloudapp.net,CATEGORY-COMPANIES
 HOST,rink.hockeyapp.net,CATEGORY-COMPANIES
 HOST,rt.services.visualstudio.com,CATEGORY-COMPANIES
+HOST,sundry-star-net-geo.trafficmanager.net,CATEGORY-COMPANIES
 HOST,vscode-sync-insiders.trafficmanager.net,CATEGORY-COMPANIES
 HOST,vscode-sync.trafficmanager.net,CATEGORY-COMPANIES
 HOST,vscode.blob.core.windows.net,CATEGORY-COMPANIES
+HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,vscode.search.windows.net,CATEGORY-COMPANIES
 HOST,vsmarketplacebadge.apphb.com,CATEGORY-COMPANIES
 HOST-SUFFIX,msocsp.com,CATEGORY-COMPANIES
@@ -7525,7 +7533,6 @@ HOST,surface.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,surface.downloads.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,vlportal.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,volic.download.prss.microsoft.com,CATEGORY-COMPANIES
-HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,vz.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST,windbg.download.prss.microsoft.com,CATEGORY-COMPANIES
 HOST-SUFFIX,mikrotik.com,CATEGORY-COMPANIES
@@ -8707,6 +8714,7 @@ HOST-SUFFIX,yangofellowship.com,CATEGORY-COMPANIES
 HOST-SUFFIX,yastat.net,CATEGORY-COMPANIES
 HOST-SUFFIX,yastatic-net.ru,CATEGORY-COMPANIES
 HOST-SUFFIX,yastatic.net,CATEGORY-COMPANIES
+HOST-SUFFIX,yb-payment.ru,CATEGORY-COMPANIES
 HOST-SUFFIX,yccdn.ru,CATEGORY-COMPANIES
 HOST-SUFFIX,ydb.tech,CATEGORY-COMPANIES
 HOST-SUFFIX,yndx.net,CATEGORY-COMPANIES

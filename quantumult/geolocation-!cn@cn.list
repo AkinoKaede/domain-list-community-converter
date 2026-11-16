@@ -254,8 +254,10 @@ HOST,inappcheck.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,init.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,iosapps.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,misc-assets.itunes.apple.com,GEOLOCATION-!CN@CN
+HOST,musicstatus.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,mvod.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,myapp.itunes.apple.com,GEOLOCATION-!CN@CN
+HOST,mzstorekit.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,np-edge.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,osxapps.itunes.apple.com,GEOLOCATION-!CN@CN
 HOST,pd-nk.itunes.apple.com,GEOLOCATION-!CN@CN
@@ -444,6 +446,7 @@ HOST-SUFFIX,microsoftreactor.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,microsoftreactor.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,reactorms.com.cn,GEOLOCATION-!CN@CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN@CN
+HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,cdn.ampproject.org,GEOLOCATION-!CN@CN
 HOST-SUFFIX,acer.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,adobedc.cn,GEOLOCATION-!CN@CN
@@ -670,11 +673,13 @@ HOST-SUFFIX,livephotos.com.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xn--czrs0t4phtr3a.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xn--fiqs8sxootzz.cn,GEOLOCATION-!CN@CN
 HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,GEOLOCATION-!CN@CN
+HOST-SUFFIX,captive.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,api-edge.apps.apple.com,GEOLOCATION-!CN@CN
 HOST,communities.apple.com,GEOLOCATION-!CN@CN
+HOST,configuration.ls.apple.com,GEOLOCATION-!CN@CN
 HOST,discussionschinese.apple.com,GEOLOCATION-!CN@CN
 HOST,fides-pol.apple.com,GEOLOCATION-!CN@CN
 HOST,gspe12-cn-ssl.ls.apple.com,GEOLOCATION-!CN@CN
@@ -1039,7 +1044,6 @@ HOST,surface.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,surface.downloads.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,vlportal.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,volic.download.prss.microsoft.com,GEOLOCATION-!CN@CN
-HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,vz.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST,windbg.download.prss.microsoft.com,GEOLOCATION-!CN@CN
 HOST-SUFFIX,geforce.cn,GEOLOCATION-!CN@CN

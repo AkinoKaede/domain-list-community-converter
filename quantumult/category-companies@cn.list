@@ -252,8 +252,10 @@ HOST,inappcheck.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,init.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,iosapps.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,misc-assets.itunes.apple.com,CATEGORY-COMPANIES@CN
+HOST,musicstatus.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,mvod.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,myapp.itunes.apple.com,CATEGORY-COMPANIES@CN
+HOST,mzstorekit.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,np-edge.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,osxapps.itunes.apple.com,CATEGORY-COMPANIES@CN
 HOST,pd-nk.itunes.apple.com,CATEGORY-COMPANIES@CN
@@ -318,11 +320,13 @@ HOST-SUFFIX,livephotos.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,xn--czrs0t4phtr3a.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,xn--fiqs8sxootzz.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,CATEGORY-COMPANIES@CN
+HOST-SUFFIX,captive.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api-edge.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api-search-edge.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,amp-api.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,api-edge.apps.apple.com,CATEGORY-COMPANIES@CN
 HOST,communities.apple.com,CATEGORY-COMPANIES@CN
+HOST,configuration.ls.apple.com,CATEGORY-COMPANIES@CN
 HOST,discussionschinese.apple.com,CATEGORY-COMPANIES@CN
 HOST,fides-pol.apple.com,CATEGORY-COMPANIES@CN
 HOST,gspe12-cn-ssl.ls.apple.com,CATEGORY-COMPANIES@CN
@@ -711,6 +715,7 @@ HOST-SUFFIX,microsoftreactor.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,microsoftreactor.com.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,reactorms.com.cn,CATEGORY-COMPANIES@CN
 HOST,download.visualstudio.microsoft.com,CATEGORY-COMPANIES@CN
+HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,microsoftnews.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,msn.cn,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,xboxlive.cn,CATEGORY-COMPANIES@CN
@@ -796,7 +801,6 @@ HOST,surface.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,surface.downloads.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,vlportal.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,volic.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
-HOST,vscode.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,vz.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST,windbg.download.prss.microsoft.com,CATEGORY-COMPANIES@CN
 HOST-SUFFIX,geforce.cn,CATEGORY-COMPANIES@CN

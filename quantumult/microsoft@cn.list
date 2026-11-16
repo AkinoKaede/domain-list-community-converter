@@ -99,6 +99,7 @@ HOST-SUFFIX,microsoftreactor.cn,MICROSOFT@CN
 HOST-SUFFIX,microsoftreactor.com.cn,MICROSOFT@CN
 HOST-SUFFIX,reactorms.com.cn,MICROSOFT@CN
 HOST,download.visualstudio.microsoft.com,MICROSOFT@CN
+HOST,vscode.download.prss.microsoft.com,MICROSOFT@CN
 HOST-SUFFIX,microsoftnews.cn,MICROSOFT@CN
 HOST-SUFFIX,msn.cn,MICROSOFT@CN
 HOST-SUFFIX,xboxlive.cn,MICROSOFT@CN
@@ -184,6 +185,5 @@ HOST,surface.download.prss.microsoft.com,MICROSOFT@CN
 HOST,surface.downloads.prss.microsoft.com,MICROSOFT@CN
 HOST,vlportal.download.prss.microsoft.com,MICROSOFT@CN
 HOST,volic.download.prss.microsoft.com,MICROSOFT@CN
-HOST,vscode.download.prss.microsoft.com,MICROSOFT@CN
 HOST,vz.download.prss.microsoft.com,MICROSOFT@CN
 HOST,windbg.download.prss.microsoft.com,MICROSOFT@CN

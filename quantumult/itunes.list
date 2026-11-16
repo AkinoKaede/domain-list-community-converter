@@ -69,8 +69,10 @@ HOST,inappcheck.itunes.apple.com,ITUNES
 HOST,init.itunes.apple.com,ITUNES
 HOST,iosapps.itunes.apple.com,ITUNES
 HOST,misc-assets.itunes.apple.com,ITUNES
+HOST,musicstatus.itunes.apple.com,ITUNES
 HOST,mvod.itunes.apple.com,ITUNES
 HOST,myapp.itunes.apple.com,ITUNES
+HOST,mzstorekit.itunes.apple.com,ITUNES
 HOST,np-edge.itunes.apple.com,ITUNES
 HOST,osxapps.itunes.apple.com,ITUNES
 HOST,pd-nk.itunes.apple.com,ITUNES

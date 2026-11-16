@@ -274,6 +274,7 @@ HOST-SUFFIX,vpngate.jp,GEOLOCATION-!CN
 HOST-SUFFIX,vpngate.net,GEOLOCATION-!CN
 HOST-SUFFIX,docs.rw,GEOLOCATION-!CN
 HOST-SUFFIX,log.rw,GEOLOCATION-!CN
+HOST-SUFFIX,remna.dev,GEOLOCATION-!CN
 HOST-SUFFIX,remna.st,GEOLOCATION-!CN
 HOST-SUFFIX,try.rw,GEOLOCATION-!CN
 HOST,matsuridayo.github.io,GEOLOCATION-!CN
@@ -1882,6 +1883,9 @@ HOST-SUFFIX,vtb.ru,GEOLOCATION-!CN
 HOST-SUFFIX,vtbbo.ru,GEOLOCATION-!CN
 HOST-SUFFIX,vtbglobalperspectives.com,GEOLOCATION-!CN
 HOST-SUFFIX,xn--90ab2c.xn--p1ai,GEOLOCATION-!CN
+HOST-SUFFIX,bank.yandex.ru,GEOLOCATION-!CN
+HOST-SUFFIX,yandex-bank.net,GEOLOCATION-!CN
+HOST-SUFFIX,yb-payment.ru,GEOLOCATION-!CN
 HOST-SUFFIX,credit-zenit.ru,GEOLOCATION-!CN
 HOST-SUFFIX,zenit-card.ru,GEOLOCATION-!CN
 HOST-SUFFIX,zenit.ru,GEOLOCATION-!CN
@@ -1916,7 +1920,6 @@ HOST-SUFFIX,aversbank.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bancaintesa.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bank-arzamas.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bank-hlynov.ru,GEOLOCATION-!CN
-HOST-SUFFIX,bank.yandex.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bankermak.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bankofkazan.ru,GEOLOCATION-!CN
 HOST-SUFFIX,bankperm.ru,GEOLOCATION-!CN
@@ -3596,6 +3599,7 @@ HOST-SUFFIX,cryptomus.com,GEOLOCATION-!CN
 HOST-SUFFIX,curve.fi,GEOLOCATION-!CN
 HOST-SUFFIX,cyberx.com,GEOLOCATION-!CN
 HOST-SUFFIX,debank.com,GEOLOCATION-!CN
+HOST-SUFFIX,debot.ai,GEOLOCATION-!CN
 HOST-SUFFIX,delets.cash,GEOLOCATION-!CN
 HOST-SUFFIX,delets.online,GEOLOCATION-!CN
 HOST-SUFFIX,dogecoin.com,GEOLOCATION-!CN
@@ -5743,11 +5747,12 @@ HOST-SUFFIX,playgwent.com,GEOLOCATION-!CN
 HOST-SUFFIX,thewitcher.com,GEOLOCATION-!CN
 HOST-SUFFIX,curseforge.com,GEOLOCATION-!CN
 HOST-SUFFIX,forgecdn.net,GEOLOCATION-!CN
-HOST-SUFFIX,cygames.jp,GEOLOCATION-!CN
 HOST-SUFFIX,cygames.co.jp,GEOLOCATION-!CN
+HOST-SUFFIX,cygames.com,GEOLOCATION-!CN
+HOST-SUFFIX,cygames.jp,GEOLOCATION-!CN
 HOST-SUFFIX,worldflipper.jp,GEOLOCATION-!CN
-HOST-SUFFIX,worldflipper.akamaized.net,GEOLOCATION-!CN
 HOST-SUFFIX,umamusume.akamaized.net,GEOLOCATION-!CN
+HOST-SUFFIX,worldflipper.akamaized.net,GEOLOCATION-!CN
 HOST-SUFFIX,dawngate.com,GEOLOCATION-!CN
 HOST-SUFFIX,eastore.com,GEOLOCATION-!CN
 HOST-SUFFIX,lordofultima.com,GEOLOCATION-!CN
@@ -7137,8 +7142,10 @@ HOST,inappcheck.itunes.apple.com,GEOLOCATION-!CN
 HOST,init.itunes.apple.com,GEOLOCATION-!CN
 HOST,iosapps.itunes.apple.com,GEOLOCATION-!CN
 HOST,misc-assets.itunes.apple.com,GEOLOCATION-!CN
+HOST,musicstatus.itunes.apple.com,GEOLOCATION-!CN
 HOST,mvod.itunes.apple.com,GEOLOCATION-!CN
 HOST,myapp.itunes.apple.com,GEOLOCATION-!CN
+HOST,mzstorekit.itunes.apple.com,GEOLOCATION-!CN
 HOST,np-edge.itunes.apple.com,GEOLOCATION-!CN
 HOST,osxapps.itunes.apple.com,GEOLOCATION-!CN
 HOST,pd-nk.itunes.apple.com,GEOLOCATION-!CN
@@ -17961,9 +17968,11 @@ HOST-SUFFIX,vscodeedu.com,GEOLOCATION-!CN
 HOST-SUFFIX,xamarin.com,GEOLOCATION-!CN
 HOST,az764295.vo.msecnd.net,GEOLOCATION-!CN
 HOST,bingsettingssearch.trafficmanager.net,GEOLOCATION-!CN
+HOST,builds.dotnet.microsoft.com,GEOLOCATION-!CN
 HOST,dc.services.visualstudio.com,GEOLOCATION-!CN
 HOST,default.exp-tas.com,GEOLOCATION-!CN
 HOST,developer.microsoft.com,GEOLOCATION-!CN
+HOST,dotnetcli.trafficmanager.net,GEOLOCATION-!CN
 HOST,download.visualstudio.microsoft.com,GEOLOCATION-!CN
 HOST,dtlgalleryint.cloudapp.net,GEOLOCATION-!CN
 HOST,packages.microsoft.com,GEOLOCATION-!CN
@@ -17972,9 +17981,11 @@ HOST,psg-int-centralus.cloudapp.net,GEOLOCATION-!CN
 HOST,psg-int-eastus.cloudapp.net,GEOLOCATION-!CN
 HOST,rink.hockeyapp.net,GEOLOCATION-!CN
 HOST,rt.services.visualstudio.com,GEOLOCATION-!CN
+HOST,sundry-star-net-geo.trafficmanager.net,GEOLOCATION-!CN
 HOST,vscode-sync-insiders.trafficmanager.net,GEOLOCATION-!CN
 HOST,vscode-sync.trafficmanager.net,GEOLOCATION-!CN
 HOST,vscode.blob.core.windows.net,GEOLOCATION-!CN
+HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,vscode.search.windows.net,GEOLOCATION-!CN
 HOST,vsmarketplacebadge.apphb.com,GEOLOCATION-!CN
 HOST-SUFFIX,mongodb.com,GEOLOCATION-!CN
@@ -21039,11 +21050,13 @@ HOST,apple.com.akadns.net,GEOLOCATION-!CN
 HOST,configuration-lb.ls-apple.com.akadns.net,GEOLOCATION-!CN
 HOST,push-apple.com.akadns.net,GEOLOCATION-!CN
 HOST-SUFFIX,courier-push-apple.com.akadns.net,GEOLOCATION-!CN
+HOST-SUFFIX,captive.apple.com,GEOLOCATION-!CN
 HOST,amp-api-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api-search-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,amp-api.apps.apple.com,GEOLOCATION-!CN
 HOST,api-edge.apps.apple.com,GEOLOCATION-!CN
 HOST,communities.apple.com,GEOLOCATION-!CN
+HOST,configuration.ls.apple.com,GEOLOCATION-!CN
 HOST,discussionschinese.apple.com,GEOLOCATION-!CN
 HOST,fides-pol.apple.com,GEOLOCATION-!CN
 HOST,gspe12-cn-ssl.ls.apple.com,GEOLOCATION-!CN
@@ -24157,7 +24170,6 @@ HOST,surface.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,surface.downloads.prss.microsoft.com,GEOLOCATION-!CN
 HOST,vlportal.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,volic.download.prss.microsoft.com,GEOLOCATION-!CN
-HOST,vscode.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,vz.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST,windbg.download.prss.microsoft.com,GEOLOCATION-!CN
 HOST-SUFFIX,mikrotik.com,GEOLOCATION-!CN
@@ -25212,6 +25224,7 @@ HOST-SUFFIX,yangofellowship.com,GEOLOCATION-!CN
 HOST-SUFFIX,yastat.net,GEOLOCATION-!CN
 HOST-SUFFIX,yastatic-net.ru,GEOLOCATION-!CN
 HOST-SUFFIX,yastatic.net,GEOLOCATION-!CN
+HOST-SUFFIX,yb-payment.ru,GEOLOCATION-!CN
 HOST-SUFFIX,yccdn.ru,GEOLOCATION-!CN
 HOST-SUFFIX,ydb.tech,GEOLOCATION-!CN
 HOST-SUFFIX,yndx.net,GEOLOCATION-!CN

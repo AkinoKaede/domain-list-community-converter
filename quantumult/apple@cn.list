@@ -66,8 +66,10 @@ HOST,inappcheck.itunes.apple.com,APPLE@CN
 HOST,init.itunes.apple.com,APPLE@CN
 HOST,iosapps.itunes.apple.com,APPLE@CN
 HOST,misc-assets.itunes.apple.com,APPLE@CN
+HOST,musicstatus.itunes.apple.com,APPLE@CN
 HOST,mvod.itunes.apple.com,APPLE@CN
 HOST,myapp.itunes.apple.com,APPLE@CN
+HOST,mzstorekit.itunes.apple.com,APPLE@CN
 HOST,np-edge.itunes.apple.com,APPLE@CN
 HOST,osxapps.itunes.apple.com,APPLE@CN
 HOST,pd-nk.itunes.apple.com,APPLE@CN
@@ -132,11 +134,13 @@ HOST-SUFFIX,livephotos.com.cn,APPLE@CN
 HOST-SUFFIX,xn--czrs0t4phtr3a.cn,APPLE@CN
 HOST-SUFFIX,xn--fiqs8sxootzz.cn,APPLE@CN
 HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,APPLE@CN
+HOST-SUFFIX,captive.apple.com,APPLE@CN
 HOST,amp-api-edge.apps.apple.com,APPLE@CN
 HOST,amp-api-search-edge.apps.apple.com,APPLE@CN
 HOST,amp-api.apps.apple.com,APPLE@CN
 HOST,api-edge.apps.apple.com,APPLE@CN
 HOST,communities.apple.com,APPLE@CN
+HOST,configuration.ls.apple.com,APPLE@CN
 HOST,discussionschinese.apple.com,APPLE@CN
 HOST,fides-pol.apple.com,APPLE@CN
 HOST,gspe12-cn-ssl.ls.apple.com,APPLE@CN
