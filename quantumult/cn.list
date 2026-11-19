@@ -426,6 +426,8 @@ HOST-SUFFIX,biligame.com,CN
 HOST-SUFFIX,biligame.net,CN
 HOST-SUFFIX,17173.com,CN
 HOST-SUFFIX,17173cdn.com,CN
+HOST-SUFFIX,1y.com,CN
+HOST-SUFFIX,1ycdn.com,CN
 HOST-SUFFIX,changyou.com,CN
 HOST-SUFFIX,cy.com,CN
 HOST-SUFFIX,playcool.com,CN
@@ -2144,9 +2146,6 @@ HOST-SUFFIX,keruyun.com,CN
 HOST-SUFFIX,lehuipay.com,CN
 HOST-SUFFIX,lianlian.com,CN
 HOST-SUFFIX,lianlianpay.com,CN
-HOST-SUFFIX,lu.com,CN
-HOST-SUFFIX,lufax.com,CN
-HOST-SUFFIX,lufaxcdn.com,CN
 HOST-SUFFIX,pospal.cn,CN
 HOST-SUFFIX,qudian.com,CN
 HOST-SUFFIX,rong360.com,CN
@@ -2156,9 +2155,15 @@ HOST-SUFFIX,shouqianba.com,CN
 HOST-SUFFIX,wosaimg.com,CN
 HOST-SUFFIX,yeepay.com,CN
 HOST-SUFFIX,ysepay.com,CN
+HOST-SUFFIX,baishan.com,CN
+HOST-SUFFIX,baishancdnx.cn,CN
+HOST-SUFFIX,baishancloud.com,CN
 HOST-SUFFIX,bsclink.cn,CN
 HOST-SUFFIX,qingcdn.com,CN
+HOST-SUFFIX,trpcdn.com,CN
 HOST-SUFFIX,trpcdn.net,CN
+HOST-SUFFIX,yundun.com,CN
+HOST-SUFFIX,saxyit.com,CN
 HOST-SUFFIX,bootcdn.cn,CN
 HOST-SUFFIX,bootcdn.net,CN
 HOST-SUFFIX,bootcss.com,CN
@@ -2481,9 +2486,11 @@ HOST-SUFFIX,58dns.org,CN
 HOST-SUFFIX,58lovepet.com,CN
 HOST-SUFFIX,58uxd.com,CN
 HOST-SUFFIX,58v5.cn,CN
+HOST-SUFFIX,58wos.com.cn,CN
 HOST-SUFFIX,58xinghuo.cn,CN
 HOST-SUFFIX,58xinghuo.com,CN
 HOST-SUFFIX,58xueche.com,CN
+HOST-SUFFIX,ajkimg.com,CN
 HOST-SUFFIX,anjuke.com,CN
 HOST-SUFFIX,anjukestatic.com,CN
 HOST-SUFFIX,chinahr.com,CN
@@ -2504,6 +2511,9 @@ HOST-SUFFIX,zhuanspirit.cn,CN
 HOST-SUFFIX,zhuanspirit.com,CN
 HOST-SUFFIX,zhuanstatic.com,CN
 HOST-SUFFIX,zhuanzhuan.com,CN
+HOST-SUFFIX,zhaoliangji.com,CN
+HOST-SUFFIX,zhaoliangjipc.com,CN
+HOST-SUFFIX,qpmcn.com,CN
 HOST-SUFFIX,kaoshibao.com,CN
 HOST-SUFFIX,zaixiankaoshi.com,CN
 HOST-SUFFIX,dangdang.com,CN
@@ -4187,6 +4197,9 @@ HOST-SUFFIX,lxzjjt.com,CN
 HOST-SUFFIX,thinkcloudlab.com,CN
 HOST-SUFFIX,thinkpad.com,CN
 HOST-SUFFIX,zhiliaowenda.com.cn,CN
+HOST-SUFFIX,lefile.cn,CN
+HOST-SUFFIX,lenovofuturecenter.com,CN
+HOST-SUFFIX,lenovofoundation.cn,CN
 HOST-SUFFIX,lecoo.com,CN
 HOST-SUFFIX,blurdev.com,CN
 HOST-SUFFIX,chainedbox.com,CN
@@ -5636,7 +5649,6 @@ HOST-SUFFIX,yslyhr.com,CN
 HOST-SUFFIX,ysten.com,CN
 HOST-SUFFIX,yuanzhiyijiantong.com,CN
 HOST-SUFFIX,yunba.io,CN
-HOST-SUFFIX,yundun.com,CN
 HOST-SUFFIX,yunkanpan.com,CN
 HOST-SUFFIX,yunqishi.net,CN
 HOST-SUFFIX,yunshipei.com,CN

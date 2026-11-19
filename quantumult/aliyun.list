@@ -71,6 +71,7 @@ HOST-SUFFIX,oss-cn-shanghai.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-cn-shenzhen.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-cn-wulanchabu.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com,ALIYUN
+HOST-SUFFIX,oss-enet.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-eu-central-1.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-eu-west-1.aliyuncs.com,ALIYUN
 HOST-SUFFIX,oss-me-east-1.aliyuncs.com,ALIYUN

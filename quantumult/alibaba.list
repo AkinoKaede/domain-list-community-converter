@@ -92,6 +92,7 @@ HOST-SUFFIX,oss-cn-shanghai.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-cn-shenzhen.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-cn-wulanchabu.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com,ALIBABA
+HOST-SUFFIX,oss-enet.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-eu-central-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-eu-west-1.aliyuncs.com,ALIBABA
 HOST-SUFFIX,oss-me-east-1.aliyuncs.com,ALIBABA
