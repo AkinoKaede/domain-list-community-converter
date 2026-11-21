@@ -1,3 +1,4 @@
+HOST-SUFFIX,hkt,PCCW
 HOST-SUFFIX,1010.com.hk,PCCW
 HOST-SUFFIX,esmarthealth.com,PCCW
 HOST-SUFFIX,hkcsl.com,PCCW
@@ -22,6 +23,7 @@ HOST-SUFFIX,viu.com,PCCW
 HOST,dfp6rglgjqszk.cloudfront.net,PCCW
 HOST,d1k2us671qcoau.cloudfront.net,PCCW
 HOST,d2anahhhmp1ffz.cloudfront.net,PCCW
+HOST-SUFFIX,pccw,PCCW
 HOST-SUFFIX,pccw.com,PCCW
 HOST-SUFFIX,pccwglobal.com,PCCW
 HOST-SUFFIX,pccwsolutions.com,PCCW
