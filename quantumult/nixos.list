@@ -7,6 +7,7 @@ HOST-SUFFIX,nixos.org,NIXOS
 HOST-SUFFIX,nixpkgs.org,NIXOS
 HOST,nix-community.github.io,NIXOS
 HOST-SUFFIX,builtwithnix.org,NIXOS
+HOST-SUFFIX,cachix.org,NIXOS
 HOST-SUFFIX,mynixos.com,NIXOS
 HOST-SUFFIX,nix-community.org,NIXOS
 HOST-SUFFIX,nixos.wiki,NIXOS

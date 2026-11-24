@@ -47,3 +47,4 @@ HOST,antigravity.googleapis.com,GOOGLE-DEEPMIND
 HOST-SUFFIX,antigravity.google,GOOGLE-DEEPMIND
 HOST-SUFFIX,antigravity-unleash.goog,GOOGLE-DEEPMIND
 HOST-SUFFIX,stitch.withgoogle.com,GOOGLE-DEEPMIND
+HOST-SUFFIX,gemma.ai,GOOGLE-DEEPMIND

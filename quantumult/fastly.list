@@ -1,7 +1,9 @@
 HOST-SUFFIX,fastly-edge.com,FASTLY
+HOST-SUFFIX,fastly-insights.com,FASTLY
 HOST-SUFFIX,fastly-terrarium.com,FASTLY
 HOST-SUFFIX,fastly.com,FASTLY
 HOST-SUFFIX,fastly.io,FASTLY
 HOST-SUFFIX,fastly.net,FASTLY
+HOST-SUFFIX,fastlydns.net,FASTLY
 HOST-SUFFIX,fastlylabs.com,FASTLY
 HOST-SUFFIX,fastlylb.net,FASTLY
