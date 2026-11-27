@@ -703,6 +703,7 @@ HOST-SUFFIX,winhec.net,MICROSOFT
 HOST-SUFFIX,yammer.com,MICROSOFT
 HOST-SUFFIX,skype-edf.akadns.net,MICROSOFT
 HOST-SUFFIX,skypedata.akadns.net,MICROSOFT
+HOST,aurora-customization-usw2.lithium.com,MICROSOFT
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,MICROSOFT
 HOST,img-s-msn-com.akamaized.net,MICROSOFT
 HOST,mwf-service.akamaized.net,MICROSOFT

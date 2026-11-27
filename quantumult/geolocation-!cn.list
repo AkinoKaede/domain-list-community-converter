@@ -23992,6 +23992,7 @@ HOST-SUFFIX,winhec.net,GEOLOCATION-!CN
 HOST-SUFFIX,yammer.com,GEOLOCATION-!CN
 HOST-SUFFIX,skype-edf.akadns.net,GEOLOCATION-!CN
 HOST-SUFFIX,skypedata.akadns.net,GEOLOCATION-!CN
+HOST,aurora-customization-usw2.lithium.com,GEOLOCATION-!CN
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,GEOLOCATION-!CN
 HOST,img-s-msn-com.akamaized.net,GEOLOCATION-!CN
 HOST,mwf-service.akamaized.net,GEOLOCATION-!CN
